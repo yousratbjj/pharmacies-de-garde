@@ -1,0 +1,68 @@
+# Met à jour la liste des pharmacies de garde chaque matin
+name: Scrape pharmacies de garde
+
+on:
+  schedule:
+    # 09:00 et 13:00 heure du Maroc (UTC+1)
+    - cron: '0 8,12 * * *'
+  workflow_dispatch: # permet aussi un lancement manuel depuis l'onglet Actions
+
+permissions:
+  contents: write
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Scraper infopoint.ma
+        run: |
+          python3 - <<'EOF'
+          import re, json, urllib.request
+          from datetime import date
+          req = urllib.request.Request(
+              "https://infopoint.ma/pharmacies-de-garde",
+              headers={"User-Agent": "Mozilla/5.0"},
+          )
+          html = urllib.request.urlopen(req, timeout=30).read().decode("utf-8", "replace")
+          cards = re.findall(r'<div class="pharm-card"([^>]*)>', html)
+          out = []
+          for c in cards:
+              def g(name):
+                  m = re.search(r'data-%s="([^"]*)"' % name, c)
+                  return m.group(1).strip() if m else ""
+              try:
+                  lat, lng = float(g("latitude")), float(g("longitude"))
+              except ValueError:
+                  continue
+              out.append({
+                  "name": g("name"), "name_ar": g("name-ar"),
+                  "address": g("address"), "address_ar": g("address-ar"),
+                  "phone": g("phone"), "lat": lat, "lng": lng,
+                  "slug": g("slug"),
+              })
+          if not out:
+              print("SCRAPE_EMPTY: aucune pharmacie trouvée")
+              raise SystemExit(2)
+          payload = {
+              "date": date.today().isoformat(),
+              "source": "https://infopoint.ma/pharmacies-de-garde",
+              "pharmacies": out,
+          }
+          with open("pharmacies.json", "w", encoding="utf-8") as f:
+              json.dump(payload, f, ensure_ascii=False, indent=1)
+          print(len(out), "pharmacies écrites dans pharmacies.json")
+          EOF
+
+      - name: Commit si changement
+        run: |
+          git config user.name "pharmacy-bot"
+          git config user.email "pharmacy-bot@users.noreply.github.com"
+          git add pharmacies.json
+          git diff --cached --quiet || git commit -m "Mise à jour pharmacies du $(date +%F)"
+          git push
