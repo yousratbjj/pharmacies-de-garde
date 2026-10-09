@@ -1,0 +1,86 @@
+{
+ "date": "2026-10-09",
+ "source": "https://infopoint.ma/pharmacies-de-garde",
+ "pharmacies": [
+  {
+   "name": "TINGIS",
+   "name_ar": "صيدلية تنجيس",
+   "address": "1, Avenue Imam Mouslim, Dradeb Ain Hayyani, 90000 TANGER - Maroc",
+   "address_ar": "شارع امام مسلم درادب قرب البنك الشعبي رقم 87 - طنجة",
+   "phone": "+212 05 39 93 36 35",
+   "lat": 35.7855257,
+   "lng": -5.8255992,
+   "slug": "tingis"
+  },
+  {
+   "name": "LA PLAGE",
+   "name_ar": "صيدلية الشاطئ",
+   "address": "7, Avenue Youssef Ibn Tachfine, 90000 TANGER - Maroc",
+   "address_ar": "شارع يوسف ابن تاشفين قرب المركز التجارى ابن بطوطة رقم 7 - طنجة",
+   "phone": "+212 05 39 94 09 74",
+   "lat": 35.7787595,
+   "lng": -5.8025388,
+   "slug": "la-plage"
+  },
+  {
+   "name": "AL HAMBRA",
+   "name_ar": "صيدلية الحمراء",
+   "address": "30, Rue Essaoudia, Hay Haddad, 90000 TANGER - Maroc",
+   "address_ar": "شارع عائشة المسافر حومة الحداد - طنجة",
+   "phone": "+212 05 39 95 41 66",
+   "lat": 35.739013,
+   "lng": -5.8056214,
+   "slug": "al-hambra"
+  },
+  {
+   "name": "HAY OUARDA",
+   "name_ar": "صيدلية حي الوردة",
+   "address": "3, Avenue Moulay Ali Chéri,  lot 48,  Béni Makada, 90000 TANGER - Maroc",
+   "address_ar": "شارع مولاي علي الشريف , إقامة الوحدة , بن ديبان",
+   "phone": "+212 05 39 31 67 24",
+   "lat": 35.7536181,
+   "lng": -5.8185401,
+   "slug": "hay-ouarda"
+  },
+  {
+   "name": "FARES",
+   "name_ar": "صيدلية فارس",
+   "address": "34 Bis, Avenue Abdesslam Ben Bouhout, 90000 TANGER - Maroc",
+   "address_ar": "تجزئة الأمل الطريق الرابطة بين دار التونسي وطريق تطوان - طنجة",
+   "phone": "+212 05 39 95 64 69",
+   "lat": 35.7553295,
+   "lng": -5.7950379,
+   "slug": "fares"
+  },
+  {
+   "name": "PERLE DE MEDITERRANEE",
+   "name_ar": "لؤلؤة المتوسط",
+   "address": "Groupe Adoha avant kantarat Ouad Chatte, Tanja Balia, 90000 TANGER - Maroc",
+   "address_ar": "طنجة البالية مجموعة الضحى قبل قنطرة واد الشاط 50 متر من الشارع الرئيسي - طنجة",
+   "phone": "+212 05 39 30 27 32",
+   "lat": 35.7672896,
+   "lng": -5.7611189,
+   "slug": "perle-de-mediterranee"
+  },
+  {
+   "name": "Bni Touzine",
+   "name_ar": "صيدلية ابن توزين",
+   "address": "Route de Rabat, 90090 TANGER - Maroc",
+   "address_ar": "طريق الرباط وراء متجر روكا أو عن طريق سيدي ادريس من مسجد الحرارين - طنجة",
+   "phone": "+212 05 39 30 70 66",
+   "lat": 35.736062,
+   "lng": -5.8436433,
+   "slug": "bni-touzine"
+  },
+  {
+   "name": "Hay Al Inara",
+   "name_ar": "صيدلية حي الإنارة",
+   "address": "Avenue Rouda, Arondissement 11, Mesnana, 90040 TANGER - Maroc",
+   "address_ar": "شارع الروضة مدخل الدائرة 11 مسنانة فوق صيدلية الفجر - طنجة",
+   "phone": "+212 05 39 38 34 19",
+   "lat": 35.7513536,
+   "lng": -5.8619624,
+   "slug": "hay-al-inara"
+  }
+ ]
+}
