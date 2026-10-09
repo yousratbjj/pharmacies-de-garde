@@ -1,11 +1,10 @@
-# Met à jour la liste des pharmacies de garde chaque matin
+# Secours manuel : la mise à jour quotidienne est poussée par un robot externe
+# (les serveurs GitHub sont bloqués par infopoint.ma — HTTP 403).
+# Ce workflow ne sert qu'en déclenchement manuel depuis l'onglet Actions.
 name: Scrape pharmacies de garde
 
 on:
-  schedule:
-    # 09:00 et 13:00 heure du Maroc (UTC+1)
-    - cron: '0 8,12 * * *'
-  workflow_dispatch: # permet aussi un lancement manuel depuis l'onglet Actions
+  workflow_dispatch: # lancement manuel uniquement
 
 permissions:
   contents: write
