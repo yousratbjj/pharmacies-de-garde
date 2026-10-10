@@ -1,0 +1,44 @@
+{
+ "city": "sale",
+ "label": "Salé",
+ "date": "2026-10-10",
+ "source": "https://sahha.ma/pharmacie-de-garde/sale",
+ "pharmacies": [
+  {
+   "name": "Pharmacie Bayt Assiha",
+   "address": "Pharmacie Bayt Assiha",
+   "phone": "+212666089268",
+   "lat": 34.0219971,
+   "lng": -6.7460704,
+   "shift": "Jour"
+  },
+  {
+   "name": "Pharmacie Bentaleb Hajar",
+   "address": "Pharmacie Bentaleb Hajar",
+   "phone": "+212537861111",
+   "lat": 34.0552472,
+   "lng": -6.8038282,
+   "shift": "24/24"
+  },
+  {
+   "name": "Pharmacie du plateau",
+   "address": "Pharmacie du plateau",
+   "phone": "+212537781317",
+   "lat": 34.044899,
+   "lng": -6.8140202,
+   "shift": "24/24"
+  },
+  {
+   "name": "Pharmacie Kamar",
+   "address": "Pharmacie Kamar",
+   "phone": "+212537822010",
+   "lat": 34.092146,
+   "lng": -6.7724339,
+   "shift": "24/24"
+  }
+ ],
+ "center": [
+  34.0536,
+  -6.7841
+ ]
+}

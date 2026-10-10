@@ -1,0 +1,20 @@
+{
+ "city": "zagora",
+ "label": "Zagora",
+ "date": "2026-10-10",
+ "source": "https://sahha.ma/pharmacie-de-garde/zagora",
+ "pharmacies": [
+  {
+   "name": "Pharmacie Salim",
+   "address": "Pharmacie Salim",
+   "phone": "+212524846562",
+   "lat": 30.349931,
+   "lng": -5.839036,
+   "shift": "Jour"
+  }
+ ],
+ "center": [
+  30.3499,
+  -5.839
+ ]
+}

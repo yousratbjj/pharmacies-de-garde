@@ -1,0 +1,20 @@
+{
+ "city": "oued-zem",
+ "label": "Oued Zem",
+ "date": "2026-10-10",
+ "source": "https://sahha.ma/pharmacie-de-garde/oued-zem",
+ "pharmacies": [
+  {
+   "name": "Pharmacie Ennour",
+   "address": "41 Bd Al Massira hay Al Wahda",
+   "phone": "+212523411149",
+   "lat": 32.85599,
+   "lng": -6.57919,
+   "shift": "24/24"
+  }
+ ],
+ "center": [
+  32.856,
+  -6.5792
+ ]
+}

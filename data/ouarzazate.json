@@ -1,0 +1,60 @@
+{
+ "city": "ouarzazate",
+ "label": "Ouarzazate",
+ "date": "2026-10-10",
+ "source": "https://sahha.ma/pharmacie-de-garde/ouarzazate",
+ "pharmacies": [
+  {
+   "name": "Pharmacie Al Fadilia",
+   "address": "Pharmacie Al Fadilia",
+   "phone": "+212524886886",
+   "lat": 30.9270647,
+   "lng": -6.8896367,
+   "shift": "Jour"
+  },
+  {
+   "name": "Pharmacie la Résistance",
+   "address": "Pharmacie la Résistance",
+   "phone": "+212524884901",
+   "lat": 30.9238,
+   "lng": -6.9231833,
+   "shift": "Jour"
+  },
+  {
+   "name": "Pharmacie Noumidia",
+   "address": "Pharmacie Noumidia",
+   "phone": "+212524888715",
+   "lat": 30.92815,
+   "lng": -6.9254833,
+   "shift": "Jour"
+  },
+  {
+   "name": "PHARMACIE CENTRALE",
+   "address": "33 bd Mohammed V",
+   "phone": "+212524882601",
+   "lat": 30.9202158,
+   "lng": -6.9163217,
+   "shift": "Jour"
+  },
+  {
+   "name": "PHARMACIE L 039 AEROPORT",
+   "address": "52 lot El Wahda Erac",
+   "phone": "+212524886614",
+   "lat": 30.93045,
+   "lng": -6.9084667,
+   "shift": "Jour"
+  },
+  {
+   "name": "PHARMACIE TASSOUMAATE",
+   "address": "10, bd Mohammed V",
+   "phone": "+212524887499",
+   "lat": 30.92381,
+   "lng": -6.9298427,
+   "shift": "Jour"
+  }
+ ],
+ "center": [
+  30.9256,
+  -6.9155
+ ]
+}

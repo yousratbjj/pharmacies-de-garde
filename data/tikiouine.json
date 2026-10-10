@@ -1,0 +1,60 @@
+{
+ "city": "tikiouine",
+ "label": "Tikiouine",
+ "date": "2026-10-10",
+ "source": "https://sahha.ma/pharmacie-de-garde/tikiouine",
+ "pharmacies": [
+  {
+   "name": "Pharmacie Assaïs",
+   "address": "Pharmacie Assaïs, places assaïs",
+   "phone": "+212528284495",
+   "lat": 30.3730696,
+   "lng": -9.5031309,
+   "shift": ""
+  },
+  {
+   "name": "Pharmacie de la Santé",
+   "address": "Pharmacie de la Santé, quartier ait lghiousse, près des hopitaux, hay oujaa",
+   "phone": "+212528284532",
+   "lat": 30.3773002,
+   "lng": -9.5017537,
+   "shift": ""
+  },
+  {
+   "name": "Pharmacie des Quartiers",
+   "address": "Pharmacie des Quartiers, hay alaarab , bloc n°7 rue 30 n°190",
+   "phone": "+212528284951",
+   "lat": 30.3768984,
+   "lng": -9.4978509,
+   "shift": ""
+  },
+  {
+   "name": "Pharmacie Nait El Kadi",
+   "address": "Pharmacie Nait El Kadi, q. ait el kadi , rue 10, bloc 7 numéro 05",
+   "phone": "+212528263807",
+   "lat": 30.3788396,
+   "lng": -9.5046071,
+   "shift": ""
+  },
+  {
+   "name": "Pharmacie Sidi Hssain",
+   "address": "Pharmacie Sidi Hssain, quartier assaka tikiouine, souk el khmiss, derrière nouveau offpt",
+   "phone": "+212669502770",
+   "lat": 30.3822644,
+   "lng": -9.5077542,
+   "shift": ""
+  },
+  {
+   "name": "Pharmacie Tikiouine",
+   "address": "Pharmacie Tikiouine, hay ighious , bloc 3, av. 07",
+   "phone": "+212528290940",
+   "lat": 30.3752782,
+   "lng": -9.5034578,
+   "shift": ""
+  }
+ ],
+ "center": [
+  30.3773,
+  -9.5031
+ ]
+}

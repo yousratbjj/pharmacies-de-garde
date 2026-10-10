@@ -1,0 +1,20 @@
+{
+ "city": "larache",
+ "label": "Larache",
+ "date": "2026-10-10",
+ "source": "https://sahha.ma/pharmacie-de-garde/larache",
+ "pharmacies": [
+  {
+   "name": "Pharmacie Assalam",
+   "address": "54 lotiss. Assalam",
+   "phone": "+212539911579",
+   "lat": 35.1817833,
+   "lng": -6.14395,
+   "shift": "24/24"
+  }
+ ],
+ "center": [
+  35.1818,
+  -6.144
+ ]
+}

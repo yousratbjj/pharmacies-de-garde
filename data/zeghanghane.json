@@ -1,0 +1,76 @@
+{
+ "city": "zeghanghane",
+ "label": "Zeghanghane",
+ "date": "2026-10-10",
+ "source": "https://sahha.ma/pharmacie-de-garde/zeghanghane",
+ "pharmacies": [
+  {
+   "name": "Pharmacie Al Nia",
+   "address": "Pharmacie Al Nia, bd Al Wahda - Autre ville q. Imachroubane",
+   "phone": "+212536352475",
+   "lat": 35.165936,
+   "lng": -2.657074,
+   "shift": ""
+  },
+  {
+   "name": "Pharmacie Al Yasmine",
+   "address": "Pharmacie Al Yasmine, 32 rue Al Qods lotiss. Al Yasmine",
+   "phone": "+212536352020",
+   "lat": 35.1558908,
+   "lng": -3.0060951,
+   "shift": ""
+  },
+  {
+   "name": "Pharmacie Anoual",
+   "address": "Pharmacie Anoual, Av. Mohamed V",
+   "phone": "+212536352900",
+   "lat": 35.153486,
+   "lng": -3.0046104,
+   "shift": ""
+  },
+  {
+   "name": "Pharmacie El Ghoufrane",
+   "address": "Pharmacie El Ghoufrane, bd Mohamed Zerktouni",
+   "phone": "+212536351976",
+   "lat": 35.1540649,
+   "lng": -3.005339,
+   "shift": ""
+  },
+  {
+   "name": "Pharmacie Essalam",
+   "address": "Pharmacie Essalam, 313 bd Mohammed V",
+   "phone": "+212536350190",
+   "lat": 35.1530607,
+   "lng": -3.0062151,
+   "shift": ""
+  },
+  {
+   "name": "Pharmacie Le Prince",
+   "address": "Pharmacie Le Prince, bd Mohammed V Jouhara Soufla",
+   "phone": "+212536351717",
+   "lat": 35.1538154,
+   "lng": -2.9925405,
+   "shift": ""
+  },
+  {
+   "name": "Pharmacie Moussaoui",
+   "address": "Pharmacie Moussaoui, 157 rue de Tétouan",
+   "phone": "+212536353244",
+   "lat": 35.1529871,
+   "lng": -3.0027481,
+   "shift": ""
+  },
+  {
+   "name": "Pharmacie Zahrat Bibirou",
+   "address": "Pharmacie Zahrat Bibirou, 50, av. Bir Anzarane",
+   "phone": "+212536353814",
+   "lat": 35.1565534,
+   "lng": -3.0018059,
+   "shift": ""
+  }
+ ],
+ "center": [
+  35.1557,
+  -2.9596
+ ]
+}

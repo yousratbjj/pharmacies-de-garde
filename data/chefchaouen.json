@@ -1,0 +1,28 @@
+{
+ "city": "chefchaouen",
+ "label": "Chefchaouen",
+ "date": "2026-10-10",
+ "source": "https://sahha.ma/pharmacie-de-garde/chefchaouen",
+ "pharmacies": [
+  {
+   "name": "Pharmacie La Province",
+   "address": "Av La Marche Verte , Quartier Administratif",
+   "phone": "+212539883250",
+   "lat": 35.1705041,
+   "lng": -5.2731165,
+   "shift": "Jour"
+  },
+  {
+   "name": "Pharmacie Ras El Ma",
+   "address": "22 Av Melilia Q. Sidi Boujemaa",
+   "phone": "+212539883001",
+   "lat": 35.15797,
+   "lng": -5.261768,
+   "shift": "Jour"
+  }
+ ],
+ "center": [
+  35.1642,
+  -5.2674
+ ]
+}

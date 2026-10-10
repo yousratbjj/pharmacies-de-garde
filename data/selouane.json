@@ -1,0 +1,28 @@
+{
+ "city": "selouane",
+ "label": "Selouane",
+ "date": "2026-10-10",
+ "source": "https://sahha.ma/pharmacie-de-garde/selouane",
+ "pharmacies": [
+  {
+   "name": "Pharmacie Meriem et Abdelkarim",
+   "address": "Pharmacie Meriem et Abdelkarim",
+   "phone": "+212536358866",
+   "lat": 35.0801925,
+   "lng": -2.9475662,
+   "shift": "24/24"
+  },
+  {
+   "name": "Pharmacie Principale",
+   "address": "Pharmacie Principale",
+   "phone": "+212536609047",
+   "lat": 35.0718215,
+   "lng": -2.9407118,
+   "shift": "24/24"
+  }
+ ],
+ "center": [
+  35.076,
+  -2.9441
+ ]
+}

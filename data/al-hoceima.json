@@ -1,0 +1,20 @@
+{
+ "city": "al-hoceima",
+ "label": "Al Hoceïma",
+ "date": "2026-10-10",
+ "source": "https://sahha.ma/pharmacie-de-garde/al-hoceima",
+ "pharmacies": [
+  {
+   "name": "Pharmacie Al Baraka",
+   "address": "3 Lots Bades résid. Amina",
+   "phone": "+212539980115",
+   "lat": 35.24405,
+   "lng": -3.95387,
+   "shift": "24/24"
+  }
+ ],
+ "center": [
+  35.2441,
+  -3.9539
+ ]
+}

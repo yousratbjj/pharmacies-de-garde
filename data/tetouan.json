@@ -1,0 +1,28 @@
+{
+ "city": "tetouan",
+ "label": "Tétouan",
+ "date": "2026-10-10",
+ "source": "https://sahha.ma/pharmacie-de-garde/tetouan",
+ "pharmacies": [
+  {
+   "name": "Pharmacie Bab El Okla",
+   "address": "av. M'fadel Afailal ang. av. Med Ameziane Bab Okla",
+   "phone": "+212539972738",
+   "lat": 35.5706,
+   "lng": -5.3633333,
+   "shift": "Nuit"
+  },
+  {
+   "name": "Pharmacie Laamrani",
+   "address": "bd Slimane Ben Mahran rte Tanger",
+   "phone": "+212539969058",
+   "lat": 35.562134,
+   "lng": -5.54641,
+   "shift": "Nuit"
+  }
+ ],
+ "center": [
+  35.5664,
+  -5.4549
+ ]
+}

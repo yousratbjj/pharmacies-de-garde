@@ -1,0 +1,36 @@
+{
+ "city": "errachidia",
+ "label": "Errachidia",
+ "date": "2026-10-10",
+ "source": "https://sahha.ma/pharmacie-de-garde/errachidia",
+ "pharmacies": [
+  {
+   "name": "Pharmacie L 039 Habitat",
+   "address": "Rue Abdelkrim Khattabi N.h",
+   "phone": "+212535574285",
+   "lat": 31.928726,
+   "lng": -4.421084,
+   "shift": "Jour"
+  },
+  {
+   "name": "PHARMACIE L'AÉROPORT",
+   "address": "2 oulad Elhaj rte 21 Errachidia Arfoud Arfoud Errachidia Maroc  حي اولاد الحاج",
+   "phone": "+212535790949",
+   "lat": 31.9362822,
+   "lng": -4.4045728,
+   "shift": "Jour"
+  },
+  {
+   "name": "Pharmacie Targa",
+   "address": "Targa Jdida , Rue 50 N°5",
+   "phone": "+212535571416",
+   "lat": 31.9277436,
+   "lng": -4.4430137,
+   "shift": "Jour"
+  }
+ ],
+ "center": [
+  31.9309,
+  -4.4229
+ ]
+}

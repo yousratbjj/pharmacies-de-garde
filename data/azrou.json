@@ -1,0 +1,20 @@
+{
+ "city": "azrou",
+ "label": "Azrou",
+ "date": "2026-10-10",
+ "source": "https://sahha.ma/pharmacie-de-garde/azrou",
+ "pharmacies": [
+  {
+   "name": "Pharmacie Zouhair",
+   "address": "rte de Midelt Ajellab",
+   "phone": "+212535562447",
+   "lat": 33.4386667,
+   "lng": -5.2118,
+   "shift": "24/24"
+  }
+ ],
+ "center": [
+  33.4387,
+  -5.2118
+ ]
+}

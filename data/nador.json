@@ -1,0 +1,52 @@
+{
+ "city": "nador",
+ "label": "Nador",
+ "date": "2026-10-10",
+ "source": "https://sahha.ma/pharmacie-de-garde/nador",
+ "pharmacies": [
+  {
+   "name": "Pharmacie Al Hikma",
+   "address": "Pharmacie Al Hikma",
+   "phone": "+212536353338",
+   "lat": 35.154565,
+   "lng": -2.9797733,
+   "shift": "24/24"
+  },
+  {
+   "name": "Pharmacie AlMahatta",
+   "address": "Pharmacie AlMahatta",
+   "phone": "+212536604408",
+   "lat": 35.0144212,
+   "lng": -2.9971914,
+   "shift": "24/24"
+  },
+  {
+   "name": "Pharmacie Ghazza",
+   "address": "Pharmacie Ghazza",
+   "phone": "+212536607063",
+   "lat": 35.16237,
+   "lng": -2.952431,
+   "shift": "24/24"
+  },
+  {
+   "name": "Pharmacie Mariam",
+   "address": "Pharmacie Mariam",
+   "phone": "+212536351403",
+   "lat": 35.1618146,
+   "lng": -2.9621317,
+   "shift": "24/24"
+  },
+  {
+   "name": "Pharmacie Sekkat",
+   "address": "Pharmacie Sekkat",
+   "phone": "+212536380606",
+   "lat": 35.154655,
+   "lng": -2.91119,
+   "shift": "24/24"
+  }
+ ],
+ "center": [
+  35.1296,
+  -2.9605
+ ]
+}

@@ -1,0 +1,20 @@
+{
+ "city": "ait-melloul",
+ "label": "Aït Melloul",
+ "date": "2026-10-10",
+ "source": "https://sahha.ma/pharmacie-de-garde/ait-melloul",
+ "pharmacies": [
+  {
+   "name": "Pharmacie Kanissi",
+   "address": "Pharmacie Kanissi",
+   "phone": "+212528241094",
+   "lat": 30.3387947,
+   "lng": -9.5044701,
+   "shift": "Nuit"
+  }
+ ],
+ "center": [
+  30.3388,
+  -9.5045
+ ]
+}

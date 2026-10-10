@@ -1,0 +1,20 @@
+{
+ "city": "essaouira",
+ "label": "Essaouira",
+ "date": "2026-10-10",
+ "source": "https://sahha.ma/pharmacie-de-garde/essaouira",
+ "pharmacies": [
+  {
+   "name": "Pharmacie Populaire",
+   "address": "av. El Aqaba",
+   "phone": "+212524474474",
+   "lat": 31.50745,
+   "lng": -9.7610333,
+   "shift": "Nuit"
+  }
+ ],
+ "center": [
+  31.5074,
+  -9.761
+ ]
+}

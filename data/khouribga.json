@@ -1,0 +1,44 @@
+{
+ "city": "khouribga",
+ "label": "Khouribga",
+ "date": "2026-10-10",
+ "source": "https://sahha.ma/pharmacie-de-garde/khouribga",
+ "pharmacies": [
+  {
+   "name": "Pharmacie Hamroukate",
+   "address": "Pharmacie Hamroukate",
+   "phone": "+212687606232",
+   "lat": 32.90009,
+   "lng": -6.900278,
+   "shift": "Jour"
+  },
+  {
+   "name": "Pharmacie Jazi",
+   "address": "Pharmacie Jazi",
+   "phone": "+212523495708",
+   "lat": 32.879224,
+   "lng": -6.930236,
+   "shift": "Jour"
+  },
+  {
+   "name": "Pharmacie Nahda",
+   "address": "Pharmacie Nahda",
+   "phone": "+212523561537",
+   "lat": 32.8920626,
+   "lng": -6.9028028,
+   "shift": "Jour"
+  },
+  {
+   "name": "Pharmacie Rafik",
+   "address": "Pharmacie Rafik",
+   "phone": "+212523585294",
+   "lat": 32.897098,
+   "lng": -6.937799,
+   "shift": "Jour"
+  }
+ ],
+ "center": [
+  32.8921,
+  -6.9178
+ ]
+}

@@ -1,0 +1,92 @@
+{
+ "city": "safi",
+ "label": "Safi",
+ "date": "2026-10-10",
+ "source": "https://sahha.ma/pharmacie-de-garde/safi",
+ "pharmacies": [
+  {
+   "name": "Pharmacie ElHassania",
+   "address": "5 rue Kobba Sidi Ouassel",
+   "phone": "+212524650189",
+   "lat": 32.2642787,
+   "lng": -9.2444923,
+   "shift": "Jour"
+  },
+  {
+   "name": "Pharmacie Jawhar",
+   "address": "Pharmacie Jawhar",
+   "phone": "+212524666241",
+   "lat": 32.321149,
+   "lng": -9.231348,
+   "shift": "Jour"
+  },
+  {
+   "name": "Pharmacie Sandali",
+   "address": "159 rue Al Qods hay Saâda Azib Derai",
+   "phone": "+212524626326",
+   "lat": 32.2968536,
+   "lng": -9.2215286,
+   "shift": "Jour"
+  },
+  {
+   "name": "Pharmacie Sania Zine El Abidine",
+   "address": "Pharmacie Sania Zine El Abidine",
+   "phone": "+212524629955",
+   "lat": 32.2813058,
+   "lng": -9.2310075,
+   "shift": "Jour"
+  },
+  {
+   "name": "Pharmacie Alia",
+   "address": "lotissement Alia",
+   "phone": "+212525281146",
+   "lat": 32.299424,
+   "lng": -9.239533,
+   "shift": "Jour"
+  },
+  {
+   "name": "Pharmacie Al Ihssane",
+   "address": "1836 hay Mohammadi - Autre ville",
+   "phone": "+212529984596",
+   "lat": 32.27679,
+   "lng": -9.23567,
+   "shift": "Jour"
+  },
+  {
+   "name": "Pharmacie Arrazi",
+   "address": "23 bd Zerktouni imm. Anaville",
+   "phone": "+212524622379",
+   "lat": 32.2936333,
+   "lng": -9.2351833,
+   "shift": "Jour"
+  },
+  {
+   "name": "Pharmacie Ezzaouia",
+   "address": "10, rue Caïd Sidi Ouassel",
+   "phone": "+212524651801",
+   "lat": 32.26655,
+   "lng": -9.24635,
+   "shift": "Jour"
+  },
+  {
+   "name": "Pharmacie Marjane",
+   "address": "route Tlet Bougadra , Marjane Safi",
+   "phone": "+212524612398",
+   "lat": 32.29785,
+   "lng": -9.2153667,
+   "shift": "Jour"
+  },
+  {
+   "name": "Pharmacie Orchidées",
+   "address": "Quartier Ourida II , Lot. n°263/A Bloc 27",
+   "phone": "+212524621968",
+   "lat": 32.2782331,
+   "lng": -9.238633,
+   "shift": "Jour"
+  }
+ ],
+ "center": [
+  32.2876,
+  -9.2339
+ ]
+}

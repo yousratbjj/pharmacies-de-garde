@@ -1,0 +1,20 @@
+{
+ "city": "inezgane",
+ "label": "Inezgane",
+ "date": "2026-10-10",
+ "source": "https://sahha.ma/pharmacie-de-garde/inezgane",
+ "pharmacies": [
+  {
+   "name": "SOUK AL HOURIYA",
+   "address": "souk al houria entrée 8مدخل 8 سوق الحرية",
+   "phone": "",
+   "lat": 30.3570403,
+   "lng": -9.5263432,
+   "shift": "Jour"
+  }
+ ],
+ "center": [
+  30.357,
+  -9.5263
+ ]
+}

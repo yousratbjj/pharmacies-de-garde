@@ -1,0 +1,76 @@
+{
+ "city": "al-arrui",
+ "label": "Al Arrui",
+ "date": "2026-10-10",
+ "source": "https://sahha.ma/pharmacie-de-garde/al-arrui",
+ "pharmacies": [
+  {
+   "name": "Pharmacie Aberkani",
+   "address": "Pharmacie Aberkani, bd. Sakia Hamra",
+   "phone": "+212536361477",
+   "lat": 35.0109681,
+   "lng": -3.0102999,
+   "shift": ""
+  },
+  {
+   "name": "Pharmacie AlFarhani",
+   "address": "Pharmacie AlFarhani, 24, bd. Mohammed. V",
+   "phone": "+212536363026",
+   "lat": 35.0112497,
+   "lng": -3.0071167,
+   "shift": ""
+  },
+  {
+   "name": "Pharmacie AlHaitam",
+   "address": "Pharmacie AlHaitam, 38, av. Hassan II",
+   "phone": "+212536363193",
+   "lat": 35.011698,
+   "lng": -3.005032,
+   "shift": ""
+  },
+  {
+   "name": "Pharmacie AlHakim",
+   "address": "Pharmacie AlHakim, 32, av. Hassan II",
+   "phone": "+212536362098",
+   "lat": 35.0122333,
+   "lng": -3.00225,
+   "shift": ""
+  },
+  {
+   "name": "Pharmacie AlKamal",
+   "address": "Pharmacie AlKamal, 319, bd. Hassan II",
+   "phone": "+212536362395",
+   "lat": 35.0112333,
+   "lng": -3.0082,
+   "shift": ""
+  },
+  {
+   "name": "Pharmacie Al Qods Arruit",
+   "address": "Pharmacie Al Qods Arruit, 159, bd Annakhil",
+   "phone": "+212536362474",
+   "lat": 35.0122309,
+   "lng": -3.0048812,
+   "shift": ""
+  },
+  {
+   "name": "Pharmacie Aruit",
+   "address": "Pharmacie Aruit, 82, bd. Hassan II",
+   "phone": "+212536362042",
+   "lat": 35.0118333,
+   "lng": -3.00405,
+   "shift": ""
+  },
+  {
+   "name": "Pharmacie Ayoub",
+   "address": "Pharmacie Ayoub, 660 av Hassan II Aruit",
+   "phone": "+212536361224",
+   "lat": 35.0112497,
+   "lng": -3.0071167,
+   "shift": ""
+  }
+ ],
+ "center": [
+  35.0116,
+  -3.0061
+ ]
+}

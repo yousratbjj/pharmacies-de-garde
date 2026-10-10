@@ -1,0 +1,20 @@
+{
+ "city": "taourirt",
+ "label": "Taourirt",
+ "date": "2026-10-10",
+ "source": "https://sahha.ma/pharmacie-de-garde/taourirt",
+ "pharmacies": [
+  {
+   "name": "Pharmacie Al Mariniyine",
+   "address": "19 lotis wahda",
+   "phone": "+212536695723",
+   "lat": 34.398547,
+   "lng": -2.899419,
+   "shift": "24/24"
+  }
+ ],
+ "center": [
+  34.3985,
+  -2.8994
+ ]
+}
