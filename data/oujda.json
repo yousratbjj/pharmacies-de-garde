@@ -1,0 +1,88 @@
+{
+ "city": "oujda",
+ "label": "Oujda",
+ "date": "2026-10-10",
+ "source": "https://sahha.ma/pharmacie-de-garde/oujda",
+ "pharmacies": [
+  {
+   "name": "Pharmacie Aljisr",
+   "address": "141 bd. d' Ahfir hay Toba extérieur",
+   "phone": "+212536523749",
+   "lat": 34.6970333,
+   "lng": -1.9192333,
+   "shift": "24/24"
+  },
+  {
+   "name": "Pharmacie Avicenne",
+   "address": "179 Rue Boudir",
+   "phone": "+212536684074",
+   "lat": 34.6878167,
+   "lng": -1.9076,
+   "shift": "24/24"
+  },
+  {
+   "name": "Pharmacie Batal",
+   "address": "hay Ngadi, Berramdan n°1",
+   "phone": "+212536517591",
+   "lat": 34.6893,
+   "lng": -1.9305,
+   "shift": "24/24"
+  },
+  {
+   "name": "Pharmacie Berrichi",
+   "address": "1 rue AlIntilaka bd. Mohammed. VI",
+   "phone": "+212536500045",
+   "lat": 34.6596667,
+   "lng": -1.9027,
+   "shift": "24/24"
+  },
+  {
+   "name": "Pharmacie Chelqi",
+   "address": "hay Al Amal III rue Al Abrar n°165",
+   "phone": "+212726702327",
+   "lat": 34.677874,
+   "lng": -1.929306,
+   "shift": "24/24"
+  },
+  {
+   "name": "Pharmacie du Conseil",
+   "address": "Pharmacie du Conseil",
+   "phone": "+212536512100",
+   "lat": 34.6696167,
+   "lng": -1.9285833,
+   "shift": "24/24"
+  },
+  {
+   "name": "Pharmacie du Parc",
+   "address": "15, rue Massira El Khadra, Mosqu?e Al Oumma",
+   "phone": "+212536707170",
+   "lat": 34.670705,
+   "lng": -1.908386,
+   "shift": "24/24"
+  },
+  {
+   "name": "Pharmacie Hassan Ii Ex Alinara",
+   "address": "56 bd. Hassan II cité ElInara",
+   "phone": "+212536502428",
+   "lat": 34.6639167,
+   "lng": -1.899,
+   "shift": "24/24"
+  },
+  {
+   "name": "Pharmacie Moustaousef Mbasso",
+   "address": "av. Allal El Fassi, lotiss. Sahli-B5.n°1",
+   "phone": "+212536703001",
+   "lat": 34.6791167,
+   "lng": -1.8998333,
+   "shift": "24/24"
+  },
+  {
+   "name": "Pharmacie Rahmouni",
+   "address": "57 rue Kaoutar Hay Zaitoune Bouknadel",
+   "phone": "+212536505136",
+   "lat": 34.6709833,
+   "lng": -1.8911,
+   "shift": "24/24"
+  }
+ ]
+}

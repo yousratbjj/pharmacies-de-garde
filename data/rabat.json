@@ -1,0 +1,88 @@
+{
+ "city": "rabat",
+ "label": "Rabat",
+ "date": "2026-10-10",
+ "source": "https://sahha.ma/pharmacie-de-garde/rabat",
+ "pharmacies": [
+  {
+   "name": "Pharmacie Al Mountazah",
+   "address": "Pharmacie Al Mountazah",
+   "phone": "+212537790016",
+   "lat": 34.0223999,
+   "lng": -6.8345399,
+   "shift": "24/24"
+  },
+  {
+   "name": "Pharmacie BAB MARRAKECH",
+   "address": "Agdal, Rabat",
+   "phone": "+212537779500",
+   "lat": 34.0050011,
+   "lng": -6.8467798,
+   "shift": "24/24"
+  },
+  {
+   "name": "Pharmacie Bouchra Al Oum",
+   "address": "Pharmacie Bouchra Al Oum",
+   "phone": "+212537291245",
+   "lat": 33.9839537,
+   "lng": -6.8885808,
+   "shift": "24/24"
+  },
+  {
+   "name": "Pharmacie Centre De Transfusion Sanguine",
+   "address": "Pharmacie Centre De Transfusion Sanguine",
+   "phone": "+212537692469",
+   "lat": 33.9990686,
+   "lng": -6.86386,
+   "shift": "Jour"
+  },
+  {
+   "name": "Pharmacie CHOUKROALLAH",
+   "address": "Yacoub El Mansour, Rabat",
+   "phone": "+212537792355",
+   "lat": 33.9876508,
+   "lng": -6.8732679,
+   "shift": "Jour"
+  },
+  {
+   "name": "Pharmacie des Orangers",
+   "address": "Pharmacie des Orangers",
+   "phone": "+212537723053",
+   "lat": 34.0256996,
+   "lng": -6.8235402,
+   "shift": "Jour"
+  },
+  {
+   "name": "Pharmacie El Irfane",
+   "address": "Pharmacie El Irfane",
+   "phone": "+212537686317",
+   "lat": 33.98136,
+   "lng": -6.8645856,
+   "shift": "24/24"
+  },
+  {
+   "name": "Pharmacie EL JOULANE",
+   "address": "Takadoum & Souissi, Rabat",
+   "phone": "+212537756756",
+   "lat": 33.9788267,
+   "lng": -6.8222431,
+   "shift": "24/24"
+  },
+  {
+   "name": "Pharmacie IBN NAFIS",
+   "address": "Ocean-Orangers, Rabat",
+   "phone": "+212537720657",
+   "lat": 34.0227013,
+   "lng": -6.8424702,
+   "shift": "Jour"
+  },
+  {
+   "name": "Pharmacie Mosquee Rabat",
+   "address": "n° 5 sect 17 allee safsaf résidence amal 1 -",
+   "phone": "+212537715085",
+   "lat": 33.9572124,
+   "lng": -6.87331,
+   "shift": "24/24"
+  }
+ ]
+}
