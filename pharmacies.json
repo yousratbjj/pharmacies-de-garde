@@ -1,86 +1,86 @@
 {
- "date": "2026-10-11",
+ "date": "2026-10-12",
  "source": "https://infopoint.ma/pharmacies-de-garde",
  "pharmacies": [
   {
-   "name": "DE TANGER",
-   "name_ar": "صيدلية طنجة",
-   "address": "Route de Tétouan, Complexe Amal III, 90000 TANGER - Maroc",
-   "address_ar": "طريق تطوان مجمع الامل 3 - وراء السيمي - طنجة",
-   "phone": "+212 05 39 95 48 08",
-   "lat": 35.7602755,
-   "lng": -5.7827687,
-   "slug": "de-tanger"
+   "name": "EL KINDY",
+   "name_ar": "صيدلية الكندي",
+   "address": "136, Avenue Harroun Errachid, 90000 TANGER - Maroc",
+   "address_ar": "شارع هارون الرشيد حومة بلجيكا رقم 136 - طنجة",
+   "phone": "+212 05 39 94 94 42",
+   "lat": 35.7729966,
+   "lng": -5.821956,
+   "slug": "el-kindy"
   },
   {
-   "name": "IBN BARRAJAN",
-   "name_ar": "صيدلية ابن برجان",
-   "address": "41 Bis, Avenue Cedres, Branes II, 90000 TANGER - Maroc",
-   "address_ar": "قرب البنك الشعبي بالبرانص طريق مسجد الاماراتي - طنجة",
-   "phone": "+212 05 39 31 82 71",
-   "lat": 35.7578596,
-   "lng": -5.8328764,
-   "slug": "ibn-barrajan"
+   "name": "LA SANTE",
+   "name_ar": "صيدلية الصحة",
+   "address": "Avenue Tarik Ibn Ziad, Drissia, 90000 TANGER - Maroc",
+   "address_ar": "شارع طارق ابن زياد، تجزئة فاطمة الزهراء الادريسية - طنجة",
+   "phone": "+212 05 39 95 03 81",
+   "lat": 35.7581293,
+   "lng": -5.8013723,
+   "slug": "la-sante"
   },
   {
-   "name": "LA WILAYA",
-   "name_ar": "صيدلية الولاية",
-   "address": "24, Avenue la Marche Verte, 90000 TANGER - Maroc",
-   "address_ar": "شارع المسيرة الخضراء قرب مركز تحاقن الدم نقطة الحليب رقم 24 - طنجة",
-   "phone": "+212 05 39 32 33 88",
-   "lat": 35.7731663,
-   "lng": -5.8112564,
-   "slug": "la-wilaya"
+   "name": "ZAHARA",
+   "name_ar": "صيدلية الزهرة",
+   "address": "Avenue Zahara, Rue 41, El Aouama, 90000 TANGER - Maroc",
+   "address_ar": "زنقة 41 شارع الزهرة عمالة الفحص بنى مكادة طريق العوامة - طنجة",
+   "phone": "+212 05 39 36 09 70",
+   "lat": 35.7407121,
+   "lng": -5.8011706,
+   "slug": "zahara"
   },
   {
-   "name": "BEKOURI",
-   "name_ar": "صيدلية البكوري",
-   "address": "Lot. Mers 2, Houmat Kouades,  Bir Chifa, 90000 TANGER - Maroc",
-   "address_ar": "تجزئة المرس 2 بئر الشفاء حومة القوادس امام الزاوية - طنجة",
-   "phone": "+212 06 71 69 55 89",
-   "lat": 35.7396728,
-   "lng": -5.8217183,
-   "slug": "bekouri"
+   "name": "IBN TOUFAIL",
+   "name_ar": "صيدلية ابن طفيل",
+   "address": "1, lot 23, Lot El Kheir, Bir Chifa, 90000 TANGER - Maroc",
+   "address_ar": "تجزئة الخير1 بئر الشفاء قرب ثانوية الخوارزمي وراء ملعب القرب - طنجة",
+   "phone": "+212 05 39 31 34 64",
+   "lat": 35.7452637,
+   "lng": -5.822358,
+   "slug": "ibn-toufail"
   },
   {
-   "name": "Pharmacie Socco Alto",
-   "name_ar": "صيدلية صوكو ألطو",
-   "address": "Route de Rmilat, Centre Commercial Socco Alto, 90040 TANGER - Maroc",
-   "address_ar": "داخل المركز التجاري صوكو ألطو (كرفور) طريق الرميلات - طنجة",
-   "phone": "+212 05 39 94 77 08",
-   "lat": 35.7806051,
-   "lng": -5.8402982,
-   "slug": "pharmacie-socco-alto"
+   "name": "JAMAA MEKRAA",
+   "name_ar": "جامع المقراع",
+   "address": "Jamaa Mekraa, 90000 TANGER - Maroc",
+   "address_ar": "جامع المقراع جبل الكبير الطريق الرئيسية قرب مصحة الجبل الكبير - طنجة",
+   "phone": "+212 05 39 33 37 59",
+   "lat": 35.7864588,
+   "lng": -5.8431057,
+   "slug": "jamaa-mekraa"
   },
   {
-   "name": "Pharmaceie Arimas",
-   "name_ar": "صيدلية أريماس",
-   "address": "Lotissement Arimas, Tanja Balia, 90000 TANGER - Maroc",
-   "address_ar": "طنجة البالية, حي الهسكوري, تجزئة أريماس",
-   "phone": "+212 07 08 87 30 19",
-   "lat": 35.7643432,
-   "lng": -5.7599263,
-   "slug": "pharmaceie-arimas"
+   "name": "Pharmacie du Grand  Stade",
+   "name_ar": "صيدلية الملعب الكبير",
+   "address": "Avenue des FAR, (Roca), 90000 TANGER - Maroc",
+   "address_ar": "طريق الرباط قبالة سيتى كلوب مدخل معامل الرخام - طنجة",
+   "phone": "+212 05 39 38 57 50",
+   "lat": 35.7381812,
+   "lng": -5.8478982,
+   "slug": "pharmacie-du-grand-stade"
   },
   {
-   "name": "Malabata Hills",
-   "name_ar": "صيدلية مالاباطا هيلز",
-   "address": "49, Lotissement Malabata Hills,  Sania, Malabata, 90000 TANGER - Maroc",
-   "address_ar": "مجمع مالاباطا هيلز, سانية, مالاباطا, طنجة",
-   "phone": "+212 05 26 01 29 24",
-   "lat": 35.7807865,
-   "lng": -5.7530009,
-   "slug": "malabata-hills"
+   "name": "La Gare",
+   "name_ar": "صيدلية المحطة",
+   "address": "Tanger Ville Railway Station, 90070 TANGER - Maroc",
+   "address_ar": "محطة القطار (مالاباطا) طنجة المدينة - داخل المحطة - طنجة",
+   "phone": "+212 05 39 30 19 32",
+   "lat": 35.7717168,
+   "lng": -5.7860988,
+   "slug": "la-gare"
   },
   {
-   "name": "HAY RAYHANE",
-   "name_ar": "صيدلية حي الريحان",
-   "address": "Iqama al-Rayhan derrière Ibrahim al-Khalil. La première orbite à gauche après Ramban Masnana, 90100 TANGER - Maroc",
-   "address_ar": "اقامة الريحان   وراء ابراهيم الخليل. المدار الأول على اليسار بعد رمبوان مسنانة",
-   "phone": "+212 05 39 38 64 16",
-   "lat": 35.7497416,
-   "lng": -5.8527393,
-   "slug": "hay-rayhane"
+   "name": "Pharmacie Branes Kedima",
+   "name_ar": "صيدلية البرانص القديمة",
+   "address": "Avenue Aswak Assalam, 90000 TANGER - Maroc",
+   "address_ar": "طريق أسواق السلام , قبل محطة البنزين طوطال, طنجة",
+   "phone": "+212 06 27 37 45 47",
+   "lat": 35.7451765,
+   "lng": -5.8698392,
+   "slug": "pharmacie-branes-kedima"
   }
  ]
 }
