@@ -3,84 +3,74 @@
  "source": "https://infopoint.ma/pharmacies-de-garde",
  "pharmacies": [
   {
-   "name": "BENI MAKADA",
-   "name_ar": "صيدلية بنى مكادة",
-   "address": "152, Avenue Mly Slimane, Béni Makada, 90000 TANGER - Maroc",
-   "address_ar": "شارع مولاي سليمان بنى مكادة أمام المقر العسكري - طنجة",
-   "phone": "+212 05 39 95 18 38",
-   "lat": 35.7589766,
-   "lng": -5.8125591,
-   "slug": "beni-makada"
+   "name": "MOULAY YOUSSEF",
+   "name_ar": "مولاي يوسف",
+   "address": "50A, Avenue Moulay Youssef, Imm. AL Fath, 90000 TANGER - Maroc",
+   "address_ar": "عمارة الفتح شارع مولاي يوسف رقم 50 أ - طنجة",
+   "phone": "+212 05 39 94 55 97",
+   "lat": 35.7698087,
+   "lng": -5.8056749,
+   "slug": "moulay-youssef"
   },
   {
-   "name": "LAMTAFI",
-   "name_ar": "صيدلية المطافي",
-   "address": "6, Rue Abbi Hanifa Lamtafi, Marchan, 90000 TANGER - Maroc",
-   "address_ar": "زنقة ابن حنيفة المطافى مرشان رقم 6 - طنجة",
-   "phone": "+212 05 39 93 43 18",
-   "lat": 35.7881435,
-   "lng": -5.8247926,
-   "slug": "lamtafi"
+   "name": "JOSAFAT",
+   "name_ar": "صيدلية خوصفات",
+   "address": "53, Avenue Hassan I, 90000 TANGER - Maroc",
+   "address_ar": "شارع الحسن الأول خوصفات رقم 53 الزنقة الثانية بعد بوعراقية - طنجة",
+   "phone": "+212 05 39 33 34 49",
+   "lat": 35.7859296,
+   "lng": -5.816208,
+   "slug": "josafat"
   },
   {
-   "name": "AL ANDALOUS",
-   "name_ar": "صيدلية الاندلس",
-   "address": "118, Avenue Mohamed V, 90000 TANGER - Maroc",
-   "address_ar": "شارع محمد الخامس بن ساحة الأمم الروداني رقم 118 - طنجة",
-   "phone": "+212 05 39 94 69 10",
-   "lat": 35.7757914,
-   "lng": -5.8015055,
-   "slug": "al-andalous"
+   "name": "IMAM NAFIE",
+   "name_ar": "الإمام نافع",
+   "address": "12, Lot. Belkhairi, Jamaa Al Arbain, Béni Makada, 90000 TANGER - Maroc",
+   "address_ar": "تجزئة بلخيري زنقة 12  -  طنجة",
+   "phone": "+212 05 39 36 03 65",
+   "lat": 35.7489417,
+   "lng": -5.8053841,
+   "slug": "imam-nafie"
   },
   {
-   "name": "MOUNTASSIR",
-   "name_ar": "صيدلية منتصر",
-   "address": "Centre Complexe Al Majd, Al Aouama, 90000 TANGER - Maroc",
-   "address_ar": "تجزئة المجد العوامة بلاكا طاكسيات العوامة وسط المجمع السكني المجد 1 - طنجة",
-   "phone": "+212 05 39 95 23 11",
-   "lat": 35.7378492,
-   "lng": -5.7991386,
-   "slug": "mountassir"
+   "name": "IMAM ALI",
+   "name_ar": "صيدلية امام علي",
+   "address": "Haoumat Soussi, Dhar Al Kanfoud, Al Aouama, 90000 TANGER - Maroc",
+   "address_ar": "ظهر القنفود فوق السوق الجديد - طنجة",
+   "phone": "+212 05 39 95 44 01",
+   "lat": 35.7323681,
+   "lng": -5.811512,
+   "slug": "imam-ali"
   },
   {
-   "name": "Tanja Al Koubra",
-   "name_ar": "صيدلية طنجة الكبرى",
-   "address": "Avenue Moulay Rachid, 90040 TANGER - Maroc",
-   "address_ar": "رومبوان مسنانة اتجاه الملعب الكبير عمارة سانتا كلارا - طنجة",
-   "phone": "+212 05 39 42 27 05",
-   "lat": 35.7524122,
-   "lng": -5.8521287,
-   "slug": "tanja-al-koubra"
+   "name": "AL FARAJ",
+   "name_ar": "صيدلية الفرج",
+   "address": "Route Boukhalef, Complexe Al Irfane II, 90000 TANGER - Maroc",
+   "address_ar": "بوخالف مركب العرفان 2 على بعد 300 متر من أسواق السلام - طنجة",
+   "phone": "+212 05 39 39 28 44",
+   "lat": 35.7374028,
+   "lng": -5.8835762,
+   "slug": "al-faraj"
   },
   {
-   "name": "Salima",
-   "name_ar": "صيدلية سليمة",
-   "address": "Route Principale Aouama Charkia, Près de l&#039;annexe administrative 19 bis, 90080 TANGER - Maroc",
-   "address_ar": "مدشر العوامة قرب الدائرة 19 - طنجة",
-   "phone": "+212 05 39 35 58 13",
-   "lat": 35.7204091,
-   "lng": -5.791828,
-   "slug": "salima"
+   "name": "Pharmacie Principale",
+   "name_ar": "صيدلية الرئيسية",
+   "address": "Rue Hammadi Ameziane, Immeuble les Roses de Tanger, Azib Haj kaddour, 90100 TANGER - Maroc",
+   "address_ar": "عزيب الحاج قدور قرب تعليم سياقة الشاحنات - الخربة -  طنجة",
+   "phone": "+212 05 39 31 62 36",
+   "lat": 35.7538601,
+   "lng": -5.8415964,
+   "slug": "pharmacie-principale"
   },
   {
-   "name": "Iqrae",
-   "name_ar": "صيدلية اقرأ",
-   "address": "Al Irfan 2, GH R3 Bâtiment 116, 90100 TANGER - Maroc",
-   "address_ar": "العرفان 2، مبنى GH R3 116",
-   "phone": "+212 05 39 39 24 45",
-   "lat": 35.7415567,
-   "lng": -5.8912966,
-   "slug": "iqrae"
-  },
-  {
-   "name": "El Gharbi",
-   "name_ar": "صيدلية الغربي",
-   "address": "Route de la nouvelle gare, complexe résidentiel Maria Towers, 90000 TANGER - Maroc",
-   "address_ar": "الحرارين, طريق المحطة الطرقية الجديدة، المجمع السكني أبراج مرية",
-   "phone": "+212 06 67 28 74 88",
-   "lat": 35.7226316,
-   "lng": -5.8253049,
-   "slug": "el-gharbi"
+   "name": "Pharmacie Boughlala",
+   "name_ar": "صيدلية بوغلالة",
+   "address": "285, Cimétière Sidi Driss, Route Lotissement Nakhil, 90090 TANGER - Maroc",
+   "address_ar": "نهاية مقبرة سيدي ادريس الطريق المؤدي لتجزئة النخيل - طنجة",
+   "phone": "+212 06 81 01 27 79",
+   "lat": 35.7295981,
+   "lng": -5.8350005,
+   "slug": "pharmacie-boughlala"
   }
  ]
 }
