@@ -3,6 +3,126 @@
  "source": "https://infopoint.ma/pharmacies-de-garde",
  "pharmacies": [
   {
+   "name": "PARIS",
+   "name_ar": "باريس الكبرى",
+   "address": "Place de France, 90000 TANGER - Maroc",
+   "address_ar": "ساحة فرنسا (قبالة سور معكازين) رقم 2 - طنجة",
+   "phone": "+212 05 39 93 64 24",
+   "lat": 35.7809648,
+   "lng": -5.8123054,
+   "slug": "paris"
+  },
+  {
+   "name": "CASABARATA",
+   "name_ar": "صيدلية كسبرطا",
+   "address": "58A, Avenue Moulay Abdelhfid, 90000 TANGER - Maroc",
+   "address_ar": "شارع مولاي عبد الحفيظ جامع السعودي ( قبالة حى الجديد) - طنجة",
+   "phone": "+212 05 39 31 82 13",
+   "lat": 35.7669334,
+   "lng": -5.8210483,
+   "slug": "casabarata"
+  },
+  {
+   "name": "DAR TOUNSI",
+   "name_ar": "صيدلية دار التونسي",
+   "address": "146, Lot. Annahda, Dar Tounsi, 90000 TANGER - Maroc",
+   "address_ar": "تجزئة النهضة رقم 146 دار التونسي قرب رومبوان دار التونسى - طنجة",
+   "phone": "+212 05 39 35 29 48",
+   "lat": 35.7526362,
+   "lng": -5.7987877,
+   "slug": "dar-tounsi"
+  },
+  {
+   "name": "AL IHSSANE",
+   "name_ar": "صيدلية الاحسان",
+   "address": "Mesnana début Route Rahrah, 90000 TANGER - Maroc",
+   "address_ar": "مسنانة بداية الطريق الجديدة أمام مسجد الرحمة - طنجة",
+   "phone": "+212 05 39 31 19 36",
+   "lat": 35.757423,
+   "lng": -5.8524765,
+   "slug": "al-ihssane"
+  },
+  {
+   "name": "AL BOUSTANE",
+   "name_ar": "صيدلية البستان",
+   "address": "Rés. Annassim, Boubana, 90000 TANGER - Maroc",
+   "address_ar": "مدخل بوبانة عبر الرمبوان طرق الرميالت 700متر فندق أندلسية - طنجة",
+   "phone": "+212 05 39 37 67 68",
+   "lat": 35.7765344,
+   "lng": -5.861012,
+   "slug": "al-boustane"
+  },
+  {
+   "name": "Achakkar",
+   "name_ar": "صيدلية أشقار",
+   "address": "Route Achakkar, Hay Ahmmar, 90000 TANGER - Maroc",
+   "address_ar": "طريق أشقار حى أحمار - طنجة",
+   "phone": "+212 05 39 33 81 10",
+   "lat": 35.7448633,
+   "lng": -5.8845317,
+   "slug": "achakkar"
+  },
+  {
+   "name": "AL BORAQ",
+   "name_ar": "صيدلية البراق",
+   "address": "Avenue l&#039;abatoire, route de Tchitara, près l&#039;usine Essordi, 90000 TANGER - Maroc",
+   "address_ar": "شارع لاباطوار (طريق تشطارة ) حي الشرف معمل الصوردي",
+   "phone": "+212 05 39 32 27 24",
+   "lat": 35.7633388,
+   "lng": -5.8694892,
+   "slug": "al-boraq"
+  },
+  {
+   "name": "Pharmacie 911",
+   "name_ar": "صيدلية 911",
+   "address": "Établissement 1 COMPLEXE ANNOUR IMF RDJ, 90000 TANGER - Maroc",
+   "address_ar": "المنشأة 1 مجمع النور - مرجان 2",
+   "phone": "+212 05 31 90 12 01",
+   "lat": 35.7225485,
+   "lng": -5.7526284,
+   "slug": "pharmacie-911"
+  },
+  {
+   "name": "Aziza de Tanger",
+   "name_ar": "صيدلية عزيزة طنجة",
+   "address": "Quartier de Bir Ghazi, Entre Salle Safir et College Abdellah GUennoun, Aouama, 90020 TANGER - Maroc",
+   "address_ar": "العوامة، حي بئر الغازي، ما بين قاعة سفير والمدرسة الثانوية والإعدادية عبد الله كنون",
+   "phone": "+212 05 39 35 63 04",
+   "lat": 35.715951,
+   "lng": -5.808683,
+   "slug": "aziza-de-tanger"
+  },
+  {
+   "name": "NOUVELLE CASABARATA",
+   "name_ar": "صيدلية كسابراطا الجديدة",
+   "address": "Lotissement Al-Salam n° 72 Al-Hararin Route du marché aux bestiaux, 90000 TANGER - Maroc",
+   "address_ar": "تجزئة السلام رقم 72 الحرارين طريق سوق الماشية",
+   "phone": "+212 06 64 15 13 45",
+   "lat": 35.7633388,
+   "lng": -5.8694892,
+   "slug": "nouvelle-casabarata"
+  },
+  {
+   "name": "Riad Habiba",
+   "name_ar": "صيدلية رياض حبيبة",
+   "address": "Immeuble L, Route de rabat, 90040 TANGER - Maroc",
+   "address_ar": "طريق الرباط رياض السلام على الطريق المؤدية إلى المسبح الأولمبي وملعب ابن بطوطة",
+   "phone": "+212 05 39 42 48 44",
+   "lat": 35.7362887,
+   "lng": -5.8671819,
+   "slug": "riad-habiba"
+  },
+  {
+   "name": "111",
+   "name_ar": "صيدلية 111",
+   "address": "Lotissement al wahda, 90000 TANGER - Maroc",
+   "address_ar": "طنجة البالية تجزئة الوحدة",
+   "phone": "+212 06 63 84 06 83",
+   "lat": 35.7487628,
+   "lng": -5.75333,
+   "slug": "111"
+  },
+  {
    "name": "TANJA BALIA",
    "name_ar": "صيدلية طنجة البالية",
    "address": "Route Principale Malabata, Tanja Balia, 90000 TANGER - Maroc",
