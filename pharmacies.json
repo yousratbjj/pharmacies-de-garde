@@ -1,76 +1,86 @@
 {
- "date": "2026-10-16",
+ "date": "2026-10-17",
  "source": "https://infopoint.ma/pharmacies-de-garde",
  "pharmacies": [
   {
-   "name": "SAHAT AL OUMAM",
-   "name_ar": "صيدلية ساحة الأمم",
-   "address": "Avenue Ibn Toumart, 90000 TANGER - Maroc",
-   "address_ar": "شارع ابن تومرت وراء ساحة الامم الكومسارية بجانب سوق أسيما - طنجة",
-   "phone": "+212 05 39 34 33 91",
-   "lat": 35.7751927,
-   "lng": -5.8052897,
-   "slug": "sahat-al-oumam"
+   "name": "TANJA BALIA",
+   "name_ar": "صيدلية طنجة البالية",
+   "address": "Route Principale Malabata, Tanja Balia, 90000 TANGER - Maroc",
+   "address_ar": "طريق القصر الصغير القديمة قبالة محطة الطكسيات طنجة البالية - طنجة",
+   "phone": "+212 05 39 94 35 17",
+   "lat": 35.7717162,
+   "lng": -5.7694807,
+   "slug": "tanja-balia"
   },
   {
-   "name": "DHAR EL MERS",
-   "name_ar": "ضهر المرس",
-   "address": "Chate aloualidiya, 66, Tanja al balia, 90000 TANGER - Maroc",
-   "address_ar": "شارع شاطى الوليدية قبالة السوق النمودجي طنجة البالية - طنجة",
-   "phone": "+212 06 91 14 91 74",
-   "lat": 35.7667471,
-   "lng": -5.7650497,
-   "slug": "dhar-el-mers"
+   "name": "VAL FLEURI",
+   "name_ar": "صيدلية فال فلوري",
+   "address": "Avenue Moulay Rachid, Hôpital Mohamed V, 90000 TANGER - Maroc",
+   "address_ar": "طريق المطار فال فلورى،  قرب مستشفى محمد الخامس - طنجة",
+   "phone": "+212 05 39 37 23 81",
+   "lat": 35.7767111,
+   "lng": -5.8280376,
+   "slug": "val-fleuri"
   },
   {
-   "name": "La Grande Pharmacie Sara",
-   "name_ar": "صيدلية سارة",
-   "address": "Lotissement Randa, Ahlen, 90090 TANGER - Maroc",
-   "address_ar": "سيدي ادريس تجزئة رياض أهلا وراء مدرسة البنك الشعبى - طنجة",
-   "phone": "+212 05 39 38 20 12",
-   "lat": 35.7381645,
-   "lng": -5.8356847,
-   "slug": "la-grande-pharmacie-sara"
+   "name": "Pharmacie Khalil",
+   "name_ar": "صيدلية خليل",
+   "address": "Avenue des FAR, Résidence Zemmouri, Bloc A2, 90000 TANGER - Maroc",
+   "address_ar": "اقامة الزموري وراء دار سياط بلوك أ 2 طريق الرباط - طنجة",
+   "phone": "+212 05 39 31 40 12",
+   "lat": 35.7498934,
+   "lng": -5.8339759,
+   "slug": "pharmacie-khalil"
   },
   {
-   "name": "Dina",
-   "name_ar": "صيدلية دينا",
-   "address": "Immeuble A, Avenue Imam Mouslim, Résidence Bouzina, Nr. 1, 90040 TANGER - Maroc",
-   "address_ar": "شارع الامام مسلم رقم 1 - طنجة",
-   "phone": "+212 05 39 37 01 29",
-   "lat": 35.7860198,
-   "lng": -5.8333165,
-   "slug": "dina"
+   "name": "AIDA",
+   "name_ar": "صيدلية عائدة",
+   "address": "Rue Berkane Rés. Gama, 90000 TANGER - Maroc",
+   "address_ar": "زنقة بركان محج محمد السادس وراء طوليدو - طنجة",
+   "phone": "+212 05 39 34 33 03",
+   "lat": 35.7753108,
+   "lng": -5.7950518,
+   "slug": "aida"
   },
   {
-   "name": "Pharmacie Tufarma",
-   "name_ar": "صيدلية توفارما",
-   "address": "Route Boukhalef, Complexe Bab Boughaz, à côté l&#039;Université FST, 90060 TANGER - Maroc",
-   "address_ar": "شارع بوخالف, بوخالف",
-   "phone": "+212 05 31 03 19 78",
-   "lat": 35.7599297,
-   "lng": -5.825994,
-   "slug": "pharmacie-tufarma"
+   "name": "AIN JDIDA",
+   "name_ar": "صيدلية عين جديدة",
+   "address": "Route de Tétouan, Mghogha Kbira, 90000 TANGER - Maroc",
+   "address_ar": "طرق تطوان مغوغة الكبيرة على بعد 200 متر فوق المقاطعة - طنجة",
+   "phone": "+212 05 39 95 69 26",
+   "lat": 35.7463355,
+   "lng": -5.7755523,
+   "slug": "ain-jdida"
   },
   {
-   "name": "LA RAISON",
-   "name_ar": "صيدلية النهى",
-   "address": "Avenue Mossab Ibn Omair - Al Moujahidine, 90000 TANGER - Maroc",
-   "address_ar": "شارع مصعب بن عمير - المجاهدين",
-   "phone": "+212 05 39 42 15 11",
-   "lat": 35.7671187,
-   "lng": -5.8446395,
-   "slug": "la-raison"
+   "name": "BAYTI",
+   "name_ar": "صيدلية بيتي",
+   "address": "296, Avenue des FAR complexe Hassani, bayti, Imm°35, 90000 TANGER - Maroc",
+   "address_ar": "طريق الرباط المجمع الحسني بيتي سكن - طنجة",
+   "phone": "+212 05 39 31 11 64",
+   "lat": 35.7489423,
+   "lng": -5.8115313,
+   "slug": "bayti"
   },
   {
-   "name": "Ech-chaymae",
-   "name_ar": "صيدلية الشيماء",
-   "address": "Badriouine, Complexe Nakhil GH 1 M°, 90000 TANGER - Maroc",
-   "address_ar": "بدريون, مركب النخيل, طنجة",
-   "phone": "+212 05 31 05 33 00",
-   "lat": 35.7174896,
-   "lng": -5.8755671,
-   "slug": "ech-chaymae"
+   "name": "Hay Mrabett II",
+   "name_ar": "حي المرابط 2",
+   "address": "86, Aouama, Mrabett 2, 90080 TANGER - Maroc",
+   "address_ar": "رمبوان مكتب الضحى (خلف مجمع الهناء 1) حي المرابط 2 العوامة - طنجة",
+   "phone": "+212 05 39 35 69 67",
+   "lat": 35.72329,
+   "lng": -5.8102655,
+   "slug": "hay-mrabett-ii"
+  },
+  {
+   "name": "HAOUMAT ZAIDI",
+   "name_ar": "حومة الزايدي",
+   "address": "Tanger, 90000 TANGER - Maroc",
+   "address_ar": "طريق تطوان، مغوغة كبيرة، حومة الزايدي، خلف محطة طوطال",
+   "phone": "+212 05 39 94 53 44",
+   "lat": 35.7633388,
+   "lng": -5.8694892,
+   "slug": "haoumat-zaidi"
   }
  ]
 }
