@@ -35,6 +35,15 @@
   #routeBar.show { display: flex; }
   #routeBar .info { flex: 1; line-height: 1.3; }
   #routeBar a, #routeBar button { background: rgba(255,255,255,.18); color: #fff; border: none; border-radius: 999px; padding: 8px 12px; font-size: 13px; cursor: pointer; text-decoration: none; white-space: nowrap; font-family: inherit; }
+  #shiftBar { background: #fff; border-bottom: 1px solid #e3e6ea; padding: 10px 16px 9px; }
+  .shiftPills { display: flex; gap: 8px; flex-wrap: wrap; }
+  .shiftPill { border: 2px solid #dfe3e8; background: #f4f6f8; border-radius: 999px; padding: 8px 14px; font-size: 14px; cursor: pointer; font-family: inherit; color: #333; }
+  .shiftPill.sel { border-color: #0d5c2e; background: #e8f3ec; color: #0d5c2e; }
+  .shiftPill .liveDot { background: #1a9e4b; color: #fff; font-size: 10px; font-weight: 700; border-radius: 999px; padding: 2px 7px; margin-left: 4px; vertical-align: 2px; }
+  .shiftInfo { margin-top: 6px; font-size: 12.5px; color: #555; line-height: 1.4; }
+  .shiftInfo .shiftState.active { color: #1a9e4b; font-weight: 700; }
+  .shiftInfo .shiftState.upcoming { color: #b07d10; font-weight: 700; }
+  .shiftInfo .shiftState.ended { color: #999; }
   footer { padding: 14px 16px 30px; font-size: 12px; color: #777; }
   footer a { color: #0d5c2e; }
 </style>
@@ -50,6 +59,7 @@
   <button id="refreshBtn">&#10227; Actualiser les donn&eacute;es</button>
   <span id="status">Touchez &laquo;&nbsp;Me localiser&nbsp;&raquo; pour classer les pharmacies par distance.</span>
 </div>
+<div id="shiftBar" style="display:none"></div>
 <div id="routeBar">
   <span class="info" id="routeInfo"></span>
   <a id="routeGmaps" href="#" target="_blank" rel="noopener">Navigation &#9654;</a>
@@ -193,13 +203,115 @@ function havKm(a, b, c, d) {
   return 2 * R * Math.asin(Math.sqrt(h));
 }
 
+/* ---- Gardes jour / nuit : la page source publie deux plannings ---- */
+const MOIS_FR = {janvier:0, fevrier:1, 'f\u00e9vrier':1, mars:2, avril:3, mai:4, juin:5,
+  juillet:6, aout:7, 'ao\u00fbt':7, septembre:8, octobre:9, novembre:10, decembre:11, 'd\u00e9cembre':11};
+let selectedShift = null; // 'jour' | 'nuit' | null (tout afficher)
+
+function escapeHtml(s) {
+  return String(s).replace(/[&<>"']/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
+}
+function parseShiftWindows(label) {
+  const txt = String(label || '');
+  // "Garde 24h de 18 octobre 13:00 \u00e0 16:00 et de 20:00 \u00e0 09:00 du lendemain"
+  let m = txt.match(/de (\d{1,2}) (\S+) (\d{1,2}):(\d{2}) \u00e0 (\d{1,2}):(\d{2}) et de (\d{1,2}):(\d{2}) \u00e0 (\d{1,2}):(\d{2}) du lendemain/);
+  if (m) {
+    const mo = MOIS_FR[m[2].toLowerCase()];
+    if (mo === undefined) return null;
+    const y = new Date().getFullYear(), d = +m[1];
+    const end = new Date(y, mo, d, +m[9], +m[10]); end.setDate(end.getDate() + 1);
+    return [[new Date(y, mo, d, +m[3], +m[4]), new Date(y, mo, d, +m[5], +m[6])],
+            [new Date(y, mo, d, +m[7], +m[8]), end]];
+  }
+  // "Weekend Dimanche du 18 octobre 09:00 \u00e0 18 octobre 20:00"
+  m = txt.match(/du (\d{1,2}) (\S+) (\d{1,2}):(\d{2}) \u00e0 (\d{1,2}) (\S+) (\d{1,2}):(\d{2})/);
+  if (m) {
+    const mo1 = MOIS_FR[m[2].toLowerCase()], mo2 = MOIS_FR[m[6].toLowerCase()];
+    if (mo1 === undefined || mo2 === undefined) return null;
+    const y = new Date().getFullYear();
+    const s = new Date(y, mo1, +m[1], +m[3], +m[4]);
+    const e = new Date(y, mo2, +m[5], +m[7], +m[8]);
+    if (e < s) e.setFullYear(e.getFullYear() + 1); // chevauchement Nouvel An
+    return [[s, e]];
+  }
+  return null; // format inconnu : garde consid\u00e9r\u00e9e comme toujours active
+}
+function fmtTime(d) {
+  return String(d.getHours()).padStart(2, '0') + ':' + String(d.getMinutes()).padStart(2, '0');
+}
+function groupStatus(g, now) {
+  const w = parseShiftWindows(g.label);
+  if (!w) return { st: 'active', txt: '' };
+  for (const [s, e] of w) if (now >= s && now <= e) return { st: 'active', txt: 'En cours jusqu\u2019\u00e0 ' + fmtTime(e) };
+  let next = null;
+  for (const [s] of w) if (s > now && (!next || s < next)) next = s;
+  if (next) return { st: 'upcoming', txt: 'Prochaine garde \u00e0 ' + fmtTime(next) };
+  return { st: 'ended', txt: 'Garde termin\u00e9e' };
+}
+function shiftGroups() {
+  const order = [], byKey = {}, ungrouped = [];
+  PHARMACIES.forEach(p => {
+    const k = p.shift || '';
+    if (!k) { ungrouped.push(p); return; }
+    if (!byKey[k]) { byKey[k] = { key: k, label: p.shift_label || '', items: [] }; order.push(byKey[k]); }
+    byKey[k].items.push(p);
+  });
+  if (!order.length) return []; // aucune info de garde : tout afficher, sans s\u00e9lecteur
+  order.forEach(g => { g.items = g.items.concat(ungrouped); });
+  return order;
+}
+function defaultShift(groups) {
+  const now = new Date();
+  const active = groups.filter(g => groupStatus(g, now).st === 'active');
+  if (active.length) {
+    // chevauchement (ex. dimanche 13h-16h) : priorit\u00e9 \u00e0 la garde de jour
+    active.sort((a, b) => (a.key === 'jour' ? 0 : 1) - (b.key === 'jour' ? 0 : 1));
+    return active[0].key;
+  }
+  return groups[0].key;
+}
+function buildShiftBar() {
+  const bar = document.getElementById('shiftBar');
+  const groups = shiftGroups();
+  bar.innerHTML = '';
+  if (!groups.length) { bar.style.display = 'none'; selectedShift = null; return; }
+  bar.style.display = '';
+  if (!groups.some(g => g.key === selectedShift)) selectedShift = defaultShift(groups);
+  const now = new Date();
+  const pills = document.createElement('div');
+  pills.className = 'shiftPills';
+  const info = document.createElement('div');
+  info.className = 'shiftInfo';
+  groups.forEach(g => {
+    const st = groupStatus(g, now);
+    const b = document.createElement('button');
+    b.className = 'shiftPill' + (g.key === selectedShift ? ' sel' : '');
+    const icon = g.key === 'nuit' ? '&#127769;' : '&#9728;&#65039;';
+    const name = g.key === 'nuit' ? 'Nuit' : 'Jour';
+    b.innerHTML = icon + ' <b>' + name + '</b>' +
+      (st.st === 'active' ? ' <span class="liveDot">EN COURS</span>' : '');
+    b.addEventListener('click', () => { selectedShift = g.key; render(lastUserLL); });
+    pills.appendChild(b);
+    if (g.key === selectedShift) {
+      info.innerHTML = '<span class="shiftLabel">' + escapeHtml(g.label) + '</span>' +
+        (st.txt ? ' &mdash; <span class="shiftState ' + st.st + '">' + escapeHtml(st.txt) + '</span>' : '');
+    }
+  });
+  bar.appendChild(pills);
+  bar.appendChild(info);
+}
+
 function render(userLatLng) {
   clearRoute();
   markers.forEach(m => m.remove());
   markers = [];
   const list = document.getElementById('list');
   list.innerHTML = '';
-  const items = PHARMACIES.map(p => {
+  buildShiftBar();
+  const visible = selectedShift
+    ? PHARMACIES.filter(p => (p.shift || '') === selectedShift || !(p.shift || ''))
+    : PHARMACIES;
+  const items = visible.map(p => {
     const km = userLatLng ? havKm(userLatLng[0], userLatLng[1], p.lat, p.lng) : null;
     return Object.assign({ km }, p);
   }).sort((x, y) => (x.km === null ? -1 : x.km) - (y.km === null ? -1 : y.km));
@@ -360,13 +472,23 @@ function todayFr() {
 function parseCards(htmlText) {
   const doc = new DOMParser().parseFromString(htmlText, 'text/html');
   const out = [];
-  doc.querySelectorAll('.pharm-card').forEach(c => {
-    const d = c.dataset;
+  let curShift = '', curLabel = '';
+  doc.querySelectorAll('.duty-banner, .pharm-card').forEach(el => {
+    if (el.classList.contains('duty-banner')) {
+      const icon = el.querySelector('i');
+      const cls = icon ? icon.className : '';
+      curShift = cls.indexOf('fa-sun') >= 0 ? 'jour' : (cls.indexOf('fa-moon') >= 0 ? 'nuit' : '');
+      const inner = el.querySelector('div');
+      curLabel = inner ? inner.textContent.replace(/\s+/g, ' ').trim() : '';
+      return;
+    }
+    const d = el.dataset;
     const lat = parseFloat(d.latitude), lng = parseFloat(d.longitude);
     if (!d.name || isNaN(lat) || isNaN(lng)) return;
     out.push({ name: d.name, name_ar: d.nameAr || '', address: d.address || '',
                address_ar: d.addressAr || '', phone: d.phone || '',
-               lat: lat, lng: lng, slug: d.slug || '' });
+               lat: lat, lng: lng, slug: d.slug || '',
+               shift: curShift, shift_label: curLabel });
   });
   return out;
 }
