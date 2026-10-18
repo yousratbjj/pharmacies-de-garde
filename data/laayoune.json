@@ -1,0 +1,95 @@
+{
+ "city": "laayoune",
+ "label": "Laâyoune",
+ "date": "2026-10-18",
+ "source": "sahha.ma",
+ "source_url": "https://sahha.ma/pharmacie-de-garde/laayoune",
+ "kind": "roster",
+ "pharmacies": [
+  {
+   "name": "Pharmacie 25 Mars",
+   "address": "Hay 25 Mars, Avenue 30 Près De La Mosquée El Adarissa",
+   "phone": "+212525136777",
+   "lat": 27.124079,
+   "lng": -13.15644,
+   "shift": "",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie 84",
+   "address": "84, Bd Wikala Ait Baamranen Près De Lycée Mousa Ibn Nouceir, En Face De Café Catalina",
+   "phone": "+212528985272",
+   "lat": 27.1430788,
+   "lng": -13.1651045,
+   "shift": "",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie Abadila",
+   "address": "232 Bd Skkima",
+   "phone": "+212528990073",
+   "lat": 27.1544991,
+   "lng": -13.1954002,
+   "shift": "",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie Achraf",
+   "address": "153 Bd Skikima Chadma 1",
+   "phone": "+212528893975",
+   "lat": 27.1464372,
+   "lng": -13.1972713,
+   "shift": "",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie Aicha",
+   "address": "312 Rue Zaouiat Cheikh Khatramla",
+   "phone": "+212528894864",
+   "lat": 27.1433486,
+   "lng": -13.1934953,
+   "shift": "",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie Al Haramain",
+   "address": "Boulevard Zaid Ibn Tabit, Lotissement Al Wahda",
+   "phone": "+212528997799",
+   "lat": 27.1397384,
+   "lng": -13.181992,
+   "shift": "",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie Al Qimma",
+   "address": "Hay Moulay Rachid (annahda) En Face Du Café Las Palmas, Près Du Collège Annahda",
+   "phone": "+212528984141",
+   "lat": 27.1451119,
+   "lng": -13.1797055,
+   "shift": "",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie Al Wifaq",
+   "address": "N°02, Mekka Rue Essmara Lotissement Alwifaq - En Face Du Station Pina",
+   "phone": "+212528984989",
+   "lat": 27.1478371,
+   "lng": -13.1982024,
+   "shift": "",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie Anas Ibn Malik",
+   "address": "Lotissement Issam & Sofia (près Du Mosquée Anas Ibn Malik Lhchicha)",
+   "phone": "+212528990093",
+   "lat": 27.1500384,
+   "lng": -13.1990758,
+   "shift": "",
+   "shift_label": ""
+  }
+ ],
+ "center": [
+  27.1438,
+  -13.1852
+ ]
+}

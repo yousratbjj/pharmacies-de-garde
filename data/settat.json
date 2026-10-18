@@ -1,0 +1,113 @@
+{
+ "city": "settat",
+ "label": "Settat",
+ "date": "2026-10-18",
+ "source": "med.ma",
+ "source_url": "https://www.med.ma/pharmacy/day-time/settat",
+ "kind": "directory",
+ "pharmacies": [
+  {
+   "name": "Pharmacie Ryad Ahl Alwifaq",
+   "address": "Lot 38 rue elwifak, Deroua Berrechid Berrechid Settat",
+   "phone": "+212 522 51 40 83",
+   "lat": 33.3652807,
+   "lng": -7.5325664,
+   "shift": "jour",
+   "shift_label": "Pharmacies de jour"
+  },
+  {
+   "name": "Pharmacie Fouadi",
+   "address": "Casablanca",
+   "phone": "+212 522 59 00 96",
+   "lat": 33.4596701933206,
+   "lng": -7.65295255580317,
+   "shift": "24h",
+   "shift_label": "Pharmacies 24h/24"
+  },
+  {
+   "name": "Pharmacie Dyar Al Andalous",
+   "address": "Casablanca",
+   "phone": "+212 522 33 49 81",
+   "lat": 33.460564,
+   "lng": -7.647937,
+   "shift": "24h",
+   "shift_label": "Pharmacies 24h/24"
+  },
+  {
+   "name": "Pharmacie Zemmama",
+   "address": "Casablanca",
+   "phone": "+212 690 12 58 06",
+   "lat": 33.4608204,
+   "lng": -7.6445646,
+   "shift": "24h",
+   "shift_label": "Pharmacies 24h/24"
+  },
+  {
+   "name": "Pharmacie Sun Square Almaz",
+   "address": "Mag N• 218, Sun Square Almaz, Quartier ALMAZ, Casablanca Casablanca",
+   "phone": "+212 620 20 19 20",
+   "lat": 33.5103443,
+   "lng": -7.6905007,
+   "shift": "24h",
+   "shift_label": "Pharmacies 24h/24"
+  },
+  {
+   "name": "Pharmacie Morsad",
+   "address": "93, lotiss. Bouchra , rte 1100 Sidi Maârouf Ouled Haddou Casablanca Bouskoura Casablanca",
+   "phone": "+212 522 32 19 29",
+   "lat": 33.5156056,
+   "lng": -7.6383909,
+   "shift": "24h",
+   "shift_label": "Pharmacies 24h/24"
+  },
+  {
+   "name": "Pharmacie AlJabbar",
+   "address": "quartier Lissasfa (route d'El Jadida) Douar Bouchaib ElWatani Lissasfa Casablanca Lissasfa Casablanca",
+   "phone": "+212 522 65 01 36",
+   "lat": 33.5295522,
+   "lng": -7.6817998,
+   "shift": "24h",
+   "shift_label": "Pharmacies 24h/24"
+  },
+  {
+   "name": "Pharmacie Résidence Annaïm",
+   "address": "hay El Oulfa résid. Annaïm n°4 Casablanca Al Oulfa Casablanca",
+   "phone": "+212 522 89 43 09",
+   "lat": 33.5449418,
+   "lng": -7.6825695,
+   "shift": "24h",
+   "shift_label": "Pharmacies 24h/24"
+  },
+  {
+   "name": "Pharmacie Tayeb",
+   "address": "27, avenue du Cdt Driss Lharti - ex A Casablanca Casablanca",
+   "phone": "+212 522 38 80 87",
+   "lat": 33.55672,
+   "lng": -7.667043,
+   "shift": "24h",
+   "shift_label": "Pharmacies 24h/24"
+  },
+  {
+   "name": "Pharmacie Dawdia",
+   "address": "hay El Wifak 1 rue 13 n°85 Oulfa Casablanca Al Oulfa Casablanca",
+   "phone": "+212 522 90 14 24",
+   "lat": 33.5553578,
+   "lng": -7.6899021,
+   "shift": "24h",
+   "shift_label": "Pharmacies 24h/24"
+  },
+  {
+   "name": "Pharmacie Oum ElBanine",
+   "address": "145 rue des Sraghnas (nouv. médina) Nouvelle Médina Casablanca Habous Casablanca",
+   "phone": "+212 522 28 06 92",
+   "lat": 33.5678517033875,
+   "lng": -7.59969709629517,
+   "shift": "24h",
+   "shift_label": "Pharmacies 24h/24"
+  }
+ ],
+ "center": [
+  33.5024,
+  -7.648
+ ]
+}

@@ -1,0 +1,59 @@
+{
+ "city": "dcheira",
+ "label": "Dcheira El Jihadia",
+ "date": "2026-10-18",
+ "source": "sahha.ma",
+ "source_url": "https://sahha.ma/pharmacie-de-garde/dcheira",
+ "kind": "roster",
+ "pharmacies": [
+  {
+   "name": "Pharmacie Dcheira",
+   "address": "Pharmacie Dcheira, bd bir anzarane n° 319",
+   "phone": "+212528270475",
+   "lat": 30.3712272,
+   "lng": -9.5415129,
+   "shift": "",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie Hay Sbai",
+   "address": "Pharmacie Hay Sbai, bd allal ben abdellah, hay sbai",
+   "phone": "+212528832882",
+   "lat": 30.376884,
+   "lng": -9.534287,
+   "shift": "",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie Ksima",
+   "address": "Pharmacie Ksima, route principale dcheira, en face de bmce et près de banque populaire",
+   "phone": "+212528273206",
+   "lat": 30.3702762,
+   "lng": -9.5375225,
+   "shift": "",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie Mehdi Ben Toumert",
+   "address": "Pharmacie Mehdi Ben Toumert, hay narjis, boulevard mehdi ben toumert jihadia (tel2: 05 25 31 44 84)",
+   "phone": "+212606065334",
+   "lat": 30.3681182,
+   "lng": -9.5229742,
+   "shift": "",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie Nouvelle El Mers",
+   "address": "Pharmacie Nouvelle El Mers, n° 29 lot, arrahma cité el mers, dcheira el jihadia, derrière restaurant tislemt",
+   "phone": "+212808637890",
+   "lat": 30.3779561,
+   "lng": -9.5216118,
+   "shift": "",
+   "shift_label": ""
+  }
+ ],
+ "center": [
+  30.3729,
+  -9.5316
+ ]
+}

@@ -1,0 +1,68 @@
+{
+ "city": "rabat",
+ "label": "Rabat",
+ "date": "2026-10-18",
+ "source": "sahha.ma",
+ "source_url": "https://sahha.ma/pharmacie-de-garde/rabat",
+ "kind": "roster",
+ "pharmacies": [
+  {
+   "name": "Pharmacie Al Bahja",
+   "address": "Pharmacie Al Bahja",
+   "phone": "+212537797137",
+   "lat": 34.0223999,
+   "lng": -6.8345399,
+   "shift": "24h",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie Des Oudayas",
+   "address": "Pharmacie Des Oudayas",
+   "phone": "+212537734410",
+   "lat": 34.0295277,
+   "lng": -6.8358593,
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie Les Arcades",
+   "address": "Pharmacie Les Arcades",
+   "phone": "+212537724222",
+   "lat": 34.0150986,
+   "lng": -6.8416801,
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie Ryad",
+   "address": "Pharmacie Ryad",
+   "phone": "+212537710681",
+   "lat": 33.9622797,
+   "lng": -6.8772197,
+   "shift": "24h",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie TANSIFT",
+   "address": "Agdal, Rabat",
+   "phone": "+212537681676",
+   "lat": 33.9977103,
+   "lng": -6.8456604,
+   "shift": "24h",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie YA-SIN",
+   "address": "Takadoum & Souissi, Rabat",
+   "phone": "+212537754008",
+   "lat": 33.9725938,
+   "lng": -6.8201801,
+   "shift": "24h",
+   "shift_label": ""
+  }
+ ],
+ "center": [
+  33.9999,
+  -6.8425
+ ]
+}

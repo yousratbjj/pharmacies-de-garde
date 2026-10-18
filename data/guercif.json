@@ -1,0 +1,23 @@
+{
+ "city": "guercif",
+ "label": "Guercif",
+ "date": "2026-10-18",
+ "source": "sahha.ma",
+ "source_url": "https://sahha.ma/pharmacie-de-garde/guercif",
+ "kind": "roster",
+ "pharmacies": [
+  {
+   "name": "Pharmacie Moulay Ahmed",
+   "address": "Pharmacie Moulay Ahmed",
+   "phone": "+212535200573",
+   "lat": 34.231311,
+   "lng": -3.350973,
+   "shift": "",
+   "shift_label": ""
+  }
+ ],
+ "center": [
+  34.2313,
+  -3.351
+ ]
+}

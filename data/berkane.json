@@ -1,0 +1,32 @@
+{
+ "city": "berkane",
+ "label": "Berkane",
+ "date": "2026-10-18",
+ "source": "sahha.ma",
+ "source_url": "https://sahha.ma/pharmacie-de-garde/berkane",
+ "kind": "roster",
+ "pharmacies": [
+  {
+   "name": "Pharmacie Aous",
+   "address": "524 Sidi Ali Ben Yekhlef",
+   "phone": "+212614455676",
+   "lat": 34.90896,
+   "lng": -2.302402,
+   "shift": "24h",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie El Kadi Ayad",
+   "address": "12 hay Masjid",
+   "phone": "+212536614344",
+   "lat": 34.932776,
+   "lng": -2.315072,
+   "shift": "24h",
+   "shift_label": ""
+  }
+ ],
+ "center": [
+  34.9209,
+  -2.3087
+ ]
+}

@@ -1,0 +1,104 @@
+{
+ "city": "fes",
+ "label": "Fès",
+ "date": "2026-10-18",
+ "source": "sahha.ma",
+ "source_url": "https://sahha.ma/pharmacie-de-garde/fes",
+ "kind": "roster",
+ "pharmacies": [
+  {
+   "name": "Pharmacie Assafae",
+   "address": "91 hay massira ii benssouda",
+   "phone": "+212535729135",
+   "lat": 33.9919599,
+   "lng": -5.0678801,
+   "shift": "24h",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie Bab Boujloud",
+   "address": "Pharmacie Bab Boujloud",
+   "phone": "+212535633222",
+   "lat": 34.0619756,
+   "lng": -4.9857939,
+   "shift": "24h",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie Bensouda",
+   "address": "hay m'cella bensouda",
+   "phone": "+212535726563",
+   "lat": 34.0171679,
+   "lng": -5.0554329,
+   "shift": "24h",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie El Mountazah",
+   "address": "Pharmacie El Mountazah",
+   "phone": "+212535755102",
+   "lat": 34.0561945,
+   "lng": -5.046598,
+   "shift": "24h",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie Hay Riyad",
+   "address": "n°754 lotissement riad 4 .route sefrou",
+   "phone": "+212535742287",
+   "lat": 34.0346985,
+   "lng": -5.0161901,
+   "shift": "24h",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie Jnane Ain Chkef",
+   "address": "Pharmacie Jnane Ain Chkef",
+   "phone": "+212535967050",
+   "lat": 33.953036,
+   "lng": -5.0279555,
+   "shift": "24h",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie La Victoire",
+   "address": "route sefrou proche du cafe al khima, manflouri 1",
+   "phone": "+212535732380",
+   "lat": 34.0180043,
+   "lng": -4.9865591,
+   "shift": "24h",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie Oum Al Kora",
+   "address": "n°41 rue 6 hay nouveau secteur z. haute zouagha, près du mosquée douar sidi lhadi",
+   "phone": "+212535605685",
+   "lat": 34.0337488,
+   "lng": -5.0040585,
+   "shift": "24h",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie Sehrij Gnaoua",
+   "address": "n°201 blad tahri, sahrij gnaoua",
+   "phone": "+212535630816",
+   "lat": 34.0332985,
+   "lng": -5.0,
+   "shift": "24h",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie Sounni",
+   "address": "hay adarissa route ain chkef",
+   "phone": "+212535603774",
+   "lat": 34.0214879,
+   "lng": -5.015916,
+   "shift": "24h",
+   "shift_label": ""
+  }
+ ],
+ "center": [
+  34.0222,
+  -5.0206
+ ]
+}

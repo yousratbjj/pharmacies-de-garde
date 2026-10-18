@@ -1,0 +1,23 @@
+{
+ "city": "tamesna",
+ "label": "Tamesna",
+ "date": "2026-10-18",
+ "source": "sahha.ma",
+ "source_url": "https://sahha.ma/pharmacie-de-garde/tamesna",
+ "kind": "roster",
+ "pharmacies": [
+  {
+   "name": "AL BORAQ",
+   "address": "Les jasmins III, n 63 les jardins de Tamesnaالياسمين ااا رقم 63 حدائق تامسنا",
+   "phone": "",
+   "lat": 33.8388973,
+   "lng": -6.9324059,
+   "shift": "jour",
+   "shift_label": ""
+  }
+ ],
+ "center": [
+  33.8389,
+  -6.9324
+ ]
+}

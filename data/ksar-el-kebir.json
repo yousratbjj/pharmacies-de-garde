@@ -1,0 +1,23 @@
+{
+ "city": "ksar-el-kebir",
+ "label": "Ksar El Kebir",
+ "date": "2026-10-18",
+ "source": "sahha.ma",
+ "source_url": "https://sahha.ma/pharmacie-de-garde/ksar-el-kebir",
+ "kind": "roster",
+ "pharmacies": [
+  {
+   "name": "Pharmacie Sidi AlKamil",
+   "address": "135 rue de Rabat Sidi AlKamil",
+   "phone": "+212539903850",
+   "lat": 34.9915333,
+   "lng": -5.9043167,
+   "shift": "24h",
+   "shift_label": ""
+  }
+ ],
+ "center": [
+  34.9915,
+  -5.9043
+ ]
+}

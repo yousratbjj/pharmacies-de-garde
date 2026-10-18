@@ -1,0 +1,95 @@
+{
+ "city": "marrakech",
+ "label": "Marrakech",
+ "date": "2026-10-18",
+ "source": "sahha.ma",
+ "source_url": "https://sahha.ma/pharmacie-de-garde/marrakech",
+ "kind": "roster",
+ "pharmacies": [
+  {
+   "name": "Ouhoud",
+   "address": "294, Lot. Masmoudi, avant l’école Ouhoud, route Sidi Dou Targa",
+   "phone": "+212525085659",
+   "lat": 31.6524746,
+   "lng": -8.0506779,
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie Acharaf",
+   "address": "872, Lot. Acharaf face école Acharaf et près Association Ennakhil de la Femme et l’Enfant",
+   "phone": "+212524304046",
+   "lat": 31.6684983,
+   "lng": -8.0227754,
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie AlAbawayn",
+   "address": "lotiss. Al Fadl 3°éme. Tranche imm.B2 Jnanat",
+   "phone": "+212524330227",
+   "lat": 31.6791167,
+   "lng": -8.0246833,
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie Al Amana",
+   "address": "78, douar ouled el garne rte ait ourir marrakech",
+   "phone": "+212653214949",
+   "lat": 31.6344036,
+   "lng": -7.9205443,
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie AlBahja",
+   "address": "453 bd El Midani q. AlBahja douar Laaskar",
+   "phone": "+212524345300",
+   "lat": 31.6331667,
+   "lng": -8.0448667,
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie Al Fath",
+   "address": "398, hay Massira II, bloc B",
+   "phone": "+212524346755",
+   "lat": 31.6297121,
+   "lng": -8.0667951,
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie Al Firdaous",
+   "address": "Route principale de Lamhamid (Av. Guemassa) près de l’Ecole Chkili M’hamid et la Société Générale de Banque",
+   "phone": "+212524360646",
+   "lat": 31.6175995,
+   "lng": -7.9706001,
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie AlKhabir",
+   "address": "hay Massira III n° 203 A",
+   "phone": "+212524493781",
+   "lat": 31.6456,
+   "lng": -8.0670667,
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie AlMadariss",
+   "address": "210 bd Al Madarisse Sidi Youssef Ben Ali",
+   "phone": "+212524401171",
+   "lat": 31.6107,
+   "lng": -7.9679167,
+   "shift": "jour",
+   "shift_label": ""
+  }
+ ],
+ "center": [
+  31.6413,
+  -8.0151
+ ]
+}

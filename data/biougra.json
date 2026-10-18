@@ -1,0 +1,50 @@
+{
+ "city": "biougra",
+ "label": "Biougra",
+ "date": "2026-10-18",
+ "source": "sahha.ma",
+ "source_url": "https://sahha.ma/pharmacie-de-garde/biougra",
+ "kind": "roster",
+ "pharmacies": [
+  {
+   "name": "Pharmacie Achifa",
+   "address": "Pharmacie Achifa",
+   "phone": "+212528810293",
+   "lat": 30.22345,
+   "lng": -9.36776,
+   "shift": "",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie Ahtaq",
+   "address": "Pharmacie Ahtaq",
+   "phone": "",
+   "lat": 30.208823,
+   "lng": -9.3682224,
+   "shift": "",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie les Chalets",
+   "address": "Pharmacie les Chalets",
+   "phone": "+212528810363",
+   "lat": 30.2210667,
+   "lng": -9.3769,
+   "shift": "",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie Route de Lakhmiss",
+   "address": "Pharmacie Route de Lakhmiss",
+   "phone": "+212528819655",
+   "lat": 30.2117833,
+   "lng": -9.3717833,
+   "shift": "",
+   "shift_label": ""
+  }
+ ],
+ "center": [
+  30.2163,
+  -9.3712
+ ]
+}

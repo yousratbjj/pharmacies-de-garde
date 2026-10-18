@@ -1,0 +1,23 @@
+{
+ "city": "oued-zem",
+ "label": "Oued Zem",
+ "date": "2026-10-18",
+ "source": "sahha.ma",
+ "source_url": "https://sahha.ma/pharmacie-de-garde/oued-zem",
+ "kind": "roster",
+ "pharmacies": [
+  {
+   "name": "Pharmacie Al Bochra",
+   "address": "Pharmacie Al Bochra",
+   "phone": "+212523411310",
+   "lat": 32.8626722,
+   "lng": -6.5681556,
+   "shift": "24h",
+   "shift_label": ""
+  }
+ ],
+ "center": [
+  32.8627,
+  -6.5682
+ ]
+}

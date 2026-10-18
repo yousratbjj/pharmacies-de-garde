@@ -1,0 +1,32 @@
+{
+ "city": "errachidia",
+ "label": "Errachidia",
+ "date": "2026-10-18",
+ "source": "sahha.ma",
+ "source_url": "https://sahha.ma/pharmacie-de-garde/errachidia",
+ "kind": "roster",
+ "pharmacies": [
+  {
+   "name": "Pharmacie Al Massira",
+   "address": "Cité ElMassira rue 1 n°44",
+   "phone": "+212535571371",
+   "lat": 31.920162,
+   "lng": -4.421315,
+   "shift": "",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie Ennour",
+   "address": "468, lotiss. Ain El Atti",
+   "phone": "+212535791333",
+   "lat": 31.9349628,
+   "lng": -4.450928,
+   "shift": "",
+   "shift_label": ""
+  }
+ ],
+ "center": [
+  31.9276,
+  -4.4361
+ ]
+}

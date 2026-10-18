@@ -1,0 +1,23 @@
+{
+ "city": "larache",
+ "label": "Larache",
+ "date": "2026-10-18",
+ "source": "sahha.ma",
+ "source_url": "https://sahha.ma/pharmacie-de-garde/larache",
+ "kind": "roster",
+ "pharmacies": [
+  {
+   "name": "Pharmacie Principale",
+   "address": "3 place des Martyrs",
+   "phone": "+212539501111",
+   "lat": 35.19085,
+   "lng": -6.1515,
+   "shift": "24h",
+   "shift_label": ""
+  }
+ ],
+ "center": [
+  35.1908,
+  -6.1515
+ ]
+}

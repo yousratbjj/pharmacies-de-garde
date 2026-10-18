@@ -1,0 +1,23 @@
+{
+ "city": "nador",
+ "label": "Nador",
+ "date": "2026-10-18",
+ "source": "sahha.ma",
+ "source_url": "https://sahha.ma/pharmacie-de-garde/nador",
+ "kind": "roster",
+ "pharmacies": [
+  {
+   "name": "PHARMACIE DAR EL MAKHZEN",
+   "address": "Douar Bouyzarzaren",
+   "phone": "+212536330361",
+   "lat": 35.1628783,
+   "lng": -2.9698406,
+   "shift": "",
+   "shift_label": ""
+  }
+ ],
+ "center": [
+  35.1629,
+  -2.9698
+ ]
+}

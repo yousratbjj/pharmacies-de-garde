@@ -1,0 +1,194 @@
+{
+ "city": "chichaoua",
+ "label": "Chichaoua",
+ "date": "2026-10-18",
+ "source": "med.ma",
+ "source_url": "https://www.med.ma/pharmacy/day-time/chichaoua",
+ "kind": "directory",
+ "pharmacies": [
+  {
+   "name": "Pharmacie La Croix Verte",
+   "address": "Op. Imam Talha 1 Mhamid 7, en face de la Station Total et du Super Marché YABYO Marrakech Tahenaout Marrakech",
+   "phone": "+212 675 78 73 02",
+   "lat": 31.5793499,
+   "lng": -8.0627261,
+   "shift": "jour",
+   "shift_label": "Pharmacies de jour"
+  },
+  {
+   "name": "Pharmacie Khninich",
+   "address": "Magasin 1 immeuble 6 Derraz, Marrakech 40160 Tahenaout Marrakech",
+   "phone": "+212 524 37 98 37",
+   "lat": 31.5690692,
+   "lng": -8.0574025,
+   "shift": "jour",
+   "shift_label": "Pharmacies de jour"
+  },
+  {
+   "name": "Pharmacie My Driss",
+   "address": "101, Massira II \"D\" Opération Raja Marrakech Kettara Kettara Marrakech",
+   "phone": "+212 524 49 33 31",
+   "lat": 31.6331448,
+   "lng": -8.0638584,
+   "shift": "jour",
+   "shift_label": "Pharmacies de jour"
+  },
+  {
+   "name": "Pharmacie Sebou",
+   "address": "24, op. sebou a cité de l'école lamrani et la nouvelle mosquée massira 3, a 800m de carrefour targa Marrakech Kettara Kettara Marrakech",
+   "phone": "+212 524 49 44 04",
+   "lat": 31.6474044,
+   "lng": -8.0655785,
+   "shift": "jour",
+   "shift_label": "Pharmacies de jour"
+  },
+  {
+   "name": "Pharmacie Ettaoufik",
+   "address": "Bd. Laayoune avant Ferran Trab, la rue en face de la Banque Populaire, près de la Mosquée Hay Iziki MARRAKECH Kettara Kettara Marrakech",
+   "phone": "+212 524 49 37 65",
+   "lat": 31.6212541,
+   "lng": -8.0600891,
+   "shift": "jour",
+   "shift_label": "Pharmacies de jour"
+  },
+  {
+   "name": "Pharmacie Al Wafa",
+   "address": "Route d'Agadir, en face de la société Coca Cola Lot. Hay l'Oudaya Al Massira I Marrakech Kettara Kettara Marrakech",
+   "phone": "+212 524 49 05 18",
+   "lat": 31.6287865,
+   "lng": -8.0522543,
+   "shift": "jour",
+   "shift_label": "Pharmacies de jour"
+  },
+  {
+   "name": "Pharmacie Les Trois Palmiers",
+   "address": "Rond-Point Azzouzia (ancien Souk Laouad), vers la Gare Routière et à 100m du CIH et AWB Marrakech Kettara Kettara Marrakech",
+   "phone": "+212 524 35 53 12",
+   "lat": 31.6848465,
+   "lng": -8.0640956,
+   "shift": "jour",
+   "shift_label": "Pharmacies de jour"
+  },
+  {
+   "name": "Pharmacie Issafarnes",
+   "address": "215, Lalla Haya Targa en face de Kahrama entre AttijariWafa Bank Targa et Hammam Hilton MARRAKECH Kettara Kettara Marrakech",
+   "phone": "+212 524 49 82 38",
+   "lat": 31.6474835,
+   "lng": -8.048114,
+   "shift": "jour",
+   "shift_label": "Pharmacies de jour"
+  },
+  {
+   "name": "Pharmacie El Habib",
+   "address": "Qt. Mhamid Bloc1 entre grands Taxi d'Ait Imour et ancienne Mosquée de mhamid à côté ancien Dispensaire Marrakech Loudaya Loudaya Marrakech",
+   "phone": "+212 524 36 02 56",
+   "lat": 31.5895464,
+   "lng": -8.0366895,
+   "shift": "jour",
+   "shift_label": "Pharmacies de jour"
+  },
+  {
+   "name": "Pharmacie ouled yahya",
+   "address": "Douar Ouled Yahya, Route de Tameslouht, Région El haouz Tahenaout Marrakech",
+   "phone": "+212 524 38 15 16",
+   "lat": 31.5417446462179,
+   "lng": -8.03355771762161,
+   "shift": "jour",
+   "shift_label": "Pharmacies de jour"
+  },
+  {
+   "name": "Pharmacie Al Fath",
+   "address": "398 Bis, Massira II, à côté du lycée salah Eddine Ayoubi rte Essouira station mobile, tournez à droite Marrakech Kettara Kettara Marrakech",
+   "phone": "+212 524 34 67 55",
+   "lat": 31.6296457,
+   "lng": -8.0668227,
+   "shift": "nuit",
+   "shift_label": "Pharmacies de nuit"
+  },
+  {
+   "name": "Pharmacie La Gare Routiere",
+   "address": "27, Op. Bab Al Borj Azzouzia (Route Afaq et Agadir, à 250m de Mosquée Tribich) Marrakech Kettara Kettara Marrakech",
+   "phone": "+212 524 35 66 93",
+   "lat": 31.6841669,
+   "lng": -8.075929,
+   "shift": "nuit",
+   "shift_label": "Pharmacies de nuit"
+  },
+  {
+   "name": "Pharmacie Safsaf",
+   "address": "Lot. Safsaf, derrière Collège Al Qods à côté de Qt. Sofia (derrière centre d'estivage Kahrama) Marrakech Kettara Kettara Marrakech",
+   "phone": "+212 525 04 59 62",
+   "lat": 31.6411525,
+   "lng": -8.0482377,
+   "shift": "nuit",
+   "shift_label": "Pharmacies de nuit"
+  },
+  {
+   "name": "Pharmacie Skalli",
+   "address": "M’hamid3 à côté entrée l’Aéroport derrière la RADEEMA et Sailane,en face école Moulik à côté clinique Al Matar MARRAKECH Loudaya Loudaya Marrakech",
+   "phone": "+212 524 37 02 94",
+   "lat": 31.5952575,
+   "lng": -8.0289942,
+   "shift": "nuit",
+   "shift_label": "Pharmacies de nuit"
+  },
+  {
+   "name": "Pharmacie Acharaf",
+   "address": "872, Lot. Acharaf face école Acharaf et près Association Ennakhil de la Femme et l’Enfant Marrakech Kettara Kettara Marrakech",
+   "phone": "+212 524 30 40 46",
+   "lat": 31.6685293,
+   "lng": -8.0228105,
+   "shift": "nuit",
+   "shift_label": "Pharmacies de nuit"
+  },
+  {
+   "name": "Pharmacie Awatif",
+   "address": "Lot. Awatif Imm. A 1 Assif, près de l'école El Bachir et Mosquée Awatif MARRAKECH Kettara Kettara Marrakech",
+   "phone": "+212 524 33 12 93",
+   "lat": 31.6520744,
+   "lng": -8.0098026,
+   "shift": "nuit",
+   "shift_label": "Pharmacies de nuit"
+  },
+  {
+   "name": "Pharmacie Mansoura",
+   "address": "25, Av. Khalid Ben Walid Imm. Rachadi 150 m de l’Hôtel le Marrakech, vers les Sapeurs Pompiers Loudaya Loudaya Marrakech",
+   "phone": "+212 524 43 46 46",
+   "lat": 31.6316964,
+   "lng": -8.0034705,
+   "shift": "nuit",
+   "shift_label": "Pharmacies de nuit"
+  },
+  {
+   "name": "Pharmacie Les Jardins De Majorelle (ex. Zahia)",
+   "address": "Bd. My Abdellah (Ex.Safi) derrière Jardins de Majorelle, près du Musée Yves Saint Laurent et en face Club Justice Marrakech Kettara Kettara Marrakech",
+   "phone": "+212 524 30 12 11",
+   "lat": 31.6416541,
+   "lng": -8.0049777,
+   "shift": "nuit",
+   "shift_label": "Pharmacies de nuit"
+  },
+  {
+   "name": "Pharmacie Moukawama",
+   "address": "Av. Moukawama nouveaux Imm. des Militaires entre Hôpital militaire Avicenne et Coopérative Laitière MARRAKECH Kettara Kettara Marrakech",
+   "phone": "+212 524 43 23 18",
+   "lat": 31.633333,
+   "lng": -8.0,
+   "shift": "nuit",
+   "shift_label": "Pharmacies de nuit"
+  },
+  {
+   "name": "Pharmacie Unité Quatre",
+   "address": "450, au centre de l’Unité Quatre, devant l’école Aicha Oum al Mouminin et à côté de Mosquée l’Unité IV MARRAKECH Kettara Kettara Marrakech",
+   "phone": "+212 524 30 20 30",
+   "lat": 31.6564491978117,
+   "lng": -7.99974869206804,
+   "shift": "nuit",
+   "shift_label": "Pharmacies de nuit"
+  }
+ ],
+ "center": [
+  31.6288,
+  -8.0403
+ ]
+}

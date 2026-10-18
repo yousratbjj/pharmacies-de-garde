@@ -1,0 +1,23 @@
+{
+ "city": "ben-guerir",
+ "label": "Ben Guérir",
+ "date": "2026-10-18",
+ "source": "sahha.ma",
+ "source_url": "https://sahha.ma/pharmacie-de-garde/ben-guerir",
+ "kind": "roster",
+ "pharmacies": [
+  {
+   "name": "Pharmacie Al Warda",
+   "address": "150 Lotiss. Al Warda, Route Sebt Lbrikyyin",
+   "phone": "+212524318766",
+   "lat": 32.2389984,
+   "lng": -7.9581299,
+   "shift": "nuit",
+   "shift_label": ""
+  }
+ ],
+ "center": [
+  32.239,
+  -7.9581
+ ]
+}

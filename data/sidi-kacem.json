@@ -1,0 +1,23 @@
+{
+ "city": "sidi-kacem",
+ "label": "Sidi Kacem",
+ "date": "2026-10-18",
+ "source": "sahha.ma",
+ "source_url": "https://sahha.ma/pharmacie-de-garde/sidi-kacem",
+ "kind": "roster",
+ "pharmacies": [
+  {
+   "name": "Pharmacie Bir Anzarane",
+   "address": "78 Rue Bir Anzarane",
+   "phone": "+212537593598",
+   "lat": 34.2222833,
+   "lng": -5.7116333,
+   "shift": "24h",
+   "shift_label": ""
+  }
+ ],
+ "center": [
+  34.2223,
+  -5.7116
+ ]
+}

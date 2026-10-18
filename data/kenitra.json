@@ -1,0 +1,59 @@
+{
+ "city": "kenitra",
+ "label": "Kénitra",
+ "date": "2026-10-18",
+ "source": "sahha.ma",
+ "source_url": "https://sahha.ma/pharmacie-de-garde/kenitra",
+ "kind": "roster",
+ "pharmacies": [
+  {
+   "name": "Pharmacie Du Passage",
+   "address": "133, rte 206, arsat al cadi",
+   "phone": "+212537363162",
+   "lat": 34.269479,
+   "lng": -6.565106,
+   "shift": "24h",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie Lycée Mohammed V",
+   "address": "11 i lot T résid. Victoria",
+   "phone": "+212537386665",
+   "lat": 34.25546,
+   "lng": -6.56352,
+   "shift": "24h",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie Moderne",
+   "address": "rue jbala ang. rue loubnane, ville haute",
+   "phone": "+212537375907",
+   "lat": 34.2653658,
+   "lng": -6.5922376,
+   "shift": "24h",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie Sanae",
+   "address": "Pharmacie Sanae",
+   "phone": "+212537355655",
+   "lat": 34.266668,
+   "lng": -6.620997,
+   "shift": "24h",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie Tredano - El Bakkali",
+   "address": "Pharmacie Tredano - El Bakkali",
+   "phone": "+212537394969",
+   "lat": 34.2407379,
+   "lng": -6.6189958,
+   "shift": "24h",
+   "shift_label": ""
+  }
+ ],
+ "center": [
+  34.2595,
+  -6.5922
+ ]
+}

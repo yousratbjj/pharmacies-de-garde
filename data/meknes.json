@@ -1,0 +1,104 @@
+{
+ "city": "meknes",
+ "label": "Meknès",
+ "date": "2026-10-18",
+ "source": "sahha.ma",
+ "source_url": "https://sahha.ma/pharmacie-de-garde/meknes",
+ "kind": "roster",
+ "pharmacies": [
+  {
+   "name": "PHARMACIE 15 MARS",
+   "address": "23 lotiss. Al Bassatine - Autre ville Fathallah 3 Wislame Meknes",
+   "phone": "+212535506000",
+   "lat": 33.8848395,
+   "lng": -5.4943041,
+   "shift": "24h",
+   "shift_label": ""
+  },
+  {
+   "name": "PHARMACIE AL HIKMA",
+   "address": "63, rue Nador, hay Salam, Ouislane Meknes",
+   "phone": "+212535548835",
+   "lat": 33.9125728,
+   "lng": -5.4834253,
+   "shift": "24h",
+   "shift_label": ""
+  },
+  {
+   "name": "PHARMACIE ALISMAILIA",
+   "address": "hay Boujdour, sect 8 n°59, Bmo Meknes",
+   "phone": "+212535513668",
+   "lat": 33.90884,
+   "lng": -5.5329643,
+   "shift": "24h",
+   "shift_label": ""
+  },
+  {
+   "name": "PHARMACIE AL MAHAJ",
+   "address": "120 lotiss. Riad Al Omrane tranche 2 Ouislane Meknes",
+   "phone": "+212624589824",
+   "lat": 33.9004099,
+   "lng": -5.5485418,
+   "shift": "24h",
+   "shift_label": ""
+  },
+  {
+   "name": "PHARMACIE ARRAHMA",
+   "address": "86, lotiss. Riad Ouislane Meknes",
+   "phone": "+212625094244",
+   "lat": 33.8971861,
+   "lng": -5.4708502,
+   "shift": "24h",
+   "shift_label": ""
+  },
+  {
+   "name": "PHARMACIE BEN BOUZIANE",
+   "address": "24 lotiss. Boujidi Toulal Meknes",
+   "phone": "+212690820168",
+   "lat": 33.9083969,
+   "lng": -5.5514697,
+   "shift": "24h",
+   "shift_label": ""
+  },
+  {
+   "name": "PHARMACIE CHAHDIA",
+   "address": "lotiss. Chahdia, 3°tranche El Mansour n°291 Meknes",
+   "phone": "+212535462618",
+   "lat": 33.8687107,
+   "lng": -5.5898181,
+   "shift": "24h",
+   "shift_label": ""
+  },
+  {
+   "name": "PHARMACIE DIOUR ASSALAM",
+   "address": "138 hay Diour Essalam n°138 av Annasr Meknes",
+   "phone": "+212535552093",
+   "lat": 33.884693,
+   "lng": -5.5736387,
+   "shift": "24h",
+   "shift_label": ""
+  },
+  {
+   "name": "PHARMACIE DIOUR JDAD",
+   "address": "hay Bni Mhammed, diour Jdaf n°771, Sbata Meknes",
+   "phone": "+212535452925",
+   "lat": 33.899409,
+   "lng": -5.545867,
+   "shift": "24h",
+   "shift_label": ""
+  },
+  {
+   "name": "PHARMACIE ELBASSATINE",
+   "address": "bd Ahmed Benchekroune sect. A n.9 Elbassatine Meknes",
+   "phone": "+212535500723",
+   "lat": 33.8931019,
+   "lng": -5.5039221,
+   "shift": "24h",
+   "shift_label": ""
+  }
+ ],
+ "center": [
+  33.8958,
+  -5.5295
+ ]
+}

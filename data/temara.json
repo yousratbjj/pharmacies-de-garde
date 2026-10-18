@@ -1,0 +1,86 @@
+{
+ "city": "temara",
+ "label": "Témara",
+ "date": "2026-10-18",
+ "source": "sahha.ma",
+ "source_url": "https://sahha.ma/pharmacie-de-garde/temara",
+ "kind": "roster",
+ "pharmacies": [
+  {
+   "name": "Pharmacie Al Hiba",
+   "address": "lot 24h sect 5 n°126 massira 1",
+   "phone": "+212537609970",
+   "lat": 33.9337646,
+   "lng": -6.9021539,
+   "shift": "24h",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie Annassiha",
+   "address": "Pharmacie Annassiha",
+   "phone": "+212537560866",
+   "lat": 33.9410602,
+   "lng": -6.9003893,
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie Chifaa",
+   "address": "Pharmacie Chifaa",
+   "phone": "+212537741200",
+   "lat": 33.9221027,
+   "lng": -6.9198796,
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie Du Quartier",
+   "address": "Pharmacie Du Quartier",
+   "phone": "+212537600779",
+   "lat": 33.9227663,
+   "lng": -6.8976293,
+   "shift": "24h",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie Echoumoue",
+   "address": "Pharmacie Echoumoue",
+   "phone": "+212537611138",
+   "lat": 33.9140388,
+   "lng": -6.91741,
+   "shift": "24h",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie El Haq",
+   "address": "Pharmacie El Haq",
+   "phone": "+212537628349",
+   "lat": 33.9171982,
+   "lng": -6.9238,
+   "shift": "24h",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie Regragui",
+   "address": "Pharmacie Regragui",
+   "phone": "+212537744305",
+   "lat": 33.9249943,
+   "lng": -6.9547173,
+   "shift": "24h",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie ATLANTIQUE",
+   "address": "257, Rue Casablanca (En face Restaurant Miramar)",
+   "phone": "+212537747728",
+   "lat": 33.946556,
+   "lng": -6.933083,
+   "shift": "24h",
+   "shift_label": ""
+  }
+ ],
+ "center": [
+  33.9278,
+  -6.9186
+ ]
+}

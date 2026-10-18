@@ -1,0 +1,104 @@
+{
+ "city": "safi",
+ "label": "Safi",
+ "date": "2026-10-18",
+ "source": "sahha.ma",
+ "source_url": "https://sahha.ma/pharmacie-de-garde/safi",
+ "kind": "roster",
+ "pharmacies": [
+  {
+   "name": "Pharmacie Aabid",
+   "address": "Pharmacie Aabid",
+   "phone": "+212524651082",
+   "lat": 32.2691833,
+   "lng": -9.2438667,
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie Arrazi",
+   "address": "Pharmacie Arrazi",
+   "phone": "+212524622379",
+   "lat": 32.2936333,
+   "lng": -9.2351833,
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie Charadi",
+   "address": "259, av. Ibn Battouta, Azib Draï",
+   "phone": "+212524622204",
+   "lat": 32.2937667,
+   "lng": -9.2216333,
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie Chenguit",
+   "address": "11 Lot. Rida Sidi Abdelkerim",
+   "phone": "+212524668429",
+   "lat": 32.3129859,
+   "lng": -9.2240204,
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie ElHassania",
+   "address": "5, rue Kobba , Sidi Ouassel",
+   "phone": "+212524650189",
+   "lat": 32.2642787,
+   "lng": -9.2444923,
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie Galinos",
+   "address": "37, Quartier Aviation",
+   "phone": "+212524653213",
+   "lat": 32.2811667,
+   "lng": -9.2433167,
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie Imam Malik",
+   "address": "Pharmacie Imam Malik",
+   "phone": "+212524611654",
+   "lat": 32.28455,
+   "lng": -9.2372333,
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie Jawhar",
+   "address": "417 lotiss. Jenane - q. sidi Abdelkarim jardin de Safi",
+   "phone": "+212524666241",
+   "lat": 32.321149,
+   "lng": -9.231348,
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie Rahali",
+   "address": "2 hay Sidi Bouzid grpe 1 local Al Hikma",
+   "phone": "+212524663556",
+   "lat": 32.31976,
+   "lng": -9.24972,
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie Sandali",
+   "address": "159, rue Al Qods , hay Saâda, Azib Derai",
+   "phone": "+212524626326",
+   "lat": 32.2968536,
+   "lng": -9.2215286,
+   "shift": "jour",
+   "shift_label": ""
+  }
+ ],
+ "center": [
+  32.2937,
+  -9.2352
+ ]
+}

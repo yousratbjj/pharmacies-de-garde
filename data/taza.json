@@ -1,0 +1,32 @@
+{
+ "city": "taza",
+ "label": "Taza",
+ "date": "2026-10-18",
+ "source": "sahha.ma",
+ "source_url": "https://sahha.ma/pharmacie-de-garde/taza",
+ "kind": "roster",
+ "pharmacies": [
+  {
+   "name": "Pharmacie Al Baladia",
+   "address": "24 lotiss. Annahda II Oued Amlil",
+   "phone": "+212535275659",
+   "lat": 34.217343,
+   "lng": -4.008602,
+   "shift": "24h",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie Anouar La Sophal",
+   "address": "26 hay Anouar",
+   "phone": "+212535285190",
+   "lat": 34.2257333,
+   "lng": -4.00405,
+   "shift": "24h",
+   "shift_label": ""
+  }
+ ],
+ "center": [
+  34.2215,
+  -4.0063
+ ]
+}

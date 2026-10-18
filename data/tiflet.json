@@ -1,0 +1,23 @@
+{
+ "city": "tiflet",
+ "label": "Tiflet",
+ "date": "2026-10-18",
+ "source": "sahha.ma",
+ "source_url": "https://sahha.ma/pharmacie-de-garde/tiflet",
+ "kind": "roster",
+ "pharmacies": [
+  {
+   "name": "PHARMACIE ANDALOUS",
+   "address": "hay Andalous résid. la Mosquée",
+   "phone": "+212522765713",
+   "lat": 33.8941908,
+   "lng": -6.3278453,
+   "shift": "",
+   "shift_label": ""
+  }
+ ],
+ "center": [
+  33.8942,
+  -6.3278
+ ]
+}

@@ -1,0 +1,23 @@
+{
+ "city": "azrou",
+ "label": "Azrou",
+ "date": "2026-10-18",
+ "source": "sahha.ma",
+ "source_url": "https://sahha.ma/pharmacie-de-garde/azrou",
+ "kind": "roster",
+ "pharmacies": [
+  {
+   "name": "Pharmacie Hanane",
+   "address": "143, rue Mauritanie , Kechla",
+   "phone": "+212535561417",
+   "lat": 33.4316207,
+   "lng": -5.2239015,
+   "shift": "24h",
+   "shift_label": ""
+  }
+ ],
+ "center": [
+  33.4316,
+  -5.2239
+ ]
+}

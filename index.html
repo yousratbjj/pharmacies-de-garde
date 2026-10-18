@@ -16,6 +16,7 @@
   #map .maplibregl-canvas { outline: none; }
   .bar { display: flex; gap: 8px; align-items: center; padding: 10px 16px; background: #fff; border-bottom: 1px solid #e3e6ea; flex-wrap: wrap; }
   .bar button { background: #0d5c2e; color: #fff; border: 0; border-radius: 999px; padding: 10px 18px; font-size: 15px; cursor: pointer; }
+  .bar select { font-size: 15px; padding: 10px 12px; border-radius: 999px; border: 1px solid #cfd4da; background: #fff; color: #1a1a1a; font-family: inherit; cursor: pointer; max-width: 44vw; }
   .bar button:disabled { opacity: .6; }
   #status { font-size: 13px; color: #555; }
   .legend { display: flex; gap: 12px; padding: 8px 16px; font-size: 13px; background: #fff; border-bottom: 1px solid #e3e6ea; flex-wrap: wrap; }
@@ -50,11 +51,12 @@
 </head>
 <body>
 <header>
-  <h1>Pharmacies de garde &ndash; Tanger</h1>
+  <h1>Pharmacies de garde &ndash; <span id="cityName">Tanger</span></h1>
   <p>La carte vous localise et classe les pharmacies de garde de la plus proche &agrave; la plus &eacute;loign&eacute;e.</p>
 </header>
 <div id="map"></div>
 <div class="bar">
+  <select id="citySel" aria-label="Choisir la ville"></select>
   <button id="locateBtn">&#128205; Me localiser</button>
   <button id="refreshBtn">&#10227; Actualiser les donn&eacute;es</button>
   <span id="status">Touchez &laquo;&nbsp;Me localiser&nbsp;&raquo; pour classer les pharmacies par distance.</span>
@@ -72,8 +74,8 @@
 </div>
 <ul id="list"></ul>
 <footer>
-  <span id="datasrc">Donn&eacute;es relev&eacute;es le 09/10/2026</span> &ndash; les gardes changent r&eacute;guli&egrave;rement.
-  Source&nbsp;: <a href="https://www.infopoint.ma/pharmacies-de-garde">infopoint.ma/pharmacies-de-garde</a> (Tanger uniquement).
+  <span id="datasrc">Donn&eacute;es relev&eacute;es le 09/10/2026</span><br>
+  Source&nbsp;: <a id="srcLink" href="https://www.infopoint.ma/pharmacies-de-garde">infopoint.ma</a>.
 </footer>
 <script>/* MapLibre GL JS v4 inlined */
 /**
@@ -203,6 +205,79 @@ function havKm(a, b, c, d) {
   return 2 * R * Math.asin(Math.sqrt(h));
 }
 
+const CITY_LIST = [{"slug": "tanger", "label": "Tanger", "source": "infopoint.ma", "source_url": "https://www.infopoint.ma/pharmacies-de-garde", "kind": "roster"}, {"slug": "agadir", "label": "Agadir", "source": "sahha.ma", "source_url": "https://sahha.ma/pharmacie-de-garde/agadir", "kind": "roster"}, {"slug": "ait-melloul", "label": "Aït Melloul", "source": "sahha.ma", "source_url": "https://sahha.ma/pharmacie-de-garde/ait-melloul", "kind": "roster"}, {"slug": "al-arrui", "label": "Al Arrui", "source": "sahha.ma", "source_url": "https://sahha.ma/pharmacie-de-garde/al-arrui", "kind": "roster"}, {"slug": "al-hoceima", "label": "Al Hoceïma", "source": "sahha.ma", "source_url": "https://sahha.ma/pharmacie-de-garde/al-hoceima", "kind": "roster"}, {"slug": "azrou", "label": "Azrou", "source": "sahha.ma", "source_url": "https://sahha.ma/pharmacie-de-garde/azrou", "kind": "roster"}, {"slug": "ben-guerir", "label": "Ben Guérir", "source": "sahha.ma", "source_url": "https://sahha.ma/pharmacie-de-garde/ben-guerir", "kind": "roster"}, {"slug": "beni-mellal", "label": "Béni Mellal", "source": "sahha.ma", "source_url": "https://sahha.ma/pharmacie-de-garde/beni-mellal", "kind": "roster"}, {"slug": "berkane", "label": "Berkane", "source": "sahha.ma", "source_url": "https://sahha.ma/pharmacie-de-garde/berkane", "kind": "roster"}, {"slug": "biougra", "label": "Biougra", "source": "sahha.ma", "source_url": "https://sahha.ma/pharmacie-de-garde/biougra", "kind": "roster"}, {"slug": "boujad", "label": "Boujad", "source": "sahha.ma", "source_url": "https://sahha.ma/pharmacie-de-garde/boujad", "kind": "roster"}, {"slug": "casablanca", "label": "Casablanca", "source": "sahha.ma", "source_url": "https://sahha.ma/pharmacie-de-garde/casablanca", "kind": "roster"}, {"slug": "chefchaouen", "label": "Chefchaouen", "source": "sahha.ma", "source_url": "https://sahha.ma/pharmacie-de-garde/chefchaouen", "kind": "roster"}, {"slug": "dcheira", "label": "Dcheira El Jihadia", "source": "sahha.ma", "source_url": "https://sahha.ma/pharmacie-de-garde/dcheira", "kind": "roster"}, {"slug": "el-jadida", "label": "El Jadida", "source": "sahha.ma", "source_url": "https://sahha.ma/pharmacie-de-garde/el-jadida", "kind": "roster"}, {"slug": "errachidia", "label": "Errachidia", "source": "sahha.ma", "source_url": "https://sahha.ma/pharmacie-de-garde/errachidia", "kind": "roster"}, {"slug": "fes", "label": "Fès", "source": "sahha.ma", "source_url": "https://sahha.ma/pharmacie-de-garde/fes", "kind": "roster"}, {"slug": "guelmim", "label": "Guelmim", "source": "sahha.ma", "source_url": "https://sahha.ma/pharmacie-de-garde/guelmim", "kind": "roster"}, {"slug": "guercif", "label": "Guercif", "source": "sahha.ma", "source_url": "https://sahha.ma/pharmacie-de-garde/guercif", "kind": "roster"}, {"slug": "inezgane", "label": "Inezgane", "source": "sahha.ma", "source_url": "https://sahha.ma/pharmacie-de-garde/inezgane", "kind": "roster"}, {"slug": "kenitra", "label": "Kénitra", "source": "sahha.ma", "source_url": "https://sahha.ma/pharmacie-de-garde/kenitra", "kind": "roster"}, {"slug": "khemisset", "label": "Khémisset", "source": "sahha.ma", "source_url": "https://sahha.ma/pharmacie-de-garde/khemisset", "kind": "roster"}, {"slug": "khenifra", "label": "Khénifra", "source": "sahha.ma", "source_url": "https://sahha.ma/pharmacie-de-garde/khenifra", "kind": "roster"}, {"slug": "khouribga", "label": "Khouribga", "source": "sahha.ma", "source_url": "https://sahha.ma/pharmacie-de-garde/khouribga", "kind": "roster"}, {"slug": "ksar-el-kebir", "label": "Ksar El Kebir", "source": "sahha.ma", "source_url": "https://sahha.ma/pharmacie-de-garde/ksar-el-kebir", "kind": "roster"}, {"slug": "laayoune", "label": "Laâyoune", "source": "sahha.ma", "source_url": "https://sahha.ma/pharmacie-de-garde/laayoune", "kind": "roster"}, {"slug": "larache", "label": "Larache", "source": "sahha.ma", "source_url": "https://sahha.ma/pharmacie-de-garde/larache", "kind": "roster"}, {"slug": "marrakech", "label": "Marrakech", "source": "sahha.ma", "source_url": "https://sahha.ma/pharmacie-de-garde/marrakech", "kind": "roster"}, {"slug": "mechraa-bel-ksiri", "label": "Mechraâ Bel Ksiri", "source": "sahha.ma", "source_url": "https://sahha.ma/pharmacie-de-garde/mechraa-bel-ksiri", "kind": "roster"}, {"slug": "meknes", "label": "Meknès", "source": "sahha.ma", "source_url": "https://sahha.ma/pharmacie-de-garde/meknes", "kind": "roster"}, {"slug": "mrirt", "label": "Mrirt", "source": "sahha.ma", "source_url": "https://sahha.ma/pharmacie-de-garde/mrirt", "kind": "roster"}, {"slug": "nador", "label": "Nador", "source": "sahha.ma", "source_url": "https://sahha.ma/pharmacie-de-garde/nador", "kind": "roster"}, {"slug": "ouarzazate", "label": "Ouarzazate", "source": "sahha.ma", "source_url": "https://sahha.ma/pharmacie-de-garde/ouarzazate", "kind": "roster"}, {"slug": "ouazzane", "label": "Ouezzane", "source": "sahha.ma", "source_url": "https://sahha.ma/pharmacie-de-garde/ouazzane", "kind": "roster"}, {"slug": "oued-zem", "label": "Oued Zem", "source": "sahha.ma", "source_url": "https://sahha.ma/pharmacie-de-garde/oued-zem", "kind": "roster"}, {"slug": "oujda", "label": "Oujda", "source": "sahha.ma", "source_url": "https://sahha.ma/pharmacie-de-garde/oujda", "kind": "roster"}, {"slug": "rabat", "label": "Rabat", "source": "sahha.ma", "source_url": "https://sahha.ma/pharmacie-de-garde/rabat", "kind": "roster"}, {"slug": "safi", "label": "Safi", "source": "sahha.ma", "source_url": "https://sahha.ma/pharmacie-de-garde/safi", "kind": "roster"}, {"slug": "sale", "label": "Salé", "source": "sahha.ma", "source_url": "https://sahha.ma/pharmacie-de-garde/sale", "kind": "roster"}, {"slug": "sefrou", "label": "Sefrou", "source": "sahha.ma", "source_url": "https://sahha.ma/pharmacie-de-garde/sefrou", "kind": "roster"}, {"slug": "selouane", "label": "Selouane", "source": "sahha.ma", "source_url": "https://sahha.ma/pharmacie-de-garde/selouane", "kind": "roster"}, {"slug": "sidi-kacem", "label": "Sidi Kacem", "source": "sahha.ma", "source_url": "https://sahha.ma/pharmacie-de-garde/sidi-kacem", "kind": "roster"}, {"slug": "sidi-slimane", "label": "Sidi Slimane", "source": "sahha.ma", "source_url": "https://sahha.ma/pharmacie-de-garde/sidi-slimane", "kind": "roster"}, {"slug": "souk-el-arba-du-gharb", "label": "Souk El Arba du Gharb", "source": "sahha.ma", "source_url": "https://sahha.ma/pharmacie-de-garde/souk-el-arba-du-gharb", "kind": "roster"}, {"slug": "tahla", "label": "Tahla", "source": "sahha.ma", "source_url": "https://sahha.ma/pharmacie-de-garde/tahla", "kind": "roster"}, {"slug": "tamesna", "label": "Tamesna", "source": "sahha.ma", "source_url": "https://sahha.ma/pharmacie-de-garde/tamesna", "kind": "roster"}, {"slug": "taourirt", "label": "Taourirt", "source": "sahha.ma", "source_url": "https://sahha.ma/pharmacie-de-garde/taourirt", "kind": "roster"}, {"slug": "taza", "label": "Taza", "source": "sahha.ma", "source_url": "https://sahha.ma/pharmacie-de-garde/taza", "kind": "roster"}, {"slug": "temara", "label": "Témara", "source": "sahha.ma", "source_url": "https://sahha.ma/pharmacie-de-garde/temara", "kind": "roster"}, {"slug": "tetouan", "label": "Tétouan", "source": "sahha.ma", "source_url": "https://sahha.ma/pharmacie-de-garde/tetouan", "kind": "roster"}, {"slug": "tiflet", "label": "Tiflet", "source": "sahha.ma", "source_url": "https://sahha.ma/pharmacie-de-garde/tiflet", "kind": "roster"}, {"slug": "tikiouine", "label": "Tikiouine", "source": "sahha.ma", "source_url": "https://sahha.ma/pharmacie-de-garde/tikiouine", "kind": "roster"}, {"slug": "tinghir", "label": "Tinghir", "source": "sahha.ma", "source_url": "https://sahha.ma/pharmacie-de-garde/tinghir", "kind": "roster"}, {"slug": "tiznit", "label": "Tiznit", "source": "sahha.ma", "source_url": "https://sahha.ma/pharmacie-de-garde/tiznit", "kind": "roster"}, {"slug": "youssoufia", "label": "Youssoufia", "source": "sahha.ma", "source_url": "https://sahha.ma/pharmacie-de-garde/youssoufia", "kind": "roster"}, {"slug": "zagora", "label": "Zagora", "source": "sahha.ma", "source_url": "https://sahha.ma/pharmacie-de-garde/zagora", "kind": "roster"}, {"slug": "zeghanghane", "label": "Zeghanghane", "source": "sahha.ma", "source_url": "https://sahha.ma/pharmacie-de-garde/zeghanghane", "kind": "roster"}, {"slug": "al-kelaa-des-sraghna", "label": "El Kelaâ des Sraghna", "source": "med.ma", "source_url": "https://www.med.ma/pharmacy/day-time/al-kelaa-des-sraghna", "kind": "directory"}, {"slug": "azilal", "label": "Azilal", "source": "med.ma", "source_url": "https://www.med.ma/pharmacy/day-time/azilal", "kind": "directory"}, {"slug": "benslimane", "label": "Ben Slimane", "source": "med.ma", "source_url": "https://www.med.ma/pharmacy/day-time/benslimane", "kind": "directory"}, {"slug": "boulemane", "label": "Boulemane", "source": "med.ma", "source_url": "https://www.med.ma/pharmacy/day-time/boulemane", "kind": "directory"}, {"slug": "chichaoua", "label": "Chichaoua", "source": "med.ma", "source_url": "https://www.med.ma/pharmacy/day-time/chichaoua", "kind": "directory"}, {"slug": "essaouira", "label": "Essaouira", "source": "med.ma", "source_url": "https://www.med.ma/pharmacy/day-time/essaouirra", "kind": "directory"}, {"slug": "figuig", "label": "Figuig", "source": "med.ma", "source_url": "https://www.med.ma/pharmacy/day-time/figuig", "kind": "directory"}, {"slug": "ifrane", "label": "Ifrane", "source": "med.ma", "source_url": "https://www.med.ma/pharmacy/day-time/ifrane", "kind": "directory"}, {"slug": "mohammedia", "label": "Mohammedia", "source": "med.ma", "source_url": "https://www.med.ma/pharmacy/day-time/mohammedia", "kind": "directory"}, {"slug": "settat", "label": "Settat", "source": "med.ma", "source_url": "https://www.med.ma/pharmacy/day-time/settat", "kind": "directory"}, {"slug": "tan-tan", "label": "Tan-Tan", "source": "med.ma", "source_url": "https://www.med.ma/pharmacy/day-time/tan-tan", "kind": "directory"}, {"slug": "taounate", "label": "Taounate", "source": "med.ma", "source_url": "https://www.med.ma/pharmacy/day-time/taounate", "kind": "directory"}, {"slug": "taroudannt", "label": "Taroudant", "source": "med.ma", "source_url": "https://www.med.ma/pharmacy/day-time/taroudannt", "kind": "directory"}, {"slug": "tata", "label": "Tata", "source": "med.ma", "source_url": "https://www.med.ma/pharmacy/day-time/tata", "kind": "directory"}];
+const EMBEDDED_PHARMACIES = PHARMACIES.slice();
+let city = 'tanger';
+try {
+  const s = localStorage.getItem('pg_city');
+  if (s && CITY_LIST.some(c => c.slug === s)) city = s;
+} catch (e) {}
+let cityMeta = null;
+function cityEntry(slug) { return CITY_LIST.find(c => c.slug === slug) || CITY_LIST[0]; }
+function initCitySel() {
+  const sel = document.getElementById('citySel');
+  CITY_LIST.forEach(c => {
+    const o = document.createElement('option');
+    o.value = c.slug; o.textContent = c.label;
+    sel.appendChild(o);
+  });
+  sel.value = city;
+  sel.addEventListener('change', () => loadCity(sel.value, true));
+}
+function setCityMetaFromPayload(payload) {
+  cityMeta = { slug: payload.city, label: payload.label, source: payload.source,
+    source_url: payload.source_url, kind: payload.kind || 'roster',
+    date: isoToFr(payload.date), center: payload.center };
+}
+function updateFooter() {
+  if (!cityMeta) return;
+  const kindTxt = cityMeta.kind === 'directory'
+    ? 'Annuaire des pharmacies \u2014 ' + cityMeta.label
+    : 'Garde du ' + cityMeta.date + ' \u2014 ' + cityMeta.label;
+  document.getElementById('datasrc').textContent = kindTxt;
+  const l = document.getElementById('srcLink');
+  l.href = cityMeta.source_url; l.textContent = cityMeta.source;
+}
+function loadCity(slug, save) {
+  city = slug;
+  if (save) { try { localStorage.setItem('pg_city', slug); } catch (e) {} }
+  document.getElementById('citySel').value = slug;
+  const meta = cityEntry(slug);
+  document.getElementById('cityName').textContent = meta.label;
+  setDataSrc('Chargement des donn\u00e9es de ' + meta.label + '\u2026');
+  fetchWithTimeout('data/' + slug + '.json?v=' + Date.now(), 15000).then(t => {
+    const payload = JSON.parse(t);
+    if (!payload || !payload.pharmacies || !payload.pharmacies.length) throw new Error('empty');
+    setCityMetaFromPayload(payload);
+    PHARMACIES = payload.pharmacies;
+    selectedShift = null;
+    if (cityMeta.center) map.easeTo({ center: [cityMeta.center[1], cityMeta.center[0]], zoom: 12 });
+    render(lastUserLL);
+    updateFooter();
+  }).catch(e => {
+    if (slug !== 'tanger' && EMBEDDED_PHARMACIES.length) { loadCityEmbeddedTanger(); return; }
+    setDataSrc('Donn\u00e9es indisponibles pour ' + meta.label + '.');
+  });
+}
+function loadCityEmbeddedTanger() {
+  city = 'tanger';
+  try { localStorage.setItem('pg_city', 'tanger'); } catch (e) {}
+  document.getElementById('citySel').value = 'tanger';
+  document.getElementById('cityName').textContent = 'Tanger';
+  PHARMACIES = EMBEDDED_PHARMACIES.slice();
+  selectedShift = null;
+  cityMeta = { slug: 'tanger', label: 'Tanger', source: 'infopoint.ma',
+    source_url: 'https://www.infopoint.ma/pharmacies-de-garde', kind: 'roster',
+    date: EMBEDDED_DATE, center: TANGER };
+  render(lastUserLL);
+  updateFooter();
+  setDataSrc('Donn\u00e9es du ' + EMBEDDED_DATE + ' (mode hors-ligne).');
+}
+/* ---- Gardes : s\u00e9lecteur Jour / Nuit / 24h/24 ---- */
+function shiftOrder(k) { return k === 'jour' ? 0 : k === 'nuit' ? 1 : k === '24h' ? 2 : 3; }
+function shiftIcon(k) { return k === 'nuit' ? '&#127769;' : k === '24h' ? '&#9196;' : '&#9728;&#65039;'; }
+function shiftName(k) { return k === 'nuit' ? 'Nuit' : k === '24h' ? '24h/24' : 'Jour'; }
+
 /* ---- Gardes jour / nuit : la page source publie deux plannings ---- */
 const MOIS_FR = {janvier:0, fevrier:1, 'f\u00e9vrier':1, mars:2, avril:3, mai:4, juin:5,
   juillet:6, aout:7, 'ao\u00fbt':7, septembre:8, octobre:9, novembre:10, decembre:11, 'd\u00e9cembre':11};
@@ -249,25 +324,32 @@ function groupStatus(g, now) {
   return { st: 'ended', txt: 'Garde termin\u00e9e' };
 }
 function shiftGroups() {
-  const order = [], byKey = {}, ungrouped = [];
+  const byKey = {}, ungrouped = [];
   PHARMACIES.forEach(p => {
     const k = p.shift || '';
     if (!k) { ungrouped.push(p); return; }
-    if (!byKey[k]) { byKey[k] = { key: k, label: p.shift_label || '', items: [] }; order.push(byKey[k]); }
+    if (!byKey[k]) byKey[k] = { key: k, label: p.shift_label || '', items: [] };
     byKey[k].items.push(p);
   });
+  const order = Object.keys(byKey).map(k => byKey[k])
+    .sort((a, b) => shiftOrder(a.key) - shiftOrder(b.key));
   if (!order.length) return []; // aucune info de garde : tout afficher, sans s\u00e9lecteur
   order.forEach(g => { g.items = g.items.concat(ungrouped); });
   return order;
 }
 function defaultShift(groups) {
   const now = new Date();
-  const active = groups.filter(g => groupStatus(g, now).st === 'active');
+  const timed = groups.filter(g => parseShiftWindows(g.label));
+  const active = timed.filter(g => groupStatus(g, now).st === 'active');
   if (active.length) {
     // chevauchement (ex. dimanche 13h-16h) : priorit\u00e9 \u00e0 la garde de jour
-    active.sort((a, b) => (a.key === 'jour' ? 0 : 1) - (b.key === 'jour' ? 0 : 1));
+    active.sort((a, b) => shiftOrder(a.key) - shiftOrder(b.key));
     return active[0].key;
   }
+  // heuristique horaire : 9h-20h -> jour, sinon nuit
+  const h = now.getHours();
+  const prefer = (h >= 9 && h < 20) ? 'jour' : 'nuit';
+  if (groups.some(g => g.key === prefer)) return prefer;
   return groups[0].key;
 }
 function buildShiftBar() {
@@ -284,17 +366,26 @@ function buildShiftBar() {
   info.className = 'shiftInfo';
   groups.forEach(g => {
     const st = groupStatus(g, now);
+    const timed = !!parseShiftWindows(g.label);
     const b = document.createElement('button');
     b.className = 'shiftPill' + (g.key === selectedShift ? ' sel' : '');
-    const icon = g.key === 'nuit' ? '&#127769;' : '&#9728;&#65039;';
-    const name = g.key === 'nuit' ? 'Nuit' : 'Jour';
-    b.innerHTML = icon + ' <b>' + name + '</b>' +
-      (st.st === 'active' ? ' <span class="liveDot">EN COURS</span>' : '');
+    b.innerHTML = shiftIcon(g.key) + ' <b>' + shiftName(g.key) + '</b>' +
+      (timed && st.st === 'active' ? ' <span class="liveDot">EN COURS</span>' : '');
     b.addEventListener('click', () => { selectedShift = g.key; render(lastUserLL); });
     pills.appendChild(b);
     if (g.key === selectedShift) {
-      info.innerHTML = '<span class="shiftLabel">' + escapeHtml(g.label) + '</span>' +
-        (st.txt ? ' &mdash; <span class="shiftState ' + st.st + '">' + escapeHtml(st.txt) + '</span>' : '');
+      let infoHtml;
+      if (timed) {
+        infoHtml = '<span class="shiftLabel">' + escapeHtml(g.label) + '</span>' +
+          (st.txt ? ' &mdash; <span class="shiftState ' + st.st + '">' + escapeHtml(st.txt) + '</span>' : '');
+      } else if (cityMeta && cityMeta.kind === 'directory') {
+        infoHtml = '<span class="shiftLabel">' + escapeHtml(g.label || shiftName(g.key)) + '</span> &mdash; annuaire';
+      } else if (cityMeta) {
+        infoHtml = '<span class="shiftLabel">Garde du ' + escapeHtml(cityMeta.date) + '</span>';
+      } else {
+        infoHtml = '';
+      }
+      info.innerHTML = infoHtml;
     }
   });
   bar.appendChild(pills);
@@ -308,9 +399,10 @@ function render(userLatLng) {
   const list = document.getElementById('list');
   list.innerHTML = '';
   buildShiftBar();
-  const visible = selectedShift
-    ? PHARMACIES.filter(p => (p.shift || '') === selectedShift || !(p.shift || ''))
-    : PHARMACIES;
+  const visible = !selectedShift ? PHARMACIES : PHARMACIES.filter(p => {
+    const s = p.shift || '';
+    return !s || s === selectedShift || (selectedShift !== '24h' && s === '24h');
+  });
   const items = visible.map(p => {
     const km = userLatLng ? havKm(userLatLng[0], userLatLng[1], p.lat, p.lng) : null;
     return Object.assign({ km }, p);
@@ -524,33 +616,41 @@ function applyLiveData(data, dateLabel) {
 async function tryLiveRefresh(manual) {
   if (manual) refreshBtn.disabled = true;
   setDataSrc('Recherche des données du jour…');
-  // 0. Fichier JSON fourni avec l'appli (GitHub Pages) : toujours frais, sans blocage.
+  const slug = city;
   try {
-    const r = await fetchWithTimeout('pharmacies.json?v=' + Date.now(), 10000);
+    const r = await fetchWithTimeout('data/' + slug + '.json?v=' + Date.now(), 10000);
     const payload = JSON.parse(r);
-    const data = payload && payload.pharmacies;
-    if (data && data.length > 0) {
-      applyLiveData(data, isoToFr(payload.date));
+    if (payload && payload.pharmacies && payload.pharmacies.length) {
+      setCityMetaFromPayload(payload);
+      PHARMACIES = payload.pharmacies;
+      selectedShift = null;
+      render(lastUserLL);
+      updateFooter();
+      setDataSrc((cityMeta.kind === 'directory' ? 'Annuaire actualisé' : 'Données actualisées') +
+        ' (' + cityMeta.date + ') – ' + payload.pharmacies.length + ' pharmacies.');
       if (manual) refreshBtn.disabled = false;
       return;
     }
-  } catch (e) { /* continuer vers les autres sources */ }
-  for (const px of PROXIES) {
-    try {
-      const text = await fetchWithTimeout(px(SOURCE_URL), 12000);
-      const data = parseCards(text);
-      if (data.length > 0) {
-        applyLiveData(data, todayFr());
-        if (manual) refreshBtn.disabled = false;
-        return;
-      }
-    } catch (e) { /* proxy suivant */ }
+  } catch (e) { /* repli ci-dessous */ }
+  if (slug === 'tanger') {
+    // Tanger : repli vers le scraping direct via proxys (parseCards gère les gardes jour/nuit)
+    for (const px of PROXIES) {
+      try {
+        const text = await fetchWithTimeout(px(SOURCE_URL), 12000);
+        const data = parseCards(text);
+        if (data.length > 0) {
+          applyLiveData(data, todayFr());
+          if (manual) refreshBtn.disabled = false;
+          return;
+        }
+      } catch (e) { /* proxy suivant */ }
+    }
   }
   if (manual) {
     refreshBtn.disabled = false;
-    setDataSrc('Le site bloque la récupération automatique – données du ' + EMBEDDED_DATE + ' affichées. Téléchargez le fichier du jour pour la dernière version.');
+    setDataSrc('Actualisation impossible – données affichées inchangées.');
   } else {
-    setDataSrc('Données du ' + EMBEDDED_DATE + ' (mode hors-ligne).');
+    setDataSrc('Données du ' + (cityMeta ? cityMeta.date : EMBEDDED_DATE) + ' (mode hors-ligne).');
   }
 }
 refreshBtn.addEventListener('click', () => tryLiveRefresh(true));
@@ -559,9 +659,9 @@ document.getElementById('list').addEventListener('click', e => {
   if (b) routeTo(parseFloat(b.dataset.lat), parseFloat(b.dataset.lng), b.dataset.name);
 });
 
-render(null);
+initCitySel();
+loadCity(city);
 locate();
-tryLiveRefresh(false);
 })();
 </script>
 </body>

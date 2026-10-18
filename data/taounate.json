@@ -1,0 +1,77 @@
+{
+ "city": "taounate",
+ "label": "Taounate",
+ "date": "2026-10-18",
+ "source": "med.ma",
+ "source_url": "https://www.med.ma/pharmacy/day-time/taounate",
+ "kind": "directory",
+ "pharmacies": [
+  {
+   "name": "Pharmacie Atlas",
+   "address": "51 av. Dakhla q. Atlas Tétouan Chefchaouen Chefchaouen Tetouan",
+   "phone": "+212 539 97 23 68",
+   "lat": 35.569451,
+   "lng": -5.3516074,
+   "shift": "jour",
+   "shift_label": "Pharmacies de jour"
+  },
+  {
+   "name": "Pharmacie Bab Saïda",
+   "address": "24 rue Sloukia Sidi Saïdi Tetouan Martil Martil Tetouan",
+   "phone": "+212 539 99 71 51",
+   "lat": 35.57303333333,
+   "lng": -5.364233333333,
+   "shift": "jour",
+   "shift_label": "Pharmacies de jour"
+  },
+  {
+   "name": "Pharmacie Khalladi",
+   "address": "271 rue Kaboule Tetouan Martil Martil Tetouan",
+   "phone": "+212 539 97 41 23",
+   "lat": 35.5800329,
+   "lng": -5.3541641,
+   "shift": "jour",
+   "shift_label": "Pharmacies de jour"
+  },
+  {
+   "name": "Pharmacie Wilaya Center",
+   "address": "5 rue Caire - Autre ville imm Nouria Tetouan Martil Martil Tetouan",
+   "phone": "+212 808 51 94 68",
+   "lat": 35.5871023,
+   "lng": -5.3426023,
+   "shift": "jour",
+   "shift_label": "Pharmacies de jour"
+  },
+  {
+   "name": "Pharmacie M'diq",
+   "address": "Avenue Lalla Nouzha, Route de Sebta, 3 El Marsa Mdiq Tetouan",
+   "phone": "+212 539 97 50 38",
+   "lat": 35.6870405921892,
+   "lng": -5.32440561809684,
+   "shift": "jour",
+   "shift_label": "Pharmacies de jour"
+  },
+  {
+   "name": "Pharmacie River",
+   "address": "29 bd Neuf Avril Tétouan - Maroc Chefchaouen Chefchaouen Tetouan",
+   "phone": "+212 539 72 55 60",
+   "lat": 35.5655338,
+   "lng": -5.3517278,
+   "shift": "nuit",
+   "shift_label": "Pharmacies de nuit"
+  },
+  {
+   "name": "Pharmacie sordo",
+   "address": "2, rue mohammed torres Tetouan Martil Martil Tetouan",
+   "phone": "+212 539 96 03 36",
+   "lat": 35.5696613,
+   "lng": -5.3704129,
+   "shift": "nuit",
+   "shift_label": "Pharmacies de nuit"
+  }
+ ],
+ "center": [
+  35.5903,
+  -5.3513
+ ]
+}

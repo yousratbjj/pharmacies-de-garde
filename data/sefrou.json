@@ -1,0 +1,32 @@
+{
+ "city": "sefrou",
+ "label": "Sefrou",
+ "date": "2026-10-18",
+ "source": "sahha.ma",
+ "source_url": "https://sahha.ma/pharmacie-de-garde/sefrou",
+ "kind": "roster",
+ "pharmacies": [
+  {
+   "name": "Pharmacie Khalil",
+   "address": "Pharmacie Khalil",
+   "phone": "+212535660737",
+   "lat": 33.82943,
+   "lng": -4.8253,
+   "shift": "nuit",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie Sidi Ahmed Tadli",
+   "address": "318, bd Abdelkrim Khattabi",
+   "phone": "+212535660348",
+   "lat": 33.831753,
+   "lng": -4.8439886,
+   "shift": "nuit",
+   "shift_label": ""
+  }
+ ],
+ "center": [
+  33.8306,
+  -4.8346
+ ]
+}

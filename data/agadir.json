@@ -1,0 +1,95 @@
+{
+ "city": "agadir",
+ "label": "Agadir",
+ "date": "2026-10-18",
+ "source": "sahha.ma",
+ "source_url": "https://sahha.ma/pharmacie-de-garde/agadir",
+ "kind": "roster",
+ "pharmacies": [
+  {
+   "name": "Pharmacie 20 Aout",
+   "address": "180 bd imam el boukhari erac bouargane",
+   "phone": "+212528233279",
+   "lat": 30.4260216,
+   "lng": -9.5675334,
+   "shift": "24h",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie Al amal",
+   "address": "bd mohamed cheikh saadi, imm. tighmirt, derrière le complexe artisanal",
+   "phone": "+212528843926",
+   "lat": 30.4249551,
+   "lng": -9.5903946,
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie Al Andaloussia",
+   "address": "Pharmacie Al Andaloussia",
+   "phone": "+212528292999",
+   "lat": 30.3999177,
+   "lng": -9.5552929,
+   "shift": "24h",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie Al Manar",
+   "address": "hay essalam, rue 952 n°16",
+   "phone": "+212528213545",
+   "lat": 30.3986401,
+   "lng": -9.5488499,
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie Boussaïd",
+   "address": "hay farha, bd hadj lahbib, bloc 14 n°1, proche de l'école kastalani",
+   "phone": "+212528238636",
+   "lat": 30.4266508,
+   "lng": -9.5776389,
+   "shift": "24h",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie Chifa Al Farah",
+   "address": "hay bensergao , hay el farah",
+   "phone": "+212528280159",
+   "lat": 30.3954844,
+   "lng": -9.5580444,
+   "shift": "24h",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie Dakhla",
+   "address": "14, rue al farabi, cité dakhla",
+   "phone": "+212528222229",
+   "lat": 30.4103597,
+   "lng": -9.5558419,
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie de la Poste",
+   "address": "bd moukaouama en face du jardin lala meryem",
+   "phone": "+212528842315",
+   "lat": 30.4154659,
+   "lng": -9.5824948,
+   "shift": "24h",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie El Mghari",
+   "address": "5, bd hassan 1er imm. alwifaq, cité dakhla",
+   "phone": "+212528239764",
+   "lat": 30.411727,
+   "lng": -9.5641512,
+   "shift": "24h",
+   "shift_label": ""
+  }
+ ],
+ "center": [
+  30.4121,
+  -9.5667
+ ]
+}

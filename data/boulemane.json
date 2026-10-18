@@ -1,0 +1,95 @@
+{
+ "city": "boulemane",
+ "label": "Boulemane",
+ "date": "2026-10-18",
+ "source": "med.ma",
+ "source_url": "https://www.med.ma/pharmacy/day-time/boulemane",
+ "kind": "directory",
+ "pharmacies": [
+  {
+   "name": "Pharmacie Bassatine El Menzeh",
+   "address": "N°6, bloc 10, Bassatine El Menzeh - El Menzeh Harhoura Harhoura Rabat",
+   "phone": "+212 537 01 19 66",
+   "lat": 33.8571711,
+   "lng": -6.8536304,
+   "shift": "jour",
+   "shift_label": "Pharmacies de jour"
+  },
+  {
+   "name": "Pharmacie Marjane",
+   "address": "centre commerciale marjane bouregreg Rabat Sale Rabat",
+   "phone": "+212 537 70 16 63",
+   "lat": 34.0190468590674,
+   "lng": -6.81667823093449,
+   "shift": "jour",
+   "shift_label": "Pharmacies de jour"
+  },
+  {
+   "name": "Pharmacie Les Arcades",
+   "address": "44 bis av pasteur (angle av pasteur et av la victoire) Rabat Harhoura Harhoura Rabat",
+   "phone": "+212 537 72 42 22",
+   "lat": 34.012133,
+   "lng": -6.8426371,
+   "shift": "jour",
+   "shift_label": "Pharmacies de jour"
+  },
+  {
+   "name": "Pharmacie Des Oudayas",
+   "address": "17.place des oudayas Rabat Sale Rabat",
+   "phone": "+212 537 73 44 10",
+   "lat": 34.0295472,
+   "lng": -6.8358519,
+   "shift": "jour",
+   "shift_label": "Pharmacies de jour"
+  },
+  {
+   "name": "Pharmacie Annour",
+   "address": "33, avenue Ennour sect.\"H\" Est c.y.m Rabat Harhoura Harhoura Rabat",
+   "phone": "+212 537 69 11 80",
+   "lat": 33.9996656,
+   "lng": -6.8674947,
+   "shift": "jour",
+   "shift_label": "Pharmacies de jour"
+  },
+  {
+   "name": "Pharmacie du quartier",
+   "address": "1457 Av. Tarik Ibn Ziad, Témara Harhoura Harhoura Temara",
+   "phone": "+212 537 60 07 79",
+   "lat": 33.9232517664553,
+   "lng": -6.8978499285831,
+   "shift": "jour",
+   "shift_label": "Pharmacies de jour"
+  },
+  {
+   "name": "Pharmacie Ibn Baytar",
+   "address": "40 cité amal 0 avenue el massira cym Rabat Harhoura Harhoura Rabat",
+   "phone": "+212 537 79 43 64",
+   "lat": 33.9836864,
+   "lng": -6.8792245,
+   "shift": "jour",
+   "shift_label": "Pharmacies de jour"
+  },
+  {
+   "name": "Pharmacie Echoumoue",
+   "address": "lot fadli 2 n° 150 - TEMARA Harhoura Harhoura Temara",
+   "phone": "+212 537 61 11 38",
+   "lat": 33.9140388,
+   "lng": -6.91741,
+   "shift": "jour",
+   "shift_label": "Pharmacies de jour"
+  },
+  {
+   "name": "Pharmacie laboratoire \"Chifaa\"",
+   "address": "4, av. Hassan II , Sigal Sigalon Témara Harhoura Harhoura Temara",
+   "phone": "+212 537 74 12 00",
+   "lat": 33.9222531,
+   "lng": -6.9200502,
+   "shift": "jour",
+   "shift_label": "Pharmacies de jour"
+  }
+ ],
+ "center": [
+  33.9623,
+  -6.8701
+ ]
+}

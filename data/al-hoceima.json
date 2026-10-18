@@ -1,0 +1,23 @@
+{
+ "city": "al-hoceima",
+ "label": "Al Hoceïma",
+ "date": "2026-10-18",
+ "source": "sahha.ma",
+ "source_url": "https://sahha.ma/pharmacie-de-garde/al-hoceima",
+ "kind": "roster",
+ "pharmacies": [
+  {
+   "name": "Pharmacie centrale du Rif",
+   "address": "23 Avenue Hassan II",
+   "phone": "+212539982582",
+   "lat": 35.2405667,
+   "lng": -3.9303167,
+   "shift": "24h",
+   "shift_label": ""
+  }
+ ],
+ "center": [
+  35.2406,
+  -3.9303
+ ]
+}

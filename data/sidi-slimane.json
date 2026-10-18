@@ -1,0 +1,41 @@
+{
+ "city": "sidi-slimane",
+ "label": "Sidi Slimane",
+ "date": "2026-10-18",
+ "source": "sahha.ma",
+ "source_url": "https://sahha.ma/pharmacie-de-garde/sidi-slimane",
+ "kind": "roster",
+ "pharmacies": [
+  {
+   "name": "PHARMACIE ABDELILAH",
+   "address": "Pharmacie Abdelilah, 46 hay Essalam - Autre ville bloc 45",
+   "phone": "+212654869002",
+   "lat": 34.2511416,
+   "lng": -5.9209724,
+   "shift": "",
+   "shift_label": ""
+  },
+  {
+   "name": "PHARMACIE AGDAL",
+   "address": "72 lotiss. Jalil Tazi Sidi slimane",
+   "phone": "+212537501033",
+   "lat": 34.2616007,
+   "lng": -5.9138803,
+   "shift": "",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie Al Houda",
+   "address": "Pharmacie Al Houda, av Al Hansali hay Essalam bloc 20 n°9",
+   "phone": "+212537505669",
+   "lat": 34.2564093,
+   "lng": -5.9220242,
+   "shift": "",
+   "shift_label": ""
+  }
+ ],
+ "center": [
+  34.2564,
+  -5.919
+ ]
+}

@@ -1,0 +1,50 @@
+{
+ "city": "khouribga",
+ "label": "Khouribga",
+ "date": "2026-10-18",
+ "source": "sahha.ma",
+ "source_url": "https://sahha.ma/pharmacie-de-garde/khouribga",
+ "kind": "roster",
+ "pharmacies": [
+  {
+   "name": "Pharmacie La Santé",
+   "address": "92 rue Mokhtar Soussi",
+   "phone": "+212523567314",
+   "lat": 32.888118,
+   "lng": -6.903867,
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie Nour Errahmane",
+   "address": "Pharmacie Nour Errahmane",
+   "phone": "+212523490275",
+   "lat": 32.873762,
+   "lng": -6.93484,
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie Populaire",
+   "address": "1354 bd. Abderrahim Bouabid Hay ElFath",
+   "phone": "+212523560875",
+   "lat": 32.8975611,
+   "lng": -6.9328361,
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie Wariri",
+   "address": "Pharmacie Wariri",
+   "phone": "+212619775571",
+   "lat": 32.900951,
+   "lng": -6.911164,
+   "shift": "jour",
+   "shift_label": ""
+  }
+ ],
+ "center": [
+  32.8901,
+  -6.9207
+ ]
+}

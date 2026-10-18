@@ -1,0 +1,32 @@
+{
+ "city": "khemisset",
+ "label": "Khémisset",
+ "date": "2026-10-18",
+ "source": "sahha.ma",
+ "source_url": "https://sahha.ma/pharmacie-de-garde/khemisset",
+ "kind": "roster",
+ "pharmacies": [
+  {
+   "name": "Pharmacie des Cliniques",
+   "address": "Pharmacie des Cliniques",
+   "phone": "+212537551018",
+   "lat": 33.8259796,
+   "lng": -6.0710879,
+   "shift": "24h",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie du sahara",
+   "address": "Pharmacie du sahara",
+   "phone": "+212537552164",
+   "lat": 33.83,
+   "lng": -6.0726,
+   "shift": "24h",
+   "shift_label": ""
+  }
+ ],
+ "center": [
+  33.828,
+  -6.0718
+ ]
+}

@@ -1,0 +1,140 @@
+{
+ "city": "benslimane",
+ "label": "Ben Slimane",
+ "date": "2026-10-18",
+ "source": "med.ma",
+ "source_url": "https://www.med.ma/pharmacy/day-time/benslimane",
+ "kind": "directory",
+ "pharmacies": [
+  {
+   "name": "Pharmacie Al Amana",
+   "address": "quartier Ahl Loghlam lotiss. Al Amana n°419 Sidi Moumen Casablanca Sidi moumen Casablanca",
+   "phone": "+212 522 75 81 45",
+   "lat": 33.6064467041714,
+   "lng": -7.48560760056411,
+   "shift": "jour",
+   "shift_label": "Pharmacies de jour"
+  },
+  {
+   "name": "Pharmacie Casa Imane",
+   "address": "44 lotiss. Agdal Casablanca Casablanca",
+   "phone": "+212 522 11 00 25",
+   "lat": 33.5766498,
+   "lng": -7.4852583,
+   "shift": "jour",
+   "shift_label": "Pharmacies de jour"
+  },
+  {
+   "name": "Pharmacie Bargach",
+   "address": "hay Tarik rue 6 n°21 Casablanca Casablanca",
+   "phone": "+212 522 74 06 21",
+   "lat": 33.6085737169345,
+   "lng": -7.51885866315995,
+   "shift": "jour",
+   "shift_label": "Pharmacies de jour"
+  },
+  {
+   "name": "Pharmacie Route de Rabat",
+   "address": "route de Rabat (r.p. 1), résid. Al Manare n°4 Casablanca Casablanca",
+   "phone": "+212 522 66 32 78",
+   "lat": 33.6021541,
+   "lng": -7.5240977,
+   "shift": "jour",
+   "shift_label": "Pharmacies de jour"
+  },
+  {
+   "name": "Pharmacie la Place",
+   "address": "lot. Rakbout (Sidi Moumen) rue 12 n°53 Sidi Moumen Casablanca Sidi moumen Casablanca",
+   "phone": "+212 522 70 16 39",
+   "lat": 33.5776616864825,
+   "lng": -7.53376183488012,
+   "shift": "jour",
+   "shift_label": "Pharmacies de jour"
+  },
+  {
+   "name": "Pharmacie des Troenes",
+   "address": "38 allée des Troènes Lajiri III Oukacha Casablanca Casablanca",
+   "phone": "+212 522 66 54 71",
+   "lat": 33.6068025,
+   "lng": -7.5418686,
+   "shift": "jour",
+   "shift_label": "Pharmacies de jour"
+  },
+  {
+   "name": "Pharmacie Moulay Slimane",
+   "address": "118 bd Moulay Slimane Aïn Sebaâ Casablanca Ain Sebaa Casablanca",
+   "phone": "+212 522 34 34 02",
+   "lat": 33.6177938,
+   "lng": -7.5463805,
+   "shift": "jour",
+   "shift_label": "Pharmacies de jour"
+  },
+  {
+   "name": "Pharmacie de l'Industrie",
+   "address": "bd Chefchaouni, km 11,5 Casablanca Casablanca",
+   "phone": "+212 522 35 22 25",
+   "lat": 33.6289666,
+   "lng": -7.4981845,
+   "shift": "24h",
+   "shift_label": "Pharmacies 24h/24"
+  },
+  {
+   "name": "Pharmacie Moubaraka",
+   "address": "cité Sidi Bernoussi 6 bloc 1 hay Moubaraka Sidi Bernoussi Casablanca Sidi Bernoussi Casablanca",
+   "phone": "+212 522 76 76 41",
+   "lat": 33.615338,
+   "lng": -7.5032413,
+   "shift": "24h",
+   "shift_label": "Pharmacies 24h/24"
+  },
+  {
+   "name": "Pharmacie Thomas",
+   "address": "hay Sidi Moumen résid. Dalia n°286 Sidi Moumen CASABLANCA Sidi moumen Casablanca",
+   "phone": "+212 522 34 16 43",
+   "lat": 33.5954942693341,
+   "lng": -7.51130597108835,
+   "shift": "24h",
+   "shift_label": "Pharmacies 24h/24"
+  },
+  {
+   "name": "Pharmacie de l'Esperance",
+   "address": "bd Chefchaouni résid. Palmier imm. A mag. 5 Aïn Sebaâ Casablanca Ain Sebaa Casablanca",
+   "phone": "+212 522 66 61 99",
+   "lat": 33.6164141,
+   "lng": -7.5248196,
+   "shift": "24h",
+   "shift_label": "Pharmacies 24h/24"
+  },
+  {
+   "name": "Pharmacie Fourkane",
+   "address": "lot El Oulja II (Ain Sebaa) bd C n°209 Aïn Sebaâ Casablanca Ain Sebaa Casablanca",
+   "phone": "+212 522 35 29 28",
+   "lat": 33.6163519129538,
+   "lng": -7.52936958284192,
+   "shift": "24h",
+   "shift_label": "Pharmacies 24h/24"
+  },
+  {
+   "name": "Pharmacie Chadili",
+   "address": "hay Sidi Moumen lakdim Lot. Amal n°4 rue 24 bd Houssine Soussi Sidi Moumen Casablanca Sidi moumen Casablanca",
+   "phone": "+212 522 72 80 91",
+   "lat": 33.5823471,
+   "lng": -7.530336,
+   "shift": "24h",
+   "shift_label": "Pharmacies 24h/24"
+  },
+  {
+   "name": "Pharmacie Al Inaya",
+   "address": "rue Marje Azzohour cité O.n.c.f. bloc 11 rue 2 n°80 Hay Mohammadi Casablanca Hay Mohammadi Casablanca",
+   "phone": "+212 522 24 17 73",
+   "lat": 33.5986800752693,
+   "lng": -7.56719409373239,
+   "shift": "24h",
+   "shift_label": "Pharmacies 24h/24"
+  }
+ ],
+ "center": [
+  33.6035,
+  -7.5214
+ ]
+}

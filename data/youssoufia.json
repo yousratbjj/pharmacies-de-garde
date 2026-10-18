@@ -1,0 +1,23 @@
+{
+ "city": "youssoufia",
+ "label": "Youssoufia",
+ "date": "2026-10-18",
+ "source": "sahha.ma",
+ "source_url": "https://sahha.ma/pharmacie-de-garde/youssoufia",
+ "kind": "roster",
+ "pharmacies": [
+  {
+   "name": "Pharmacie Ghanem",
+   "address": "Pharmacie Ghanem",
+   "phone": "+212636191872",
+   "lat": 32.2514508,
+   "lng": -8.5221274,
+   "shift": "24h",
+   "shift_label": ""
+  }
+ ],
+ "center": [
+  32.2515,
+  -8.5221
+ ]
+}

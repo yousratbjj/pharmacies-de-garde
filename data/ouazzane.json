@@ -1,0 +1,104 @@
+{
+ "city": "ouazzane",
+ "label": "Ouezzane",
+ "date": "2026-10-18",
+ "source": "sahha.ma",
+ "source_url": "https://sahha.ma/pharmacie-de-garde/ouazzane",
+ "kind": "roster",
+ "pharmacies": [
+  {
+   "name": "Pharmacie Ain Abi Farisse",
+   "address": "Pharmacie Ain Abi Farisse, 14 rue El Adoua",
+   "phone": "+212537460429",
+   "lat": 34.7966,
+   "lng": -5.5821333,
+   "shift": "",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie AlHouda",
+   "address": "Pharmacie AlHouda, av. Al khalifa El Sbihi n°18 quartier Haddadine",
+   "phone": "+212537460777",
+   "lat": 34.795149,
+   "lng": -5.576607,
+   "shift": "",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie Al Massira",
+   "address": "Pharmacie Al Massira, 38 av. Mly Ismail q. R'mel",
+   "phone": "+212537909387",
+   "lat": 34.7984417,
+   "lng": -5.5885133,
+   "shift": "",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie Bousswalef",
+   "address": "Pharmacie Bousswalef, bd El Houria - Autre ville q. Agadir",
+   "phone": "+212537907480",
+   "lat": 34.797421,
+   "lng": -5.586707,
+   "shift": "",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie Chifae",
+   "address": "Pharmacie Chifae, 7 av. de la Marche Verte",
+   "phone": "+212537907181",
+   "lat": 34.798513,
+   "lng": -5.5824666,
+   "shift": "",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie Conseil",
+   "address": "Pharmacie Conseil, 31 av. Bir Anzarane",
+   "phone": "+212537909397",
+   "lat": 34.7967,
+   "lng": -5.5772167,
+   "shift": "",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie Dar Dmana",
+   "address": "Pharmacie Dar Dmana, 145 Avenue Allal Ben Abdallah",
+   "phone": "+212537907812",
+   "lat": 34.7972833,
+   "lng": -5.5745333,
+   "shift": "",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie Espoir",
+   "address": "Pharmacie Espoir, av. Abdelkader Torres q. Adir lot. Ikram n°34",
+   "phone": "+212537907591",
+   "lat": 34.7968333,
+   "lng": -5.5978667,
+   "shift": "",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie Ikram",
+   "address": "Pharmacie Ikram, 11 rue Abdellah Guennoun",
+   "phone": "+212537507778",
+   "lat": 34.7983167,
+   "lng": -5.5725167,
+   "shift": "",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie Laadir",
+   "address": "Pharmacie Laadir, 2 bd Houmane El Fetouaki - Autre ville jardin Lalla Amina résid. Hallaoui",
+   "phone": "+212537907470",
+   "lat": 34.796027,
+   "lng": -5.566569,
+   "shift": "",
+   "shift_label": ""
+  }
+ ],
+ "center": [
+  34.7971,
+  -5.5805
+ ]
+}

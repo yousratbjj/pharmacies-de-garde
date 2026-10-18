@@ -1,0 +1,59 @@
+{
+ "city": "tinghir",
+ "label": "Tinghir",
+ "date": "2026-10-18",
+ "source": "sahha.ma",
+ "source_url": "https://sahha.ma/pharmacie-de-garde/tinghir",
+ "kind": "roster",
+ "pharmacies": [
+  {
+   "name": "Pharmacie Adrar",
+   "address": "Pharmacie Adrar, 179 av. Bir Anzarane",
+   "phone": "+212524835765",
+   "lat": 31.515273,
+   "lng": -5.533417,
+   "shift": "",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie La Grande Mosquee",
+   "address": "Pharmacie La Grande Mosquee, bd Mohammed V - Autre ville",
+   "phone": "+212688425804",
+   "lat": 31.52133,
+   "lng": -5.531164,
+   "shift": "",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie Tawzzayte",
+   "address": "Pharmacie Tawzzayte, complexe commerciale cité Minière n°5",
+   "phone": "+212524833294",
+   "lat": 31.501194,
+   "lng": -5.533268,
+   "shift": "",
+   "shift_label": ""
+  },
+  {
+   "name": "PHARMACIE ALMAJD TOUDGHA",
+   "address": "2419 Lotiss. Al Majd - Autre Ville B2",
+   "phone": "+212536350706",
+   "lat": 31.5221187,
+   "lng": -5.5306539,
+   "shift": "",
+   "shift_label": ""
+  },
+  {
+   "name": "PHARMACIE ELFILAHA",
+   "address": "Pharmacie ElFilaha, hay Aït Barra El Filaha",
+   "phone": "",
+   "lat": 31.509514,
+   "lng": -5.5380676,
+   "shift": "",
+   "shift_label": ""
+  }
+ ],
+ "center": [
+  31.5139,
+  -5.5333
+ ]
+}

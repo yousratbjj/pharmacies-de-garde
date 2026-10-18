@@ -1,0 +1,59 @@
+{
+ "city": "figuig",
+ "label": "Figuig",
+ "date": "2026-10-18",
+ "source": "med.ma",
+ "source_url": "https://www.med.ma/pharmacy/day-time/figuig",
+ "kind": "directory",
+ "pharmacies": [
+  {
+   "name": "Pharfmacie Mahaj Almouahidine",
+   "address": "362 Hay Semmarine Oujda - Maroc Ain Bni Mathar Oujda",
+   "phone": "+212 536 55 13 46",
+   "lat": 34.6532136,
+   "lng": -1.9419525,
+   "shift": "24h",
+   "shift_label": "Pharmacies 24h/24"
+  },
+  {
+   "name": "Pharmacie la Colline",
+   "address": "lotiss. la Colline imm 55 n°7 Oujda Ain Bni Mathar Oujda",
+   "phone": "+212 536 53 48 53",
+   "lat": 34.6542366,
+   "lng": -1.9099341,
+   "shift": "24h",
+   "shift_label": "Pharmacies 24h/24"
+  },
+  {
+   "name": "Pharmacie Tayret",
+   "address": "531 X rue de Tayret Oujda Oujda",
+   "phone": "+212 536 68 14 10",
+   "lat": 34.6745086,
+   "lng": -1.9024674,
+   "shift": "24h",
+   "shift_label": "Pharmacies 24h/24"
+  },
+  {
+   "name": "Pharmacie Nasser",
+   "address": "Dhar Lamhala , Lotiss. Alj, rue A n°82 Oujda Oujda",
+   "phone": "+212 536 74 57 41",
+   "lat": 34.681962,
+   "lng": -1.900155,
+   "shift": "24h",
+   "shift_label": "Pharmacies 24h/24"
+  },
+  {
+   "name": "Pharmacie Taiba",
+   "address": "79 lotiss. Miri hay El Hassani Oujda Aklim Aklim Oujda",
+   "phone": "+212 536 52 42 00",
+   "lat": 34.714207,
+   "lng": -1.906882,
+   "shift": "24h",
+   "shift_label": "Pharmacies 24h/24"
+  }
+ ],
+ "center": [
+  34.6756,
+  -1.9123
+ ]
+}

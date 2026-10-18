@@ -1,0 +1,50 @@
+{
+ "city": "beni-mellal",
+ "label": "Béni Mellal",
+ "date": "2026-10-18",
+ "source": "sahha.ma",
+ "source_url": "https://sahha.ma/pharmacie-de-garde/beni-mellal",
+ "kind": "roster",
+ "pharmacies": [
+  {
+   "name": "Pharmacie Aïn Asserdoun",
+   "address": "bd Houmane ElFetouaki",
+   "phone": "+212523487591",
+   "lat": 32.3389365,
+   "lng": -6.3418715,
+   "shift": "24h",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie Dar Talib",
+   "address": "60 Bd. Rabat lot Rizk Hay Takadoum",
+   "phone": "+212523420072",
+   "lat": 32.34565,
+   "lng": -6.3438833,
+   "shift": "24h",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie Ezzahraa",
+   "address": "3 lotiss. Firdaouss - Autre ville q Ghita",
+   "phone": "+212523484845",
+   "lat": 32.333898,
+   "lng": -6.371687,
+   "shift": "24h",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie Hay Redouane",
+   "address": "lot Redouane",
+   "phone": "+212523485103",
+   "lat": 32.3459,
+   "lng": -6.35545,
+   "shift": "24h",
+   "shift_label": ""
+  }
+ ],
+ "center": [
+  32.3411,
+  -6.3532
+ ]
+}

@@ -1,0 +1,23 @@
+{
+ "city": "zagora",
+ "label": "Zagora",
+ "date": "2026-10-18",
+ "source": "sahha.ma",
+ "source_url": "https://sahha.ma/pharmacie-de-garde/zagora",
+ "kind": "roster",
+ "pharmacies": [
+  {
+   "name": "Pharmacie Manssour Dahbi",
+   "address": "Pharmacie Manssour Dahbi",
+   "phone": "+212524838116",
+   "lat": 30.3428747,
+   "lng": -5.8377713,
+   "shift": "jour",
+   "shift_label": ""
+  }
+ ],
+ "center": [
+  30.3429,
+  -5.8378
+ ]
+}
