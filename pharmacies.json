@@ -10,7 +10,9 @@
    "phone": "+212 05 39 93 64 24",
    "lat": 35.7809648,
    "lng": -5.8123054,
-   "slug": "paris"
+   "slug": "paris",
+   "shift": "jour",
+   "shift_label": "Weekend Dimanche du 18 octobre 09:00 à 18 octobre 20:00"
   },
   {
    "name": "CASABARATA",
@@ -20,7 +22,9 @@
    "phone": "+212 05 39 31 82 13",
    "lat": 35.7669334,
    "lng": -5.8210483,
-   "slug": "casabarata"
+   "slug": "casabarata",
+   "shift": "jour",
+   "shift_label": "Weekend Dimanche du 18 octobre 09:00 à 18 octobre 20:00"
   },
   {
    "name": "DAR TOUNSI",
@@ -30,7 +34,9 @@
    "phone": "+212 05 39 35 29 48",
    "lat": 35.7526362,
    "lng": -5.7987877,
-   "slug": "dar-tounsi"
+   "slug": "dar-tounsi",
+   "shift": "jour",
+   "shift_label": "Weekend Dimanche du 18 octobre 09:00 à 18 octobre 20:00"
   },
   {
    "name": "AL IHSSANE",
@@ -40,7 +46,9 @@
    "phone": "+212 05 39 31 19 36",
    "lat": 35.757423,
    "lng": -5.8524765,
-   "slug": "al-ihssane"
+   "slug": "al-ihssane",
+   "shift": "jour",
+   "shift_label": "Weekend Dimanche du 18 octobre 09:00 à 18 octobre 20:00"
   },
   {
    "name": "AL BOUSTANE",
@@ -50,7 +58,9 @@
    "phone": "+212 05 39 37 67 68",
    "lat": 35.7765344,
    "lng": -5.861012,
-   "slug": "al-boustane"
+   "slug": "al-boustane",
+   "shift": "jour",
+   "shift_label": "Weekend Dimanche du 18 octobre 09:00 à 18 octobre 20:00"
   },
   {
    "name": "Achakkar",
@@ -60,7 +70,9 @@
    "phone": "+212 05 39 33 81 10",
    "lat": 35.7448633,
    "lng": -5.8845317,
-   "slug": "achakkar"
+   "slug": "achakkar",
+   "shift": "jour",
+   "shift_label": "Weekend Dimanche du 18 octobre 09:00 à 18 octobre 20:00"
   },
   {
    "name": "AL BORAQ",
@@ -70,7 +82,9 @@
    "phone": "+212 05 39 32 27 24",
    "lat": 35.7633388,
    "lng": -5.8694892,
-   "slug": "al-boraq"
+   "slug": "al-boraq",
+   "shift": "jour",
+   "shift_label": "Weekend Dimanche du 18 octobre 09:00 à 18 octobre 20:00"
   },
   {
    "name": "Pharmacie 911",
@@ -80,7 +94,9 @@
    "phone": "+212 05 31 90 12 01",
    "lat": 35.7225485,
    "lng": -5.7526284,
-   "slug": "pharmacie-911"
+   "slug": "pharmacie-911",
+   "shift": "jour",
+   "shift_label": "Weekend Dimanche du 18 octobre 09:00 à 18 octobre 20:00"
   },
   {
    "name": "Aziza de Tanger",
@@ -90,7 +106,9 @@
    "phone": "+212 05 39 35 63 04",
    "lat": 35.715951,
    "lng": -5.808683,
-   "slug": "aziza-de-tanger"
+   "slug": "aziza-de-tanger",
+   "shift": "jour",
+   "shift_label": "Weekend Dimanche du 18 octobre 09:00 à 18 octobre 20:00"
   },
   {
    "name": "NOUVELLE CASABARATA",
@@ -100,7 +118,9 @@
    "phone": "+212 06 64 15 13 45",
    "lat": 35.7633388,
    "lng": -5.8694892,
-   "slug": "nouvelle-casabarata"
+   "slug": "nouvelle-casabarata",
+   "shift": "jour",
+   "shift_label": "Weekend Dimanche du 18 octobre 09:00 à 18 octobre 20:00"
   },
   {
    "name": "Riad Habiba",
@@ -110,7 +130,9 @@
    "phone": "+212 05 39 42 48 44",
    "lat": 35.7362887,
    "lng": -5.8671819,
-   "slug": "riad-habiba"
+   "slug": "riad-habiba",
+   "shift": "jour",
+   "shift_label": "Weekend Dimanche du 18 octobre 09:00 à 18 octobre 20:00"
   },
   {
    "name": "111",
@@ -120,7 +142,9 @@
    "phone": "+212 06 63 84 06 83",
    "lat": 35.7487628,
    "lng": -5.75333,
-   "slug": "111"
+   "slug": "111",
+   "shift": "jour",
+   "shift_label": "Weekend Dimanche du 18 octobre 09:00 à 18 octobre 20:00"
   },
   {
    "name": "ANEGAY",
@@ -130,7 +154,9 @@
    "phone": "+212 05 39 93 11 62",
    "lat": 35.7850453,
    "lng": -5.812405,
-   "slug": "anegay"
+   "slug": "anegay",
+   "shift": "nuit",
+   "shift_label": "Garde 24h de 18 octobre 13:00 à 16:00 et de 20:00 à 09:00 du lendemain"
   },
   {
    "name": "CHARF",
@@ -140,7 +166,9 @@
    "phone": "+212 05 39 94 60 34",
    "lat": 35.7666137,
    "lng": -5.7938736,
-   "slug": "charf"
+   "slug": "charf",
+   "shift": "nuit",
+   "shift_label": "Garde 24h de 18 octobre 13:00 à 16:00 et de 20:00 à 09:00 du lendemain"
   },
   {
    "name": "HAMZA",
@@ -150,7 +178,9 @@
    "phone": "+212 05 39 36 25 74",
    "lat": 35.7480114,
    "lng": -5.8023773,
-   "slug": "hamza"
+   "slug": "hamza",
+   "shift": "nuit",
+   "shift_label": "Garde 24h de 18 octobre 13:00 à 16:00 et de 20:00 à 09:00 du lendemain"
   },
   {
    "name": "MISTER-KHOUCH",
@@ -160,7 +190,9 @@
    "phone": "+212 05 39 93 72 82",
    "lat": 35.7738813,
    "lng": -5.8330026,
-   "slug": "mister-khouch"
+   "slug": "mister-khouch",
+   "shift": "nuit",
+   "shift_label": "Garde 24h de 18 octobre 13:00 à 16:00 et de 20:00 à 09:00 du lendemain"
   },
   {
    "name": "AICHE",
@@ -170,7 +202,9 @@
    "phone": "+212 05 39 30 15 48",
    "lat": 35.7639927,
    "lng": -5.7563272,
-   "slug": "aiche"
+   "slug": "aiche",
+   "shift": "nuit",
+   "shift_label": "Garde 24h de 18 octobre 13:00 à 16:00 et de 20:00 à 09:00 du lendemain"
   },
   {
    "name": "Hjar Sfar",
@@ -180,7 +214,9 @@
    "phone": "+212 05 83 11 22 46",
    "lat": 35.7227848,
    "lng": -5.7892156,
-   "slug": "hjar-sfar"
+   "slug": "hjar-sfar",
+   "shift": "nuit",
+   "shift_label": "Garde 24h de 18 octobre 13:00 à 16:00 et de 20:00 à 09:00 du lendemain"
   },
   {
    "name": "Dar al ihssan",
@@ -190,7 +226,9 @@
    "phone": "+212 07 07 13 57 28",
    "lat": 35.7343977,
    "lng": -5.8475621,
-   "slug": "dar-al-ihssan"
+   "slug": "dar-al-ihssan",
+   "shift": "nuit",
+   "shift_label": "Garde 24h de 18 octobre 13:00 à 16:00 et de 20:00 à 09:00 du lendemain"
   },
   {
    "name": "Mama Sanae",
@@ -200,7 +238,9 @@
    "phone": "+212 06 01 18 88 31",
    "lat": 35.7473982,
    "lng": -5.7680387,
-   "slug": "mama-sanae"
+   "slug": "mama-sanae",
+   "shift": "nuit",
+   "shift_label": "Garde 24h de 18 octobre 13:00 à 16:00 et de 20:00 à 09:00 du lendemain"
   }
  ]
 }
