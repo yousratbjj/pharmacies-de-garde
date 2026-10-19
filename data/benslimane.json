@@ -1,7 +1,7 @@
 {
  "city": "benslimane",
  "label": "Ben Slimane",
- "date": "2026-10-18",
+ "date": "2026-10-19",
  "source": "med.ma",
  "source_url": "https://www.med.ma/pharmacy/day-time/benslimane",
  "kind": "directory",
@@ -70,6 +70,15 @@
    "shift_label": "Pharmacies de jour"
   },
   {
+   "name": "Pharmacie Nagjir",
+   "address": "lot. El Mouahidine (hay Mohammadi) lot.334 bd la Grande Ceinture Hay Mohammadi Casablanca Hay Mohammadi Casablanca",
+   "phone": "+212 522 66 36 43",
+   "lat": 33.5883691454014,
+   "lng": -7.54630980658378,
+   "shift": "jour",
+   "shift_label": "Pharmacies de jour"
+  },
+  {
    "name": "Pharmacie de l'Industrie",
    "address": "bd Chefchaouni, km 11,5 Casablanca Casablanca",
    "phone": "+212 522 35 22 25",
@@ -122,19 +131,10 @@
    "lng": -7.530336,
    "shift": "24h",
    "shift_label": "Pharmacies 24h/24"
-  },
-  {
-   "name": "Pharmacie Al Inaya",
-   "address": "rue Marje Azzohour cité O.n.c.f. bloc 11 rue 2 n°80 Hay Mohammadi Casablanca Hay Mohammadi Casablanca",
-   "phone": "+212 522 24 17 73",
-   "lat": 33.5986800752693,
-   "lng": -7.56719409373239,
-   "shift": "24h",
-   "shift_label": "Pharmacies 24h/24"
   }
  ],
  "center": [
-  33.6035,
-  -7.5214
+  33.6028,
+  -7.52
  ]
 }

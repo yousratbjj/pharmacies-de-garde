@@ -1,77 +1,77 @@
 {
  "city": "taounate",
  "label": "Taounate",
- "date": "2026-10-18",
+ "date": "2026-10-19",
  "source": "med.ma",
  "source_url": "https://www.med.ma/pharmacy/day-time/taounate",
  "kind": "directory",
  "pharmacies": [
   {
-   "name": "Pharmacie Atlas",
-   "address": "51 av. Dakhla q. Atlas Tétouan Chefchaouen Chefchaouen Tetouan",
-   "phone": "+212 539 97 23 68",
-   "lat": 35.569451,
-   "lng": -5.3516074,
-   "shift": "jour",
-   "shift_label": "Pharmacies de jour"
+   "name": "Pharmacie Sehrij Gnaoua",
+   "address": "n°201 blad tahri, sahrij gnaoua FES Oued Amlil Oued Amlil Fes",
+   "phone": "+212 535 63 08 16",
+   "lat": 34.0532561742982,
+   "lng": -4.95281410485234,
+   "shift": "24h",
+   "shift_label": "Pharmacies 24h/24"
   },
   {
-   "name": "Pharmacie Bab Saïda",
-   "address": "24 rue Sloukia Sidi Saïdi Tetouan Martil Martil Tetouan",
-   "phone": "+212 539 99 71 51",
-   "lat": 35.57303333333,
-   "lng": -5.364233333333,
-   "shift": "jour",
-   "shift_label": "Pharmacies de jour"
+   "name": "Pharmacie Bab Boujloud",
+   "address": "place bab boujloud fès médina Fes Ville Nouvelle ville nouvelle Fes",
+   "phone": "+212 535 63 32 22",
+   "lat": 34.033333,
+   "lng": -5.0,
+   "shift": "24h",
+   "shift_label": "Pharmacies 24h/24"
   },
   {
-   "name": "Pharmacie Khalladi",
-   "address": "271 rue Kaboule Tetouan Martil Martil Tetouan",
-   "phone": "+212 539 97 41 23",
-   "lat": 35.5800329,
-   "lng": -5.3541641,
-   "shift": "jour",
-   "shift_label": "Pharmacies de jour"
+   "name": "Pharmacie Hay Riyad",
+   "address": "n°754 lotissement riad 4 .route sefrou Fes Ville Nouvelle ville nouvelle Fes",
+   "phone": "+212 535 74 22 87",
+   "lat": 34.0154337,
+   "lng": -4.9631686,
+   "shift": "24h",
+   "shift_label": "Pharmacies 24h/24"
   },
   {
-   "name": "Pharmacie Wilaya Center",
-   "address": "5 rue Caire - Autre ville imm Nouria Tetouan Martil Martil Tetouan",
-   "phone": "+212 808 51 94 68",
-   "lat": 35.5871023,
-   "lng": -5.3426023,
-   "shift": "jour",
-   "shift_label": "Pharmacies de jour"
+   "name": "Pharmacie la Victoire",
+   "address": "route sefrou proche du cafe al khima, manflouri 1 Fes Ville Nouvelle ville nouvelle Fes",
+   "phone": "+212 535 73 23 80",
+   "lat": 34.0179212,
+   "lng": -4.9862446,
+   "shift": "24h",
+   "shift_label": "Pharmacies 24h/24"
   },
   {
-   "name": "Pharmacie M'diq",
-   "address": "Avenue Lalla Nouzha, Route de Sebta, 3 El Marsa Mdiq Tetouan",
-   "phone": "+212 539 97 50 38",
-   "lat": 35.6870405921892,
-   "lng": -5.32440561809684,
-   "shift": "jour",
-   "shift_label": "Pharmacies de jour"
+   "name": "Pharmacie Tarik",
+   "address": "hay tarik 2, la rue principale en face de la banque populaire Fes Ville Nouvelle ville nouvelle Fes",
+   "phone": "+212 535 60 21 49",
+   "lat": 34.0281336,
+   "lng": -5.0240209,
+   "shift": "24h",
+   "shift_label": "Pharmacies 24h/24"
   },
   {
-   "name": "Pharmacie River",
-   "address": "29 bd Neuf Avril Tétouan - Maroc Chefchaouen Chefchaouen Tetouan",
-   "phone": "+212 539 72 55 60",
-   "lat": 35.5655338,
-   "lng": -5.3517278,
-   "shift": "nuit",
-   "shift_label": "Pharmacies de nuit"
+   "name": "Pharmacie Volubilis",
+   "address": "70, rue el moutanabi, a cote de service de permis de conduire, derriere la wilaya de fes boulmane, a Ville Nouvelle ville nouvelle Fes",
+   "phone": "+212 535 64 31 75",
+   "lat": 34.0214718,
+   "lng": -5.0135472,
+   "shift": "24h",
+   "shift_label": "Pharmacies 24h/24"
   },
   {
-   "name": "Pharmacie sordo",
-   "address": "2, rue mohammed torres Tetouan Martil Martil Tetouan",
-   "phone": "+212 539 96 03 36",
-   "lat": 35.5696613,
-   "lng": -5.3704129,
-   "shift": "nuit",
-   "shift_label": "Pharmacies de nuit"
+   "name": "Pharmacie Sounni",
+   "address": "hay Al Adarissa, l'Erac Bloc 17 n°13, , rte Ain Chkef Fès Ville Nouvelle ville nouvelle Fes",
+   "phone": "+212 535 60 37 74",
+   "lat": 34.0181024,
+   "lng": -5.008165,
+   "shift": "24h",
+   "shift_label": "Pharmacies 24h/24"
   }
  ],
  "center": [
-  35.5903,
-  -5.3513
+  34.0268,
+  -4.9926
  ]
 }

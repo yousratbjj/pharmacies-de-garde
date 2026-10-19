@@ -1,26 +1,26 @@
 {
  "city": "boulemane",
  "label": "Boulemane",
- "date": "2026-10-18",
+ "date": "2026-10-19",
  "source": "med.ma",
  "source_url": "https://www.med.ma/pharmacy/day-time/boulemane",
  "kind": "directory",
  "pharmacies": [
+  {
+   "name": "Pharmacie Sala Al Jadida",
+   "address": "4, bd Moulay Youssef, Sala AlJadida Sale Sidi Allal El Bahraoui Sale",
+   "phone": "+212 537 53 03 15",
+   "lat": 33.9962808,
+   "lng": -6.7450267,
+   "shift": "jour",
+   "shift_label": "Pharmacies de jour"
+  },
   {
    "name": "Pharmacie Bassatine El Menzeh",
    "address": "N°6, bloc 10, Bassatine El Menzeh - El Menzeh Harhoura Harhoura Rabat",
    "phone": "+212 537 01 19 66",
    "lat": 33.8571711,
    "lng": -6.8536304,
-   "shift": "jour",
-   "shift_label": "Pharmacies de jour"
-  },
-  {
-   "name": "Pharmacie Marjane",
-   "address": "centre commerciale marjane bouregreg Rabat Sale Rabat",
-   "phone": "+212 537 70 16 63",
-   "lat": 34.0190468590674,
-   "lng": -6.81667823093449,
    "shift": "jour",
    "shift_label": "Pharmacies de jour"
   },
@@ -43,20 +43,20 @@
    "shift_label": "Pharmacies de jour"
   },
   {
-   "name": "Pharmacie Annour",
-   "address": "33, avenue Ennour sect.\"H\" Est c.y.m Rabat Harhoura Harhoura Rabat",
-   "phone": "+212 537 69 11 80",
-   "lat": 33.9996656,
-   "lng": -6.8674947,
+   "name": "Pharmacie Gharbia",
+   "address": "35 rue karatchi ocean (sania gharbia) prés de la joutia des (motos) et de la cimetiére achouhada Rabat Sale Rabat",
+   "phone": "+212 537 20 16 50",
+   "lat": 34.0272865,
+   "lng": -6.8456293,
    "shift": "jour",
    "shift_label": "Pharmacies de jour"
   },
   {
-   "name": "Pharmacie du quartier",
-   "address": "1457 Av. Tarik Ibn Ziad, Témara Harhoura Harhoura Temara",
-   "phone": "+212 537 60 07 79",
-   "lat": 33.9232517664553,
-   "lng": -6.8978499285831,
+   "name": "Pharmacie Riyad El Wifak",
+   "address": "av al khansaa 1374, n 4, lot alwifak - Temara Harhoura Harhoura Temara",
+   "phone": "+212 537 61 13 66",
+   "lat": 33.9622712,
+   "lng": -6.8771983,
    "shift": "jour",
    "shift_label": "Pharmacies de jour"
   },
@@ -70,26 +70,26 @@
    "shift_label": "Pharmacies de jour"
   },
   {
-   "name": "Pharmacie Echoumoue",
-   "address": "lot fadli 2 n° 150 - TEMARA Harhoura Harhoura Temara",
-   "phone": "+212 537 61 11 38",
-   "lat": 33.9140388,
-   "lng": -6.91741,
+   "name": "Pharmacie Al Bahja",
+   "address": "rés al bahja avenue al majd imm i mag 5-6 c.y.m Rabat Harhoura Harhoura Rabat",
+   "phone": "+212 537 79 71 37",
+   "lat": 33.9685197,
+   "lng": -6.8885404,
    "shift": "jour",
    "shift_label": "Pharmacies de jour"
   },
   {
-   "name": "Pharmacie laboratoire \"Chifaa\"",
-   "address": "4, av. Hassan II , Sigal Sigalon Témara Harhoura Harhoura Temara",
-   "phone": "+212 537 74 12 00",
-   "lat": 33.9222531,
-   "lng": -6.9200502,
+   "name": "Pharmacie Al Hiba",
+   "address": "lot 24h sect 5 n°126 massira 1 - TEMARA Harhoura Harhoura Temara",
+   "phone": "+212 537 60 99 70",
+   "lat": 33.9337646,
+   "lng": -6.9021539,
    "shift": "jour",
    "shift_label": "Pharmacies de jour"
   }
  ],
  "center": [
-  33.9623,
-  -6.8701
+  33.9745,
+  -6.8522
  ]
 }

@@ -1,23 +1,50 @@
 {
  "city": "ait-melloul",
  "label": "Aït Melloul",
- "date": "2026-10-18",
+ "date": "2026-10-19",
  "source": "sahha.ma",
  "source_url": "https://sahha.ma/pharmacie-de-garde/ait-melloul",
  "kind": "roster",
  "pharmacies": [
   {
-   "name": "Pharmacie Alhilal Alakhdar",
-   "address": "340, Rte Biougra",
-   "phone": "+212528247475",
-   "lat": 30.363519,
-   "lng": -9.409279,
-   "shift": "",
+   "name": "Pharmacie Admine",
+   "address": "6, Hay Almassira , Bloc B",
+   "phone": "+212528248750",
+   "lat": 30.3471347,
+   "lng": -9.4857503,
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie Amarir",
+   "address": "Agdal N°743",
+   "phone": "+212528245139",
+   "lat": 30.3355017,
+   "lng": -9.5020611,
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie Amlak Souss",
+   "address": "Pharmacie Amlak Souss",
+   "phone": "+212528245214",
+   "lat": 30.3347502,
+   "lng": -9.5086406,
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie Moderne",
+   "address": "Rue Du Pont, Près Du Pont Oued Souss",
+   "phone": "+212528249165",
+   "lat": 30.3715342,
+   "lng": -9.5317414,
+   "shift": "jour",
    "shift_label": ""
   }
  ],
  "center": [
-  30.3635,
-  -9.4093
+  30.3472,
+  -9.507
  ]
 }

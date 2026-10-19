@@ -1,7 +1,7 @@
 {
  "city": "kenitra",
  "label": "Kénitra",
- "date": "2026-10-18",
+ "date": "2026-10-19",
  "source": "sahha.ma",
  "source_url": "https://sahha.ma/pharmacie-de-garde/kenitra",
  "kind": "roster",
@@ -34,6 +34,15 @@
    "shift_label": ""
   },
   {
+   "name": "Pharmacie SAADAOUI",
+   "address": "أمام مؤسسة محمد السادس للتضامن دار البحارة, سكتور 9 القصبة الهاتف. 89 88 38 0537",
+   "phone": "+212537388889",
+   "lat": 34.2579819,
+   "lng": -6.6553538,
+   "shift": "24h",
+   "shift_label": ""
+  },
+  {
    "name": "Pharmacie Sanae",
    "address": "Pharmacie Sanae",
    "phone": "+212537355655",
@@ -53,7 +62,7 @@
   }
  ],
  "center": [
-  34.2595,
-  -6.5922
+  34.2593,
+  -6.6027
  ]
 }

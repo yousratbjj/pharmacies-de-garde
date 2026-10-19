@@ -1,7 +1,7 @@
 {
  "city": "tamesna",
  "label": "Tamesna",
- "date": "2026-10-18",
+ "date": "2026-10-19",
  "source": "sahha.ma",
  "source_url": "https://sahha.ma/pharmacie-de-garde/tamesna",
  "kind": "roster",
@@ -12,7 +12,7 @@
    "phone": "",
    "lat": 33.8388973,
    "lng": -6.9324059,
-   "shift": "",
+   "shift": "jour",
    "shift_label": ""
   }
  ],

@@ -1,7 +1,7 @@
 {
  "city": "tetouan",
  "label": "Tétouan",
- "date": "2026-10-18",
+ "date": "2026-10-19",
  "source": "sahha.ma",
  "source_url": "https://sahha.ma/pharmacie-de-garde/tetouan",
  "kind": "roster",
@@ -12,7 +12,7 @@
    "phone": "+212539962207",
    "lat": 35.5699833,
    "lng": -5.3714333,
-   "shift": "",
+   "shift": "nuit",
    "shift_label": ""
   },
   {
@@ -21,30 +21,12 @@
    "phone": "+212539990022",
    "lat": 35.5556,
    "lng": -5.3763167,
-   "shift": "",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie Al Qods",
-   "address": "1, rue Moritania",
-   "phone": "+212539700309",
-   "lat": 35.5726306,
-   "lng": -5.4158548,
-   "shift": "",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie Imane",
-   "address": "Hay kouilma , route azarkaa",
-   "phone": "+212539717106",
-   "lat": 35.554,
-   "lng": -5.354691,
-   "shift": "",
+   "shift": "nuit",
    "shift_label": ""
   }
  ],
  "center": [
-  35.5631,
-  -5.3796
+  35.5628,
+  -5.3739
  ]
 }

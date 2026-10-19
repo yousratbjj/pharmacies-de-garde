@@ -1,7 +1,7 @@
 {
  "city": "errachidia",
  "label": "Errachidia",
- "date": "2026-10-18",
+ "date": "2026-10-19",
  "source": "sahha.ma",
  "source_url": "https://sahha.ma/pharmacie-de-garde/errachidia",
  "kind": "roster",
@@ -23,10 +23,55 @@
    "lng": -4.450928,
    "shift": "",
    "shift_label": ""
+  },
+  {
+   "name": "Pharmacie Ibn Rochd",
+   "address": "2, Ain Al Aati 2",
+   "phone": "+212535573839",
+   "lat": 31.9377866,
+   "lng": -4.4556613,
+   "shift": "",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie L 039 Aeroport",
+   "address": "2 oulad Elhaj rte 21",
+   "phone": "+212535790949",
+   "lat": 31.936527,
+   "lng": -4.40599,
+   "shift": "",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie L'Habitat",
+   "address": "rue Abdelkrim Khattabi N.H",
+   "phone": "+212535574285",
+   "lat": 31.928726,
+   "lng": -4.421084,
+   "shift": "",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie Targa",
+   "address": "Targa Jdida , rue 50 n°5",
+   "phone": "+212535571416",
+   "lat": 31.9277436,
+   "lng": -4.4430137,
+   "shift": "",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie Al Aati",
+   "address": "Pharmacie Al Aati",
+   "phone": "+212535791918",
+   "lat": 31.934678,
+   "lng": -4.4563761,
+   "shift": "",
+   "shift_label": ""
   }
  ],
  "center": [
-  31.9276,
-  -4.4361
+  31.9315,
+  -4.4363
  ]
 }

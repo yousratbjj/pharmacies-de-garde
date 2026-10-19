@@ -1,81 +1,63 @@
 {
  "city": "oujda",
  "label": "Oujda",
- "date": "2026-10-18",
+ "date": "2026-10-19",
  "source": "sahha.ma",
  "source_url": "https://sahha.ma/pharmacie-de-garde/oujda",
  "kind": "roster",
  "pharmacies": [
   {
-   "name": "Pharmacie El Achouri",
-   "address": "rue Ibn El Baraa",
-   "phone": "+212536551049",
-   "lat": 34.661398,
-   "lng": -1.933131,
-   "shift": "nuit",
+   "name": "Pharfmacie Mahaj Almouahidine",
+   "address": "362 Hay Semmarine - Autre ville",
+   "phone": "+212536551346",
+   "lat": 34.653227,
+   "lng": -1.941998,
+   "shift": "jour",
    "shift_label": ""
   },
   {
    "name": "Pharmacie El Ansari",
-   "address": "Hay ElWifak rue 115 n°137 Koulouch",
+   "address": "Hay ElWifak , rue 115 n°137 Koulouch",
    "phone": "+212536520919",
    "lat": 34.7090167,
    "lng": -1.9091167,
-   "shift": "nuit",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie Gala",
-   "address": "hay Zghamim , rue ElKhima 21 n°15",
-   "phone": "+212536686667",
-   "lat": 34.7203577,
-   "lng": -1.8825812,
-   "shift": "nuit",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie Hay El Bekkay",
-   "address": "hay El Bekkay n° 509 Sidi yahya",
-   "phone": "+212783047710",
-   "lat": 34.677874,
-   "lng": -1.929306,
-   "shift": "nuit",
+   "shift": "jour",
    "shift_label": ""
   },
   {
    "name": "Pharmacie Hilal Akhdar",
-   "address": "583 lotiss. Msirdi Lazaret rte Sidi Yahya",
+   "address": "583, lotiss. Msirdi Lazaret , rte Sidi Yahya",
    "phone": "+212536745329",
    "lat": 34.67695,
    "lng": -1.8824333,
-   "shift": "nuit",
+   "shift": "jour",
    "shift_label": ""
   },
   {
-   "name": "Pharmacie Karzazi",
-   "address": "Lot. Mimouni , rue M4 n°12 rte. Aaouaja",
-   "phone": "+212533865636",
-   "lat": 34.6772086,
-   "lng": -1.8939607,
-   "shift": "nuit",
+   "name": "Pharmacie la Colline",
+   "address": "lotiss. la Colline, imm 55 n°7",
+   "phone": "+212536534853",
+   "lat": 34.6542879,
+   "lng": -1.9099499,
+   "shift": "jour",
    "shift_label": ""
   },
   {
    "name": "Pharmacie Manal",
-   "address": "Rte. Sidi yahya n° 223 hay Jdid",
+   "address": "Rte. Sidi yahya , n° 223, hay Jdid",
    "phone": "+212536503678",
    "lat": 34.6658167,
    "lng": -1.8861,
-   "shift": "nuit",
+   "shift": "jour",
    "shift_label": ""
   },
   {
-   "name": "Pharmacie Moulay Idriss",
-   "address": "7, bd Mly Idriss Al Akbar",
-   "phone": "+212536684399",
-   "lat": 34.6737833,
-   "lng": -1.91315,
-   "shift": "nuit",
+   "name": "Pharmacie Nasser",
+   "address": "Dhar Lamhala , Lotiss. Alj, rue A n°82",
+   "phone": "+212536745741",
+   "lat": 34.6785917,
+   "lng": -1.879384,
+   "shift": "jour",
    "shift_label": ""
   },
   {
@@ -84,21 +66,39 @@
    "phone": "+212536687675",
    "lat": 34.67205,
    "lng": -1.9127333,
-   "shift": "nuit",
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie Taiba",
+   "address": "79, lotiss. Miri , hay El Hassani",
+   "phone": "+212536524200",
+   "lat": 34.7142797,
+   "lng": -1.9069029,
+   "shift": "jour",
    "shift_label": ""
   },
   {
    "name": "Pharmacie Tarik AlGharb",
-   "address": "Pharmacie Tarik AlGharb",
+   "address": "rte Taza , hay Si Lakhdar",
    "phone": "+212536516153",
    "lat": 34.6842833,
    "lng": -1.9383833,
-   "shift": "nuit",
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie Tayret",
+   "address": "531 Bis, rue de Tayret",
+   "phone": "+212536681410",
+   "lat": 34.6742667,
+   "lng": -1.90215,
+   "shift": "jour",
    "shift_label": ""
   }
  ],
  "center": [
-  34.6819,
-  -1.9081
+  34.6783,
+  -1.9069
  ]
 }

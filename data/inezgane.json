@@ -1,41 +1,23 @@
 {
  "city": "inezgane",
  "label": "Inezgane",
- "date": "2026-10-18",
+ "date": "2026-10-19",
  "source": "sahha.ma",
  "source_url": "https://sahha.ma/pharmacie-de-garde/inezgane",
  "kind": "roster",
  "pharmacies": [
   {
-   "name": "PHARMACIE EZZAHRA",
-   "address": "34 Bis, bd Al Mourabitine , cité des Fonctionnaires",
-   "phone": "+212528337507",
-   "lat": 30.3542008,
-   "lng": -9.5421518,
-   "shift": "jour",
-   "shift_label": ""
-  },
-  {
-   "name": "PHARMACIE IBN SINA ( AVICENNE )",
-   "address": "Hay boujdigue tarrast",
-   "phone": "+212528331888",
-   "lat": 30.3690135,
-   "lng": -9.5375178,
-   "shift": "jour",
-   "shift_label": ""
-  },
-  {
-   "name": "PHARMACIE LES CHALETS 2",
-   "address": "Cité oued eddahab n° 100 les chalets",
-   "phone": "+212528331113",
-   "lat": 30.3647153,
-   "lng": -9.5442802,
-   "shift": "jour",
+   "name": "PHARMACIE DU SOUK",
+   "address": "53 bd mokhtar soussi lot. erac",
+   "phone": "+212528241111",
+   "lat": 30.3256739,
+   "lng": -9.4972138,
+   "shift": "nuit",
    "shift_label": ""
   }
  ],
  "center": [
-  30.3626,
-  -9.5413
+  30.3257,
+  -9.4972
  ]
 }

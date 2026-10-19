@@ -1,23 +1,50 @@
 {
  "city": "al-hoceima",
  "label": "Al Hoceïma",
- "date": "2026-10-18",
+ "date": "2026-10-19",
  "source": "sahha.ma",
  "source_url": "https://sahha.ma/pharmacie-de-garde/al-hoceima",
  "kind": "roster",
  "pharmacies": [
+  {
+   "name": "Pharmacie Al Qods",
+   "address": "24, bd El Qods, rte Sidi Mansour",
+   "phone": "+212539840669",
+   "lat": 35.2374748,
+   "lng": -3.9392897,
+   "shift": "",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie Anoual",
+   "address": "47 av. Imzouren Al hoceima Ajdir Ajdir Al Hoceima Maroc Garde 24/24",
+   "phone": "+212539982917",
+   "lat": 35.2414525,
+   "lng": -3.9277175,
+   "shift": "",
+   "shift_label": ""
+  },
   {
    "name": "Pharmacie centrale du Rif",
    "address": "23 Avenue Hassan II",
    "phone": "+212539982582",
    "lat": 35.2405667,
    "lng": -3.9303167,
-   "shift": "24h",
+   "shift": "",
+   "shift_label": ""
+  },
+  {
+   "name": "AL HODA",
+   "address": "AvenueTarik Ibn Ziad N 166",
+   "phone": "+212539980944",
+   "lat": 35.2515169,
+   "lng": -3.9406209,
+   "shift": "",
    "shift_label": ""
   }
  ],
  "center": [
-  35.2406,
-  -3.9303
+  35.2428,
+  -3.9345
  ]
 }

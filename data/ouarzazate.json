@@ -1,32 +1,23 @@
 {
  "city": "ouarzazate",
  "label": "Ouarzazate",
- "date": "2026-10-18",
+ "date": "2026-10-19",
  "source": "sahha.ma",
  "source_url": "https://sahha.ma/pharmacie-de-garde/ouarzazate",
  "kind": "roster",
  "pharmacies": [
   {
-   "name": "Pharmacie L'Aeroport",
-   "address": "52 lot El Wahda Erac",
-   "phone": "+212524886614",
-   "lat": 30.93045,
-   "lng": -6.9084667,
-   "shift": "",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie Tassoumaate",
-   "address": "10 bd Mohammed V",
-   "phone": "+212524887499",
-   "lat": 30.92381,
-   "lng": -6.9298427,
-   "shift": "",
+   "name": "PHARMACIE CENTRALE",
+   "address": "33 bd Mohammed V",
+   "phone": "+212524882601",
+   "lat": 30.9201487,
+   "lng": -6.9164236,
+   "shift": "nuit",
    "shift_label": ""
   }
  ],
  "center": [
-  30.9271,
-  -6.9192
+  30.9201,
+  -6.9164
  ]
 }

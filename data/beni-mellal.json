@@ -1,50 +1,50 @@
 {
  "city": "beni-mellal",
  "label": "Béni Mellal",
- "date": "2026-10-18",
+ "date": "2026-10-19",
  "source": "sahha.ma",
  "source_url": "https://sahha.ma/pharmacie-de-garde/beni-mellal",
  "kind": "roster",
  "pharmacies": [
   {
-   "name": "Pharmacie Aïn Asserdoun",
-   "address": "bd Houmane ElFetouaki",
-   "phone": "+212523487591",
-   "lat": 32.3389365,
-   "lng": -6.3418715,
+   "name": "PHARMACIE AÏN ASSERDOUN",
+   "address": "bd Houmane ElFetouakiشارع حمان الفطواكي",
+   "phone": "+212 5 23 42 01 03",
+   "lat": 32.3344429,
+   "lng": -6.3632166,
    "shift": "24h",
    "shift_label": ""
   },
   {
-   "name": "Pharmacie Dar Talib",
-   "address": "60 Bd. Rabat lot Rizk Hay Takadoum",
+   "name": "PHARMACIE DAR TALIB",
+   "address": "60, Bd. Rabat , lot Rizk, Hay Takadoumرقم 60، شارع الرباط، حي التقدم - رياض السلام",
    "phone": "+212523420072",
-   "lat": 32.34565,
-   "lng": -6.3438833,
+   "lat": 32.3452837,
+   "lng": -6.3418008,
    "shift": "24h",
    "shift_label": ""
   },
   {
-   "name": "Pharmacie Ezzahraa",
-   "address": "3 lotiss. Firdaouss - Autre ville q Ghita",
+   "name": "PHARMACIE EZZAHRAA",
+   "address": "3, lotiss. Firdaouss, q, Ghitaرقم 3 تجزئة الفردوس -حي غيتة",
    "phone": "+212523484845",
-   "lat": 32.333898,
-   "lng": -6.371687,
+   "lat": 32.3339047,
+   "lng": -6.3717701,
    "shift": "24h",
    "shift_label": ""
   },
   {
-   "name": "Pharmacie Hay Redouane",
+   "name": "PHARMACIE HAY REDOUANE",
    "address": "lot Redouane",
    "phone": "+212523485103",
-   "lat": 32.3459,
-   "lng": -6.35545,
+   "lat": 32.3415579,
+   "lng": -6.3635529,
    "shift": "24h",
    "shift_label": ""
   }
  ],
  "center": [
-  32.3411,
-  -6.3532
+  32.3388,
+  -6.3601
  ]
 }

@@ -1,7 +1,7 @@
 {
  "city": "agadir",
  "label": "Agadir",
- "date": "2026-10-18",
+ "date": "2026-10-19",
  "source": "sahha.ma",
  "source_url": "https://sahha.ma/pharmacie-de-garde/agadir",
  "kind": "roster",
@@ -16,30 +16,12 @@
    "shift_label": ""
   },
   {
-   "name": "Pharmacie Al amal",
-   "address": "bd mohamed cheikh saadi, imm. tighmirt, derrière le complexe artisanal",
-   "phone": "+212528843926",
-   "lat": 30.4249551,
-   "lng": -9.5903946,
-   "shift": "jour",
-   "shift_label": ""
-  },
-  {
    "name": "Pharmacie Al Andaloussia",
    "address": "Pharmacie Al Andaloussia",
    "phone": "+212528292999",
    "lat": 30.3999177,
    "lng": -9.5552929,
    "shift": "24h",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie Al Manar",
-   "address": "hay essalam, rue 952 n°16",
-   "phone": "+212528213545",
-   "lat": 30.3986401,
-   "lng": -9.5488499,
-   "shift": "jour",
    "shift_label": ""
   },
   {
@@ -61,15 +43,6 @@
    "shift_label": ""
   },
   {
-   "name": "Pharmacie Dakhla",
-   "address": "14, rue al farabi, cité dakhla",
-   "phone": "+212528222229",
-   "lat": 30.4103597,
-   "lng": -9.5558419,
-   "shift": "jour",
-   "shift_label": ""
-  },
-  {
    "name": "Pharmacie de la Poste",
    "address": "bd moukaouama en face du jardin lala meryem",
    "phone": "+212528842315",
@@ -86,10 +59,28 @@
    "lng": -9.5641512,
    "shift": "24h",
    "shift_label": ""
+  },
+  {
+   "name": "Pharmacie Errahma",
+   "address": "161, hay mohammadi, près de l'école des handicaps",
+   "phone": "+212528232333",
+   "lat": 30.436587,
+   "lng": -9.5523815,
+   "shift": "24h",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie Riad Alhouda",
+   "address": "1176, hay al houda (mobile: 0528321774)",
+   "phone": "+212661364061",
+   "lat": 30.3989798,
+   "lng": -9.5377871,
+   "shift": "24h",
+   "shift_label": ""
   }
  ],
  "center": [
-  30.4121,
-  -9.5667
+  30.4139,
+  -9.5619
  ]
 }

@@ -1,7 +1,7 @@
 {
  "city": "youssoufia",
  "label": "Youssoufia",
- "date": "2026-10-18",
+ "date": "2026-10-19",
  "source": "sahha.ma",
  "source_url": "https://sahha.ma/pharmacie-de-garde/youssoufia",
  "kind": "roster",
@@ -12,12 +12,75 @@
    "phone": "+212636191872",
    "lat": 32.2514508,
    "lng": -8.5221274,
-   "shift": "nuit",
+   "shift": "",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie Afaq",
+   "address": "131 Hay Agendis",
+   "phone": "+212524649818",
+   "lat": 32.2514508,
+   "lng": -8.5221274,
+   "shift": "",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie Agendis",
+   "address": "Pharmacie Agendis",
+   "phone": "+212524646491",
+   "lat": 32.25885,
+   "lng": -8.5265167,
+   "shift": "",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie Ahmar",
+   "address": "24 Rue Oued Eddahab",
+   "phone": "+212524649112",
+   "lat": 32.2431833,
+   "lng": -8.5366833,
+   "shift": "",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie Al Fath",
+   "address": "Hay El Fath - Autre Ville",
+   "phone": "+212524646060",
+   "lat": 32.245801,
+   "lng": -8.532439,
+   "shift": "",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie AlQods",
+   "address": "Hay Elwahda 3 N°23",
+   "phone": "+212524647546",
+   "lat": 32.254,
+   "lng": -8.5359333,
+   "shift": "",
+   "shift_label": ""
+  },
+  {
+   "name": "PHARMACIE ANNOUR",
+   "address": "hay Laghdir n°314",
+   "phone": "+212524649312",
+   "lat": 32.2371333,
+   "lng": -8.5495833,
+   "shift": "",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie Baghdad",
+   "address": "Pharmacie Baghdad",
+   "phone": "+212524649474",
+   "lat": 32.2353333,
+   "lng": -8.5335,
+   "shift": "",
    "shift_label": ""
   }
  ],
  "center": [
-  32.2515,
-  -8.5221
+  32.2472,
+  -8.5324
  ]
 }

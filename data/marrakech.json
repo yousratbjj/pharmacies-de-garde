@@ -1,95 +1,86 @@
 {
  "city": "marrakech",
  "label": "Marrakech",
- "date": "2026-10-18",
+ "date": "2026-10-19",
  "source": "sahha.ma",
  "source_url": "https://sahha.ma/pharmacie-de-garde/marrakech",
  "kind": "roster",
  "pharmacies": [
   {
-   "name": "Ouhoud",
+   "name": "OUHOUD",
    "address": "294, Lot. Masmoudi, avant l’école Ouhoud, route Sidi Dou Targa",
-   "phone": "+212525085659",
-   "lat": 31.6524746,
-   "lng": -8.0506779,
+   "phone": "+212524344395",
+   "lat": 31.6524772,
+   "lng": -8.0507147,
    "shift": "jour",
    "shift_label": ""
   },
   {
    "name": "Pharmacie Acharaf",
-   "address": "872, Lot. Acharaf face école Acharaf et près Association Ennakhil de la Femme et l’Enfant",
+   "address": "872, Lot. Acharaf face école Acharaf et près Association Ennakhil de la Femme et l’Enfant Marrakech",
    "phone": "+212524304046",
-   "lat": 31.6684983,
-   "lng": -8.0227754,
-   "shift": "jour",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie AlAbawayn",
-   "address": "lotiss. Al Fadl 3°éme. Tranche imm.B2 Jnanat",
-   "phone": "+212524330227",
-   "lat": 31.6791167,
-   "lng": -8.0246833,
-   "shift": "jour",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie Al Amana",
-   "address": "78, douar ouled el garne rte ait ourir marrakech",
-   "phone": "+212653214949",
-   "lat": 31.6344036,
-   "lng": -7.9205443,
-   "shift": "jour",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie AlBahja",
-   "address": "453 bd El Midani q. AlBahja douar Laaskar",
-   "phone": "+212524345300",
-   "lat": 31.6331667,
-   "lng": -8.0448667,
+   "lat": 31.6685223,
+   "lng": -8.0227715,
    "shift": "jour",
    "shift_label": ""
   },
   {
    "name": "Pharmacie Al Fath",
-   "address": "398, hay Massira II, bloc B",
+   "address": "398 Bis, Massira II, à côté du lycée salah Eddine Ayoubi rte Essouira station mobile, tournez à droite Marrakech",
    "phone": "+212524346755",
-   "lat": 31.6297121,
-   "lng": -8.0667951,
+   "lat": 31.6296457,
+   "lng": -8.0668227,
    "shift": "jour",
    "shift_label": ""
   },
   {
-   "name": "Pharmacie Al Firdaous",
-   "address": "Route principale de Lamhamid (Av. Guemassa) près de l’Ecole Chkili M’hamid et la Société Générale de Banque",
-   "phone": "+212524360646",
-   "lat": 31.6175995,
-   "lng": -7.9706001,
+   "name": "Pharmacie Arset Banni",
+   "address": "En face de Bab Aghmat à côté de Khiria Bd. Cadi Ayad Marrakech",
+   "phone": "+212524387963",
+   "lat": 31.6241893,
+   "lng": -7.9745213,
    "shift": "jour",
    "shift_label": ""
   },
   {
-   "name": "Pharmacie AlKhabir",
-   "address": "hay Massira III n° 203 A",
-   "phone": "+212524493781",
-   "lat": 31.6456,
-   "lng": -8.0670667,
+   "name": "Pharmacie Awatif",
+   "address": "Lot. Awatif Imm. A 1 Assif, près de l'école El Bachir et Mosquée Awatif MARRAKECH",
+   "phone": "+212524331293",
+   "lat": 31.6520594,
+   "lng": -8.0097789,
    "shift": "jour",
    "shift_label": ""
   },
   {
-   "name": "Pharmacie AlMadariss",
-   "address": "210 bd Al Madarisse Sidi Youssef Ben Ali",
-   "phone": "+212524401171",
-   "lat": 31.6107,
-   "lng": -7.9679167,
+   "name": "Pharmacie Borj Ennakhil",
+   "address": "Route de Fès \" Nakhla al 3ouja \" Entrée Tamsna en face du Jnane Lkbir",
+   "phone": "+212524329789",
+   "lat": 31.6486973,
+   "lng": -7.9631113,
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie La Gare Routiere",
+   "address": "27, Op. Bab Al Borj Azzouzia (Route Afaq et Agadir, à 250m de Mosquée Tribich) Marrakech",
+   "phone": "+212524356693",
+   "lat": 31.684134,
+   "lng": -8.075921,
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie La Palestine",
+   "address": "4, Lot. Tassaltante, près grande Mosquée de Sissane et derrière Oasis d’Agdal SYBA Marrakech",
+   "phone": "+212524404738",
+   "lat": 31.6023722,
+   "lng": -7.968792,
    "shift": "jour",
    "shift_label": ""
   }
  ],
  "center": [
-  31.6413,
-  -8.0151
+  31.6453,
+  -8.0166
  ]
 }

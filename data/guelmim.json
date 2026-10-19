@@ -1,32 +1,23 @@
 {
  "city": "guelmim",
  "label": "Guelmim",
- "date": "2026-10-18",
+ "date": "2026-10-19",
  "source": "sahha.ma",
  "source_url": "https://sahha.ma/pharmacie-de-garde/guelmim",
  "kind": "roster",
  "pharmacies": [
   {
-   "name": "Pharmacie Al Masjid",
-   "address": "Pharmacie Al Masjid",
-   "phone": "+212808628388",
-   "lat": 28.987447,
-   "lng": -10.043549,
-   "shift": "jour",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie Alouaha",
-   "address": "lotissement Al Ouaha",
-   "phone": "+212528776373",
-   "lat": 28.9863852,
-   "lng": -10.0574351,
-   "shift": "jour",
+   "name": "Pharmacie Ben Tahr",
+   "address": "56 av Allal Ben Abdellah hay Al Massira II",
+   "phone": "+212528771314",
+   "lat": 28.991617,
+   "lng": -10.0595272,
+   "shift": "nuit",
    "shift_label": ""
   }
  ],
  "center": [
-  28.9869,
-  -10.0505
+  28.9916,
+  -10.0595
  ]
 }

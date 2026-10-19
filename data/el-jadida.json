@@ -1,32 +1,14 @@
 {
  "city": "el-jadida",
  "label": "El Jadida",
- "date": "2026-10-18",
+ "date": "2026-10-19",
  "source": "sahha.ma",
  "source_url": "https://sahha.ma/pharmacie-de-garde/el-jadida",
  "kind": "roster",
  "pharmacies": [
   {
-   "name": "Pharmacie Afw Allah",
-   "address": "bd Al Alaouyine lotiss. Asmae 2 imm. Abir II lot. 24",
-   "phone": "+212523392050",
-   "lat": 33.2369,
-   "lng": -8.5262333,
-   "shift": "jour",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie Al Adarissa",
-   "address": "1, rue Principale",
-   "phone": "+212523340041",
-   "lat": 33.2282079,
-   "lng": -8.5030128,
-   "shift": "jour",
-   "shift_label": ""
-  },
-  {
    "name": "Pharmacie AlBoustane",
-   "address": "Pharmacie AlBoustane",
+   "address": "1, bd Khalil Jabrane, résid. AlBoustane 3",
    "phone": "+212523351723",
    "lat": 33.2249076,
    "lng": -8.506819,
@@ -35,7 +17,7 @@
   },
   {
    "name": "Pharmacie AlMoutanabi",
-   "address": "Pharmacie AlMoutanabi",
+   "address": "68, lotiss. Chams, Saâda 3",
    "phone": "+212523394078",
    "lat": 33.245533,
    "lng": -8.530481,
@@ -44,7 +26,7 @@
   },
   {
    "name": "Pharmacie Annakhil",
-   "address": "Pharmacie Annakhil",
+   "address": "1 Bis, rue Baghdad",
    "phone": "+212523351203",
    "lat": 33.2436073,
    "lng": -8.4926079,
@@ -52,17 +34,8 @@
    "shift_label": ""
   },
   {
-   "name": "Pharmacie Chateau rouge",
-   "address": "76, bd Moulay Abdelhafid",
-   "phone": "+212523340387",
-   "lat": 33.262,
-   "lng": -8.5086,
-   "shift": "jour",
-   "shift_label": ""
-  },
-  {
    "name": "Pharmacie Cherif",
-   "address": "Pharmacie Cherif",
+   "address": "570, hay Essalam",
    "phone": "+212523371150",
    "lat": 33.2259,
    "lng": -8.5017333,
@@ -70,17 +43,8 @@
    "shift_label": ""
   },
   {
-   "name": "Pharmacie Cité Universitaire",
-   "address": "135, bd de la Université, lot Al Kawtar",
-   "phone": "+212523342669",
-   "lat": 33.22458,
-   "lng": -8.482751,
-   "shift": "jour",
-   "shift_label": ""
-  },
-  {
    "name": "Pharmacie De L'Union",
-   "address": "Pharmacie De L'Union",
+   "address": "160 bd Mohammed V",
    "phone": "+212523343364",
    "lat": 33.2464167,
    "lng": -8.5001333,
@@ -95,10 +59,46 @@
    "lng": -8.505046,
    "shift": "jour",
    "shift_label": ""
+  },
+  {
+   "name": "Pharmacie Ennour",
+   "address": "77 Bis, bd Jamaleddine El Afghani, Lotiss. Essaâda",
+   "phone": "+212523391240",
+   "lat": 33.2422833,
+   "lng": -8.52755,
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie Ibnou Sina",
+   "address": "76, rue Ibn Sina",
+   "phone": "+212523344492",
+   "lat": 33.2590333,
+   "lng": -8.5114667,
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie Khalil Jabrane",
+   "address": "108, lotiss. El Wafa, imm. A, q. Al Matar",
+   "phone": "+212523371757",
+   "lat": 33.228595,
+   "lng": -8.51984,
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie Lalla Zahra",
+   "address": "95, bd Chouhada",
+   "phone": "+212523343794",
+   "lat": 33.2535,
+   "lng": -8.5148167,
+   "shift": "jour",
+   "shift_label": ""
   }
  ],
  "center": [
-  33.2394,
-  -8.5057
+  33.2426,
+  -8.511
  ]
 }

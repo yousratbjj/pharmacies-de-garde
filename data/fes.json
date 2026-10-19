@@ -1,11 +1,20 @@
 {
  "city": "fes",
  "label": "Fès",
- "date": "2026-10-18",
+ "date": "2026-10-19",
  "source": "sahha.ma",
  "source_url": "https://sahha.ma/pharmacie-de-garde/fes",
  "kind": "roster",
  "pharmacies": [
+  {
+   "name": "Pharmacie Al Imane",
+   "address": "13, rue billal ben rabbah, rue 2 hay oued fés, en face de marjane",
+   "phone": "+212535631793",
+   "lat": 34.0522616,
+   "lng": -5.0366504,
+   "shift": "24h",
+   "shift_label": ""
+  },
   {
    "name": "Pharmacie Assafae",
    "address": "91 hay massira ii benssouda",
@@ -86,19 +95,10 @@
    "lng": -5.0,
    "shift": "24h",
    "shift_label": ""
-  },
-  {
-   "name": "Pharmacie Sounni",
-   "address": "hay adarissa route ain chkef",
-   "phone": "+212535603774",
-   "lat": 34.0214879,
-   "lng": -5.015916,
-   "shift": "24h",
-   "shift_label": ""
   }
  ],
  "center": [
-  34.0222,
-  -5.0206
+  34.0252,
+  -5.0227
  ]
 }

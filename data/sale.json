@@ -1,27 +1,18 @@
 {
  "city": "sale",
  "label": "Salé",
- "date": "2026-10-18",
+ "date": "2026-10-19",
  "source": "sahha.ma",
  "source_url": "https://sahha.ma/pharmacie-de-garde/sale",
  "kind": "roster",
  "pharmacies": [
-  {
-   "name": "Pharmacie Al Omrane",
-   "address": "Pharmacie Al Omrane",
-   "phone": "+212537780777",
-   "lat": 34.0328184,
-   "lng": -6.8043101,
-   "shift": "",
-   "shift_label": ""
-  },
   {
    "name": "Pharmacie Amzar",
    "address": "Pharmacie Amzar",
    "phone": "+212537822542",
    "lat": 34.0815191,
    "lng": -6.7765555,
-   "shift": "nuit",
+   "shift": "24h",
    "shift_label": ""
   },
   {
@@ -30,7 +21,7 @@
    "phone": "+212537843589",
    "lat": 33.9982925,
    "lng": -6.7432456,
-   "shift": "nuit",
+   "shift": "24h",
    "shift_label": ""
   },
   {
@@ -39,7 +30,7 @@
    "phone": "+212537781405",
    "lat": 34.0366839,
    "lng": -6.8188121,
-   "shift": "",
+   "shift": "24h",
    "shift_label": ""
   },
   {
@@ -48,7 +39,7 @@
    "phone": "+212537782388",
    "lat": 34.044889,
    "lng": -6.814017,
-   "shift": "",
+   "shift": "24h",
    "shift_label": ""
   },
   {
@@ -57,7 +48,7 @@
    "phone": "+212537864757",
    "lat": 34.0502882,
    "lng": -6.800525,
-   "shift": "",
+   "shift": "24h",
    "shift_label": ""
   },
   {
@@ -66,21 +57,21 @@
    "phone": "+212537873944",
    "lat": 34.0477643,
    "lng": -6.7743173,
-   "shift": "nuit",
+   "shift": "24h",
    "shift_label": ""
   },
   {
-   "name": "Pharmacie Sala Al Jadida",
-   "address": "4, Boulevard Moulay Youssef",
-   "phone": "+212537530315",
-   "lat": 33.9962808,
-   "lng": -6.7450267,
-   "shift": "nuit",
+   "name": "Pharmacie Al Omrane",
+   "address": "Pharmacie Al Omrane",
+   "phone": "+212537780777",
+   "lat": 34.0328184,
+   "lng": -6.8043101,
+   "shift": "jour",
    "shift_label": ""
   }
  ],
  "center": [
-  34.0361,
-  -6.7846
+  34.0418,
+  -6.7903
  ]
 }
