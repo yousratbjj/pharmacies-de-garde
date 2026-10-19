@@ -7,12 +7,21 @@
  "kind": "roster",
  "pharmacies": [
   {
+   "name": "Pharmacie Charif Idrissi",
+   "address": "Pharmacie Charif Idrissi",
+   "phone": "+212528602525",
+   "lat": 29.7049333,
+   "lng": -9.7364667,
+   "shift": "nuit",
+   "shift_label": ""
+  },
+  {
    "name": "Pharmacie Des Amicales",
    "address": "Amicale des fonctionnaires Bloc C n°142",
    "phone": "+212528861550",
    "lat": 29.6973833,
    "lng": -9.7347833,
-   "shift": "jour",
+   "shift": "",
    "shift_label": ""
   },
   {
@@ -21,12 +30,12 @@
    "phone": "+212528600721",
    "lat": 29.6922667,
    "lng": -9.7298333,
-   "shift": "jour",
+   "shift": "",
    "shift_label": ""
   }
  ],
  "center": [
-  29.6948,
-  -9.7323
+  29.6982,
+  -9.7337
  ]
 }

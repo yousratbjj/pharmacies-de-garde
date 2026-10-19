@@ -7,17 +7,17 @@
  "kind": "roster",
  "pharmacies": [
   {
-   "name": "Pharmacie Manssour Dahbi",
-   "address": "Pharmacie Manssour Dahbi",
-   "phone": "+212524838116",
-   "lat": 30.3428747,
-   "lng": -5.8377713,
-   "shift": "jour",
+   "name": "Pharmacie Salim",
+   "address": "Pharmacie Salim",
+   "phone": "+212524846562",
+   "lat": 30.349931,
+   "lng": -5.839036,
+   "shift": "nuit",
    "shift_label": ""
   }
  ],
  "center": [
-  30.3429,
-  -5.8378
+  30.3499,
+  -5.839
  ]
 }

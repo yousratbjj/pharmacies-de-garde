@@ -12,7 +12,7 @@
    "phone": "+212535660737",
    "lat": 33.82943,
    "lng": -4.8253,
-   "shift": "nuit",
+   "shift": "",
    "shift_label": ""
   },
   {
@@ -21,7 +21,7 @@
    "phone": "+212535660348",
    "lat": 33.831753,
    "lng": -4.8439886,
-   "shift": "nuit",
+   "shift": "",
    "shift_label": ""
   }
  ],
