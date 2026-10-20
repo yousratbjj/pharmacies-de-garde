@@ -97,11 +97,29 @@
    "shift_label": "Pharmacies 24h/24"
   },
   {
+   "name": "Pharmacie Rebbouh",
+   "address": "Pharmacie Rebbouh BIOUGRA El Guerdan Agadir",
+   "phone": "+212 528 81 05 05",
+   "lat": 30.2206575,
+   "lng": -9.3728585,
+   "shift": "24h",
+   "shift_label": "Pharmacies 24h/24"
+  },
+  {
    "name": "Pharmacie Achifa",
    "address": "Pharmacie Achifa BIOUGRA El Guerdan Agadir",
    "phone": "+212 528 81 02 93",
    "lat": 30.2206575,
    "lng": -9.3728585,
+   "shift": "24h",
+   "shift_label": "Pharmacies 24h/24"
+  },
+  {
+   "name": "Pharmacie Agharass",
+   "address": "Pharmacie Agharass BIOUGRA El Guerdan Agadir",
+   "phone": "+212 528 81 83 18",
+   "lat": 30.2153044,
+   "lng": -9.3637987,
    "shift": "24h",
    "shift_label": "Pharmacies 24h/24"
   },
@@ -115,15 +133,6 @@
    "shift_label": "Pharmacies 24h/24"
   },
   {
-   "name": "Pharmacie la Santé",
-   "address": "6, z.i Anza, hay ElAmal, Agadir Tamri Tamri Agadir",
-   "phone": "+212 528 20 40 60",
-   "lat": 30.4437217,
-   "lng": -9.6527634,
-   "shift": "24h",
-   "shift_label": "Pharmacies 24h/24"
-  },
-  {
    "name": "Pharmacie Anezi",
    "address": "10, bd mohammed v AGADIR Agadir",
    "phone": "+212 664 00 78 68",
@@ -131,55 +140,10 @@
    "lng": -9.6001047,
    "shift": "24h",
    "shift_label": "Pharmacies 24h/24"
-  },
-  {
-   "name": "Pharmacie Chifa Al Farah",
-   "address": "hay bensergao , hay el farah Agadir Agadir",
-   "phone": "+212 528 28 01 59",
-   "lat": 30.3954844,
-   "lng": -9.5580444,
-   "shift": "24h",
-   "shift_label": "Pharmacies 24h/24"
-  },
-  {
-   "name": "Pharmacie Cokail",
-   "address": "206/c, rue talouzine, lot. biranzarane Tikiouine Agadir Agadir",
-   "phone": "+212 528 28 47 89",
-   "lat": 30.3747253,
-   "lng": -9.5166895,
-   "shift": "24h",
-   "shift_label": "Pharmacies 24h/24"
-  },
-  {
-   "name": "Pharmacie Al Andaloussia",
-   "address": "résidence nasr-3 (bicha) près de jet sakan Agadir Agadir",
-   "phone": "+212 528 29 29 99",
-   "lat": 30.3999268,
-   "lng": -9.5553073,
-   "shift": "24h",
-   "shift_label": "Pharmacies 24h/24"
-  },
-  {
-   "name": "Pharmacie de la Poste",
-   "address": "bd moukaouama en face du jardin lala meryem Agadir Agadir",
-   "phone": "+212 528 84 23 15",
-   "lat": 30.4277547,
-   "lng": -9.5981072,
-   "shift": "24h",
-   "shift_label": "Pharmacies 24h/24"
-  },
-  {
-   "name": "Pharmacie El Mghari",
-   "address": "5, bd hassan 1er imm. alwifaq, cité dakhla Agadir Agadir",
-   "phone": "+212 528 23 97 64",
-   "lat": 30.411727,
-   "lng": -9.5641512,
-   "shift": "24h",
-   "shift_label": "Pharmacies 24h/24"
   }
  ],
  "center": [
-  30.355,
-  -9.5212
+  30.3151,
+  -9.4797
  ]
 }

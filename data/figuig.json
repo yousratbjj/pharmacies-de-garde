@@ -7,53 +7,53 @@
  "kind": "directory",
  "pharmacies": [
   {
-   "name": "Pharfmacie Mahaj Almouahidine",
-   "address": "362 Hay Semmarine Oujda - Maroc Ain Bni Mathar Oujda",
-   "phone": "+212 536 55 13 46",
-   "lat": 34.6532136,
-   "lng": -1.9419525,
+   "name": "Pharmacie Centrale Ain Serrak",
+   "address": "lot. Laalej n°209 rue D n°57 rte. Ain Serrak Oujda Jerada Jerada Oujda",
+   "phone": "+212 536 71 20 09",
+   "lat": 34.6576053,
+   "lng": -1.926096,
    "shift": "24h",
    "shift_label": "Pharmacies 24h/24"
   },
   {
-   "name": "Pharmacie la Colline",
-   "address": "lotiss. la Colline imm 55 n°7 Oujda Ain Bni Mathar Oujda",
-   "phone": "+212 536 53 48 53",
-   "lat": 34.6542366,
-   "lng": -1.9099341,
+   "name": "Pharmacie ElHouda",
+   "address": "Hay Elwahda E11 n°31 Tarik ElGharb Oujda Oujda",
+   "phone": "+212 536 51 86 30",
+   "lat": 34.6760479,
+   "lng": -1.9405453,
    "shift": "24h",
    "shift_label": "Pharmacies 24h/24"
   },
   {
-   "name": "Pharmacie Tayret",
-   "address": "531 X rue de Tayret Oujda Oujda",
-   "phone": "+212 536 68 14 10",
-   "lat": 34.6745086,
-   "lng": -1.9024674,
+   "name": "Pharmacie Hicham",
+   "address": "lotiss. Loukili n°6 Derb Berrahmoune OUJDA Oujda",
+   "phone": "+212 536 74 57 39",
+   "lat": 34.6819079,
+   "lng": -1.8931785,
    "shift": "24h",
    "shift_label": "Pharmacies 24h/24"
   },
   {
-   "name": "Pharmacie Nasser",
-   "address": "Dhar Lamhala , Lotiss. Alj, rue A n°82 Oujda Oujda",
-   "phone": "+212 536 74 57 41",
-   "lat": 34.681962,
-   "lng": -1.900155,
+   "name": "Pharmacie Pasteur",
+   "address": "53 bd. Fétouaki Oujda Oujda",
+   "phone": "+212 536 68 60 44",
+   "lat": 34.6891501,
+   "lng": -1.9175128,
    "shift": "24h",
    "shift_label": "Pharmacies 24h/24"
   },
   {
-   "name": "Pharmacie Taiba",
-   "address": "79 lotiss. Miri hay El Hassani Oujda Aklim Aklim Oujda",
-   "phone": "+212 536 52 42 00",
-   "lat": 34.714207,
-   "lng": -1.906882,
+   "name": "Pharmacie Tennis",
+   "address": "rte Maghnia bloc 3 n°19 Oujda Oujda",
+   "phone": "+212 536 69 06 02",
+   "lat": 34.6982592,
+   "lng": -1.8973012,
    "shift": "24h",
    "shift_label": "Pharmacies 24h/24"
   }
  ],
  "center": [
-  34.6756,
-  -1.9123
+  34.6806,
+  -1.9149
  ]
 }
