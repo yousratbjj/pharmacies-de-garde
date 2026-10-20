@@ -88,20 +88,11 @@
    "shift_label": "Pharmacies de nuit"
   },
   {
-   "name": "Pharmacie Ben Omar",
-   "address": "n° 63 imm. c19 riad anza taddart Agadir Tamri Tamri Agadir",
-   "phone": "+212 528 20 58 98",
-   "lat": 30.4648843,
-   "lng": -9.638859,
-   "shift": "24h",
-   "shift_label": "Pharmacies 24h/24"
-  },
-  {
-   "name": "Pharmacie la Santé",
-   "address": "6, z.i Anza, hay ElAmal, Agadir Tamri Tamri Agadir",
-   "phone": "+212 528 20 40 60",
-   "lat": 30.4437217,
-   "lng": -9.6527634,
+   "name": "Pharmacie Miftah Sahil",
+   "address": "imm 31, mag 3, projet miftah sahil Agadir Tamri Tamri Agadir",
+   "phone": "+212 528 20 60 45",
+   "lat": 30.453347,
+   "lng": -9.655887,
    "shift": "24h",
    "shift_label": "Pharmacies 24h/24"
   },
@@ -111,6 +102,15 @@
    "phone": "+212 528 23 23 33",
    "lat": 30.436587,
    "lng": -9.5523815,
+   "shift": "24h",
+   "shift_label": "Pharmacies 24h/24"
+  },
+  {
+   "name": "Pharmacie Al Oulya",
+   "address": "7 hay taddart - secteur a lot 5 anza Agadir Agadir",
+   "phone": "+212 528 20 52 36",
+   "lat": 30.4277547,
+   "lng": -9.5981072,
    "shift": "24h",
    "shift_label": "Pharmacies 24h/24"
   },
@@ -179,7 +179,7 @@
   }
  ],
  "center": [
-  30.3881,
-  -9.5514
+  30.3867,
+  -9.5494
  ]
 }

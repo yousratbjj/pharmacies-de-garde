@@ -61,42 +61,6 @@
    "shift_label": "Pharmacies de jour"
   },
   {
-   "name": "Pharmacie La Famille",
-   "address": "Fin Av. Tachfine Qt. Riad Al Menara (nouveau quartier), direction l'Aéroport à côté de la Mosquée Al Ghorfrane MARRAKECH Loudaya Loudaya Marrakech",
-   "phone": "+212 524 39 49 20",
-   "lat": 31.6232318,
-   "lng": -7.9847429,
-   "shift": "jour",
-   "shift_label": "Pharmacies de jour"
-  },
-  {
-   "name": "Pharmacie Mouassine",
-   "address": "Après 100 m de Kouass Laqsour près de Mosquée Mouassine et à côté de Derb Snane MARRAKECH Loudaya Loudaya Marrakech",
-   "phone": "+212 524 44 17 25",
-   "lat": 31.6293081,
-   "lng": -7.9903372,
-   "shift": "jour",
-   "shift_label": "Pharmacies de jour"
-  },
-  {
-   "name": "Pharmacie Bab Aghmat",
-   "address": "57, Toualat Bab Aghmat, près du Lycée Mohamed V et Collège Laymoune Marrakech Loudaya Loudaya Marrakech",
-   "phone": "+212 524 38 79 22",
-   "lat": 31.624961,
-   "lng": -7.992414,
-   "shift": "jour",
-   "shift_label": "Pharmacies de jour"
-  },
-  {
-   "name": "Pharmacie Annahda",
-   "address": "938, Lot. Nahda 1, en face du Collège Annahda et près de l’école primaire Al Badr MARRAKECH Kettara Kettara Marrakech",
-   "phone": "+212 524 36 00 06",
-   "lat": 31.633333,
-   "lng": -8.0,
-   "shift": "jour",
-   "shift_label": "Pharmacies de jour"
-  },
-  {
    "name": "Pharmacie Al Amana",
    "address": "78, Douar Ouled El Garne Rte Ait Ourir Marrakech Loudaya Loudaya Marrakech",
    "phone": "+212 524 32 83 28",
@@ -158,37 +122,10 @@
    "lng": -8.0049777,
    "shift": "nuit",
    "shift_label": "Pharmacies de nuit"
-  },
-  {
-   "name": "Pharmacie Mansoura",
-   "address": "25, Av. Khalid Ben Walid Imm. Rachadi 150 m de l’Hôtel le Marrakech, vers les Sapeurs Pompiers Loudaya Loudaya Marrakech",
-   "phone": "+212 524 43 46 46",
-   "lat": 31.6316964,
-   "lng": -8.0034705,
-   "shift": "nuit",
-   "shift_label": "Pharmacies de nuit"
-  },
-  {
-   "name": "Pharmacie Awatif",
-   "address": "Lot. Awatif Imm. A 1 Assif, près de l'école El Bachir et Mosquée Awatif MARRAKECH Kettara Kettara Marrakech",
-   "phone": "+212 524 33 12 93",
-   "lat": 31.6520744,
-   "lng": -8.0098026,
-   "shift": "nuit",
-   "shift_label": "Pharmacies de nuit"
-  },
-  {
-   "name": "Pharmacie Acharaf",
-   "address": "872, Lot. Acharaf face école Acharaf et près Association Ennakhil de la Femme et l’Enfant Marrakech Kettara Kettara Marrakech",
-   "phone": "+212 524 30 40 46",
-   "lat": 31.6685293,
-   "lng": -8.0228105,
-   "shift": "nuit",
-   "shift_label": "Pharmacies de nuit"
   }
  ],
  "center": [
-  31.637,
-  -7.985
+  31.6367,
+  -7.9766
  ]
 }

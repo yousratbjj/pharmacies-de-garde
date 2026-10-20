@@ -7,89 +7,62 @@
  "kind": "directory",
  "pharmacies": [
   {
-   "name": "Pharmacie Sala Al Jadida",
-   "address": "4, bd Moulay Youssef, Sala AlJadida Sale Sidi Allal El Bahraoui Sale",
-   "phone": "+212 537 53 03 15",
-   "lat": 33.9962808,
-   "lng": -6.7450267,
-   "shift": "jour",
-   "shift_label": "Pharmacies de jour"
+   "name": "Pharmacie Chabbak",
+   "address": "Q. Chabbak 1 , n°117 bis Sefrou Bhalil Bhalil Sefrou",
+   "phone": "+212 535 96 92 07",
+   "lat": 33.8299585533117,
+   "lng": -4.83832910770393,
+   "shift": "nuit",
+   "shift_label": "Pharmacies de nuit"
   },
   {
-   "name": "Pharmacie Bassatine El Menzeh",
-   "address": "N°6, bloc 10, Bassatine El Menzeh - El Menzeh Harhoura Harhoura Rabat",
-   "phone": "+212 537 01 19 66",
-   "lat": 33.8571711,
-   "lng": -6.8536304,
-   "shift": "jour",
-   "shift_label": "Pharmacies de jour"
+   "name": "Pharmacie Hay Elouz",
+   "address": "q. Elouz Ben Seffar n°44 Séfrou - Maroc Ahermoumou Sefrou",
+   "phone": "+212 535 66 13 94",
+   "lat": 33.8330824,
+   "lng": -4.8257436,
+   "shift": "nuit",
+   "shift_label": "Pharmacies de nuit"
   },
   {
-   "name": "Pharmacie Les Arcades",
-   "address": "44 bis av pasteur (angle av pasteur et av la victoire) Rabat Harhoura Harhoura Rabat",
-   "phone": "+212 537 72 42 22",
-   "lat": 34.012133,
-   "lng": -6.8426371,
-   "shift": "jour",
-   "shift_label": "Pharmacies de jour"
+   "name": "Pharmacie la Famille",
+   "address": "lotissement Bir Anzarane Ben Seffar n°19 Séfrou Ahermoumou Sefrou",
+   "phone": "+212 535 66 22 64",
+   "lat": 33.8253851,
+   "lng": -4.8219393,
+   "shift": "24h",
+   "shift_label": "Pharmacies 24h/24"
   },
   {
-   "name": "Pharmacie Des Oudayas",
-   "address": "17.place des oudayas Rabat Sale Rabat",
-   "phone": "+212 537 73 44 10",
-   "lat": 34.0295472,
-   "lng": -6.8358519,
-   "shift": "jour",
-   "shift_label": "Pharmacies de jour"
+   "name": "Pharmacie Avicenne",
+   "address": "bd Amir Abdelkader Sefrou Ahermoumou Sefrou",
+   "phone": "+212 535 66 05 62",
+   "lat": 33.8253851,
+   "lng": -4.8219393,
+   "shift": "24h",
+   "shift_label": "Pharmacies 24h/24"
   },
   {
-   "name": "Pharmacie Gharbia",
-   "address": "35 rue karatchi ocean (sania gharbia) prés de la joutia des (motos) et de la cimetiére achouhada Rabat Sale Rabat",
-   "phone": "+212 537 20 16 50",
-   "lat": 34.0272865,
-   "lng": -6.8456293,
-   "shift": "jour",
-   "shift_label": "Pharmacies de jour"
+   "name": "Pharmacie Laaouini",
+   "address": "102 Lotissement Lalla Moulati rte. El Menzel Sefrou Ahermoumou Sefrou",
+   "phone": "+212 535 68 38 87",
+   "lat": 33.8255679,
+   "lng": -4.8218198,
+   "shift": "24h",
+   "shift_label": "Pharmacies 24h/24"
   },
   {
-   "name": "Pharmacie Riyad El Wifak",
-   "address": "av al khansaa 1374, n 4, lot alwifak - Temara Harhoura Harhoura Temara",
-   "phone": "+212 537 61 13 66",
-   "lat": 33.9622712,
-   "lng": -6.8771983,
-   "shift": "jour",
-   "shift_label": "Pharmacies de jour"
-  },
-  {
-   "name": "Pharmacie Ibn Baytar",
-   "address": "40 cité amal 0 avenue el massira cym Rabat Harhoura Harhoura Rabat",
-   "phone": "+212 537 79 43 64",
-   "lat": 33.9836864,
-   "lng": -6.8792245,
-   "shift": "jour",
-   "shift_label": "Pharmacies de jour"
-  },
-  {
-   "name": "Pharmacie Al Bahja",
-   "address": "rés al bahja avenue al majd imm i mag 5-6 c.y.m Rabat Harhoura Harhoura Rabat",
-   "phone": "+212 537 79 71 37",
-   "lat": 33.9685197,
-   "lng": -6.8885404,
-   "shift": "jour",
-   "shift_label": "Pharmacies de jour"
-  },
-  {
-   "name": "Pharmacie Al Hiba",
-   "address": "lot 24h sect 5 n°126 massira 1 - TEMARA Harhoura Harhoura Temara",
-   "phone": "+212 537 60 99 70",
-   "lat": 33.9337646,
-   "lng": -6.9021539,
-   "shift": "jour",
-   "shift_label": "Pharmacies de jour"
+   "name": "Pharmacie Habitat",
+   "address": "114 bd Hassan 1ér Sette Massouda Séfrou Ahermoumou Sefrou",
+   "phone": "+212 535 96 92 42",
+   "lat": 33.827836,
+   "lng": -4.833416,
+   "shift": "24h",
+   "shift_label": "Pharmacies 24h/24"
   }
  ],
  "center": [
-  33.9745,
-  -6.8522
+  33.8279,
+  -4.8272
  ]
 }
