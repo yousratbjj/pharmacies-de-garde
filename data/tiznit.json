@@ -1,23 +1,23 @@
 {
  "city": "tiznit",
  "label": "Tiznit",
- "date": "2026-10-19",
+ "date": "2026-10-20",
  "source": "sahha.ma",
  "source_url": "https://sahha.ma/pharmacie-de-garde/tiznit",
  "kind": "roster",
  "pharmacies": [
   {
-   "name": "PHARMACIE DES AMICALES",
-   "address": "Amicale des fonctionnaires Bloc C n°142",
-   "phone": "+212528861550",
-   "lat": 29.6973623,
-   "lng": -9.7348807,
-   "shift": "jour",
+   "name": "PHARMACIE CHARIF IDRISSI",
+   "address": "180 rue Mohamed Aouzal",
+   "phone": "+212528602525",
+   "lat": 29.7049436,
+   "lng": -9.7363398,
+   "shift": "nuit",
    "shift_label": ""
   }
  ],
  "center": [
-  29.6974,
-  -9.7349
+  29.7049,
+  -9.7363
  ]
 }

@@ -1,18 +1,54 @@
 {
  "city": "rabat",
  "label": "Rabat",
- "date": "2026-10-19",
+ "date": "2026-10-20",
  "source": "sahha.ma",
  "source_url": "https://sahha.ma/pharmacie-de-garde/rabat",
  "kind": "roster",
  "pharmacies": [
+  {
+   "name": "Pharmacie Al Bahja",
+   "address": "Pharmacie Al Bahja",
+   "phone": "+212537797137",
+   "lat": 34.0223999,
+   "lng": -6.8345399,
+   "shift": "nuit",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie CHELLAH",
+   "address": "Centre Ville, Rabat",
+   "phone": "+212537724723",
+   "lat": 34.0217171,
+   "lng": -6.8312237,
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie EL JOULANE",
+   "address": "Takadoum & Souissi, Rabat",
+   "phone": "+212537756756",
+   "lat": 33.9788267,
+   "lng": -6.8222431,
+   "shift": "nuit",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie FELLAT",
+   "address": "Akkari-Ocean-Orangers, Rabat",
+   "phone": "+212537720887",
+   "lat": 34.0195444,
+   "lng": -6.8499448,
+   "shift": "nuit",
+   "shift_label": ""
+  },
   {
    "name": "Pharmacie Ryad",
    "address": "Pharmacie Ryad",
    "phone": "+212537710681",
    "lat": 33.9622797,
    "lng": -6.8772197,
-   "shift": "24h",
+   "shift": "nuit",
    "shift_label": ""
   },
   {
@@ -21,39 +57,12 @@
    "phone": "+212537754008",
    "lat": 34.0218454,
    "lng": -6.8408929,
-   "shift": "24h",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie Al Bahja",
-   "address": "Pharmacie Al Bahja",
-   "phone": "+212537797137",
-   "lat": 34.0223999,
-   "lng": -6.8345399,
-   "shift": "24h",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie Des Oudayas",
-   "address": "Pharmacie Des Oudayas",
-   "phone": "+212537734410",
-   "lat": 34.0295277,
-   "lng": -6.8358593,
-   "shift": "jour",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie Les Arcades",
-   "address": "Pharmacie Les Arcades",
-   "phone": "+212537724222",
-   "lat": 34.0150986,
-   "lng": -6.8416801,
-   "shift": "jour",
+   "shift": "nuit",
    "shift_label": ""
   }
  ],
  "center": [
-  34.0102,
-  -6.846
+  34.0044,
+  -6.8427
  ]
 }

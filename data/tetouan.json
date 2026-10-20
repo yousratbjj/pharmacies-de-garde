@@ -1,32 +1,23 @@
 {
  "city": "tetouan",
  "label": "Tétouan",
- "date": "2026-10-19",
+ "date": "2026-10-20",
  "source": "sahha.ma",
  "source_url": "https://sahha.ma/pharmacie-de-garde/tetouan",
  "kind": "roster",
  "pharmacies": [
   {
-   "name": "Grande Pharmacie du Nord",
-   "address": "11 bd. Mohammed V",
-   "phone": "+212539962207",
-   "lat": 35.5699833,
-   "lng": -5.3714333,
-   "shift": "nuit",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie Bouanane",
-   "address": "Saf ElHamam rte. Torreta n°6",
-   "phone": "+212539990022",
-   "lat": 35.5556,
-   "lng": -5.3763167,
-   "shift": "nuit",
+   "name": "EL AZAMI",
+   "address": "383 Avenue Mokhtar, Soussi Boujrah Al Faoukiyaرقم383 شارع المختار السوسي بوجراح الفوقية",
+   "phone": "",
+   "lat": 35.5866184,
+   "lng": -5.3597369,
+   "shift": "",
    "shift_label": ""
   }
  ],
  "center": [
-  35.5628,
-  -5.3739
+  35.5866,
+  -5.3597
  ]
 }

@@ -1,7 +1,7 @@
 {
  "city": "marrakech",
  "label": "Marrakech",
- "date": "2026-10-19",
+ "date": "2026-10-20",
  "source": "sahha.ma",
  "source_url": "https://sahha.ma/pharmacie-de-garde/marrakech",
  "kind": "roster",
@@ -12,7 +12,7 @@
    "phone": "+212524344395",
    "lat": 31.6524772,
    "lng": -8.0507147,
-   "shift": "jour",
+   "shift": "",
    "shift_label": ""
   },
   {
@@ -21,7 +21,7 @@
    "phone": "+212524304046",
    "lat": 31.6685223,
    "lng": -8.0227715,
-   "shift": "jour",
+   "shift": "",
    "shift_label": ""
   },
   {
@@ -30,7 +30,7 @@
    "phone": "+212524346755",
    "lat": 31.6296457,
    "lng": -8.0668227,
-   "shift": "jour",
+   "shift": "",
    "shift_label": ""
   },
   {
@@ -39,7 +39,7 @@
    "phone": "+212524387963",
    "lat": 31.6241893,
    "lng": -7.9745213,
-   "shift": "jour",
+   "shift": "",
    "shift_label": ""
   },
   {
@@ -48,7 +48,7 @@
    "phone": "+212524331293",
    "lat": 31.6520594,
    "lng": -8.0097789,
-   "shift": "jour",
+   "shift": "",
    "shift_label": ""
   },
   {
@@ -57,7 +57,7 @@
    "phone": "+212524329789",
    "lat": 31.6486973,
    "lng": -7.9631113,
-   "shift": "jour",
+   "shift": "",
    "shift_label": ""
   },
   {
@@ -66,7 +66,7 @@
    "phone": "+212524356693",
    "lat": 31.684134,
    "lng": -8.075921,
-   "shift": "jour",
+   "shift": "",
    "shift_label": ""
   },
   {
@@ -75,7 +75,7 @@
    "phone": "+212524404738",
    "lat": 31.6023722,
    "lng": -7.968792,
-   "shift": "jour",
+   "shift": "",
    "shift_label": ""
   }
  ],

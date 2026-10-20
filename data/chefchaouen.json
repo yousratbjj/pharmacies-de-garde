@@ -1,23 +1,23 @@
 {
  "city": "chefchaouen",
  "label": "Chefchaouen",
- "date": "2026-10-19",
+ "date": "2026-10-20",
  "source": "sahha.ma",
  "source_url": "https://sahha.ma/pharmacie-de-garde/chefchaouen",
  "kind": "roster",
  "pharmacies": [
   {
-   "name": "PHARMACIE ASSALAM",
-   "address": "av Essayeda AlHorra",
-   "phone": "+212539988195",
-   "lat": 35.1686287,
-   "lng": -5.2632947,
-   "shift": "nuit",
+   "name": "PHARMACIE CHEFCHAOUEN",
+   "address": "4, av Moulay Idriss",
+   "phone": "+212539986158",
+   "lat": 35.1676481,
+   "lng": -5.2660538,
+   "shift": "",
    "shift_label": ""
   }
  ],
  "center": [
-  35.1686,
-  -5.2633
+  35.1676,
+  -5.2661
  ]
 }

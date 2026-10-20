@@ -1,7 +1,7 @@
 {
  "city": "taza",
  "label": "Taza",
- "date": "2026-10-19",
+ "date": "2026-10-20",
  "source": "sahha.ma",
  "source_url": "https://sahha.ma/pharmacie-de-garde/taza",
  "kind": "roster",
@@ -12,7 +12,7 @@
    "phone": "+212535211589",
    "lat": 34.2309035,
    "lng": -3.994893,
-   "shift": "24h",
+   "shift": "",
    "shift_label": ""
   },
   {
@@ -21,7 +21,7 @@
    "phone": "+212535270178",
    "lat": 34.2166871,
    "lng": -4.0166013,
-   "shift": "24h",
+   "shift": "",
    "shift_label": ""
   }
  ],

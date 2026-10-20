@@ -1,7 +1,7 @@
 {
  "city": "sale",
  "label": "Salé",
- "date": "2026-10-19",
+ "date": "2026-10-20",
  "source": "sahha.ma",
  "source_url": "https://sahha.ma/pharmacie-de-garde/sale",
  "kind": "roster",
@@ -12,7 +12,7 @@
    "phone": "+212537822542",
    "lat": 34.0815191,
    "lng": -6.7765555,
-   "shift": "24h",
+   "shift": "nuit",
    "shift_label": ""
   },
   {
@@ -21,7 +21,7 @@
    "phone": "+212537843589",
    "lat": 33.9982925,
    "lng": -6.7432456,
-   "shift": "24h",
+   "shift": "nuit",
    "shift_label": ""
   },
   {
@@ -30,7 +30,7 @@
    "phone": "+212537781405",
    "lat": 34.0366839,
    "lng": -6.8188121,
-   "shift": "24h",
+   "shift": "nuit",
    "shift_label": ""
   },
   {
@@ -39,7 +39,7 @@
    "phone": "+212537782388",
    "lat": 34.044889,
    "lng": -6.814017,
-   "shift": "24h",
+   "shift": "nuit",
    "shift_label": ""
   },
   {
@@ -48,7 +48,7 @@
    "phone": "+212537864757",
    "lat": 34.0502882,
    "lng": -6.800525,
-   "shift": "24h",
+   "shift": "nuit",
    "shift_label": ""
   },
   {
@@ -57,21 +57,39 @@
    "phone": "+212537873944",
    "lat": 34.0477643,
    "lng": -6.7743173,
-   "shift": "24h",
+   "shift": "nuit",
    "shift_label": ""
   },
   {
-   "name": "Pharmacie Al Omrane",
-   "address": "Pharmacie Al Omrane",
-   "phone": "+212537780777",
-   "lat": 34.0328184,
-   "lng": -6.8043101,
-   "shift": "jour",
+   "name": "Pharmacie RAMADAN",
+   "address": "El Mazza Sidi Abdellah, Salé",
+   "phone": "+212646464109",
+   "lat": 34.0737009,
+   "lng": -6.7599503,
+   "shift": "nuit",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie RIF",
+   "address": "Tabriquet, Salé",
+   "phone": "+212537866063",
+   "lat": 34.0528173,
+   "lng": -6.7990442,
+   "shift": "nuit",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie ROUTE MEHDIA",
+   "address": "Al Mohit Abouab Sala, Salé",
+   "phone": "+212538423735",
+   "lat": 34.0843302,
+   "lng": -6.7878168,
+   "shift": "nuit",
    "shift_label": ""
   }
  ],
  "center": [
-  34.0418,
-  -6.7903
+  34.0523,
+  -6.786
  ]
 }

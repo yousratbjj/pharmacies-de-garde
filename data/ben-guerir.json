@@ -1,32 +1,32 @@
 {
  "city": "ben-guerir",
  "label": "Ben Guérir",
- "date": "2026-10-19",
+ "date": "2026-10-20",
  "source": "sahha.ma",
  "source_url": "https://sahha.ma/pharmacie-de-garde/ben-guerir",
  "kind": "roster",
  "pharmacies": [
   {
-   "name": "Pharmacie Al Fadl",
-   "address": "6 Pl. Abdelkrim Khattabi, Sur La Route Derrière Collège Oud El Makhazin, Route Vers Had El Fadl",
-   "phone": "+212524323030",
-   "lat": 32.239034,
-   "lng": -7.958131,
-   "shift": "jour",
+   "name": "Pharmacie Hay Nour",
+   "address": "Hay Ennour, Rue 10 N°267",
+   "phone": "+212524318236",
+   "lat": 32.2359364,
+   "lng": -7.9538378,
+   "shift": "nuit",
    "shift_label": ""
   },
   {
-   "name": "Pharmacie Lina",
-   "address": "Pharmacie Lina",
-   "phone": "+212524316608",
-   "lat": 32.2097715,
-   "lng": -7.9326733,
-   "shift": "jour",
+   "name": "Pharmacie Oum Achraf",
+   "address": "Pharmacie Oum Achraf",
+   "phone": "+212687073378",
+   "lat": 32.2350017,
+   "lng": -7.9507694,
+   "shift": "nuit",
    "shift_label": ""
   }
  ],
  "center": [
-  32.2244,
-  -7.9454
+  32.2355,
+  -7.9523
  ]
 }

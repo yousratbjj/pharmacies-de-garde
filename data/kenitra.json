@@ -1,18 +1,27 @@
 {
  "city": "kenitra",
  "label": "Kénitra",
- "date": "2026-10-19",
+ "date": "2026-10-20",
  "source": "sahha.ma",
  "source_url": "https://sahha.ma/pharmacie-de-garde/kenitra",
  "kind": "roster",
  "pharmacies": [
+  {
+   "name": "DES PALMIERS",
+   "address": "rue 65, n 2355, Motaharaالشارع 65، رقم 2355، المطهرة",
+   "phone": "",
+   "lat": 34.2542928,
+   "lng": -6.5434705,
+   "shift": "",
+   "shift_label": ""
+  },
   {
    "name": "Pharmacie Du Passage",
    "address": "133, rte 206, arsat al cadi",
    "phone": "+212537363162",
    "lat": 34.269479,
    "lng": -6.565106,
-   "shift": "24h",
+   "shift": "",
    "shift_label": ""
   },
   {
@@ -21,7 +30,7 @@
    "phone": "+212537386665",
    "lat": 34.25546,
    "lng": -6.56352,
-   "shift": "24h",
+   "shift": "",
    "shift_label": ""
   },
   {
@@ -30,7 +39,7 @@
    "phone": "+212537375907",
    "lat": 34.2653658,
    "lng": -6.5922376,
-   "shift": "24h",
+   "shift": "",
    "shift_label": ""
   },
   {
@@ -39,7 +48,7 @@
    "phone": "+212537388889",
    "lat": 34.2579819,
    "lng": -6.6553538,
-   "shift": "24h",
+   "shift": "",
    "shift_label": ""
   },
   {
@@ -48,7 +57,7 @@
    "phone": "+212537355655",
    "lat": 34.266668,
    "lng": -6.620997,
-   "shift": "24h",
+   "shift": "",
    "shift_label": ""
   },
   {
@@ -57,12 +66,12 @@
    "phone": "+212537394969",
    "lat": 34.2407379,
    "lng": -6.6189958,
-   "shift": "24h",
+   "shift": "",
    "shift_label": ""
   }
  ],
  "center": [
-  34.2593,
-  -6.6027
+  34.2586,
+  -6.5942
  ]
 }

@@ -1,7 +1,7 @@
 {
  "city": "zagora",
  "label": "Zagora",
- "date": "2026-10-19",
+ "date": "2026-10-20",
  "source": "sahha.ma",
  "source_url": "https://sahha.ma/pharmacie-de-garde/zagora",
  "kind": "roster",
@@ -12,7 +12,7 @@
    "phone": "+212524846562",
    "lat": 30.349931,
    "lng": -5.839036,
-   "shift": "nuit",
+   "shift": "",
    "shift_label": ""
   }
  ],
