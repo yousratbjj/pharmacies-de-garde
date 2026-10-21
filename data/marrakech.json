@@ -7,21 +7,30 @@
  "kind": "roster",
  "pharmacies": [
   {
+   "name": "BORJ ENNAKHIL",
+   "address": "Route de Fès \" Nakhla al 3ouja \" Entrée Tamsna en face du Jnane Lkbir",
+   "phone": "+212524329789",
+   "lat": 31.6486973,
+   "lng": -7.9631113,
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
    "name": "OUHOUD",
    "address": "294, Lot. Masmoudi, avant l’école Ouhoud, route Sidi Dou Targa",
    "phone": "+212524344395",
    "lat": 31.6524772,
    "lng": -8.0507147,
-   "shift": "",
+   "shift": "jour",
    "shift_label": ""
   },
   {
    "name": "Pharmacie Acharaf",
-   "address": "872, Lot. Acharaf face école Acharaf et près Association Ennakhil de la Femme et l’Enfant Marrakech",
+   "address": "872, Lot. Acharaf face école Acharaf et près Association Ennakhil de la Femme et l’Enfant",
    "phone": "+212524304046",
-   "lat": 31.6685223,
-   "lng": -8.0227715,
-   "shift": "",
+   "lat": 31.668533,
+   "lng": -8.0227721,
+   "shift": "jour",
    "shift_label": ""
   },
   {
@@ -30,7 +39,7 @@
    "phone": "+212524346755",
    "lat": 31.6296457,
    "lng": -8.0668227,
-   "shift": "",
+   "shift": "jour",
    "shift_label": ""
   },
   {
@@ -39,7 +48,7 @@
    "phone": "+212524387963",
    "lat": 31.6241893,
    "lng": -7.9745213,
-   "shift": "",
+   "shift": "jour",
    "shift_label": ""
   },
   {
@@ -48,39 +57,30 @@
    "phone": "+212524331293",
    "lat": 31.6520594,
    "lng": -8.0097789,
-   "shift": "",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie Borj Ennakhil",
-   "address": "Route de Fès \" Nakhla al 3ouja \" Entrée Tamsna en face du Jnane Lkbir",
-   "phone": "+212524329789",
-   "lat": 31.6486973,
-   "lng": -7.9631113,
-   "shift": "",
+   "shift": "jour",
    "shift_label": ""
   },
   {
    "name": "Pharmacie La Gare Routiere",
-   "address": "27, Op. Bab Al Borj Azzouzia (Route Afaq et Agadir, à 250m de Mosquée Tribich) Marrakech",
+   "address": "27, Op. Bab Al Borj Azzouzia (Route Afaq et Agadir, à 250m de Mosquée Tribich)",
    "phone": "+212524356693",
-   "lat": 31.684134,
-   "lng": -8.075921,
-   "shift": "",
+   "lat": 31.6841464,
+   "lng": -8.0759549,
+   "shift": "jour",
    "shift_label": ""
   },
   {
    "name": "Pharmacie La Palestine",
-   "address": "4, Lot. Tassaltante, près grande Mosquée de Sissane et derrière Oasis d’Agdal SYBA Marrakech",
+   "address": "4, Lot. Tassaltante, près grande Mosquée de Sissane et derrière Oasis d’Agdal SYBA",
    "phone": "+212524404738",
-   "lat": 31.6023722,
-   "lng": -7.968792,
-   "shift": "",
+   "lat": 31.6022319,
+   "lng": -7.9692864,
+   "shift": "jour",
    "shift_label": ""
   }
  ],
  "center": [
-  31.6453,
+  31.6452,
   -8.0166
  ]
 }

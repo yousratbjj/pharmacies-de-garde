@@ -7,17 +7,26 @@
  "kind": "roster",
  "pharmacies": [
   {
-   "name": "PHARMACIE DU VILLAGE",
-   "address": "bd Farid Bouji ang rue Med El Ayachi n° 1 bis",
-   "phone": "+212523492667",
-   "lat": 32.8765125,
-   "lng": -6.9082636,
-   "shift": "nuit",
+   "name": "PHARMACIE ROCHDI",
+   "address": "50 av. de l'Egypte lot. Errachaid Khouribga Boujniba Boujniba Khouribga Maroc",
+   "phone": "+212523567541",
+   "lat": 32.8920918,
+   "lng": -6.8980861,
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
+   "name": "PHARMACIE ZELLAKA",
+   "address": "1541 bd Mohammed VI hay EL Qods Khouribga Khouribga Maroc",
+   "phone": "+212523499335",
+   "lat": 32.8907209,
+   "lng": -6.9304266,
+   "shift": "jour",
    "shift_label": ""
   }
  ],
  "center": [
-  32.8765,
-  -6.9083
+  32.8914,
+  -6.9143
  ]
 }

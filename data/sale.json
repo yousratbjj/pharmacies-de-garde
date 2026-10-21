@@ -7,89 +7,71 @@
  "kind": "roster",
  "pharmacies": [
   {
-   "name": "Pharmacie Amzar",
-   "address": "Pharmacie Amzar",
-   "phone": "+212537822542",
-   "lat": 34.0815191,
-   "lng": -6.7765555,
-   "shift": "nuit",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie Chifaa",
-   "address": "Pharmacie Chifaa",
-   "phone": "+212537843589",
-   "lat": 33.9982925,
-   "lng": -6.7432456,
-   "shift": "nuit",
-   "shift_label": ""
-  },
-  {
    "name": "Pharmacie de la poste",
    "address": "Pharmacie de la poste",
    "phone": "+212537781405",
    "lat": 34.0366839,
    "lng": -6.8188121,
-   "shift": "nuit",
+   "shift": "24h",
    "shift_label": ""
   },
   {
-   "name": "Pharmacie El Filali",
-   "address": "Pharmacie El Filali",
-   "phone": "+212537782388",
+   "name": "Pharmacie L'Honneur",
+   "address": "Pharmacie L'Honneur",
+   "phone": "+212537533928",
    "lat": 34.044889,
    "lng": -6.814017,
    "shift": "nuit",
    "shift_label": ""
   },
   {
-   "name": "Pharmacie El Mamounia",
-   "address": "Pharmacie El Mamounia",
-   "phone": "+212537864757",
-   "lat": 34.0502882,
-   "lng": -6.800525,
-   "shift": "nuit",
+   "name": "Pharmacie Mehdia",
+   "address": "Pharmacie Mehdia",
+   "phone": "+212537804852",
+   "lat": 34.0238405,
+   "lng": -6.7850118,
+   "shift": "24h",
    "shift_label": ""
   },
   {
-   "name": "Pharmacie Moussadikine",
-   "address": "Pharmacie Moussadikine",
-   "phone": "+212537873944",
-   "lat": 34.0477643,
-   "lng": -6.7743173,
-   "shift": "nuit",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie RAMADAN",
-   "address": "El Mazza Sidi Abdellah, Salé",
-   "phone": "+212646464109",
+   "name": "Pharmacie Ramadan",
+   "address": "Pharmacie Ramadan",
+   "phone": "+212670267816",
    "lat": 34.0737009,
    "lng": -6.7599503,
-   "shift": "nuit",
+   "shift": "24h",
    "shift_label": ""
   },
   {
-   "name": "Pharmacie RIF",
-   "address": "Tabriquet, Salé",
+   "name": "Pharmacie Rif",
+   "address": "Pharmacie Rif",
    "phone": "+212537866063",
    "lat": 34.0528173,
    "lng": -6.7990442,
-   "shift": "nuit",
+   "shift": "24h",
    "shift_label": ""
   },
   {
-   "name": "Pharmacie ROUTE MEHDIA",
-   "address": "Al Mohit Abouab Sala, Salé",
-   "phone": "+212538423735",
-   "lat": 34.0843302,
-   "lng": -6.7878168,
-   "shift": "nuit",
+   "name": "Pharmacie Sidi Abdellah Ben Hassoun",
+   "address": "Pharmacie Sidi Abdellah Ben Hassoun",
+   "phone": "+212537800608",
+   "lat": 34.0534208,
+   "lng": -6.7801742,
+   "shift": "24h",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie WAHIBA",
+   "address": "Sala El Jadida, Salé",
+   "phone": "+212537532424",
+   "lat": 33.9975403,
+   "lng": -6.7380104,
+   "shift": "jour",
    "shift_label": ""
   }
  ],
  "center": [
-  34.0523,
-  -6.786
+  34.0404,
+  -6.785
  ]
 }

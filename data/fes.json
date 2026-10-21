@@ -12,93 +12,93 @@
    "phone": "+212535631793",
    "lat": 34.0522616,
    "lng": -5.0366504,
-   "shift": "nuit",
+   "shift": "24h",
    "shift_label": ""
   },
   {
-   "name": "Pharmacie Assafae",
-   "address": "91 hay massira ii benssouda",
-   "phone": "+212535729135",
-   "lat": 33.9919599,
-   "lng": -5.0678801,
-   "shift": "",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie Bab Boujloud",
-   "address": "Pharmacie Bab Boujloud",
-   "phone": "+212535633222",
-   "lat": 34.0619756,
-   "lng": -4.9857939,
-   "shift": "",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie Bensouda",
-   "address": "hay m'cella bensouda",
-   "phone": "+212535726563",
-   "lat": 34.0171679,
-   "lng": -5.0554329,
-   "shift": "",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie El Mountazah",
-   "address": "Pharmacie El Mountazah",
-   "phone": "+212535755102",
-   "lat": 34.0561945,
-   "lng": -5.046598,
-   "shift": "",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie Hay Riyad",
-   "address": "n°754 lotissement riad 4 .route sefrou",
-   "phone": "+212535742287",
-   "lat": 34.0346985,
-   "lng": -5.0161901,
-   "shift": "nuit",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie Jnane Ain Chkef",
-   "address": "Pharmacie Jnane Ain Chkef",
-   "phone": "+212535967050",
-   "lat": 33.953036,
-   "lng": -5.0279555,
-   "shift": "",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie La Victoire",
-   "address": "route sefrou proche du cafe al khima, manflouri 1",
-   "phone": "+212535732380",
-   "lat": 34.0180043,
-   "lng": -4.9865591,
-   "shift": "",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie Oum Al Kora",
-   "address": "n°41 rue 6 hay nouveau secteur z. haute zouagha, près du mosquée douar sidi lhadi",
-   "phone": "+212535605685",
-   "lat": 34.0337488,
-   "lng": -5.0040585,
-   "shift": "",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie Sehrij Gnaoua",
-   "address": "n°201 blad tahri, sahrij gnaoua",
-   "phone": "+212535630816",
+   "name": "Pharmacie Al Khattabi",
+   "address": "groupe addoha zouagha",
+   "phone": "+212535729919",
    "lat": 34.0332985,
    "lng": -5.0,
+   "shift": "24h",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie Des Sciences",
+   "address": "Pharmacie Des Sciences",
+   "phone": "+212535966637",
+   "lat": 34.0346985,
+   "lng": -5.0161901,
+   "shift": "24h",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie Khayra",
+   "address": "Pharmacie Khayra",
+   "phone": "+212535768965",
+   "lat": 34.0107068,
+   "lng": -4.9463797,
+   "shift": "24h",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie Amrani",
+   "address": "bd lalla meryem place florence. entre mosquée ttajmouâti et banc du maroc",
+   "phone": "+212535624238",
+   "lat": 34.0419913,
+   "lng": -5.0034098,
+   "shift": "nuit",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie Avicenne De Fes",
+   "address": "5-160 lot al menzeh, route sidi hrazem",
+   "phone": "+212532086957",
+   "lat": 34.0108462,
+   "lng": -4.950113,
+   "shift": "nuit",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie Jbel Tghat",
+   "address": "hay tghat a cote de préfecture zouagha moulay yacoub route marjane",
+   "phone": "+212779451700",
+   "lat": 34.047125,
+   "lng": -5.0263661,
+   "shift": "nuit",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie Nour",
+   "address": "n° 85. bd les marinides. mellah",
+   "phone": "+212532367793",
+   "lat": 34.0181246,
+   "lng": -5.0078451,
+   "shift": "nuit",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie Rond Point",
+   "address": "n°14 lotissement jihane",
+   "phone": "+212535721626",
+   "lat": 34.0095016,
+   "lng": -5.0456524,
+   "shift": "nuit",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie Tanara",
+   "address": "commune ain chkef, lotissement jnane",
+   "phone": "+212535979120",
+   "lat": 33.9467762,
+   "lng": -5.0340719,
    "shift": "nuit",
    "shift_label": ""
   }
  ],
  "center": [
-  34.0252,
-  -5.0227
+  34.0205,
+  -5.0067
  ]
 }

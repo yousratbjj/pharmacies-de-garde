@@ -7,12 +7,30 @@
  "kind": "roster",
  "pharmacies": [
   {
+   "name": "DE L'HOPITAL MED V",
+   "address": "BOULEVARD DE LA GRANDE CEINTURE - LOT EL MOUAHIDINE N° 62 - (CINEMA MIRAGE) HAY MOHAMMADI",
+   "phone": "+212522357290",
+   "lat": 33.5829423,
+   "lng": -7.6181703,
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
+   "name": "El Othmania",
+   "address": "96-boulevard abi hourayra",
+   "phone": "+212522371316",
+   "lat": 33.5627877,
+   "lng": -7.5700763,
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
    "name": "Pharmacie Addoha",
    "address": "Avenue Stendhal. Quartier Val-fleuri. (Mosquée Addoha). Derb Ghellaf",
    "phone": "+212522259669",
    "lat": 33.5700722,
    "lng": -7.636049,
-   "shift": "",
+   "shift": "jour",
    "shift_label": ""
   },
   {
@@ -21,84 +39,21 @@
    "phone": "+212522758145",
    "lat": 33.5857721,
    "lng": -7.4804518,
-   "shift": "",
+   "shift": "jour",
    "shift_label": ""
   },
   {
-   "name": "Pharmacie AlBoustane",
-   "address": "580, bd Ibn Sina - ex Avicenne",
-   "phone": "+212522903397",
-   "lat": 33.5680044,
-   "lng": -7.6772783,
-   "shift": "",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie Al Fatiha",
-   "address": "3, rue Senhaja, khalil II",
-   "phone": "+212522630723",
-   "lat": 33.59481,
-   "lng": -7.575583,
-   "shift": "",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie AlImam Malek",
-   "address": "derb Lakrimate I, rue 28 n°64",
-   "phone": "+212522213313",
-   "lat": 33.5489157,
-   "lng": -7.6067735,
-   "shift": "",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie Al Inaya",
-   "address": "rue Marje Azzohour cité O.n.c.f. bloc 11 rue 2 n°80",
-   "phone": "+212522241773",
-   "lat": 33.5987286,
-   "lng": -7.5671209,
-   "shift": "",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie AlJabbar",
-   "address": "quartier Lissasfa (route d'El Jadida), Douar Bouchaib ElWatani",
-   "phone": "+212522650136",
-   "lat": 33.5294969,
-   "lng": -7.6816805,
-   "shift": "",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie Al Mouna",
-   "address": "hay Omar Ibn Khattab, rue 1 n°57 bis",
-   "phone": "+212522826708",
-   "lat": 33.5893884,
-   "lng": -7.6135043,
-   "shift": "",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie Bab Taddart",
-   "address": "N°193, Bd El Hachemi El Filali (Rond-point Bachkou). Polo",
-   "phone": "+212522804914",
-   "lat": 33.5598065,
-   "lng": -7.6260289,
-   "shift": "",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie Bargach",
-   "address": "hay Tarik rue 6 n°21",
-   "phone": "+212522740621",
-   "lat": 33.6087061,
-   "lng": -7.5188298,
-   "shift": "",
+   "name": "Pharmacie Al Azhar Essalam",
+   "address": "hay El Oulfa , q. Al Azhar, imm. 38, mag4",
+   "phone": "+212522911718",
+   "lat": 33.539896,
+   "lng": -7.6916578,
+   "shift": "jour",
    "shift_label": ""
   }
  ],
  "center": [
-  33.5754,
-  -7.5983
+  33.5683,
+  -7.5993
  ]
 }

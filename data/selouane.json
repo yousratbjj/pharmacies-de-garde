@@ -7,6 +7,15 @@
  "kind": "roster",
  "pharmacies": [
   {
+   "name": "Pharmacie Abderrahmane",
+   "address": "Pharmacie Abderrahmane",
+   "phone": "+212652678895",
+   "lat": 35.0801925,
+   "lng": -2.9475662,
+   "shift": "",
+   "shift_label": ""
+  },
+  {
    "name": "Pharmacie Al Bourj",
    "address": "Lotiss. Al Manar, N° 111",
    "phone": "+212654044591",
@@ -16,17 +25,80 @@
    "shift_label": ""
   },
   {
-   "name": "Pharmacie Manco",
-   "address": "Pharmacie Manco",
-   "phone": "+212611162101",
-   "lat": 35.0806229,
-   "lng": -2.9366427,
+   "name": "Pharmacie Al Jamiaa",
+   "address": "Pharmacie Al Jamiaa",
+   "phone": "+212536358625",
+   "lat": 35.064614,
+   "lng": -2.91082,
+   "shift": "",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie Al Morakab",
+   "address": "Pharmacie Al Morakab",
+   "phone": "+212536358927",
+   "lat": 35.07284,
+   "lng": -2.941719,
+   "shift": "",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie Al Omrane",
+   "address": "Pharmacie Al Omrane",
+   "phone": "+212536609257",
+   "lat": 35.0704098,
+   "lng": -2.9233463,
+   "shift": "",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie AlOsra",
+   "address": "Pharmacie AlOsra",
+   "phone": "+212536609081",
+   "lat": 35.07103,
+   "lng": -2.94159,
+   "shift": "",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie Boukraa",
+   "address": "Lot Al Omrane , 4°tranche",
+   "phone": "+212536358344",
+   "lat": 35.0592665,
+   "lng": -2.9264103,
+   "shift": "",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie Boulevard 30",
+   "address": "Pharmacie Boulevard 30",
+   "phone": "+212538799914",
+   "lat": 35.07284,
+   "lng": -2.941719,
+   "shift": "",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie Centrale la Perle",
+   "address": "Pharmacie Centrale la Perle",
+   "phone": "+212520715613",
+   "lat": 35.05945,
+   "lng": -2.91283,
+   "shift": "",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie Charki",
+   "address": "Pharmacie Charki",
+   "phone": "+212536358132",
+   "lat": 35.0758989,
+   "lng": -2.9391452,
    "shift": "",
    "shift_label": ""
   }
  ],
  "center": [
-  35.0804,
-  -2.9421
+  35.0707,
+  -2.9333
  ]
 }
