@@ -16,6 +16,24 @@
    "shift_label": ""
   },
   {
+   "name": "Pharmacie Achkid",
+   "address": "6 Bd. Mohamed V",
+   "phone": "+212528810693",
+   "lat": 30.2146833,
+   "lng": -9.3686667,
+   "shift": "",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie Agharass",
+   "address": "Pharmacie Agharass",
+   "phone": "+212528818318",
+   "lat": 30.2154083,
+   "lng": -9.3637417,
+   "shift": "",
+   "shift_label": ""
+  },
+  {
    "name": "Pharmacie Ahtaq",
    "address": "Pharmacie Ahtaq",
    "phone": "",
@@ -25,26 +43,53 @@
    "shift_label": ""
   },
   {
-   "name": "Pharmacie les Chalets",
-   "address": "Pharmacie les Chalets",
-   "phone": "+212528810363",
-   "lat": 30.2210667,
-   "lng": -9.3769,
+   "name": "Pharmacie Al Falah",
+   "address": "49 Bd Sid Haj Lahbib Lotiss. Al Falah",
+   "phone": "+212528818109",
+   "lat": 30.2183,
+   "lng": -9.37926,
    "shift": "",
    "shift_label": ""
   },
   {
-   "name": "Pharmacie Route de Lakhmiss",
-   "address": "Pharmacie Route de Lakhmiss",
-   "phone": "+212528819655",
-   "lat": 30.2117833,
-   "lng": -9.3717833,
+   "name": "Pharmacie Aloussra",
+   "address": "70 Rue Du Tribunal",
+   "phone": "+212528818439",
+   "lat": 30.2162167,
+   "lng": -9.3679167,
+   "shift": "",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie Baba Ali",
+   "address": "Pharmacie Baba Ali, biougra",
+   "phone": "+212528818480",
+   "lat": 30.215517,
+   "lng": -9.368543,
+   "shift": "",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie Bab Ait Saih",
+   "address": "Rte Douar At Saih",
+   "phone": "+212707156530",
+   "lat": 30.215517,
+   "lng": -9.368543,
+   "shift": "",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie Bairouk",
+   "address": "1 Quartier Les Chalets 2",
+   "phone": "+212808614553",
+   "lat": 30.2231515,
+   "lng": -9.3793678,
    "shift": "",
    "shift_label": ""
   }
  ],
  "center": [
-  30.2163,
-  -9.3712
+  30.2168,
+  -9.3702
  ]
 }

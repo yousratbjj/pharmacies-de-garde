@@ -7,6 +7,24 @@
  "kind": "roster",
  "pharmacies": [
   {
+   "name": "Pharmacie Amwaj",
+   "address": "53 lot Oussama 1 El Harraz El jadida",
+   "phone": "+212523800493",
+   "lat": 33.2466866,
+   "lng": -8.53426,
+   "shift": "",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie ElMassira",
+   "address": "205 bd Mohammed V El jadida",
+   "phone": "+212523371099",
+   "lat": 33.2440575,
+   "lng": -8.4987398,
+   "shift": "",
+   "shift_label": ""
+  },
+  {
    "name": "Pharmacie AlBoustane",
    "address": "1, bd Khalil Jabrane, résid. AlBoustane 3",
    "phone": "+212523351723",
@@ -53,10 +71,10 @@
   },
   {
    "name": "Pharmacie derb ElHajjar",
-   "address": "140, derb El Hajjar",
+   "address": "140. DERB EL HAJJAR EN FACE DE L'ECOLE LALLA AMINA",
    "phone": "+212523340135",
-   "lat": 33.256273,
-   "lng": -8.505046,
+   "lat": 33.256607,
+   "lng": -8.5083865,
    "shift": "",
    "shift_label": ""
   },
@@ -77,28 +95,10 @@
    "lng": -8.5114667,
    "shift": "",
    "shift_label": ""
-  },
-  {
-   "name": "Pharmacie Khalil Jabrane",
-   "address": "108, lotiss. El Wafa, imm. A, q. Al Matar",
-   "phone": "+212523371757",
-   "lat": 33.228595,
-   "lng": -8.51984,
-   "shift": "",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie Lalla Zahra",
-   "address": "95, bd Chouhada",
-   "phone": "+212523343794",
-   "lat": 33.2535,
-   "lng": -8.5148167,
-   "shift": "",
-   "shift_label": ""
   }
  ],
  "center": [
-  33.2426,
-  -8.511
+  33.2435,
+  -8.5112
  ]
 }

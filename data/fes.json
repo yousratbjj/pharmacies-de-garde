@@ -7,66 +7,30 @@
  "kind": "roster",
  "pharmacies": [
   {
-   "name": "Pharmacie Al Imane",
-   "address": "13, rue billal ben rabbah, rue 2 hay oued fés, en face de marjane",
-   "phone": "+212535631793",
-   "lat": 34.0522616,
-   "lng": -5.0366504,
-   "shift": "24h",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie Al Khattabi",
-   "address": "groupe addoha zouagha",
-   "phone": "+212535729919",
-   "lat": 34.0332985,
-   "lng": -5.0,
-   "shift": "24h",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie Des Sciences",
-   "address": "Pharmacie Des Sciences",
-   "phone": "+212535966637",
-   "lat": 34.0346985,
-   "lng": -5.0161901,
-   "shift": "24h",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie Khayra",
-   "address": "Pharmacie Khayra",
-   "phone": "+212535768965",
-   "lat": 34.0107068,
-   "lng": -4.9463797,
-   "shift": "24h",
-   "shift_label": ""
-  },
-  {
    "name": "Pharmacie Amrani",
    "address": "bd lalla meryem place florence. entre mosquée ttajmouâti et banc du maroc",
    "phone": "+212535624238",
    "lat": 34.0419913,
    "lng": -5.0034098,
-   "shift": "nuit",
+   "shift": "24h",
    "shift_label": ""
   },
   {
    "name": "Pharmacie Avicenne De Fes",
-   "address": "5-160 lot al menzeh, route sidi hrazem",
+   "address": "Pharmacie Avicenne De Fes",
    "phone": "+212532086957",
    "lat": 34.0108462,
    "lng": -4.950113,
-   "shift": "nuit",
+   "shift": "24h",
    "shift_label": ""
   },
   {
    "name": "Pharmacie Jbel Tghat",
-   "address": "hay tghat a cote de préfecture zouagha moulay yacoub route marjane",
+   "address": "Pharmacie Jbel Tghat",
    "phone": "+212779451700",
    "lat": 34.047125,
    "lng": -5.0263661,
-   "shift": "nuit",
+   "shift": "24h",
    "shift_label": ""
   },
   {
@@ -75,7 +39,7 @@
    "phone": "+212532367793",
    "lat": 34.0181246,
    "lng": -5.0078451,
-   "shift": "nuit",
+   "shift": "24h",
    "shift_label": ""
   },
   {
@@ -84,21 +48,21 @@
    "phone": "+212535721626",
    "lat": 34.0095016,
    "lng": -5.0456524,
-   "shift": "nuit",
+   "shift": "24h",
    "shift_label": ""
   },
   {
    "name": "Pharmacie Tanara",
-   "address": "commune ain chkef, lotissement jnane",
+   "address": "Pharmacie Tanara",
    "phone": "+212535979120",
    "lat": 33.9467762,
    "lng": -5.0340719,
-   "shift": "nuit",
+   "shift": "24h",
    "shift_label": ""
   }
  ],
  "center": [
-  34.0205,
-  -5.0067
+  34.0124,
+  -5.0112
  ]
 }

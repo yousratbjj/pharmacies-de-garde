@@ -7,6 +7,15 @@
  "kind": "roster",
  "pharmacies": [
   {
+   "name": "Pharmacie Al Yassamine",
+   "address": "Pharmacie Al Yassamine",
+   "phone": "+212660404593",
+   "lat": 32.2411544,
+   "lng": -7.9440173,
+   "shift": "nuit",
+   "shift_label": ""
+  },
+  {
    "name": "Pharmacie Hay Nour",
    "address": "Hay Ennour, Rue 10 N°267",
    "phone": "+212524318236",
@@ -14,19 +23,10 @@
    "lng": -7.9538378,
    "shift": "nuit",
    "shift_label": ""
-  },
-  {
-   "name": "Pharmacie Oum Achraf",
-   "address": "Pharmacie Oum Achraf",
-   "phone": "+212687073378",
-   "lat": 32.2350017,
-   "lng": -7.9507694,
-   "shift": "nuit",
-   "shift_label": ""
   }
  ],
  "center": [
-  32.2355,
-  -7.9523
+  32.2385,
+  -7.9489
  ]
 }

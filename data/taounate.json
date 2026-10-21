@@ -7,71 +7,98 @@
  "kind": "directory",
  "pharmacies": [
   {
-   "name": "Pharmacie L'honneur",
-   "address": "résidence al amine immeuble 10 local b4 sala al jadida - Sale Sidi Allal El Bahraoui Sale",
-   "phone": "+212 537 53 39 28",
-   "lat": 34.0019187211144,
-   "lng": -6.74785845737145,
-   "shift": "jour",
-   "shift_label": "Pharmacies de jour"
+   "name": "Pharmacie Slaoui Al Jadida",
+   "address": "530 av Yacoub El Mansour SEFROU Ahermoumou Sefrou",
+   "phone": "+212 535 96 92 00",
+   "lat": 33.833714,
+   "lng": -4.835973,
+   "shift": "nuit",
+   "shift_label": "Pharmacies de nuit"
   },
   {
-   "name": "Pharmacie Chellah",
-   "address": "2, place de Melilya Rabat Harhoura Harhoura Rabat",
-   "phone": "+212 537 72 47 23",
-   "lat": 34.0217693,
-   "lng": -6.8312011,
-   "shift": "jour",
-   "shift_label": "Pharmacies de jour"
+   "name": "Pharmacie Razi",
+   "address": "220 av Yaâcoub El Mansour Séfrou - Maroc Ahermoumou Sefrou",
+   "phone": "+212 535 96 94 60",
+   "lat": 33.8328654084626,
+   "lng": -4.83435057869061,
+   "shift": "nuit",
+   "shift_label": "Pharmacies de nuit"
   },
   {
-   "name": "Pharmacie Al Masjid",
-   "address": "9,av.sidi mohamed ben abdellah - c.y.m - Rabat Harhoura Harhoura Rabat",
-   "phone": "+212 537 29 58 09",
-   "lat": 34.0022344,
-   "lng": -6.8692553,
-   "shift": "jour",
-   "shift_label": "Pharmacies de jour"
+   "name": "Pharmacie Nour",
+   "address": "n° 85. bd les marinides. mellah Fes Ville Nouvelle ville nouvelle Fes",
+   "phone": "+212 535 94 35 13",
+   "lat": 34.0531178717412,
+   "lng": -4.99181926250458,
+   "shift": "24h",
+   "shift_label": "Pharmacies 24h/24"
   },
   {
-   "name": "Pharmacie Dar Achabab",
-   "address": "984, bd des Forces Armées Royales Amal 5, AlMassira Rabat Harhoura Harhoura Rabat",
-   "phone": "+212 537 79 22 54",
-   "lat": 33.9796666251384,
-   "lng": -6.89604748704688,
-   "shift": "jour",
-   "shift_label": "Pharmacies de jour"
+   "name": "Pharmacie Amrani",
+   "address": "bd lalla meryem place florence Fes Ville Nouvelle ville nouvelle Fes",
+   "phone": "+212 535 62 42 38",
+   "lat": 34.0419247,
+   "lng": -5.0012718,
+   "shift": "24h",
+   "shift_label": "Pharmacies 24h/24"
   },
   {
-   "name": "Pharmacie Bassatine El Menzeh",
-   "address": "N°6, bloc 10, Bassatine El Menzeh - El Menzeh Harhoura Harhoura Rabat",
-   "phone": "+212 537 01 19 66",
-   "lat": 33.8571711,
-   "lng": -6.8536304,
-   "shift": "jour",
-   "shift_label": "Pharmacies de jour"
+   "name": "Pharmacie Jbel Tghat",
+   "address": "hay tghat a cote de préfecture zouagha moulay yacoub route marjane Fes Ville Nouvelle ville nouvelle Fes",
+   "phone": "+212 535 75 07 88",
+   "lat": 34.033333,
+   "lng": -5.0,
+   "shift": "24h",
+   "shift_label": "Pharmacies 24h/24"
   },
   {
-   "name": "Pharmacie AlMouhafada",
-   "address": "1105, Massira I Temara Harhoura Harhoura Temara",
-   "phone": "+212 537 60 45 90",
-   "lat": 33.9203274,
-   "lng": -6.9273969,
-   "shift": "jour",
-   "shift_label": "Pharmacies de jour"
+   "name": "Pharmacie Avicenne",
+   "address": "160 rte Sidi Harazem lotiss. Al Mountazah n°5 Fès - Maroc Ain Cheggag Fes",
+   "phone": "+212 701 03 35 53",
+   "lat": 34.0106302,
+   "lng": -4.9501391,
+   "shift": "24h",
+   "shift_label": "Pharmacies 24h/24"
   },
   {
-   "name": "Pharmacie Jawharat Addoha",
-   "address": "5 cité de la Perle de Bouznika Gh 10 Bouznika - Maroc Bouznika",
-   "phone": "+212 537 74 59 81",
-   "lat": 33.8053,
-   "lng": -7.15496,
-   "shift": "jour",
-   "shift_label": "Pharmacies de jour"
+   "name": "Pharmacie Habitat",
+   "address": "114 bd Hassan 1ér Sette Massouda Séfrou Ahermoumou Sefrou",
+   "phone": "+212 535 96 92 42",
+   "lat": 33.827836,
+   "lng": -4.833416,
+   "shift": "24h",
+   "shift_label": "Pharmacies 24h/24"
+  },
+  {
+   "name": "Pharmacie Laaouini",
+   "address": "102 Lotissement Lalla Moulati rte. El Menzel Sefrou Ahermoumou Sefrou",
+   "phone": "+212 535 68 38 87",
+   "lat": 33.8255679,
+   "lng": -4.8218198,
+   "shift": "24h",
+   "shift_label": "Pharmacies 24h/24"
+  },
+  {
+   "name": "Pharmacie Avicenne",
+   "address": "bd Amir Abdelkader Sefrou Ahermoumou Sefrou",
+   "phone": "+212 535 66 05 62",
+   "lat": 33.8253851,
+   "lng": -4.8219393,
+   "shift": "24h",
+   "shift_label": "Pharmacies 24h/24"
+  },
+  {
+   "name": "Pharmacie la Famille",
+   "address": "lotissement Bir Anzarane Ben Seffar n°19 Séfrou Ahermoumou Sefrou",
+   "phone": "+212 535 66 22 64",
+   "lat": 33.8253851,
+   "lng": -4.8219393,
+   "shift": "24h",
+   "shift_label": "Pharmacies 24h/24"
   }
  ],
  "center": [
-  33.9412,
-  -6.8972
+  33.911,
+  -4.8913
  ]
 }

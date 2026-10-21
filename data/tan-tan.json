@@ -88,27 +88,9 @@
    "shift_label": "Pharmacies de nuit"
   },
   {
-   "name": "Pharmacie Ahtaq",
-   "address": "Hay Dayma, Avenue Mohammed VI, Route Sebt, Biougra 87200 El Guerdan Agadir",
-   "phone": "+212 528 81 89 12",
-   "lat": 30.2066196468959,
-   "lng": -9.36753945284095,
-   "shift": "24h",
-   "shift_label": "Pharmacies 24h/24"
-  },
-  {
    "name": "Pharmacie Rebbouh",
    "address": "Pharmacie Rebbouh BIOUGRA El Guerdan Agadir",
    "phone": "+212 528 81 05 05",
-   "lat": 30.2206575,
-   "lng": -9.3728585,
-   "shift": "24h",
-   "shift_label": "Pharmacies 24h/24"
-  },
-  {
-   "name": "Pharmacie Achifa",
-   "address": "Pharmacie Achifa BIOUGRA El Guerdan Agadir",
-   "phone": "+212 528 81 02 93",
    "lat": 30.2206575,
    "lng": -9.3728585,
    "shift": "24h",
@@ -140,10 +122,28 @@
    "lng": -9.6001047,
    "shift": "24h",
    "shift_label": "Pharmacies 24h/24"
+  },
+  {
+   "name": "Pharmacie Chifa Al Farah",
+   "address": "hay bensergao , hay el farah Agadir Agadir",
+   "phone": "+212 528 28 01 59",
+   "lat": 30.3954844,
+   "lng": -9.5580444,
+   "shift": "24h",
+   "shift_label": "Pharmacies 24h/24"
+  },
+  {
+   "name": "Pharmacie Cokail",
+   "address": "206/c, rue talouzine, lot. biranzarane Tikiouine Agadir Agadir",
+   "phone": "+212 528 28 47 89",
+   "lat": 30.3747253,
+   "lng": -9.5166895,
+   "shift": "24h",
+   "shift_label": "Pharmacies 24h/24"
   }
  ],
  "center": [
-  30.3151,
-  -9.4797
+  30.338,
+  -9.502
  ]
 }

@@ -7,17 +7,17 @@
  "kind": "roster",
  "pharmacies": [
   {
-   "name": "Pharmacie Salim",
-   "address": "Pharmacie Salim",
-   "phone": "+212524846562",
-   "lat": 30.349931,
-   "lng": -5.839036,
-   "shift": "",
+   "name": "Pharmacie Yassine",
+   "address": "278 bd Mohammed V, Zagora",
+   "phone": "+212524848719",
+   "lat": 30.345233,
+   "lng": -5.838167,
+   "shift": "jour",
    "shift_label": ""
   }
  ],
  "center": [
-  30.3499,
-  -5.839
+  30.3452,
+  -5.8382
  ]
 }

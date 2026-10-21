@@ -1,23 +1,32 @@
 {
  "city": "khenifra",
  "label": "Khénifra",
- "date": "2026-10-20",
+ "date": "2026-10-21",
  "source": "sahha.ma",
  "source_url": "https://sahha.ma/pharmacie-de-garde/khenifra",
  "kind": "roster",
  "pharmacies": [
   {
-   "name": "Pharmacie Al Masjid",
-   "address": "Hay Moha bouazza Zankat 17",
-   "phone": "+212808693701",
-   "lat": 32.9357718,
-   "lng": -5.6696504,
+   "name": "8 MARS",
+   "address": "bd ezzarktouni hay pamشارع الزرقطوني حي بام",
+   "phone": "+212535586395",
+   "lat": 32.932144,
+   "lng": -5.6687985,
+   "shift": "",
+   "shift_label": ""
+  },
+  {
+   "name": "ATLAS",
+   "address": "bd mohamed 6 près de kissariat addahabشارع محمد السادس قرب قيسارية الذهب",
+   "phone": "+212667765335",
+   "lat": 33.162714,
+   "lng": -5.5669786,
    "shift": "",
    "shift_label": ""
   }
  ],
  "center": [
-  32.9358,
-  -5.6697
+  33.0474,
+  -5.6179
  ]
 }

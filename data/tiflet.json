@@ -7,17 +7,17 @@
  "kind": "roster",
  "pharmacies": [
   {
-   "name": "PHARMACIE ANDALOUS",
-   "address": "hay Andalous résid. la Mosquée",
-   "phone": "+212522765713",
-   "lat": 33.8941908,
-   "lng": -6.3278453,
+   "name": "PHARMACIE NABAWIYA",
+   "address": "rue El Hajeb Tiflet - Maroc Tifelt Rabat Maroc",
+   "phone": "+212674967165",
+   "lat": 33.8954803,
+   "lng": -6.3207151,
    "shift": "",
    "shift_label": ""
   }
  ],
  "center": [
-  33.8942,
-  -6.3278
+  33.8955,
+  -6.3207
  ]
 }

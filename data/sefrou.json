@@ -7,26 +7,98 @@
  "kind": "roster",
  "pharmacies": [
   {
-   "name": "Pharmacie Khalil",
-   "address": "Pharmacie Khalil",
-   "phone": "+212535660737",
-   "lat": 33.82943,
-   "lng": -4.8253,
+   "name": "Pharmacie Boudarham 2",
+   "address": "Pharmacie Boudarham 2",
+   "phone": "+212535682479",
+   "lat": 33.828299,
+   "lng": -4.83424,
    "shift": "",
    "shift_label": ""
   },
   {
-   "name": "Pharmacie Sidi Ahmed Tadli",
-   "address": "318, bd Abdelkrim Khattabi",
-   "phone": "+212535660348",
-   "lat": 33.831753,
-   "lng": -4.8439886,
+   "name": "Pharmacie Cascades",
+   "address": "Pharmacie Cascades",
+   "phone": "+212535682925",
+   "lat": 33.8305244,
+   "lng": -4.8353154,
+   "shift": "",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie Charifi",
+   "address": "Pharmacie Charifi",
+   "phone": "+212535660689",
+   "lat": 33.8305244,
+   "lng": -4.8353154,
+   "shift": "",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie du Stade",
+   "address": "72 Lotissement Ben Hamza Massy",
+   "phone": "+212535662572",
+   "lat": 33.8225333,
+   "lng": -4.8330167,
+   "shift": "",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie Fadil",
+   "address": "Pharmacie Fadil",
+   "phone": "+212535661818",
+   "lat": 33.8315,
+   "lng": -4.8303333,
+   "shift": "",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie Hay Elouz",
+   "address": "q. Elouz , Ben Seffar n°44",
+   "phone": "+212535661394",
+   "lat": 33.8329615,
+   "lng": -4.825802,
+   "shift": "",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie Hay Sidi Boumediane",
+   "address": "Pharmacie Hay Sidi Boumediane",
+   "phone": "+212535969448",
+   "lat": 33.827836,
+   "lng": -4.833416,
+   "shift": "",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie Hôpital",
+   "address": "Pharmacie Hôpital",
+   "phone": "+212535662970",
+   "lat": 33.8272333,
+   "lng": -4.8362667,
+   "shift": "",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie la Colline",
+   "address": "Pharmacie la Colline",
+   "phone": "+212535400917",
+   "lat": 33.8254333,
+   "lng": -4.8217167,
+   "shift": "",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie Lamkacem Ex Avicenne Sina",
+   "address": "171 bd Amir Abdelkader",
+   "phone": "+212535660562",
+   "lat": 33.825066,
+   "lng": -4.836497,
    "shift": "",
    "shift_label": ""
   }
  ],
  "center": [
-  33.8306,
-  -4.8346
+  33.8282,
+  -4.8322
  ]
 }

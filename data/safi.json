@@ -1,18 +1,45 @@
 {
  "city": "safi",
  "label": "Safi",
- "date": "2026-10-19",
+ "date": "2026-10-21",
  "source": "sahha.ma",
  "source_url": "https://sahha.ma/pharmacie-de-garde/safi",
  "kind": "roster",
  "pharmacies": [
+  {
+   "name": "Pharmacie Ezzaouia",
+   "address": "10, rue Caïd Sidi Ouassel",
+   "phone": "+212524651801",
+   "lat": 32.26655,
+   "lng": -9.24635,
+   "shift": "",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie la Marine",
+   "address": "83 bd Chakib Arssalane oued ElBacha Safi",
+   "phone": "+212524630608",
+   "lat": 32.3072904,
+   "lng": -9.2378754,
+   "shift": "",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie Route Marrakech",
+   "address": "rte de Marrakech lotiss. Al Kods n°3 Safi",
+   "phone": "+212524621038",
+   "lat": 32.2980725,
+   "lng": -9.2070955,
+   "shift": "",
+   "shift_label": ""
+  },
   {
    "name": "Pharmacie Aabid",
    "address": "Quartier de l'Aviation",
    "phone": "+212524651082",
    "lat": 32.2691833,
    "lng": -9.2438667,
-   "shift": "jour",
+   "shift": "",
    "shift_label": ""
   },
   {
@@ -21,7 +48,7 @@
    "phone": "+212524612407",
    "lat": 32.3070058,
    "lng": -9.213203,
-   "shift": "jour",
+   "shift": "",
    "shift_label": ""
   },
   {
@@ -30,7 +57,7 @@
    "phone": "+212540041233",
    "lat": 32.259593,
    "lng": -9.246632,
-   "shift": "jour",
+   "shift": "",
    "shift_label": ""
   },
   {
@@ -39,7 +66,7 @@
    "phone": "+212524622379",
    "lat": 32.2936333,
    "lng": -9.2351833,
-   "shift": "jour",
+   "shift": "",
    "shift_label": ""
   },
   {
@@ -48,7 +75,7 @@
    "phone": "+212524668429",
    "lat": 32.3129859,
    "lng": -9.2240204,
-   "shift": "jour",
+   "shift": "",
    "shift_label": ""
   },
   {
@@ -57,7 +84,7 @@
    "phone": "+212524611654",
    "lat": 32.28455,
    "lng": -9.2372333,
-   "shift": "jour",
+   "shift": "",
    "shift_label": ""
   },
   {
@@ -66,12 +93,12 @@
    "phone": "+212524625324",
    "lat": 32.288089,
    "lng": -9.207213,
-   "shift": "jour",
+   "shift": "",
    "shift_label": ""
   }
  ],
  "center": [
-  32.2879,
-  -9.2296
+  32.2887,
+  -9.2299
  ]
 }

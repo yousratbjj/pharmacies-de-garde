@@ -7,15 +7,6 @@
  "kind": "roster",
  "pharmacies": [
   {
-   "name": "PHARMACIE ROCHDI",
-   "address": "50 av. de l'Egypte lot. Errachaid Khouribga Boujniba Boujniba Khouribga Maroc",
-   "phone": "+212523567541",
-   "lat": 32.8920918,
-   "lng": -6.8980861,
-   "shift": "jour",
-   "shift_label": ""
-  },
-  {
    "name": "PHARMACIE ZELLAKA",
    "address": "1541 bd Mohammed VI hay EL Qods Khouribga Khouribga Maroc",
    "phone": "+212523499335",
@@ -26,7 +17,7 @@
   }
  ],
  "center": [
-  32.8914,
-  -6.9143
+  32.8907,
+  -6.9304
  ]
 }

@@ -7,36 +7,36 @@
  "kind": "directory",
  "pharmacies": [
   {
-   "name": "Pharmacie Chabbak",
-   "address": "Q. Chabbak 1 , n°117 bis Sefrou Bhalil Bhalil Sefrou",
-   "phone": "+212 535 96 92 07",
-   "lat": 33.8299585533117,
-   "lng": -4.83832910770393,
+   "name": "Pharmacie Razi",
+   "address": "220 av Yaâcoub El Mansour Séfrou - Maroc Ahermoumou Sefrou",
+   "phone": "+212 535 96 94 60",
+   "lat": 33.8328654084626,
+   "lng": -4.83435057869061,
    "shift": "nuit",
    "shift_label": "Pharmacies de nuit"
   },
   {
-   "name": "Pharmacie Hay Elouz",
-   "address": "q. Elouz Ben Seffar n°44 Séfrou - Maroc Ahermoumou Sefrou",
-   "phone": "+212 535 66 13 94",
-   "lat": 33.8330824,
-   "lng": -4.8257436,
+   "name": "Pharmacie Slaoui Al Jadida",
+   "address": "530 av Yacoub El Mansour SEFROU Ahermoumou Sefrou",
+   "phone": "+212 535 96 92 00",
+   "lat": 33.833714,
+   "lng": -4.835973,
    "shift": "nuit",
    "shift_label": "Pharmacies de nuit"
   },
   {
-   "name": "Pharmacie la Famille",
-   "address": "lotissement Bir Anzarane Ben Seffar n°19 Séfrou Ahermoumou Sefrou",
-   "phone": "+212 535 66 22 64",
+   "name": "Pharmacie Avicenne",
+   "address": "bd Amir Abdelkader Sefrou Ahermoumou Sefrou",
+   "phone": "+212 535 66 05 62",
    "lat": 33.8253851,
    "lng": -4.8219393,
    "shift": "24h",
    "shift_label": "Pharmacies 24h/24"
   },
   {
-   "name": "Pharmacie Avicenne",
-   "address": "bd Amir Abdelkader Sefrou Ahermoumou Sefrou",
-   "phone": "+212 535 66 05 62",
+   "name": "Pharmacie la Famille",
+   "address": "lotissement Bir Anzarane Ben Seffar n°19 Séfrou Ahermoumou Sefrou",
+   "phone": "+212 535 66 22 64",
    "lat": 33.8253851,
    "lng": -4.8219393,
    "shift": "24h",
@@ -59,10 +59,46 @@
    "lng": -4.833416,
    "shift": "24h",
    "shift_label": "Pharmacies 24h/24"
+  },
+  {
+   "name": "Pharmacie Avicenne",
+   "address": "160 rte Sidi Harazem lotiss. Al Mountazah n°5 Fès - Maroc Ain Cheggag Fes",
+   "phone": "+212 701 03 35 53",
+   "lat": 34.0106302,
+   "lng": -4.9501391,
+   "shift": "24h",
+   "shift_label": "Pharmacies 24h/24"
+  },
+  {
+   "name": "Pharmacie Jbel Tghat",
+   "address": "hay tghat a cote de préfecture zouagha moulay yacoub route marjane Fes Ville Nouvelle ville nouvelle Fes",
+   "phone": "+212 535 75 07 88",
+   "lat": 34.033333,
+   "lng": -5.0,
+   "shift": "24h",
+   "shift_label": "Pharmacies 24h/24"
+  },
+  {
+   "name": "Pharmacie Amrani",
+   "address": "bd lalla meryem place florence Fes Ville Nouvelle ville nouvelle Fes",
+   "phone": "+212 535 62 42 38",
+   "lat": 34.0419247,
+   "lng": -5.0012718,
+   "shift": "24h",
+   "shift_label": "Pharmacies 24h/24"
+  },
+  {
+   "name": "Pharmacie Nour",
+   "address": "n° 85. bd les marinides. mellah Fes Ville Nouvelle ville nouvelle Fes",
+   "phone": "+212 535 94 35 13",
+   "lat": 34.0531178717412,
+   "lng": -4.99181926250458,
+   "shift": "24h",
+   "shift_label": "Pharmacies 24h/24"
   }
  ],
  "center": [
-  33.8279,
-  -4.8272
+  33.911,
+  -4.8913
  ]
 }

@@ -88,15 +88,6 @@
    "shift_label": "Pharmacies de jour"
   },
   {
-   "name": "Pharmacie Jnane",
-   "address": "318 Bis, Lot S.Y.B.A 3 prés de la préfecture S.Y.B.A et Lot. Jnane ERAC en face de la CNSS Marrakech Loudaya Loudaya Marrakech",
-   "phone": "+212 524 40 49 95",
-   "lat": 31.6097302,
-   "lng": -7.9708976,
-   "shift": "jour",
-   "shift_label": "Pharmacies de jour"
-  },
-  {
    "name": "Pharmacie Al Amana",
    "address": "78, Douar Ouled El Garne Rte Ait Ourir Marrakech Loudaya Loudaya Marrakech",
    "phone": "+212 524 32 83 28",
@@ -176,19 +167,10 @@
    "lng": -7.9692983,
    "shift": "nuit",
    "shift_label": "Pharmacies de nuit"
-  },
-  {
-   "name": "Pharmacie Mansoura",
-   "address": "25, Av. Khalid Ben Walid Imm. Rachadi 150 m de l’Hôtel le Marrakech, vers les Sapeurs Pompiers Loudaya Loudaya Marrakech",
-   "phone": "+212 524 43 46 46",
-   "lat": 31.6316964,
-   "lng": -8.0034705,
-   "shift": "nuit",
-   "shift_label": "Pharmacies de nuit"
   }
  ],
  "center": [
-  31.6392,
-  -7.9863
+  31.6413,
+  -7.9862
  ]
 }

@@ -52,15 +52,6 @@
    "shift_label": "Pharmacies de jour"
   },
   {
-   "name": "Pharmacie C.h.u.",
-   "address": "En face de Diour L’masakine à côté de l'école Mohamed Abdou entre SPANA et le Marché Municipal Hay Mohammadi Marrakech Kettara Kettara Marrakech",
-   "phone": "+212 524 31 35 67",
-   "lat": 31.6573793,
-   "lng": -7.9905549,
-   "shift": "jour",
-   "shift_label": "Pharmacies de jour"
-  },
-  {
    "name": "Pharmacie Al Amana",
    "address": "78, Douar Ouled El Garne Rte Ait Ourir Marrakech Loudaya Loudaya Marrakech",
    "phone": "+212 524 32 83 28",
@@ -113,19 +104,10 @@
    "lng": -8.0,
    "shift": "nuit",
    "shift_label": "Pharmacies de nuit"
-  },
-  {
-   "name": "Pharmacie Les Jardins De Majorelle (ex. Zahia)",
-   "address": "Bd. My Abdellah (Ex.Safi) derrière Jardins de Majorelle, près du Musée Yves Saint Laurent et en face Club Justice Marrakech Kettara Kettara Marrakech",
-   "phone": "+212 524 30 12 11",
-   "lat": 31.6416541,
-   "lng": -8.0049777,
-   "shift": "nuit",
-   "shift_label": "Pharmacies de nuit"
   }
  ],
  "center": [
-  31.6367,
-  -7.9766
+  31.6344,
+  -7.9728
  ]
 }

@@ -7,17 +7,26 @@
  "kind": "roster",
  "pharmacies": [
   {
-   "name": "PHARMACIE CHARIF IDRISSI",
-   "address": "180 rue Mohamed Aouzal",
-   "phone": "+212528602525",
-   "lat": 29.7049436,
-   "lng": -9.7363398,
-   "shift": "",
+   "name": "Pharmacie de Tiznit",
+   "address": "126 rue Hamam, Tiznit",
+   "phone": "+212528862302",
+   "lat": 29.697433,
+   "lng": -9.73065,
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie Erac",
+   "address": "hay Erac bloc I n°5, Tiznit",
+   "phone": "+212528600346",
+   "lat": 29.696183,
+   "lng": -9.74235,
+   "shift": "jour",
    "shift_label": ""
   }
  ],
  "center": [
-  29.7049,
-  -9.7363
+  29.6968,
+  -9.7365
  ]
 }

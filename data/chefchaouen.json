@@ -7,17 +7,17 @@
  "kind": "roster",
  "pharmacies": [
   {
-   "name": "PHARMACIE CHEFCHAOUEN",
-   "address": "4, av Moulay Idriss",
-   "phone": "+212539986158",
-   "lat": 35.1676481,
-   "lng": -5.2660538,
+   "name": "PHARMACIE ELMACHICHI",
+   "address": "bd. El Machichi Chefchaouen Chefchaouen Maroc",
+   "phone": "+212539987149",
+   "lat": 35.1703833,
+   "lng": -5.2687,
    "shift": "",
    "shift_label": ""
   }
  ],
  "center": [
-  35.1676,
-  -5.2661
+  35.1704,
+  -5.2687
  ]
 }

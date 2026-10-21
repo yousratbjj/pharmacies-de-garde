@@ -7,53 +7,26 @@
  "kind": "roster",
  "pharmacies": [
   {
-   "name": "Pharmacie Du Quartier",
-   "address": "Pharmacie Du Quartier",
-   "phone": "+212537600779",
-   "lat": 33.9227663,
-   "lng": -6.8976293,
-   "shift": "",
+   "name": "Pharmacie Al Fouarat",
+   "address": "av tarik ibn ziad lot nessma imm 1 a -",
+   "phone": "+212537611601",
+   "lat": 33.9133515,
+   "lng": -6.9112789,
+   "shift": "24h",
    "shift_label": ""
   },
   {
-   "name": "Pharmacie Echoumoue",
-   "address": "Pharmacie Echoumoue",
-   "phone": "+212537611138",
-   "lat": 33.9140388,
-   "lng": -6.91741,
-   "shift": "",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie El Guich",
-   "address": "Pharmacie El Guich",
-   "phone": "+212537561821",
-   "lat": 33.9388631,
-   "lng": -6.886787,
-   "shift": "",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie Regragui",
-   "address": "Pharmacie Regragui",
-   "phone": "+212537744305",
-   "lat": 33.9249943,
-   "lng": -6.9547173,
-   "shift": "",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie MIRAMAR",
-   "address": "Harhoura, Témara",
-   "phone": "+212537744445",
-   "lat": 33.9436808,
-   "lng": -6.9340169,
-   "shift": "",
+   "name": "Pharmacie Le Croissant Vert",
+   "address": "Pharmacie Le Croissant Vert",
+   "phone": "+212537601951",
+   "lat": 33.9310185,
+   "lng": -6.8965039,
+   "shift": "24h",
    "shift_label": ""
   }
  ],
  "center": [
-  33.9289,
-  -6.9181
+  33.9222,
+  -6.9039
  ]
 }

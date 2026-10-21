@@ -115,24 +115,6 @@
    "shift_label": "Pharmacies 24h/24"
   },
   {
-   "name": "Pharmacie Achifa",
-   "address": "Pharmacie Achifa BIOUGRA El Guerdan Agadir",
-   "phone": "+212 528 81 02 93",
-   "lat": 30.2206575,
-   "lng": -9.3728585,
-   "shift": "24h",
-   "shift_label": "Pharmacies 24h/24"
-  },
-  {
-   "name": "Pharmacie Ahtaq",
-   "address": "Hay Dayma, Avenue Mohammed VI, Route Sebt, Biougra 87200 El Guerdan Agadir",
-   "phone": "+212 528 81 89 12",
-   "lat": 30.2066196468959,
-   "lng": -9.36753945284095,
-   "shift": "24h",
-   "shift_label": "Pharmacies 24h/24"
-  },
-  {
    "name": "Pharmacie Adrar",
    "address": "quartier adrar, résid. saâda imm. 23 Agadir Ait Melloul Ait Melloul Agadir",
    "phone": "+212 528 28 80 99",
@@ -176,10 +158,28 @@
    "lng": -9.5553073,
    "shift": "24h",
    "shift_label": "Pharmacies 24h/24"
+  },
+  {
+   "name": "Pharmacie Chifa Al Farah",
+   "address": "hay bensergao , hay el farah Agadir Agadir",
+   "phone": "+212 528 28 01 59",
+   "lat": 30.3954844,
+   "lng": -9.5580444,
+   "shift": "24h",
+   "shift_label": "Pharmacies 24h/24"
+  },
+  {
+   "name": "Pharmacie El Mghari",
+   "address": "5, bd hassan 1er imm. alwifaq, cité dakhla Agadir Agadir",
+   "phone": "+212 528 23 97 64",
+   "lat": 30.411727,
+   "lng": -9.5641512,
+   "shift": "24h",
+   "shift_label": "Pharmacies 24h/24"
   }
  ],
  "center": [
-  30.3312,
-  -9.4715
+  30.3512,
+  -9.4916
  ]
 }

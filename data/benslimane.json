@@ -104,10 +104,19 @@
    "lng": -7.118355,
    "shift": "24h",
    "shift_label": "Pharmacies 24h/24"
+  },
+  {
+   "name": "Pharmacie Mly Youssef",
+   "address": "Pharmacie Mly Youssef BENSLIMANE Ben Slimane Ben Slimane Benslimane",
+   "phone": "+212 523 29 23 03",
+   "lat": 33.6179938,
+   "lng": -7.1253965,
+   "shift": "24h",
+   "shift_label": "Pharmacies 24h/24"
   }
  ],
  "center": [
-  33.6948,
-  -7.3322
+  33.6884,
+  -7.315
  ]
 }

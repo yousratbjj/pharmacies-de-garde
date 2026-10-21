@@ -12,39 +12,21 @@
    "phone": "+212537295809",
    "lat": 34.0223999,
    "lng": -6.8345399,
-   "shift": "24h",
+   "shift": "nuit",
    "shift_label": ""
   },
   {
-   "name": "Pharmacie BOUITAT",
-   "address": "Yacoub El Mansour, Rabat",
+   "name": "Pharmacie Bouitat",
+   "address": "j3 complement n°1, rue el faouz c.y.m -",
    "phone": "+212537290867",
-   "lat": 33.9865506,
-   "lng": -6.8795935,
+   "lat": 34.0223999,
+   "lng": -6.8345399,
    "shift": "24h",
    "shift_label": ""
   },
   {
-   "name": "Pharmacie DE LA MARNE",
-   "address": "Centre Ville, Rabat",
-   "phone": "+212537764257",
-   "lat": 34.0140582,
-   "lng": -6.8290335,
-   "shift": "jour",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie DES RESIDENCES",
-   "address": "Yacoub El Mansour, Rabat",
-   "phone": "+212537281197",
-   "lat": 33.973653,
-   "lng": -6.8985156,
-   "shift": "jour",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie DES UNIVERSITES",
-   "address": "Agdal, Rabat",
+   "name": "Pharmacie Des Universites",
+   "address": "Pharmacie Des Universites",
    "phone": "+212537670404",
    "lat": 33.9875984,
    "lng": -6.8515,
@@ -52,26 +34,26 @@
    "shift_label": ""
   },
   {
-   "name": "Pharmacie El Joulane",
-   "address": "Pharmacie El Joulane",
-   "phone": "+212537756756",
-   "lat": 33.9788267,
-   "lng": -6.8222431,
+   "name": "Pharmacie EL KOUASS",
+   "address": "Yacoub El Mansour, Rabat",
+   "phone": "+212537794099",
+   "lat": 33.9824049,
+   "lng": -6.8809576,
    "shift": "24h",
    "shift_label": ""
   },
   {
-   "name": "Pharmacie Fellat",
-   "address": "Pharmacie Fellat",
-   "phone": "+212537720887",
-   "lat": 34.0218454,
-   "lng": -6.8408929,
+   "name": "Pharmacie IBN KHATAB",
+   "address": "Agdal, Rabat",
+   "phone": "+212537775781",
+   "lat": 34.00236,
+   "lng": -6.8460057,
    "shift": "24h",
    "shift_label": ""
   },
   {
-   "name": "Pharmacie LACUSTRE",
-   "address": "Takadoum & Souissi, Rabat",
+   "name": "Pharmacie Lacustre",
+   "address": "Pharmacie Lacustre",
    "phone": "+212537757878",
    "lat": 33.9815821,
    "lng": -6.8316733,
@@ -79,8 +61,8 @@
    "shift_label": ""
   },
   {
-   "name": "Pharmacie LA VITALITE",
-   "address": "Hay Riad, Rabat",
+   "name": "Pharmacie La Vitalite",
+   "address": "Pharmacie La Vitalite",
    "phone": "+212537711684",
    "lat": 33.9568322,
    "lng": -6.859455,
@@ -88,17 +70,17 @@
    "shift_label": ""
   },
   {
-   "name": "Pharmacie LAYACHI",
-   "address": "Yacoub El Mansour, Rabat",
-   "phone": "+212537693015",
-   "lat": 33.9965291,
-   "lng": -6.8709525,
-   "shift": "jour",
+   "name": "Pharmacie Les Arcades",
+   "address": "Pharmacie Les Arcades",
+   "phone": "+212537724222",
+   "lat": 34.0150986,
+   "lng": -6.8416801,
+   "shift": "24h",
    "shift_label": ""
   }
  ],
  "center": [
-  33.992,
-  -6.8518
+  33.9963,
+  -6.8475
  ]
 }

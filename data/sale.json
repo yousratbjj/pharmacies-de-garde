@@ -7,11 +7,29 @@
  "kind": "roster",
  "pharmacies": [
   {
-   "name": "Pharmacie de la poste",
-   "address": "Pharmacie de la poste",
-   "phone": "+212537781405",
-   "lat": 34.0366839,
-   "lng": -6.8188121,
+   "name": "Pharmacie Asseha",
+   "address": "Pharmacie Asseha",
+   "phone": "+212537854243",
+   "lat": 34.044899,
+   "lng": -6.8140202,
+   "shift": "24h",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie BAYTI",
+   "address": "Sala El Jadida, Salé",
+   "phone": "+212537533359",
+   "lat": 33.9879668,
+   "lng": -6.7343864,
+   "shift": "24h",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie DOCTEUR HILAL",
+   "address": "El Mazza Sidi Abdellah, Salé",
+   "phone": "+212537868778",
+   "lat": 33.9945795,
+   "lng": -6.7305856,
    "shift": "24h",
    "shift_label": ""
   },
@@ -25,53 +43,17 @@
    "shift_label": ""
   },
   {
-   "name": "Pharmacie Mehdia",
-   "address": "Pharmacie Mehdia",
-   "phone": "+212537804852",
-   "lat": 34.0238405,
-   "lng": -6.7850118,
+   "name": "Pharmacie SAKANI",
+   "address": "Al Mohit Abouab Sala, Salé",
+   "phone": "+212537846070",
+   "lat": 34.0817501,
+   "lng": -6.7824673,
    "shift": "24h",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie Ramadan",
-   "address": "Pharmacie Ramadan",
-   "phone": "+212670267816",
-   "lat": 34.0737009,
-   "lng": -6.7599503,
-   "shift": "24h",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie Rif",
-   "address": "Pharmacie Rif",
-   "phone": "+212537866063",
-   "lat": 34.0528173,
-   "lng": -6.7990442,
-   "shift": "24h",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie Sidi Abdellah Ben Hassoun",
-   "address": "Pharmacie Sidi Abdellah Ben Hassoun",
-   "phone": "+212537800608",
-   "lat": 34.0534208,
-   "lng": -6.7801742,
-   "shift": "24h",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie WAHIBA",
-   "address": "Sala El Jadida, Salé",
-   "phone": "+212537532424",
-   "lat": 33.9975403,
-   "lng": -6.7380104,
-   "shift": "jour",
    "shift_label": ""
   }
  ],
  "center": [
-  34.0404,
-  -6.785
+  34.0308,
+  -6.7751
  ]
 }

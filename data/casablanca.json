@@ -7,53 +7,17 @@
  "kind": "roster",
  "pharmacies": [
   {
-   "name": "DE L'HOPITAL MED V",
-   "address": "BOULEVARD DE LA GRANDE CEINTURE - LOT EL MOUAHIDINE N° 62 - (CINEMA MIRAGE) HAY MOHAMMADI",
-   "phone": "+212522357290",
-   "lat": 33.5829423,
-   "lng": -7.6181703,
-   "shift": "jour",
-   "shift_label": ""
-  },
-  {
-   "name": "El Othmania",
-   "address": "96-boulevard abi hourayra",
-   "phone": "+212522371316",
-   "lat": 33.5627877,
-   "lng": -7.5700763,
-   "shift": "jour",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie Addoha",
-   "address": "Avenue Stendhal. Quartier Val-fleuri. (Mosquée Addoha). Derb Ghellaf",
-   "phone": "+212522259669",
-   "lat": 33.5700722,
-   "lng": -7.636049,
-   "shift": "jour",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie Al Amana",
-   "address": "Quartier Ahl Loghlam, Lotissement. Al Amana N°419",
-   "phone": "+212522758145",
-   "lat": 33.5857721,
-   "lng": -7.4804518,
-   "shift": "jour",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie Al Azhar Essalam",
-   "address": "hay El Oulfa , q. Al Azhar, imm. 38, mag4",
-   "phone": "+212522911718",
-   "lat": 33.539896,
-   "lng": -7.6916578,
-   "shift": "jour",
+   "name": "Pharmacie Dawdia",
+   "address": "hay El Wifak 1, rue 13 n°85",
+   "phone": "+212522901424",
+   "lat": 33.5555224,
+   "lng": -7.6896304,
+   "shift": "24h",
    "shift_label": ""
   }
  ],
  "center": [
-  33.5683,
-  -7.5993
+  33.5555,
+  -7.6896
  ]
 }
