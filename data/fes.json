@@ -1,72 +1,18 @@
 {
  "city": "fes",
  "label": "Fès",
- "date": "2026-10-21",
+ "date": "2026-10-22",
  "source": "sahha.ma",
  "source_url": "https://sahha.ma/pharmacie-de-garde/fes",
  "kind": "roster",
  "pharmacies": [
-  {
-   "name": "Pharmacie Amrani",
-   "address": "bd lalla meryem place florence. entre mosquée ttajmouâti et banc du maroc",
-   "phone": "+212535624238",
-   "lat": 34.0419913,
-   "lng": -5.0034098,
-   "shift": "24h",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie Avicenne De Fes",
-   "address": "Pharmacie Avicenne De Fes",
-   "phone": "+212532086957",
-   "lat": 34.0108462,
-   "lng": -4.950113,
-   "shift": "24h",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie Bouslama",
-   "address": "lotiss. Lmseffer résid. Bahya rte d'Imouzzer, Fès",
-   "phone": "+212535608106",
-   "lat": 34.000821,
-   "lng": -4.995301,
-   "shift": "jour",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie Boutouil",
-   "address": "46 derb Btatha Boutouil, Fès",
-   "phone": "+212535652845",
-   "lat": 34.054873,
-   "lng": -4.986868,
-   "shift": "jour",
-   "shift_label": ""
-  },
   {
    "name": "Pharmacie Chifae Arrahmane",
    "address": "rte de Meknès lotiss. Riad Laimoun n°165, Fès",
    "phone": "+212535647718",
    "lat": 34.050823,
    "lng": -5.03921,
-   "shift": "jour",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie Chifae Oulad Maala",
-   "address": "hay Ain Chkef - Autre ville douar oulad Maala, Fès",
-   "phone": "+212662271416",
-   "lat": 34.040402,
-   "lng": -5.008672,
-   "shift": "jour",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie De La Gare",
-   "address": "rue imam chafii hay la gare, derrière mosquée imam ali",
-   "phone": "+212535652475",
-   "lat": 34.0332985,
-   "lng": -5.0,
-   "shift": "jour",
+   "shift": "nuit",
    "shift_label": ""
   },
   {
@@ -75,7 +21,43 @@
    "phone": "+212535652475",
    "lat": 34.044933,
    "lng": -5.00655,
-   "shift": "jour",
+   "shift": "nuit",
+   "shift_label": ""
+  },
+  {
+   "name": "CHIFAE ARRAHMANE",
+   "address": "Pharmacie Chifae Arrahmane, 165 lot. riad allaymoune route meknes165 تجزئة رياض الليمون طريق مكناس - فاس",
+   "phone": "",
+   "lat": 34.0516802,
+   "lng": -5.0433317,
+   "shift": "nuit",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie Amrani",
+   "address": "bd lalla meryem place florence. entre mosquée ttajmouâti et banc du maroc",
+   "phone": "+212535624238",
+   "lat": 34.0419913,
+   "lng": -5.0034098,
+   "shift": "nuit",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie Avicenne De Fes",
+   "address": "Pharmacie Avicenne De Fes",
+   "phone": "+212532086957",
+   "lat": 34.0108462,
+   "lng": -4.950113,
+   "shift": "nuit",
+   "shift_label": ""
+  },
+  {
+   "name": "PHARMACIE BOUTOUIL",
+   "address": "46BOUTOUIL DTATHA FES JDID A COTE ECOLE BAB RYAFA46 بوتويل البطحاء فاس الجديد قرب مدرسة باب ريقة",
+   "phone": "+212 5 35 65 28 45",
+   "lat": 34.0560401,
+   "lng": -4.9870892,
+   "shift": "nuit",
    "shift_label": ""
   },
   {
@@ -84,21 +66,12 @@
    "phone": "+212779451700",
    "lat": 34.047125,
    "lng": -5.0263661,
-   "shift": "24h",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie Nour",
-   "address": "n° 85. bd les marinides. mellah",
-   "phone": "+212532367793",
-   "lat": 34.0181246,
-   "lng": -5.0078451,
-   "shift": "24h",
+   "shift": "nuit",
    "shift_label": ""
   }
  ],
  "center": [
-  34.0343,
-  -5.0024
+  34.0433,
+  -5.008
  ]
 }

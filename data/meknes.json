@@ -1,86 +1,68 @@
 {
  "city": "meknes",
  "label": "Meknès",
- "date": "2026-10-21",
+ "date": "2026-10-22",
  "source": "sahha.ma",
  "source_url": "https://sahha.ma/pharmacie-de-garde/meknes",
  "kind": "roster",
  "pharmacies": [
   {
-   "name": "Pharmacie Addoha Dkhissa",
-   "address": "28 douar Zoualeth Dkhissa, Meknès",
-   "phone": "+212535433959",
-   "lat": 33.936894,
-   "lng": -5.465416,
+   "name": "PHARMACIE AL ANDALOUS",
+   "address": "53, Lotiss. Al Andalouss, Zahwa Ain Maaza53تجزئة الأندلس, زهوة عين معزة",
+   "phone": "+212535450853",
+   "lat": 33.8751324,
+   "lng": -5.5702952,
+   "shift": "nuit",
+   "shift_label": ""
+  },
+  {
+   "name": "PHARMACIE ARRAHMANE",
+   "address": "hay Borj Moulay Omar Lahmidiyine n°222 Meknes22 شارع اللحميديين أمام مدرسة ابن حزم وراء مصلحة الضرائب ب 300 م برج مولاي عمر22 شارع اللحميديين أمام مدرسة ابن حزم وراء مصلحة الضرائب ب 300 م برج مولاي عمر",
+   "phone": "+212535404594",
+   "lat": 33.9119788,
+   "lng": -5.4846219,
    "shift": "jour",
    "shift_label": ""
   },
   {
-   "name": "Pharmacie Al Andalous",
-   "address": "53 lotiss. Al Andalouss Zahwa Ain Maaza, Meknès",
-   "phone": "+212535513865",
-   "lat": 33.87315,
-   "lng": -5.535317,
-   "shift": "jour",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie Al Mouna",
-   "address": "hay Al Bassatine - Autre ville, Meknès",
-   "phone": "+212535500570",
-   "lat": 33.889881,
-   "lng": -5.516579,
-   "shift": "jour",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie Avenue des F.a.r.",
-   "address": "5 bd des F.a.r., Meknès",
+   "name": "PHARMACIE AVENUE DES F.A.R.",
+   "address": "5, Bd Des F.a.r.5 شارع الجيش الملكي أمام الوكالة المستقلة للماء و الكهرباء - حمرية",
    "phone": "+212535514535",
-   "lat": 33.894633,
-   "lng": -5.549983,
-   "shift": "jour",
+   "lat": 33.8946655,
+   "lng": -5.5499772,
+   "shift": "nuit",
    "shift_label": ""
   },
   {
    "name": "PHARMACIE BADR",
-   "address": "Bd Khalid Bnou Loualid, Secteur 11 Borj My Omarشارع خالد بن الوليد عمارات ليراك الصفراء قرب لاسييندا قدماء المحاربين - البرج",
+   "address": "Bd Khalid Bnou Loualid, Secteur 11 Borj My Omarشارع خالد بن الوليد عمارات ليراك الصفراء قرب لاسييندا قدماء المحاربين - البرجشارع خالد بن الوليد عمارات ليراك الصفراء قرب لاسييندا قدماء المحاربين - البرج",
    "phone": "+212535522914",
    "lat": 33.9022611,
    "lng": -5.5210486,
-   "shift": "24h",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie de Dispensaire",
-   "address": "33 hay Ouislane - Autre ville Olm Elbassatine, Meknès",
-   "phone": "+212535548196",
-   "lat": 33.918734,
-   "lng": -5.492372,
    "shift": "jour",
    "shift_label": ""
   },
   {
-   "name": "Pharmacie de Meknes",
-   "address": "194 lotiss. Sahara 2 rte. Agourai, Meknès",
-   "phone": "+212535454869",
-   "lat": 33.877833,
-   "lng": -5.570167,
+   "name": "PHARMACIE BORJ MACHKOUK",
+   "address": "bd Ferrane borj Machkouk rue 16 n°1 Meknesشارع فران برج مشكوك حي 16رقم 1 حي التقدمشارع فران برج مشكوك حي 16رقم 1 حي التقدم",
+   "phone": "+212535539394",
+   "lat": 33.8840913,
+   "lng": -5.5780946,
    "shift": "jour",
    "shift_label": ""
   },
   {
-   "name": "Pharmacie du Croissant",
-   "address": "hay Toulal rue 1 n°103/105, Meknès",
-   "phone": "+212535559473",
-   "lat": 33.883817,
-   "lng": -5.594367,
+   "name": "PHARMACIE DAR ACHIFAE",
+   "address": "1104, hay Al Bassatine 7, lot 2 Meknes1104 تجزئة البساتين 7 شطر 2 - مكناس -1104 تجزئة البساتين 7 شطر 2 - مكناس -",
+   "phone": "",
+   "lat": 33.8831181,
+   "lng": -5.5029383,
    "shift": "jour",
    "shift_label": ""
   }
  ],
  "center": [
-  33.8972,
-  -5.5307
+  33.8919,
+  -5.5345
  ]
 }

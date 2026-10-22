@@ -1,7 +1,7 @@
 {
  "city": "azilal",
  "label": "Azilal",
- "date": "2026-10-21",
+ "date": "2026-10-22",
  "source": "med.ma",
  "source_url": "https://www.med.ma/pharmacy/day-time/azilal",
  "kind": "directory",
@@ -91,8 +91,8 @@
    "name": "Pharmacie Unité Quatre",
    "address": "450, au centre de l’Unité Quatre, devant l’école Aicha Oum al Mouminin et à côté de Mosquée l’Unité IV MARRAKECH Kettara Kettara Marrakech",
    "phone": "+212 524 30 20 30",
-   "lat": 31.6564491978117,
-   "lng": -7.99974869206804,
+   "lat": 31.656449197812,
+   "lng": -7.999748692068,
    "shift": "nuit",
    "shift_label": "Pharmacies de nuit"
   },
@@ -104,10 +104,19 @@
    "lng": -8.0,
    "shift": "nuit",
    "shift_label": "Pharmacies de nuit"
+  },
+  {
+   "name": "Pharmacie Les Jardins De Majorelle (ex. Zahia)",
+   "address": "Bd. My Abdellah (Ex.Safi) derrière Jardins de Majorelle, près du Musée Yves Saint Laurent et en face Club Justice Marrakech Kettara Kettara Marrakech",
+   "phone": "+212 524 30 12 11",
+   "lat": 31.6416541,
+   "lng": -8.0049777,
+   "shift": "nuit",
+   "shift_label": "Pharmacies de nuit"
   }
  ],
  "center": [
-  31.6344,
-  -7.9728
+  31.635,
+  -7.9755
  ]
 }

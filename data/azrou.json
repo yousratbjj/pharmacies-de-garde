@@ -1,7 +1,7 @@
 {
  "city": "azrou",
  "label": "Azrou",
- "date": "2026-10-21",
+ "date": "2026-10-22",
  "source": "sahha.ma",
  "source_url": "https://sahha.ma/pharmacie-de-garde/azrou",
  "kind": "roster",
@@ -12,7 +12,7 @@
    "phone": "+212535564641",
    "lat": 33.439967,
    "lng": -5.231067,
-   "shift": "jour",
+   "shift": "nuit",
    "shift_label": ""
   }
  ],

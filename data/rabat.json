@@ -1,7 +1,7 @@
 {
  "city": "rabat",
  "label": "Rabat",
- "date": "2026-10-21",
+ "date": "2026-10-22",
  "source": "sahha.ma",
  "source_url": "https://sahha.ma/pharmacie-de-garde/rabat",
  "kind": "roster",
@@ -12,7 +12,7 @@
    "phone": "+212537790375",
    "lat": 33.992117,
    "lng": -6.882007,
-   "shift": "jour",
+   "shift": "nuit",
    "shift_label": ""
   },
   {
@@ -21,43 +21,7 @@
    "phone": "+212537769930",
    "lat": 34.015632,
    "lng": -6.827133,
-   "shift": "jour",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie Bouitat",
-   "address": "j3 complement n°1, rue el faouz c.y.m -",
-   "phone": "+212537290867",
-   "lat": 34.0223999,
-   "lng": -6.8345399,
-   "shift": "24h",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie Des Universites",
-   "address": "Pharmacie Des Universites",
-   "phone": "+212537670404",
-   "lat": 33.9875984,
-   "lng": -6.8515,
-   "shift": "24h",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie El Kouass",
-   "address": "732 avenue Al Massira (C.y.m) J5, Rabat",
-   "phone": "+212537794099",
-   "lat": 33.990251,
-   "lng": -6.874488,
-   "shift": "24h",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie IBN KHATAB",
-   "address": "Agdal, Rabat",
-   "phone": "+212537775781",
-   "lat": 34.0023226,
-   "lng": -6.8481478,
-   "shift": "24h",
+   "shift": "nuit",
    "shift_label": ""
   },
   {
@@ -66,16 +30,7 @@
    "phone": "+212537720657",
    "lat": 34.024295,
    "lng": -6.843979,
-   "shift": "jour",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie Lacustre",
-   "address": "Pharmacie Lacustre",
-   "phone": "+212537757878",
-   "lat": 33.9815821,
-   "lng": -6.8316733,
-   "shift": "24h",
+   "shift": "nuit",
    "shift_label": ""
   },
   {
@@ -84,21 +39,57 @@
    "phone": "+212537798871",
    "lat": 33.99072,
    "lng": -6.870218,
-   "shift": "jour",
+   "shift": "nuit",
    "shift_label": ""
   },
   {
-   "name": "Pharmacie La Vitalite",
-   "address": "Pharmacie La Vitalite",
-   "phone": "+212537711684",
-   "lat": 33.9568322,
-   "lng": -6.859455,
-   "shift": "24h",
+   "name": "Pharmacie Av. Goundafa",
+   "address": "av. Goundafa (qu. Youssoufia ouest) rue 43 n°9, Rabat",
+   "phone": "+212537752722",
+   "lat": 33.983592,
+   "lng": -6.81893,
+   "shift": "nuit",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie Bouitat",
+   "address": "j3 complement n°1, rue el faouz c.y.m -",
+   "phone": "+212537290867",
+   "lat": 34.0223999,
+   "lng": -6.8345399,
+   "shift": "nuit",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie Des Universites",
+   "address": "Pharmacie Des Universites",
+   "phone": "+212537670404",
+   "lat": 33.9875984,
+   "lng": -6.8515,
+   "shift": "nuit",
+   "shift_label": ""
+  },
+  {
+   "name": "PHARMACIE EL KOUASS",
+   "address": "732 J5 Boulevard Al Massira Al Khadra C.Y.M",
+   "phone": "+212537794099",
+   "lat": 33.9824049,
+   "lng": -6.8809576,
+   "shift": "nuit",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie Ibn Hajar",
+   "address": "4 rue Ibn Hajjar Agdal, Rabat",
+   "phone": "+212537680687",
+   "lat": 34.008615,
+   "lng": -6.851597,
+   "shift": "nuit",
    "shift_label": ""
   }
  ],
  "center": [
-  33.9964,
-  -6.8523
+  34.0008,
+  -6.8512
  ]
 }

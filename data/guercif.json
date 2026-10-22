@@ -1,7 +1,7 @@
 {
  "city": "guercif",
  "label": "Guercif",
- "date": "2026-10-21",
+ "date": "2026-10-22",
  "source": "sahha.ma",
  "source_url": "https://sahha.ma/pharmacie-de-garde/guercif",
  "kind": "roster",
@@ -12,7 +12,7 @@
    "phone": "+212535200771",
    "lat": 34.22464,
    "lng": -3.350548,
-   "shift": "jour",
+   "shift": "nuit",
    "shift_label": ""
   },
   {
@@ -21,7 +21,7 @@
    "phone": "+212535201803",
    "lat": 34.23306,
    "lng": -3.35637,
-   "shift": "jour",
+   "shift": "nuit",
    "shift_label": ""
   }
  ],

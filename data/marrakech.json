@@ -1,7 +1,7 @@
 {
  "city": "marrakech",
  "label": "Marrakech",
- "date": "2026-10-21",
+ "date": "2026-10-22",
  "source": "sahha.ma",
  "source_url": "https://sahha.ma/pharmacie-de-garde/marrakech",
  "kind": "roster",
@@ -89,10 +89,10 @@
   },
   {
    "name": "Pharmacie Les Jardins De Majorelle (ex. Zahia)",
-   "address": "Bd. My Abdellah (Ex.Safi) derrière Jardins de Majorelle, près du Musée Yves Saint Laurent et en face Club Justice , Marrakech DAOUDIAT",
+   "address": "Bd. My Abdellah (Ex.Safi) derrière Jardins de Majorelle, près du Musée Yves Saint Laurent et en face Club Justice Marrakech",
    "phone": "+212524301211",
-   "lat": 31.641767,
-   "lng": -8.005188,
+   "lat": 31.6416541,
+   "lng": -8.0049777,
    "shift": "nuit",
    "shift_label": ""
   }

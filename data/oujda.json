@@ -1,7 +1,7 @@
 {
  "city": "oujda",
  "label": "Oujda",
- "date": "2026-10-21",
+ "date": "2026-10-22",
  "source": "sahha.ma",
  "source_url": "https://sahha.ma/pharmacie-de-garde/oujda",
  "kind": "roster",
@@ -12,7 +12,7 @@
    "phone": "+212536712009",
    "lat": 34.6576683,
    "lng": -1.9260256,
-   "shift": "jour",
+   "shift": "nuit",
    "shift_label": ""
   },
   {
@@ -21,7 +21,7 @@
    "phone": "+212536518630",
    "lat": 34.6793526,
    "lng": -1.939353,
-   "shift": "jour",
+   "shift": "nuit",
    "shift_label": ""
   },
   {
@@ -30,7 +30,7 @@
    "phone": "+212536745739",
    "lat": 34.6819079,
    "lng": -1.8931785,
-   "shift": "jour",
+   "shift": "nuit",
    "shift_label": ""
   },
   {
@@ -39,7 +39,7 @@
    "phone": "+212536690602",
    "lat": 34.6982347,
    "lng": -1.8972911,
-   "shift": "jour",
+   "shift": "nuit",
    "shift_label": ""
   }
  ],

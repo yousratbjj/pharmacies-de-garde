@@ -1,7 +1,7 @@
 {
  "city": "souk-el-arba-du-gharb",
  "label": "Souk El Arba du Gharb",
- "date": "2026-10-21",
+ "date": "2026-10-22",
  "source": "sahha.ma",
  "source_url": "https://sahha.ma/pharmacie-de-garde/souk-el-arba-du-gharb",
  "kind": "roster",
@@ -12,7 +12,7 @@
    "phone": "+212537901481",
    "lat": 34.689512,
    "lng": -6.00357,
-   "shift": "jour",
+   "shift": "",
    "shift_label": ""
   }
  ],

@@ -1,18 +1,27 @@
 {
  "city": "kenitra",
  "label": "Kénitra",
- "date": "2026-10-21",
+ "date": "2026-10-22",
  "source": "sahha.ma",
  "source_url": "https://sahha.ma/pharmacie-de-garde/kenitra",
  "kind": "roster",
  "pharmacies": [
+  {
+   "name": "ATLAS",
+   "address": "hay El Haouzia , lot J, n 1حي الحوزية، تجزئة ج، رقم 1",
+   "phone": "+212 537 353 466",
+   "lat": 34.2681918,
+   "lng": -6.6189189,
+   "shift": "nuit",
+   "shift_label": ""
+  },
   {
    "name": "Pharmacie de l'Atlas",
    "address": "hay El Haouzia lot J n°1, Kénitra",
    "phone": "+212537353466",
    "lat": 34.268298,
    "lng": -6.618934,
-   "shift": "jour",
+   "shift": "nuit",
    "shift_label": ""
   },
   {
@@ -21,7 +30,7 @@
    "phone": "+212537392420",
    "lat": 34.236813,
    "lng": -6.550886,
-   "shift": "jour",
+   "shift": "nuit",
    "shift_label": ""
   },
   {
@@ -30,12 +39,12 @@
    "phone": "+212537388889",
    "lat": 34.2579819,
    "lng": -6.6553538,
-   "shift": "24h",
+   "shift": "nuit",
    "shift_label": ""
   }
  ],
  "center": [
-  34.2544,
-  -6.6084
+  34.2578,
+  -6.611
  ]
 }

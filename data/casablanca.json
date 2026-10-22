@@ -1,7 +1,7 @@
 {
  "city": "casablanca",
  "label": "Casablanca",
- "date": "2026-10-21",
+ "date": "2026-10-22",
  "source": "sahha.ma",
  "source_url": "https://sahha.ma/pharmacie-de-garde/casablanca",
  "kind": "roster",
@@ -12,7 +12,7 @@
    "phone": "+212522911718",
    "lat": 33.539896,
    "lng": -7.6916578,
-   "shift": "jour",
+   "shift": "nuit",
    "shift_label": ""
   },
   {
@@ -21,7 +21,7 @@
    "phone": "+212522247539",
    "lat": 33.5945563,
    "lng": -7.5869205,
-   "shift": "jour",
+   "shift": "nuit",
    "shift_label": ""
   },
   {
@@ -30,7 +30,16 @@
    "phone": "+212522277534",
    "lat": 33.5935803,
    "lng": -7.6349502,
-   "shift": "jour",
+   "shift": "nuit",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie Dawdia",
+   "address": "hay El Wifak 1 rue 13 n°85 Oulfa Casablanca",
+   "phone": "+212522901424",
+   "lat": 33.5553578,
+   "lng": -7.6899021,
+   "shift": "nuit",
    "shift_label": ""
   },
   {
@@ -39,7 +48,7 @@
    "phone": "+212522344127",
    "lat": 33.6155063,
    "lng": -7.5383059,
-   "shift": "jour",
+   "shift": "nuit",
    "shift_label": ""
   },
   {
@@ -48,7 +57,7 @@
    "phone": "+212522975308",
    "lat": 33.5278052,
    "lng": -7.6515681,
-   "shift": "jour",
+   "shift": "nuit",
    "shift_label": ""
   },
   {
@@ -57,7 +66,7 @@
    "phone": "+212522914457",
    "lat": 33.5641688,
    "lng": -7.6707993,
-   "shift": "jour",
+   "shift": "nuit",
    "shift_label": ""
   },
   {
@@ -66,7 +75,7 @@
    "phone": "+212522815364",
    "lat": 33.5645702,
    "lng": -7.5878875,
-   "shift": "jour",
+   "shift": "nuit",
    "shift_label": ""
   },
   {
@@ -75,7 +84,7 @@
    "phone": "+212522741930",
    "lat": 33.6173458,
    "lng": -7.4958349,
-   "shift": "jour",
+   "shift": "nuit",
    "shift_label": ""
   },
   {
@@ -84,21 +93,12 @@
    "phone": "+212522942439",
    "lat": 33.6001126,
    "lng": -7.6481081,
-   "shift": "jour",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie Mly. Thami",
-   "address": "cité Essalam, n°1A, Gh 1 Casablanca",
-   "phone": "+212522895687",
-   "lat": 33.5519387,
-   "lng": -7.6928669,
-   "shift": "jour",
+   "shift": "nuit",
    "shift_label": ""
   }
  ],
  "center": [
-  33.5769,
-  -7.6199
+  33.5773,
+  -7.6196
  ]
 }

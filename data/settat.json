@@ -1,59 +1,68 @@
 {
  "city": "settat",
  "label": "Settat",
- "date": "2026-10-21",
+ "date": "2026-10-22",
  "source": "med.ma",
  "source_url": "https://www.med.ma/pharmacy/day-time/settat",
  "kind": "directory",
  "pharmacies": [
   {
-   "name": "Pharmacie AlIhsane",
-   "address": "20, bd Mohammed V , résid. la Gare Berrechid Berrechid Settat",
-   "phone": "+212 522 32 65 79",
-   "lat": 33.2750407,
-   "lng": -7.5870091,
-   "shift": "jour",
-   "shift_label": "Pharmacies de jour"
+   "name": "Pharmacie La Gare Routiere",
+   "address": "27, Op. Bab Al Borj Azzouzia (Route Afaq et Agadir, à 250m de Mosquée Tribich) Marrakech Kettara Kettara Marrakech",
+   "phone": "+212 524 35 66 93",
+   "lat": 31.6841669,
+   "lng": -8.075929,
+   "shift": "nuit",
+   "shift_label": "Pharmacies de nuit"
   },
   {
-   "name": "Pharmacie des Familles",
-   "address": "229, bd Abdellah Echafchaouni , bloc \"F\", hay Hassani Berrechid Berrechid Settat",
-   "phone": "+212 522 32 58 23",
-   "lat": 33.27426,
-   "lng": -7.571736,
-   "shift": "jour",
-   "shift_label": "Pharmacies de jour"
+   "name": "Pharmacie Guennoun",
+   "address": "Rte menant de Wilaya de la Sureté Nationale Ain Itti vers Rte de Casa, nouveau pont Guennoun face Belbekkar MARRAKECH Kettara Kettara Marrakech",
+   "phone": "+212 524 32 85 18",
+   "lat": 31.6639761,
+   "lng": -7.98567,
+   "shift": "nuit",
+   "shift_label": "Pharmacies de nuit"
   },
   {
-   "name": "Pharmacie Ryad Ahl Alwifaq",
-   "address": "Lot 38 rue elwifak, Deroua Berrechid Berrechid Settat",
-   "phone": "+212 522 51 40 83",
-   "lat": 33.3652807,
-   "lng": -7.5325664,
-   "shift": "jour",
-   "shift_label": "Pharmacies de jour"
+   "name": "Pharmacie Acharaf",
+   "address": "872, Lot. Acharaf face école Acharaf et près Association Ennakhil de la Femme et l’Enfant Marrakech Kettara Kettara Marrakech",
+   "phone": "+212 524 30 40 46",
+   "lat": 31.6685293,
+   "lng": -8.0228105,
+   "shift": "nuit",
+   "shift_label": "Pharmacies de nuit"
   },
   {
-   "name": "Pharmacie Al-Oum",
-   "address": "52, bd ElHouria, Maghrib Eljadid Berrechid Berrechid Settat",
-   "phone": "+212 522 32 41 76",
-   "lat": 33.265356,
-   "lng": -7.579744,
-   "shift": "jour",
-   "shift_label": "Pharmacies de jour"
+   "name": "Pharmacie Unité Quatre",
+   "address": "450, au centre de l’Unité Quatre, devant l’école Aicha Oum al Mouminin et à côté de Mosquée l’Unité IV MARRAKECH Kettara Kettara Marrakech",
+   "phone": "+212 524 30 20 30",
+   "lat": 31.656449197812,
+   "lng": -7.999748692068,
+   "shift": "nuit",
+   "shift_label": "Pharmacies de nuit"
   },
   {
-   "name": "Pharmacie Saïdi",
-   "address": "hay Essaâda , lot. Abou Rahal n°13 Berrechid Ben Ahmed Ben Ahmed Settat",
-   "phone": "+212 522 33 71 71",
-   "lat": 33.2592367302741,
-   "lng": -7.58407597189716,
-   "shift": "24h",
-   "shift_label": "Pharmacies 24h/24"
+   "name": "Pharmacie Awatif",
+   "address": "Lot. Awatif Imm. A 1 Assif, près de l'école El Bachir et Mosquée Awatif MARRAKECH Kettara Kettara Marrakech",
+   "phone": "+212 524 33 12 93",
+   "lat": 31.6520744,
+   "lng": -8.0098026,
+   "shift": "nuit",
+   "shift_label": "Pharmacies de nuit"
+  },
+  {
+   "name": "Pharmacie Al Amana",
+   "address": "78, Douar Ouled El Garne Rte Ait Ourir Marrakech Loudaya Loudaya Marrakech",
+   "phone": "+212 524 32 83 28",
+   "lat": 31.6343658,
+   "lng": -7.9205577,
+   "shift": "nuit",
+   "shift_label": "Pharmacies de nuit"
   }
  ],
  "center": [
-  33.2878,
-  -7.571
+  31.6599,
+  -8.0024
  ]
 }

@@ -1,7 +1,7 @@
 {
  "city": "safi",
  "label": "Safi",
- "date": "2026-10-21",
+ "date": "2026-10-22",
  "source": "sahha.ma",
  "source_url": "https://sahha.ma/pharmacie-de-garde/safi",
  "kind": "roster",
@@ -10,8 +10,8 @@
    "name": "Pharmacie Ezzaouia",
    "address": "10, rue Caïd Sidi Ouassel",
    "phone": "+212524651801",
-   "lat": 32.26655,
-   "lng": -9.24635,
+   "lat": 32.2664715,
+   "lng": -9.2464395,
    "shift": "nuit",
    "shift_label": ""
   },
@@ -36,6 +36,6 @@
  ],
  "center": [
   32.2906,
-  -9.2304
+  -9.2305
  ]
 }

@@ -1,7 +1,7 @@
 {
  "city": "oued-zem",
  "label": "Oued Zem",
- "date": "2026-10-21",
+ "date": "2026-10-22",
  "source": "sahha.ma",
  "source_url": "https://sahha.ma/pharmacie-de-garde/oued-zem",
  "kind": "roster",
@@ -12,7 +12,7 @@
    "phone": "+212523411080",
    "lat": 32.859152,
    "lng": -6.569846,
-   "shift": "jour",
+   "shift": "nuit",
    "shift_label": ""
   }
  ],

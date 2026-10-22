@@ -1,7 +1,7 @@
 {
  "city": "essaouira",
  "label": "Essaouira",
- "date": "2026-10-21",
+ "date": "2026-10-22",
  "source": "med.ma",
  "source_url": "https://www.med.ma/pharmacy/day-time/essaouirra",
  "kind": "directory",
@@ -20,7 +20,7 @@
    "address": "100 cit Agadir Agadir",
    "phone": "+212 528 33 11 13",
    "lat": 30.364686318809,
-   "lng": -9.54406049135695,
+   "lng": -9.5440604913569,
    "shift": "jour",
    "shift_label": "Pharmacies de jour"
   },

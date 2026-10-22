@@ -1,7 +1,7 @@
 {
  "city": "tata",
  "label": "Tata",
- "date": "2026-10-21",
+ "date": "2026-10-22",
  "source": "med.ma",
  "source_url": "https://www.med.ma/pharmacy/day-time/tata",
  "kind": "directory",
@@ -65,7 +65,7 @@
    "address": "100 cit Agadir Agadir",
    "phone": "+212 528 33 11 13",
    "lat": 30.364686318809,
-   "lng": -9.54406049135695,
+   "lng": -9.5440604913569,
    "shift": "jour",
    "shift_label": "Pharmacies de jour"
   },
@@ -91,8 +91,8 @@
    "name": "Pharmacie Bab Houara",
    "address": "N10, Ain Chaib 83000 El Guerdan Agadir",
    "phone": "+212 528 52 26 65",
-   "lat": 30.3855700050367,
-   "lng": -9.23709631901017,
+   "lat": 30.385570005037,
+   "lng": -9.2370963190102,
    "shift": "24h",
    "shift_label": "Pharmacies 24h/24"
   },

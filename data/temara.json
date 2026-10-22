@@ -1,7 +1,7 @@
 {
  "city": "temara",
  "label": "Témara",
- "date": "2026-10-21",
+ "date": "2026-10-22",
  "source": "sahha.ma",
  "source_url": "https://sahha.ma/pharmacie-de-garde/temara",
  "kind": "roster",
@@ -12,7 +12,7 @@
    "phone": "+212537611601",
    "lat": 33.9133515,
    "lng": -6.9112789,
-   "shift": "nuit",
+   "shift": "24h",
    "shift_label": ""
   },
   {
@@ -39,7 +39,7 @@
    "phone": "+212537601951",
    "lat": 33.9310185,
    "lng": -6.8965039,
-   "shift": "nuit",
+   "shift": "24h",
    "shift_label": ""
   },
   {
