@@ -7,80 +7,17 @@
  "kind": "roster",
  "pharmacies": [
   {
-   "name": "Pharmacie Adam",
-   "address": "Pharmacie Adam, lotiss. Adam",
-   "phone": "+212771855060",
-   "lat": 33.442942,
-   "lng": -5.224725,
-   "shift": "",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie Oum Rayane",
-   "address": "Pharmacie Oum Rayane, 82, q. Tabadlit Al Jdida , rue 7",
-   "phone": "+212535560438",
-   "lat": 33.442571,
-   "lng": -5.235435,
-   "shift": "",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie Ramis",
-   "address": "Pharmacie Ramis, 365, lotiss. Essanaoubar, Ahaddaf",
-   "phone": "+212535561820",
-   "lat": 33.453191,
-   "lng": -5.221009,
-   "shift": "",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie Sara",
-   "address": "Pharmacie Sara, 13, lotiss. Haimadi , Ahadaf",
-   "phone": "+212669887676",
-   "lat": 33.454949,
-   "lng": -5.226575,
-   "shift": "",
-   "shift_label": ""
-  },
-  {
-   "name": "PHARMACIE AHADAF",
-   "address": "Pharmacie Ahadaf, 90, rue Casablanca , Ahadaf",
-   "phone": "",
-   "lat": 33.4433819,
-   "lng": -5.2246834,
-   "shift": "",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie Ain Aghbal",
-   "address": "1072 lot. Ain Aghbal",
-   "phone": "+212535562101",
-   "lat": 33.4478167,
-   "lng": -5.21965,
-   "shift": "",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie Al Arabi",
-   "address": "Pharmacie Al Arabi, 15, av Hassan II , P 21",
-   "phone": "+212808613088",
-   "lat": 33.4395474,
-   "lng": -5.2243742,
-   "shift": "",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie Al Ihssane",
-   "address": "Pharmacie Al Ihssane, lot El Fath n°106",
-   "phone": "+212664187395",
-   "lat": 33.437723,
-   "lng": -5.22247,
-   "shift": "",
+   "name": "Pharmacie Akchmir",
+   "address": "quartier Michlifen II Ahadaf n°17, Azrou",
+   "phone": "+212535564641",
+   "lat": 33.439967,
+   "lng": -5.231067,
+   "shift": "jour",
    "shift_label": ""
   }
  ],
  "center": [
-  33.4453,
-  -5.2249
+  33.44,
+  -5.2311
  ]
 }

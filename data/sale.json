@@ -7,6 +7,24 @@
  "kind": "roster",
  "pharmacies": [
   {
+   "name": "Pharmacie AlHanane",
+   "address": "18 rue Abda résid. Idriss II Bettana, Salé",
+   "phone": "+212537801585",
+   "lat": 34.031466,
+   "lng": -6.799557,
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie AL HANANE",
+   "address": "Bettana, Salé",
+   "phone": "+212537801585",
+   "lat": 34.0309216,
+   "lng": -6.7990198,
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
    "name": "Pharmacie Asseha",
    "address": "Pharmacie Asseha",
    "phone": "+212537854243",
@@ -19,8 +37,8 @@
    "name": "Pharmacie BAYTI",
    "address": "Sala El Jadida, Salé",
    "phone": "+212537533359",
-   "lat": 33.9879668,
-   "lng": -6.7343864,
+   "lat": 33.9943675,
+   "lng": -6.7289503,
    "shift": "24h",
    "shift_label": ""
   },
@@ -28,32 +46,50 @@
    "name": "Pharmacie DOCTEUR HILAL",
    "address": "El Mazza Sidi Abdellah, Salé",
    "phone": "+212537868778",
-   "lat": 33.9945795,
-   "lng": -6.7305856,
+   "lat": 34.0808594,
+   "lng": -6.7678709,
    "shift": "24h",
    "shift_label": ""
   },
   {
-   "name": "Pharmacie L'Honneur",
-   "address": "Pharmacie L'Honneur",
-   "phone": "+212537533928",
-   "lat": 34.044889,
-   "lng": -6.814017,
-   "shift": "nuit",
+   "name": "Pharmacie ELKHARRAS",
+   "address": "Sala El Jadida, Salé",
+   "phone": "+212530384838",
+   "lat": 34.0515706,
+   "lng": -6.8125429,
+   "shift": "jour",
    "shift_label": ""
   },
   {
-   "name": "Pharmacie SAKANI",
-   "address": "Al Mohit Abouab Sala, Salé",
-   "phone": "+212537846070",
-   "lat": 34.0817501,
-   "lng": -6.7824673,
+   "name": "Pharmacie EL OUEDGHIRI DE SALE",
+   "address": "Hay Essalam, Salé",
+   "phone": "+212537801479",
+   "lat": 34.0444132,
+   "lng": -6.7811508,
    "shift": "24h",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie Ibtissam",
+   "address": "bd Lalla Amina, Salé",
+   "phone": "+212537862105",
+   "lat": 34.042991,
+   "lng": -6.809681,
+   "shift": "24h",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie LA BASE",
+   "address": "Hay Elinbiate, Salé",
+   "phone": "+212537805774",
+   "lat": 34.0445077,
+   "lng": -6.7769645,
+   "shift": "jour",
    "shift_label": ""
   }
  ],
  "center": [
-  34.0308,
-  -6.7751
+  34.0407,
+  -6.7878
  ]
 }

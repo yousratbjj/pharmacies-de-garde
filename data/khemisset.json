@@ -7,98 +7,17 @@
  "kind": "roster",
  "pharmacies": [
   {
-   "name": "Pharmacie AlFath",
-   "address": "Pharmacie AlFath",
-   "phone": "+212537551100",
-   "lat": 33.8136207,
-   "lng": -6.0734315,
-   "shift": "",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie Arrayhane",
-   "address": "Pharmacie Arrayhane",
-   "phone": "+212537553331",
-   "lat": 33.830287,
-   "lng": -6.072605,
-   "shift": "",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie Cadi Ayad",
-   "address": "Pharmacie Cadi Ayad, rue Oued Sebou hay Zahra",
-   "phone": "+212537551055",
-   "lat": 33.8113609,
-   "lng": -6.075124,
-   "shift": "",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie des Cliniques",
-   "address": "Pharmacie des Cliniques",
-   "phone": "+212537551018",
-   "lat": 33.8259796,
-   "lng": -6.0710879,
-   "shift": "",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie Diar Al Hamraa",
-   "address": "Pharmacie Diar Al Hamraa, hay Marrakech Diour Alhomar",
-   "phone": "+212537559715",
-   "lat": 33.830287,
-   "lng": -6.072605,
-   "shift": "",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie du sahara",
-   "address": "Pharmacie du sahara",
-   "phone": "+212537552164",
-   "lat": 33.83,
-   "lng": -6.0726,
-   "shift": "",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie ElWahda",
-   "address": "Pharmacie ElWahda",
-   "phone": "+212537552713",
-   "lat": 33.8231667,
-   "lng": -6.0771,
-   "shift": "",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie Hay Assaada",
-   "address": "Pharmacie Hay Assaada, lotissement Zahra ext 3 lot n°53 bis",
-   "phone": "+212537550845",
-   "lat": 33.830287,
-   "lng": -6.072605,
-   "shift": "",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie Ibn AlBaytar",
-   "address": "Pharmacie Ibn AlBaytar, 61 lotiss. El Fath",
-   "phone": "+212537551110",
-   "lat": 33.813244,
-   "lng": -6.0754968,
-   "shift": "",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie Lotissement Rahali",
-   "address": "Pharmacie Lotissement Rahali, 22 lotiss. Rahali",
-   "phone": "+212537554075",
-   "lat": 33.80884,
-   "lng": -6.08253,
-   "shift": "",
+   "name": "Pharmacie Al Mansour",
+   "address": "243 av. Tawfik Al Hakim RWF8, Khémisset",
+   "phone": "+212537551952",
+   "lat": 33.822448,
+   "lng": -6.084573,
+   "shift": "jour",
    "shift_label": ""
   }
  ],
  "center": [
-  33.8217,
-  -6.0745
+  33.8224,
+  -6.0846
  ]
 }

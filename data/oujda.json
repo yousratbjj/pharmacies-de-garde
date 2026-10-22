@@ -7,38 +7,11 @@
  "kind": "roster",
  "pharmacies": [
   {
-   "name": "Pharfmacie Mahaj Almouahidine",
-   "address": "362 Hay Semmarine - Autre ville",
-   "phone": "+212536551346",
-   "lat": 34.653227,
-   "lng": -1.941998,
-   "shift": "jour",
-   "shift_label": ""
-  },
-  {
    "name": "Pharmacie Centrale Ain Serrak",
    "address": "N 209, Rue D57, Lotissement Laalaj",
    "phone": "+212536712009",
    "lat": 34.6576683,
    "lng": -1.9260256,
-   "shift": "jour",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie El Achouri",
-   "address": "rue Ibn El Baraa",
-   "phone": "+212536551049",
-   "lat": 34.661398,
-   "lng": -1.933131,
-   "shift": "jour",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie El Ansari",
-   "address": "Hay ElWifak , rue 115 n°137 Koulouch",
-   "phone": "+212536520919",
-   "lat": 34.7090167,
-   "lng": -1.9091167,
    "shift": "jour",
    "shift_label": ""
   },
@@ -52,24 +25,6 @@
    "shift_label": ""
   },
   {
-   "name": "Pharmacie Gala",
-   "address": "hay Zghamim , rue ElKhima 21 n°15",
-   "phone": "+212536686667",
-   "lat": 34.7203577,
-   "lng": -1.8825812,
-   "shift": "jour",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie Hay El Bekkay",
-   "address": "hay El Bekkay n° 509 Sidi yahya",
-   "phone": "+212783047710",
-   "lat": 34.677874,
-   "lng": -1.929306,
-   "shift": "jour",
-   "shift_label": ""
-  },
-  {
    "name": "Pharmacie Hicham",
    "address": "lotiss. Loukili n 6 , Derb Berrahmoune",
    "phone": "+212536745739",
@@ -79,17 +34,17 @@
    "shift_label": ""
   },
   {
-   "name": "Pharmacie Hilal Akhdar",
-   "address": "583, lotiss. Msirdi Lazaret , rte Sidi Yahya",
-   "phone": "+212536745329",
-   "lat": 34.67695,
-   "lng": -1.8824333,
+   "name": "Pharmacie Tennis",
+   "address": "rte Maghnia , bloc 3 n 19.",
+   "phone": "+212536690602",
+   "lat": 34.6982347,
+   "lng": -1.8972911,
    "shift": "jour",
    "shift_label": ""
   }
  ],
  "center": [
-  34.6798,
-  -1.9152
+  34.6793,
+  -1.914
  ]
 }

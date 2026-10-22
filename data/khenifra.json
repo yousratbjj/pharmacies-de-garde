@@ -7,26 +7,26 @@
  "kind": "roster",
  "pharmacies": [
   {
-   "name": "8 MARS",
-   "address": "bd ezzarktouni hay pamشارع الزرقطوني حي بام",
+   "name": "Pharmacie 8 Mars",
+   "address": "Cité Pam rue 1 n°20, Khénifra",
    "phone": "+212535586395",
-   "lat": 32.932144,
-   "lng": -5.6687985,
-   "shift": "",
+   "lat": 32.934633,
+   "lng": -5.668083,
+   "shift": "jour",
    "shift_label": ""
   },
   {
-   "name": "ATLAS",
-   "address": "bd mohamed 6 près de kissariat addahabشارع محمد السادس قرب قيسارية الذهب",
-   "phone": "+212667765335",
-   "lat": 33.162714,
-   "lng": -5.5669786,
-   "shift": "",
+   "name": "Pharmacie Atlas",
+   "address": "37 bd Mohammed V, Khénifra",
+   "phone": "+212535586506",
+   "lat": 32.936222,
+   "lng": -5.673764,
+   "shift": "jour",
    "shift_label": ""
   }
  ],
  "center": [
-  33.0474,
-  -5.6179
+  32.9354,
+  -5.6709
  ]
 }

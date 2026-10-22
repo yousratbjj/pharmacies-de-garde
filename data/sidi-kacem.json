@@ -7,44 +7,17 @@
  "kind": "roster",
  "pharmacies": [
   {
-   "name": "Pharmacie Allaymoune",
-   "address": "Pharmacie Allaymoune, hay Yasmine bloc C n°471",
-   "phone": "+212537590334",
-   "lat": 34.227418,
-   "lng": -5.728199,
-   "shift": "",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie Al Missaha Clinique",
-   "address": "Pharmacie Al Missaha Clinique, 32 hay Al Qods",
-   "phone": "+212537596624",
-   "lat": 34.231249,
-   "lng": -5.722842,
-   "shift": "",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie Maghreb Arrabe",
-   "address": "Pharmacie Maghreb Arrabe, 142 bd Mohammed V",
-   "phone": "+212537594539",
-   "lat": 34.22575,
-   "lng": -5.7126,
-   "shift": "",
-   "shift_label": ""
-  },
-  {
-   "name": "PHARMACIE AFCA",
-   "address": "Pharmacie Afca, 511 hay Al Qods",
+   "name": "Pharmacie Afca",
+   "address": "511 hay Al Qods, Sidi Kacem",
    "phone": "+212537595895",
-   "lat": 34.2270204,
-   "lng": -5.7194902,
-   "shift": "",
+   "lat": 34.226964,
+   "lng": -5.719383,
+   "shift": "jour",
    "shift_label": ""
   }
  ],
  "center": [
-  34.2279,
-  -5.7208
+  34.227,
+  -5.7194
  ]
 }

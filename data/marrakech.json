@@ -7,21 +7,12 @@
  "kind": "roster",
  "pharmacies": [
   {
-   "name": "BORJ ENNAKHIL",
-   "address": "Route de Fès \" Nakhla al 3ouja \" Entrée Tamsna en face du Jnane Lkbir",
-   "phone": "+212524329789",
-   "lat": 31.6486973,
-   "lng": -7.9631113,
-   "shift": "",
-   "shift_label": ""
-  },
-  {
    "name": "OUHOUD",
    "address": "294, Lot. Masmoudi, avant l’école Ouhoud, route Sidi Dou Targa, Marrakech TARGA",
    "phone": "+212524344395",
    "lat": 31.6524772,
    "lng": -8.0507147,
-   "shift": "",
+   "shift": "nuit",
    "shift_label": ""
   },
   {
@@ -30,7 +21,7 @@
    "phone": "+212524304046",
    "lat": 31.6685293,
    "lng": -8.0228105,
-   "shift": "",
+   "shift": "nuit",
    "shift_label": ""
   },
   {
@@ -39,7 +30,7 @@
    "phone": "+212524328328",
    "lat": 31.6343658,
    "lng": -7.9205577,
-   "shift": "",
+   "shift": "nuit",
    "shift_label": ""
   },
   {
@@ -48,7 +39,7 @@
    "phone": "+212524346755",
    "lat": 31.6296457,
    "lng": -8.0668227,
-   "shift": "",
+   "shift": "nuit",
    "shift_label": ""
   },
   {
@@ -57,7 +48,7 @@
    "phone": "+212524387963",
    "lat": 31.6241815,
    "lng": -7.9745105,
-   "shift": "",
+   "shift": "nuit",
    "shift_label": ""
   },
   {
@@ -66,7 +57,7 @@
    "phone": "+212524331293",
    "lat": 31.6520594,
    "lng": -8.0097789,
-   "shift": "",
+   "shift": "nuit",
    "shift_label": ""
   },
   {
@@ -75,7 +66,7 @@
    "phone": "+212524328518",
    "lat": 31.663936,
    "lng": -7.9856631,
-   "shift": "",
+   "shift": "nuit",
    "shift_label": ""
   },
   {
@@ -84,7 +75,7 @@
    "phone": "+212524356693",
    "lat": 31.6841669,
    "lng": -8.075929,
-   "shift": "",
+   "shift": "nuit",
    "shift_label": ""
   },
   {
@@ -93,12 +84,21 @@
    "phone": "+212524404738",
    "lat": 31.602352,
    "lng": -7.968966,
-   "shift": "",
+   "shift": "nuit",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie Les Jardins De Majorelle (ex. Zahia)",
+   "address": "Bd. My Abdellah (Ex.Safi) derrière Jardins de Majorelle, près du Musée Yves Saint Laurent et en face Club Justice , Marrakech DAOUDIAT",
+   "phone": "+212524301211",
+   "lat": 31.641767,
+   "lng": -8.005188,
+   "shift": "nuit",
    "shift_label": ""
   }
  ],
  "center": [
-  31.646,
-  -8.0039
+  31.6453,
+  -8.0081
  ]
 }

@@ -25,6 +25,60 @@
    "shift_label": ""
   },
   {
+   "name": "Pharmacie Bouslama",
+   "address": "lotiss. Lmseffer résid. Bahya rte d'Imouzzer, Fès",
+   "phone": "+212535608106",
+   "lat": 34.000821,
+   "lng": -4.995301,
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie Boutouil",
+   "address": "46 derb Btatha Boutouil, Fès",
+   "phone": "+212535652845",
+   "lat": 34.054873,
+   "lng": -4.986868,
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie Chifae Arrahmane",
+   "address": "rte de Meknès lotiss. Riad Laimoun n°165, Fès",
+   "phone": "+212535647718",
+   "lat": 34.050823,
+   "lng": -5.03921,
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie Chifae Oulad Maala",
+   "address": "hay Ain Chkef - Autre ville douar oulad Maala, Fès",
+   "phone": "+212662271416",
+   "lat": 34.040402,
+   "lng": -5.008672,
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie De La Gare",
+   "address": "rue imam chafii hay la gare, derrière mosquée imam ali",
+   "phone": "+212535652475",
+   "lat": 34.0332985,
+   "lng": -5.0,
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie de la Gare AlDandashy",
+   "address": "21 rue Imam Chafii, Fès",
+   "phone": "+212535652475",
+   "lat": 34.044933,
+   "lng": -5.00655,
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
    "name": "Pharmacie Jbel Tghat",
    "address": "Pharmacie Jbel Tghat",
    "phone": "+212779451700",
@@ -41,28 +95,10 @@
    "lng": -5.0078451,
    "shift": "24h",
    "shift_label": ""
-  },
-  {
-   "name": "Pharmacie Rond Point",
-   "address": "n°14 lotissement jihane",
-   "phone": "+212535721626",
-   "lat": 34.0095016,
-   "lng": -5.0456524,
-   "shift": "24h",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie Tanara",
-   "address": "Pharmacie Tanara",
-   "phone": "+212535979120",
-   "lat": 33.9467762,
-   "lng": -5.0340719,
-   "shift": "24h",
-   "shift_label": ""
   }
  ],
  "center": [
-  34.0124,
-  -5.0112
+  34.0343,
+  -5.0024
  ]
 }

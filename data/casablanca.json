@@ -7,17 +7,98 @@
  "kind": "roster",
  "pharmacies": [
   {
-   "name": "Pharmacie Dawdia",
-   "address": "hay El Wifak 1, rue 13 n°85",
-   "phone": "+212522901424",
-   "lat": 33.5555224,
-   "lng": -7.6896304,
-   "shift": "24h",
+   "name": "Pharmacie Al Azhar Essalam",
+   "address": "hay El Oulfa , q. Al Azhar, imm. 38, mag4",
+   "phone": "+212522911718",
+   "lat": 33.539896,
+   "lng": -7.6916578,
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie Ba Hmad",
+   "address": "N 82 BD BA HMAD",
+   "phone": "+212522247539",
+   "lat": 33.5945563,
+   "lng": -7.5869205,
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie Croix du Sud",
+   "address": "62, rue Mohamed Sedki, Quartier Bourgogne",
+   "phone": "+212522277534",
+   "lat": 33.5935803,
+   "lng": -7.6349502,
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie ElBachir",
+   "address": "62 X bd Haj Ahmed Mekouar -ex C.Caillat El Gantour Casablanca",
+   "phone": "+212522344127",
+   "lat": 33.6155063,
+   "lng": -7.5383059,
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie ElOuazzani",
+   "address": "75, lotiss. Al Moustakbal, Sidi Maârouf Casablanca",
+   "phone": "+212522975308",
+   "lat": 33.5278052,
+   "lng": -7.6515681,
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie Hind",
+   "address": "N 516 Bis, Lotissement Municipal, Bloc 2 - Hay Hassani",
+   "phone": "+212522914457",
+   "lat": 33.5641688,
+   "lng": -7.6707993,
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie Jabir Bnou Hayane",
+   "address": "500 bd Abdellah Senhaji - ex C Drissia 2 Hay El Farah Casablanca",
+   "phone": "+212522815364",
+   "lat": 33.5645702,
+   "lng": -7.5878875,
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie la Mission",
+   "address": "K120 cité Sidi Bernoussi km 12 résid. Al Boustane II Sidi bernoussi",
+   "phone": "+212522741930",
+   "lat": 33.6173458,
+   "lng": -7.4958349,
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie Marina",
+   "address": "54 rue Ibn Jahir -ex Taravo Hassan Casablanca",
+   "phone": "+212522942439",
+   "lat": 33.6001126,
+   "lng": -7.6481081,
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie Mly. Thami",
+   "address": "cité Essalam, n°1A, Gh 1 Casablanca",
+   "phone": "+212522895687",
+   "lat": 33.5519387,
+   "lng": -7.6928669,
+   "shift": "jour",
    "shift_label": ""
   }
  ],
  "center": [
-  33.5555,
-  -7.6896
+  33.5769,
+  -7.6199
  ]
 }

@@ -7,17 +7,17 @@
  "kind": "roster",
  "pharmacies": [
   {
-   "name": "LAEPIKA",
-   "address": "Lotissement ennasr nr 460تجزئة النصر.رقم 460",
-   "phone": "+212606715758",
-   "lat": 35.1744271,
-   "lng": -6.1473964,
-   "shift": "",
+   "name": "Pharmacie du Stade Municipal",
+   "address": "64 Lotissement Al Khadra rue des Orangers, Larache",
+   "phone": "+212539501124",
+   "lat": 35.180455,
+   "lng": -6.147932,
+   "shift": "jour",
    "shift_label": ""
   }
  ],
  "center": [
-  35.1744,
-  -6.1474
+  35.1805,
+  -6.1479
  ]
 }

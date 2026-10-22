@@ -7,12 +7,12 @@
  "kind": "roster",
  "pharmacies": [
   {
-   "name": "PHARMACIE ELMACHICHI",
-   "address": "bd. El Machichi Chefchaouen Chefchaouen Maroc",
+   "name": "Pharmacie ElMachichi",
+   "address": "bd. El Machichi, Chefchaouen",
    "phone": "+212539987149",
-   "lat": 35.1703833,
+   "lat": 35.170383,
    "lng": -5.2687,
-   "shift": "",
+   "shift": "nuit",
    "shift_label": ""
   }
  ],

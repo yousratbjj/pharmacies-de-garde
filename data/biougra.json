@@ -7,89 +7,26 @@
  "kind": "roster",
  "pharmacies": [
   {
-   "name": "Pharmacie Achifa",
-   "address": "Pharmacie Achifa",
-   "phone": "+212528810293",
-   "lat": 30.22345,
-   "lng": -9.36776,
-   "shift": "",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie Achkid",
-   "address": "6 Bd. Mohamed V",
-   "phone": "+212528810693",
-   "lat": 30.2146833,
-   "lng": -9.3686667,
-   "shift": "",
-   "shift_label": ""
-  },
-  {
    "name": "Pharmacie Agharass",
-   "address": "Pharmacie Agharass",
+   "address": "av Hassan II rte. Ait Baha, Biougra",
    "phone": "+212528818318",
-   "lat": 30.2154083,
-   "lng": -9.3637417,
-   "shift": "",
+   "lat": 30.215408,
+   "lng": -9.363742,
+   "shift": "jour",
    "shift_label": ""
   },
   {
-   "name": "Pharmacie Ahtaq",
-   "address": "Pharmacie Ahtaq",
-   "phone": "",
-   "lat": 30.208823,
-   "lng": -9.3682224,
-   "shift": "",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie Al Falah",
-   "address": "49 Bd Sid Haj Lahbib Lotiss. Al Falah",
-   "phone": "+212528818109",
-   "lat": 30.2183,
-   "lng": -9.37926,
-   "shift": "",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie Aloussra",
-   "address": "70 Rue Du Tribunal",
-   "phone": "+212528818439",
-   "lat": 30.2162167,
-   "lng": -9.3679167,
-   "shift": "",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie Baba Ali",
-   "address": "Pharmacie Baba Ali, biougra",
-   "phone": "+212528818480",
-   "lat": 30.215517,
-   "lng": -9.368543,
-   "shift": "",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie Bab Ait Saih",
-   "address": "Rte Douar At Saih",
-   "phone": "+212707156530",
-   "lat": 30.215517,
-   "lng": -9.368543,
-   "shift": "",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie Bairouk",
-   "address": "1 Quartier Les Chalets 2",
-   "phone": "+212808614553",
-   "lat": 30.2231515,
-   "lng": -9.3793678,
-   "shift": "",
+   "name": "Pharmacie Rebbouh",
+   "address": "bd Massa derb Hmad ou Addi, Biougra",
+   "phone": "+212528810505",
+   "lat": 30.22075,
+   "lng": -9.371133,
+   "shift": "jour",
    "shift_label": ""
   }
  ],
  "center": [
-  30.2168,
-  -9.3702
+  30.2181,
+  -9.3674
  ]
 }

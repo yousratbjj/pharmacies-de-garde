@@ -7,98 +7,44 @@
  "kind": "roster",
  "pharmacies": [
   {
-   "name": "Pharmacie Afra",
-   "address": "Pharmacie Afra",
-   "phone": "+212536350808",
-   "lat": 35.1520228,
-   "lng": -2.9801603,
-   "shift": "",
+   "name": "Pharmacie AlMahatta",
+   "address": "254 av Hassan II, Nador",
+   "phone": "+212536604408",
+   "lat": 35.1751,
+   "lng": -2.922383,
+   "shift": "jour",
    "shift_label": ""
   },
   {
-   "name": "Pharmacie Ahkim",
-   "address": "Pharmacie Ahkim",
-   "phone": "+212536320906",
-   "lat": 35.1893333,
-   "lng": -2.9266667,
-   "shift": "",
+   "name": "Pharmacie Bouyzarzar",
+   "address": "commune Ihaddaden, Nador",
+   "phone": "+212536601192",
+   "lat": 35.163787,
+   "lng": -2.920697,
+   "shift": "jour",
    "shift_label": ""
   },
   {
-   "name": "Pharmacie AlAndalous",
-   "address": "Pharmacie AlAndalous, 39, bd 3 mars",
-   "phone": "+212536602909",
-   "lat": 35.1782667,
-   "lng": -2.9292,
-   "shift": "",
+   "name": "Pharmacie ElOum",
+   "address": "bd. Mohammed V Jaadar, Nador",
+   "phone": "+212536353864",
+   "lat": 35.1538,
+   "lng": -2.98865,
+   "shift": "jour",
    "shift_label": ""
   },
   {
-   "name": "Pharmacie AlAssil",
-   "address": "Pharmacie AlAssil",
-   "phone": "+212536337255",
-   "lat": 35.1716833,
-   "lng": -2.9221667,
-   "shift": "",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie AlAzhar",
-   "address": "Pharmacie AlAzhar",
-   "phone": "+212536603875",
-   "lat": 35.1715744,
-   "lng": -2.9479065,
-   "shift": "",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie AlBoustane",
-   "address": "Pharmacie AlBoustane",
-   "phone": "+212536332392",
-   "lat": 35.171,
-   "lng": -2.9350167,
-   "shift": "",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie Al Hay",
-   "address": "Pharmacie Al Hay",
-   "phone": "+212536605541",
-   "lat": 35.197426,
-   "lng": -2.935156,
-   "shift": "",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie Alikhlass",
-   "address": "Pharmacie Alikhlass",
-   "phone": "+212536330508",
-   "lat": 35.1597275,
-   "lng": -2.9695992,
-   "shift": "",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie Al Kadaoui",
-   "address": "Pharmacie Al Kadaoui",
-   "phone": "+212536351995",
-   "lat": 35.156065,
-   "lng": -2.9758787,
-   "shift": "",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie AlMasjid",
-   "address": "Place de la Marche Verte",
-   "phone": "+212536602088",
-   "lat": 35.1769833,
-   "lng": -2.9258167,
-   "shift": "",
+   "name": "Pharmacie Zamzam",
+   "address": "douar Bouzarzarane Ihddadan, Nador",
+   "phone": "+212536333500",
+   "lat": 35.167616,
+   "lng": -2.958588,
+   "shift": "jour",
    "shift_label": ""
   }
  ],
  "center": [
-  35.1724,
-  -2.9448
+  35.1651,
+  -2.9476
  ]
 }

@@ -7,17 +7,26 @@
  "kind": "roster",
  "pharmacies": [
   {
-   "name": "PHARMACIE ZELLAKA",
-   "address": "1541 bd Mohammed VI hay EL Qods Khouribga Khouribga Maroc",
+   "name": "Pharmacie Rochdi",
+   "address": "50 av. de l'Egypte lot. Errachaid, Khouribga",
+   "phone": "+212523567541",
+   "lat": 32.892092,
+   "lng": -6.898086,
+   "shift": "nuit",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie Zellaka",
+   "address": "1541 bd Mohammed VI hay EL Qods, Khouribga",
    "phone": "+212523499335",
-   "lat": 32.8907209,
-   "lng": -6.9304266,
-   "shift": "jour",
+   "lat": 32.890819,
+   "lng": -6.930536,
+   "shift": "nuit",
    "shift_label": ""
   }
  ],
  "center": [
-  32.8907,
-  -6.9304
+  32.8915,
+  -6.9143
  ]
 }

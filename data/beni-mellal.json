@@ -7,17 +7,44 @@
  "kind": "roster",
  "pharmacies": [
   {
-   "name": "OURBIA",
-   "address": "Hay Ezzarati, Quartier Ourbiaحي الزهراتي حي أوربيع",
-   "phone": "",
-   "lat": 32.3169641,
-   "lng": -6.3587898,
-   "shift": "",
+   "name": "Pharmacie Goumri",
+   "address": "1 lotiss. Badr - Autre ville Riad Salam Bloc 1, Beni Mellal",
+   "phone": "+212523482757",
+   "lat": 32.316757,
+   "lng": -6.377289,
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie Moussaid",
+   "address": "2 lot Manzah Atlas, Beni Mellal",
+   "phone": "+212708184439",
+   "lat": 32.35696,
+   "lng": -6.34755,
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie Najib",
+   "address": "quartier Laguerabzia ouled Ayad, Beni Mellal",
+   "phone": "+212523424426",
+   "lat": 32.329499,
+   "lng": -6.379158,
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie Ourbia",
+   "address": "quartier Zaarati Ourbia, Beni Mellal",
+   "phone": "+212523481254",
+   "lat": 32.316627,
+   "lng": -6.358835,
+   "shift": "jour",
    "shift_label": ""
   }
  ],
  "center": [
-  32.317,
-  -6.3588
+  32.33,
+  -6.3657
  ]
 }

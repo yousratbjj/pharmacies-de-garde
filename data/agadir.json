@@ -77,10 +77,19 @@
    "lng": -9.5377871,
    "shift": "24h",
    "shift_label": ""
+  },
+  {
+   "name": "Pharmacie Adrar",
+   "address": "quartier Adrar résid. Saâda imm. 23, Agadir",
+   "phone": "+212528288099",
+   "lat": 30.38631,
+   "lng": -9.50245,
+   "shift": "jour",
+   "shift_label": ""
   }
  ],
  "center": [
-  30.4139,
-  -9.5619
+  30.4108,
+  -9.5553
  ]
 }

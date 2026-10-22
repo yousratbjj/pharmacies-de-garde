@@ -7,17 +7,26 @@
  "kind": "roster",
  "pharmacies": [
   {
-   "name": "EL AZAMI",
-   "address": "383 Avenue Mokhtar, Soussi Boujrah Al Faoukiyaرقم383 شارع المختار السوسي بوجراح الفوقية",
-   "phone": "",
-   "lat": 35.5866184,
-   "lng": -5.3597369,
-   "shift": "",
+   "name": "Grande Pharmacie Nouvelle",
+   "address": "10 rue 10 Mai, Tétouan",
+   "phone": "+212539966255",
+   "lat": 35.571083,
+   "lng": -5.37565,
+   "shift": "nuit",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie Chams",
+   "address": "6 lotis. Kasbat Azahra bloc 3 imm.A, Tétouan",
+   "phone": "+212627225059",
+   "lat": 35.58206,
+   "lng": -5.339392,
+   "shift": "nuit",
    "shift_label": ""
   }
  ],
  "center": [
-  35.5866,
-  -5.3597
+  35.5766,
+  -5.3575
  ]
 }

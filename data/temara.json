@@ -12,7 +12,25 @@
    "phone": "+212537611601",
    "lat": 33.9133515,
    "lng": -6.9112789,
-   "shift": "24h",
+   "shift": "nuit",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie du quartier",
+   "address": "1457 av. Tarik Ibn Ziyad Massira II, Témara",
+   "phone": "+212537600779",
+   "lat": 33.922833,
+   "lng": -6.897467,
+   "shift": "nuit",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie Lahkim",
+   "address": "Rte de Sidi Yahia Zaers résid. Al Ghorfa imm.5 n°2, Témara",
+   "phone": "+212537747319",
+   "lat": 33.897442,
+   "lng": -6.92071,
+   "shift": "nuit",
    "shift_label": ""
   },
   {
@@ -21,12 +39,30 @@
    "phone": "+212537601951",
    "lat": 33.9310185,
    "lng": -6.8965039,
-   "shift": "24h",
+   "shift": "nuit",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie Trik El Fellah",
+   "address": "4 Rte Trik El Fellah, El Harhoura",
+   "phone": "+212530005209",
+   "lat": 33.913953,
+   "lng": -6.96184,
+   "shift": "nuit",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie Hind",
+   "address": "241 rue Othman Ibn Madhoun, Témara",
+   "phone": "+212537622291",
+   "lat": 33.895935,
+   "lng": -6.935582,
+   "shift": "nuit",
    "shift_label": ""
   }
  ],
  "center": [
-  33.9222,
-  -6.9039
+  33.9124,
+  -6.9206
  ]
 }

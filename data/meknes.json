@@ -7,35 +7,80 @@
  "kind": "roster",
  "pharmacies": [
   {
-   "name": "PHARMACIE AL MOURAD",
-   "address": "lot N 153 lotissment al izdihar sidi bouzekri",
-   "phone": "+212663824759",
-   "lat": 33.8531965,
-   "lng": -5.5397477,
-   "shift": "",
+   "name": "Pharmacie Addoha Dkhissa",
+   "address": "28 douar Zoualeth Dkhissa, Meknès",
+   "phone": "+212535433959",
+   "lat": 33.936894,
+   "lng": -5.465416,
+   "shift": "jour",
    "shift_label": ""
   },
   {
-   "name": "PHARMACIE ARRAHMA",
-   "address": "86, lotiss. Riad Ouislane Meknes",
-   "phone": "+212625094244",
-   "lat": 33.8971861,
-   "lng": -5.4708502,
-   "shift": "",
+   "name": "Pharmacie Al Andalous",
+   "address": "53 lotiss. Al Andalouss Zahwa Ain Maaza, Meknès",
+   "phone": "+212535513865",
+   "lat": 33.87315,
+   "lng": -5.535317,
+   "shift": "jour",
    "shift_label": ""
   },
   {
-   "name": "PHARMACIE BADIH",
-   "address": "1 Jnane Benhlima",
-   "phone": "+212709889993",
-   "lat": 33.8674529,
-   "lng": -5.5382188,
-   "shift": "",
+   "name": "Pharmacie Al Mouna",
+   "address": "hay Al Bassatine - Autre ville, Meknès",
+   "phone": "+212535500570",
+   "lat": 33.889881,
+   "lng": -5.516579,
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie Avenue des F.a.r.",
+   "address": "5 bd des F.a.r., Meknès",
+   "phone": "+212535514535",
+   "lat": 33.894633,
+   "lng": -5.549983,
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
+   "name": "PHARMACIE BADR",
+   "address": "Bd Khalid Bnou Loualid, Secteur 11 Borj My Omarشارع خالد بن الوليد عمارات ليراك الصفراء قرب لاسييندا قدماء المحاربين - البرج",
+   "phone": "+212535522914",
+   "lat": 33.9022611,
+   "lng": -5.5210486,
+   "shift": "24h",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie de Dispensaire",
+   "address": "33 hay Ouislane - Autre ville Olm Elbassatine, Meknès",
+   "phone": "+212535548196",
+   "lat": 33.918734,
+   "lng": -5.492372,
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie de Meknes",
+   "address": "194 lotiss. Sahara 2 rte. Agourai, Meknès",
+   "phone": "+212535454869",
+   "lat": 33.877833,
+   "lng": -5.570167,
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie du Croissant",
+   "address": "hay Toulal rue 1 n°103/105, Meknès",
+   "phone": "+212535559473",
+   "lat": 33.883817,
+   "lng": -5.594367,
+   "shift": "jour",
    "shift_label": ""
   }
  ],
  "center": [
-  33.8726,
-  -5.5163
+  33.8972,
+  -5.5307
  ]
 }

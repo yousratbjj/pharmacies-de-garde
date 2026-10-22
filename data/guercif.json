@@ -7,98 +7,26 @@
  "kind": "roster",
  "pharmacies": [
   {
-   "name": "Grande Pharmacie du Rif",
-   "address": "60 Av Abdelmoumen Ben Ali",
-   "phone": "+212535200441",
-   "lat": 34.2269167,
-   "lng": -3.3449333,
-   "shift": "",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie Abdelkarim Khattabi",
-   "address": "Bd Abdelkrim Kattabi - Autre Ville",
-   "phone": "+212535676876",
-   "lat": 34.23277,
-   "lng": -3.35143,
-   "shift": "",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie Aïn Zoura",
-   "address": "104 Av Mly Youssef",
-   "phone": "+212535675450",
-   "lat": 34.22945,
-   "lng": -3.3436333,
-   "shift": "",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie AlBaladia",
-   "address": "Bd Allal Ben Abdellah",
-   "phone": "+212535200909",
-   "lat": 34.2248333,
-   "lng": -3.3503667,
-   "shift": "",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie Al Farabi",
-   "address": "Rte De Taza - Autre Ville",
-   "phone": "+212535676089",
-   "lat": 34.22333,
-   "lng": -3.36399,
-   "shift": "",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie Alfassi Senhaji",
-   "address": "Pharmacie Alfassi Senhaji, lotissement Wiam n°10",
-   "phone": "+212535202022",
-   "lat": 34.225576,
-   "lng": -3.352345,
-   "shift": "",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie Al Filali",
-   "address": "Pharmacie Al Filali",
-   "phone": "+212535200958",
-   "lat": 34.23472,
-   "lng": -3.34811,
-   "shift": "",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie Al Firdaous",
-   "address": "Lotissement Melk Abdellah",
-   "phone": "+212535203112",
-   "lat": 34.225576,
-   "lng": -3.352345,
-   "shift": "",
-   "shift_label": ""
-  },
-  {
    "name": "Pharmacie Allal Ben Abdellah",
-   "address": "147 Bd Allal Ben Abdallah - Autre Ville",
+   "address": "147 bd Allal Ben Abdallah - Autre ville, Guercif",
    "phone": "+212535200771",
    "lat": 34.22464,
    "lng": -3.350548,
-   "shift": "",
+   "shift": "jour",
    "shift_label": ""
   },
   {
-   "name": "Pharmacie Al Madina",
-   "address": "Pharmacie Al Madina",
-   "phone": "+212535675809",
-   "lat": 34.22393,
-   "lng": -3.34611,
-   "shift": "",
+   "name": "Pharmacie Guennoune",
+   "address": "av. Melouya, Guercif",
+   "phone": "+212535201803",
+   "lat": 34.23306,
+   "lng": -3.35637,
+   "shift": "jour",
    "shift_label": ""
   }
  ],
  "center": [
-  34.2272,
-  -3.3504
+  34.2289,
+  -3.3535
  ]
 }

@@ -7,17 +7,17 @@
  "kind": "roster",
  "pharmacies": [
   {
-   "name": "PHARMACIE KARIMA",
-   "address": "141 q. administartif lotiss. Marjane Sidi slimane",
-   "phone": "+212661254737",
-   "lat": 34.2612851,
-   "lng": -5.9142561,
-   "shift": "",
+   "name": "PHARMACIE OULED EL GHAZI",
+   "address": "10, av Zerktouni , lot. Lemhamed Sidi slimane",
+   "phone": "+212537505871",
+   "lat": 34.2590735,
+   "lng": -5.9350268,
+   "shift": "jour",
    "shift_label": ""
   }
  ],
  "center": [
-  34.2613,
-  -5.9143
+  34.2591,
+  -5.935
  ]
 }

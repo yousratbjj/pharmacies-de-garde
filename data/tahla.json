@@ -7,62 +7,17 @@
  "kind": "roster",
  "pharmacies": [
   {
-   "name": "Pharmacie AlWarda",
-   "address": "Pharmacie AlWarda, av. Atlas",
-   "phone": "+212535678860",
-   "lat": 34.049849,
-   "lng": -4.42553,
-   "shift": "",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie Bnisraj",
-   "address": "Pharmacie Bnisraj, av La Résistance",
-   "phone": "+212535678833",
-   "lat": 34.050103,
-   "lng": -4.420028,
-   "shift": "",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie Chifaa",
-   "address": "Pharmacie Chifaa, 77 bd Annasr",
-   "phone": "+212535679689",
-   "lat": 34.051102,
-   "lng": -4.424827,
-   "shift": "",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie Ennacer",
-   "address": "Pharmacie Ennacer, av Ennacer",
-   "phone": "+212535678951",
-   "lat": 34.0542897,
-   "lng": -4.4259259,
-   "shift": "",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie Idil",
-   "address": "Pharmacie Idil, 74, av. des Far",
-   "phone": "+212535679222",
-   "lat": 34.0461998,
-   "lng": -4.42379,
-   "shift": "",
-   "shift_label": ""
-  },
-  {
    "name": "Pharmacie Zohra",
-   "address": "Pharmacie Zohra, av Moukaouama",
+   "address": "av Moukaouama, Tahla",
    "phone": "+212535678088",
-   "lat": 34.0418667,
+   "lat": 34.041867,
    "lng": -4.4168,
-   "shift": "",
+   "shift": "jour",
    "shift_label": ""
   }
  ],
  "center": [
-  34.0489,
-  -4.4228
+  34.0419,
+  -4.4168
  ]
 }

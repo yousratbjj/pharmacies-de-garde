@@ -7,26 +7,26 @@
  "kind": "roster",
  "pharmacies": [
   {
-   "name": "PHARMACIE AQARTIT",
-   "address": "route d'Aknoul lot. Chifa n°77",
-   "phone": "+212535211589",
-   "lat": 34.2309035,
-   "lng": -3.994893,
-   "shift": "",
+   "name": "Pharmacie Chifae",
+   "address": "134 av. Mohammed V v.n, Taza",
+   "phone": "+212535281943",
+   "lat": 34.226117,
+   "lng": -4.005717,
+   "shift": "nuit",
    "shift_label": ""
   },
   {
-   "name": "PHARMACIE EL KOUCHA",
-   "address": "hay El Koucha Takaddoum I bloc 4 n°1",
-   "phone": "+212535270178",
-   "lat": 34.2166871,
-   "lng": -4.0166013,
-   "shift": "",
+   "name": "Pharmacie la Santé",
+   "address": "11 hay El Qods - Autre ville bloc 4, Taza",
+   "phone": "+212535211669",
+   "lat": 34.231263,
+   "lng": -3.983337,
+   "shift": "nuit",
    "shift_label": ""
   }
  ],
  "center": [
-  34.2238,
-  -4.0057
+  34.2287,
+  -3.9945
  ]
 }

@@ -7,89 +7,17 @@
  "kind": "roster",
  "pharmacies": [
   {
-   "name": "Pharmacie Al Bahja",
-   "address": "Pharmacie Al Bahja, lotiss. Mezouri hay Al Massira rue 7 n°30 bis",
-   "phone": "+212539919127",
-   "lat": 35.0182192,
-   "lng": -5.9092037,
-   "shift": "",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie Almahata",
-   "address": "Pharmacie Almahata, 77 bd. Med. Zerktouni",
-   "phone": "+212539919005",
-   "lat": 34.9963598,
-   "lng": -5.9027256,
-   "shift": "",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie Al Yaqtine",
-   "address": "Pharmacie Al Yaqtine, hay Ouled Hmayde",
-   "phone": "+212539907734",
-   "lat": 34.998872,
-   "lng": -5.908089,
-   "shift": "",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie Assalam",
-   "address": "Pharmacie Assalam, 7 av Ennasr Jardin Assalam",
-   "phone": "+212539907022",
-   "lat": 34.9938722,
-   "lng": -5.9047366,
-   "shift": "",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie Ibn Khaldoun",
-   "address": "Pharmacie Ibn Khaldoun, 25, av. de Municipalité",
-   "phone": "+212539904690",
-   "lat": 35.004,
-   "lng": -5.905,
-   "shift": "",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie Ibn Sina",
-   "address": "Pharmacie Ibn Sina, 82, av. 20 Août",
-   "phone": "+212539902525",
-   "lat": 34.9992667,
-   "lng": -5.9035,
-   "shift": "",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie Taoud",
-   "address": "Pharmacie Taoud, 303, route de Tatoft",
-   "phone": "+212539903520",
-   "lat": 35.1542833,
-   "lng": -5.8955333,
-   "shift": "",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie Tatoft",
-   "address": "Pharmacie Tatoft, 144, route de Tatoft",
-   "phone": "+212539918403",
-   "lat": 35.0008167,
-   "lng": -5.8989,
-   "shift": "",
-   "shift_label": ""
-  },
-  {
-   "name": "PHARMACIE ABI ALMAHASSIN",
-   "address": "Pharmacie Abi AlMahassin, hay ElMassira ElKhadra grp.D rue 10 n°65",
-   "phone": "+212539905555",
-   "lat": 35.0044828,
-   "lng": -5.9117417,
-   "shift": "",
+   "name": "Pharmacie Andalouss",
+   "address": "hay Andalouss grp. A rue 15 n°58, Ksar El Kébir",
+   "phone": "+212539906542",
+   "lat": 34.9984,
+   "lng": -5.911133,
+   "shift": "jour",
    "shift_label": ""
   }
  ],
  "center": [
-  35.0189,
-  -5.9044
+  34.9984,
+  -5.9111
  ]
 }

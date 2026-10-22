@@ -7,6 +7,24 @@
  "kind": "roster",
  "pharmacies": [
   {
+   "name": "Pharmacie de l'Atlas",
+   "address": "hay El Haouzia lot J n°1, Kénitra",
+   "phone": "+212537353466",
+   "lat": 34.268298,
+   "lng": -6.618934,
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie El Kouweiti",
+   "address": "lotiss. El Wafa Souk Sebt Saknia, Kénitra",
+   "phone": "+212537392420",
+   "lat": 34.236813,
+   "lng": -6.550886,
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
    "name": "Pharmacie SAADAOUI",
    "address": "أمام مؤسسة محمد السادس للتضامن دار البحارة, سكتور 9 القصبة الهاتف. 89 88 38 0537",
    "phone": "+212537388889",
@@ -17,7 +35,7 @@
   }
  ],
  "center": [
-  34.258,
-  -6.6554
+  34.2544,
+  -6.6084
  ]
 }

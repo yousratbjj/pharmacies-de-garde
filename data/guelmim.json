@@ -1,23 +1,23 @@
 {
  "city": "guelmim",
  "label": "Guelmim",
- "date": "2026-10-19",
+ "date": "2026-10-21",
  "source": "sahha.ma",
  "source_url": "https://sahha.ma/pharmacie-de-garde/guelmim",
  "kind": "roster",
  "pharmacies": [
   {
-   "name": "Pharmacie Ben Tahr",
-   "address": "56 av Allal Ben Abdellah hay Al Massira II",
-   "phone": "+212528771314",
-   "lat": 28.991617,
-   "lng": -10.0595272,
+   "name": "Pharmacie Tayert",
+   "address": "av Ibnou Sina hay Tayert, Guelmim",
+   "phone": "+212528873795",
+   "lat": 28.9936,
+   "lng": -10.04421,
    "shift": "nuit",
    "shift_label": ""
   }
  ],
  "center": [
-  28.9916,
-  -10.0595
+  28.9936,
+  -10.0442
  ]
 }

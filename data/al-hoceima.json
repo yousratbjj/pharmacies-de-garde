@@ -7,17 +7,17 @@
  "kind": "roster",
  "pharmacies": [
   {
-   "name": "ANISSA",
-   "address": "Avenue 9 juillet N 28شارع 9 يوليوز رقم28",
-   "phone": "+212539984234",
-   "lat": 35.2412883,
-   "lng": -3.9304722,
+   "name": "Pharmacie Ibnou Rochd",
+   "address": "168 av Hassan II, Al Hoceima",
+   "phone": "+212539981757",
+   "lat": 35.238833,
+   "lng": -3.937483,
    "shift": "jour",
    "shift_label": ""
   }
  ],
  "center": [
-  35.2413,
-  -3.9305
+  35.2388,
+  -3.9375
  ]
 }

@@ -12,7 +12,7 @@
    "phone": "+212523800493",
    "lat": 33.2466866,
    "lng": -8.53426,
-   "shift": "",
+   "shift": "nuit",
    "shift_label": ""
   },
   {
@@ -21,84 +21,12 @@
    "phone": "+212523371099",
    "lat": 33.2440575,
    "lng": -8.4987398,
-   "shift": "",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie AlBoustane",
-   "address": "1, bd Khalil Jabrane, résid. AlBoustane 3",
-   "phone": "+212523351723",
-   "lat": 33.2249076,
-   "lng": -8.506819,
-   "shift": "",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie AlMoutanabi",
-   "address": "68, lotiss. Chams, Saâda 3",
-   "phone": "+212523394078",
-   "lat": 33.245533,
-   "lng": -8.530481,
-   "shift": "",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie Annakhil",
-   "address": "1 Bis, rue Baghdad",
-   "phone": "+212523351203",
-   "lat": 33.2436073,
-   "lng": -8.4926079,
-   "shift": "",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie Cherif",
-   "address": "570, hay Essalam",
-   "phone": "+212523371150",
-   "lat": 33.2259,
-   "lng": -8.5017333,
-   "shift": "",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie De L'Union",
-   "address": "160 bd Mohammed V",
-   "phone": "+212523343364",
-   "lat": 33.2464167,
-   "lng": -8.5001333,
-   "shift": "",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie derb ElHajjar",
-   "address": "140. DERB EL HAJJAR EN FACE DE L'ECOLE LALLA AMINA",
-   "phone": "+212523340135",
-   "lat": 33.256607,
-   "lng": -8.5083865,
-   "shift": "",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie Ennour",
-   "address": "77 Bis, bd Jamaleddine El Afghani, Lotiss. Essaâda",
-   "phone": "+212523391240",
-   "lat": 33.2422833,
-   "lng": -8.52755,
-   "shift": "",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie Ibnou Sina",
-   "address": "76, rue Ibn Sina",
-   "phone": "+212523344492",
-   "lat": 33.2590333,
-   "lng": -8.5114667,
-   "shift": "",
+   "shift": "nuit",
    "shift_label": ""
   }
  ],
  "center": [
-  33.2435,
-  -8.5112
+  33.2454,
+  -8.5165
  ]
 }

@@ -7,89 +7,17 @@
  "kind": "roster",
  "pharmacies": [
   {
-   "name": "Pharmacie Al Hikma",
-   "address": "Pharmacie Al Hikma, 170 q. Bouitat",
-   "phone": "+212537906464",
-   "lat": 34.581474,
-   "lng": -5.943569,
-   "shift": "",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie Assalam",
-   "address": "Pharmacie Assalam, 8 av. des F.a.r. lotiss. Al Massira",
-   "phone": "+212537906320",
-   "lat": 34.575207,
-   "lng": -5.964174,
-   "shift": "",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie Bouitat",
-   "address": "Pharmacie Bouitat, 7 lotiss. Bouitat",
-   "phone": "+212537438590",
-   "lat": 34.581275,
-   "lng": -5.950708,
-   "shift": "",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie du Marché",
-   "address": "Pharmacie du Marché, 58 av Caid Mansour",
-   "phone": "+212537438140",
-   "lat": 34.574281,
-   "lng": -5.952496,
-   "shift": "",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie ElKaoutar",
-   "address": "Pharmacie ElKaoutar, 19 av Moulay Driss",
-   "phone": "+212604163122",
-   "lat": 34.577787,
-   "lng": -5.949141,
-   "shift": "",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie ElKettani",
-   "address": "Pharmacie ElKettani, 56 bd Mohamed V",
-   "phone": "+212537905737",
-   "lat": 34.583355,
-   "lng": -5.954653,
-   "shift": "",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie ElMassira",
-   "address": "Pharmacie ElMassira, 2 av des F.a.r.",
-   "phone": "+212537905475",
-   "lat": 34.575833,
-   "lng": -5.962388,
-   "shift": "",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie Ezzarad",
-   "address": "Pharmacie Ezzarad, 154 lotiss. Sebou",
-   "phone": "+212660871021",
-   "lat": 34.579338,
-   "lng": -5.979953,
-   "shift": "",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie Ibnou Bassal",
-   "address": "Pharmacie Ibnou Bassal, 1 bd Tarik Bnou Ziad - Autre ville diour Jdad",
-   "phone": "+212537906094",
-   "lat": 34.57129,
-   "lng": -5.96252,
-   "shift": "",
+   "name": "Pharmacie Qods",
+   "address": "31 hay Bouitat widadiat Riad, Mechraa Bel Ksiri",
+   "phone": "+212537438365",
+   "lat": 34.581392,
+   "lng": -5.946825,
+   "shift": "jour",
    "shift_label": ""
   }
  ],
  "center": [
-  34.5778,
-  -5.9577
+  34.5814,
+  -5.9468
  ]
 }

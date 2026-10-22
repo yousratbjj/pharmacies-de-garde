@@ -1,59 +1,23 @@
 {
  "city": "oued-zem",
  "label": "Oued Zem",
- "date": "2026-10-19",
+ "date": "2026-10-21",
  "source": "sahha.ma",
  "source_url": "https://sahha.ma/pharmacie-de-garde/oued-zem",
  "kind": "roster",
  "pharmacies": [
   {
-   "name": "HASNAA",
-   "address": "lot Al Hassaniaحي الحسنية",
-   "phone": "",
-   "lat": 32.8602592,
-   "lng": -6.5557584,
-   "shift": "",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie Al Bochra",
-   "address": "Pharmacie Al Bochra",
-   "phone": "+212523411310",
-   "lat": 32.8626722,
-   "lng": -6.5681556,
-   "shift": "",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie AlFajr",
-   "address": "Pharmacie AlFajr",
-   "phone": "+212523520980",
-   "lat": 32.864901,
-   "lng": -6.571833,
-   "shift": "",
-   "shift_label": ""
-  },
-  {
-   "name": "PHARMACIE ALHASNAA",
-   "address": "Pharmacie AlHasnaa, lot. AlHassania",
-   "phone": "",
-   "lat": 32.8602592,
-   "lng": -6.5557584,
-   "shift": "",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie Al Kheir",
-   "address": "Pharmacie Al Kheir, 49 rue du Moulin",
-   "phone": "+212523521220",
-   "lat": 32.870424,
-   "lng": -6.572198,
-   "shift": "",
+   "name": "Pharmacie Populaire",
+   "address": "1 pl. Al Moukaouama - Autre ville, Oued Zem",
+   "phone": "+212523411080",
+   "lat": 32.859152,
+   "lng": -6.569846,
+   "shift": "jour",
    "shift_label": ""
   }
  ],
  "center": [
-  32.8637,
-  -6.5647
+  32.8592,
+  -6.5698
  ]
 }

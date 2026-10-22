@@ -7,6 +7,15 @@
  "kind": "roster",
  "pharmacies": [
   {
+   "name": "Pharmacie Attassamoh",
+   "address": "74 lotiss. Attassamoh, Ben Guerir",
+   "phone": "+212678474779",
+   "lat": 32.22723,
+   "lng": -7.95358,
+   "shift": "nuit",
+   "shift_label": ""
+  },
+  {
    "name": "Pharmacie Al Yassamine",
    "address": "Pharmacie Al Yassamine",
    "phone": "+212660404593",
@@ -14,19 +23,10 @@
    "lng": -7.9440173,
    "shift": "nuit",
    "shift_label": ""
-  },
-  {
-   "name": "Pharmacie Hay Nour",
-   "address": "Hay Ennour, Rue 10 N°267",
-   "phone": "+212524318236",
-   "lat": 32.2359364,
-   "lng": -7.9538378,
-   "shift": "nuit",
-   "shift_label": ""
   }
  ],
  "center": [
-  32.2385,
-  -7.9489
+  32.2342,
+  -7.9488
  ]
 }
