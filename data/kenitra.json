@@ -7,30 +7,21 @@
  "kind": "roster",
  "pharmacies": [
   {
-   "name": "ATLAS",
-   "address": "hay El Haouzia , lot J, n 1حي الحوزية، تجزئة ج، رقم 1",
-   "phone": "+212 537 353 466",
-   "lat": 34.2681918,
-   "lng": -6.6189189,
-   "shift": "nuit",
+   "name": "Pharmacie Al Hayat",
+   "address": "z.i Bir Rami lotiss. Lahraichi n°162, Kénitra",
+   "phone": "+212537377015",
+   "lat": 34.238293,
+   "lng": -6.617043,
+   "shift": "jour",
    "shift_label": ""
   },
   {
-   "name": "Pharmacie de l'Atlas",
-   "address": "hay El Haouzia lot J n°1, Kénitra",
-   "phone": "+212537353466",
-   "lat": 34.268298,
-   "lng": -6.618934,
-   "shift": "nuit",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie El Kouweiti",
-   "address": "lotiss. El Wafa Souk Sebt Saknia, Kénitra",
-   "phone": "+212537392420",
-   "lat": 34.236813,
-   "lng": -6.550886,
-   "shift": "nuit",
+   "name": "Pharmacie RHAYOUZ",
+   "address": "تجزئة القصبة رقم 2105 قرب محطة البنزين إفريقيا غاز قبالة بيم الهاتف. 45 82 38 0537",
+   "phone": "+212537388245",
+   "lat": 34.2562684,
+   "lng": -6.6758408,
+   "shift": "jour",
    "shift_label": ""
   },
   {
@@ -39,12 +30,12 @@
    "phone": "+212537388889",
    "lat": 34.2579819,
    "lng": -6.6553538,
-   "shift": "nuit",
+   "shift": "jour",
    "shift_label": ""
   }
  ],
  "center": [
-  34.2578,
-  -6.611
+  34.2508,
+  -6.6494
  ]
 }

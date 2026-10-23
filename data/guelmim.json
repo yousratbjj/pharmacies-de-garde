@@ -7,17 +7,26 @@
  "kind": "roster",
  "pharmacies": [
   {
-   "name": "Pharmacie Tayert",
-   "address": "av Ibnou Sina hay Tayert, Guelmim",
-   "phone": "+212528873795",
-   "lat": 28.9936,
-   "lng": -10.04421,
-   "shift": "nuit",
+   "name": "Pharmacie Principale",
+   "address": "108 av. des F.a.r, Guelmim",
+   "phone": "+212528873184",
+   "lat": 28.98631,
+   "lng": -10.05692,
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie Sabor",
+   "address": "157 av. Abainou, Guelmim",
+   "phone": "+212528771888",
+   "lat": 28.991983,
+   "lng": -10.05695,
+   "shift": "jour",
    "shift_label": ""
   }
  ],
  "center": [
-  28.9936,
-  -10.0442
+  28.9891,
+  -10.0569
  ]
 }

@@ -1,23 +1,41 @@
 {
  "city": "inezgane",
  "label": "Inezgane",
- "date": "2026-10-21",
+ "date": "2026-10-22",
  "source": "sahha.ma",
  "source_url": "https://sahha.ma/pharmacie-de-garde/inezgane",
  "kind": "roster",
  "pharmacies": [
   {
-   "name": "Pharmacie du Souk",
-   "address": "53 bd Mokhtar Soussi lot. Erac, Inezgane",
-   "phone": "+212528832275",
-   "lat": 30.358517,
-   "lng": -9.531317,
-   "shift": "nuit",
+   "name": "Pharmacie Ezzahra",
+   "address": "34 X bd Al Mourabitine cité des Fonctionnaires, Inezgane",
+   "phone": "+212528337507",
+   "lat": 30.354215,
+   "lng": -9.542154,
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie Ibn Sina (Avicenne)",
+   "address": "Place du Marche Derb Bouaachra Dcheira, Inezgane",
+   "phone": "+212528834552",
+   "lat": 30.369017,
+   "lng": -9.537717,
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie les Chalets 2",
+   "address": "100 cité Oued Eddahab, Inezgane",
+   "phone": "+212528331113",
+   "lat": 30.36464,
+   "lng": -9.54391,
+   "shift": "jour",
    "shift_label": ""
   }
  ],
  "center": [
-  30.3585,
-  -9.5313
+  30.3626,
+  -9.5413
  ]
 }

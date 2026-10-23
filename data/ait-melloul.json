@@ -7,26 +7,53 @@
  "kind": "roster",
  "pharmacies": [
   {
-   "name": "Pharmacie Essounni",
-   "address": "Hay ElMassira bloc C 119 Chouhada, Aït Melloul",
-   "phone": "+212528242800",
-   "lat": 30.34475,
-   "lng": -9.487183,
-   "shift": "nuit",
+   "name": "Pharmacie Admine",
+   "address": "6 Hay AlMassira bloc B, Aït Melloul",
+   "phone": "+212528248750",
+   "lat": 30.3473,
+   "lng": -9.485783,
+   "shift": "jour",
    "shift_label": ""
   },
   {
-   "name": "Pharmacie Ait Oujrar (Al Amal)",
-   "address": "181 hay Al Amal Ait Oujrar, Aït Melloul",
-   "phone": "+212528244545",
-   "lat": 30.352463,
-   "lng": -9.491514,
-   "shift": "nuit",
+   "name": "Pharmacie Amarir",
+   "address": "Agdal n°743, Aït Melloul",
+   "phone": "+212528245139",
+   "lat": 30.33555,
+   "lng": -9.501867,
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie Amlak Souss",
+   "address": "lotiss. Amlak Souss bloc 1 n°96, Aït Melloul",
+   "phone": "+212528245214",
+   "lat": 30.33485,
+   "lng": -9.508633,
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie Moderne",
+   "address": "19 av. Mohammed V, Aït Melloul",
+   "phone": "+212528249165",
+   "lat": 30.349,
+   "lng": -9.506,
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie alhouda",
+   "address": "rte Lkhmaiss koleaa, Aït Melloul",
+   "phone": "+212528310361",
+   "lat": 30.296267,
+   "lng": -9.4676,
+   "shift": "jour",
    "shift_label": ""
   }
  ],
  "center": [
-  30.3486,
-  -9.4893
+  30.3326,
+  -9.494
  ]
 }

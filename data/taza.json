@@ -7,26 +7,17 @@
  "kind": "roster",
  "pharmacies": [
   {
-   "name": "Pharmacie Chifae",
-   "address": "134 av. Mohammed V v.n, Taza",
-   "phone": "+212535281943",
-   "lat": 34.226117,
-   "lng": -4.005717,
-   "shift": "nuit",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie la Santé",
-   "address": "11 hay El Qods - Autre ville bloc 4, Taza",
-   "phone": "+212535211669",
-   "lat": 34.231263,
-   "lng": -3.983337,
+   "name": "Pharmacie Imam Malek",
+   "address": "9 X bd 11 Janvier, Taza",
+   "phone": "+212535673609",
+   "lat": 34.218917,
+   "lng": -4.014083,
    "shift": "nuit",
    "shift_label": ""
   }
  ],
  "center": [
-  34.2287,
-  -3.9945
+  34.2189,
+  -4.0141
  ]
 }

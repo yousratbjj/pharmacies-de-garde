@@ -7,17 +7,17 @@
  "kind": "roster",
  "pharmacies": [
   {
-   "name": "Pharmacie Moustaoussaf Al Halfa",
-   "address": "1376 rue Al Fallah cité Attakaddoum, Taourirt",
-   "phone": "+212536679242",
-   "lat": 34.4067,
-   "lng": -2.8966,
+   "name": "Pharmacie la Santé",
+   "address": "2 av Lycée Al Fath lotiss. El Massira, Taourirt",
+   "phone": "+212536679426",
+   "lat": 34.402568,
+   "lng": -2.888755,
    "shift": "nuit",
    "shift_label": ""
   }
  ],
  "center": [
-  34.4067,
-  -2.8966
+  34.4026,
+  -2.8888
  ]
 }

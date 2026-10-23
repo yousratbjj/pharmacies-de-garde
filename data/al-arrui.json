@@ -7,17 +7,17 @@
  "kind": "roster",
  "pharmacies": [
   {
-   "name": "Pharmacie Moulay Ismaïl",
-   "address": "64 av. My Ismaïl, Al Arrui",
-   "phone": "+212536361749",
-   "lat": 35.01005,
-   "lng": -3.000233,
-   "shift": "nuit",
+   "name": "Pharmacie AlKamal",
+   "address": "319 bd. Hassan II, Al Arrui",
+   "phone": "+212536362395",
+   "lat": 35.011233,
+   "lng": -3.0082,
+   "shift": "jour",
    "shift_label": ""
   }
  ],
  "center": [
-  35.01,
-  -3.0002
+  35.0112,
+  -3.0082
  ]
 }

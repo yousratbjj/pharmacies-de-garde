@@ -7,26 +7,26 @@
  "kind": "roster",
  "pharmacies": [
   {
-   "name": "Pharmacie Allal Ben Abdellah",
-   "address": "147 bd Allal Ben Abdallah - Autre ville, Guercif",
-   "phone": "+212535200771",
-   "lat": 34.22464,
-   "lng": -3.350548,
-   "shift": "nuit",
+   "name": "Pharmacie Guercif",
+   "address": "11 av Mly Youssef, Guercif",
+   "phone": "+212535676210",
+   "lat": 34.227383,
+   "lng": -3.348267,
+   "shift": "jour",
    "shift_label": ""
   },
   {
-   "name": "Pharmacie Guennoune",
-   "address": "av. Melouya, Guercif",
-   "phone": "+212535201803",
-   "lat": 34.23306,
-   "lng": -3.35637,
-   "shift": "nuit",
+   "name": "Pharmacie Harchat Gambir",
+   "address": "hay Al Arass, Guercif",
+   "phone": "+212535200293",
+   "lat": 34.25236,
+   "lng": -3.34633,
+   "shift": "jour",
    "shift_label": ""
   }
  ],
  "center": [
-  34.2289,
-  -3.3535
+  34.2399,
+  -3.3473
  ]
 }

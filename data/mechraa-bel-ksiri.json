@@ -7,17 +7,17 @@
  "kind": "roster",
  "pharmacies": [
   {
-   "name": "Pharmacie Qods",
-   "address": "31 hay Bouitat widadiat Riad, Mechraa Bel Ksiri",
-   "phone": "+212537438365",
-   "lat": 34.581392,
-   "lng": -5.946825,
-   "shift": "nuit",
+   "name": "Pharmacie Ezzarad",
+   "address": "154 lotiss. Sebou, Mechraa Bel Ksiri",
+   "phone": "+212660871021",
+   "lat": 34.579338,
+   "lng": -5.979953,
+   "shift": "jour",
    "shift_label": ""
   }
  ],
  "center": [
-  34.5814,
-  -5.9468
+  34.5793,
+  -5.98
  ]
 }

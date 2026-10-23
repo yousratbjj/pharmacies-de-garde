@@ -7,17 +7,17 @@
  "kind": "roster",
  "pharmacies": [
   {
-   "name": "Pharmacie du Stade Municipal",
-   "address": "64 Lotissement Al Khadra rue des Orangers, Larache",
-   "phone": "+212539501124",
-   "lat": 35.180455,
-   "lng": -6.147932,
-   "shift": "nuit",
+   "name": "Pharmacie AlMaghreb ElJadid",
+   "address": "1871 lot Al Maghreb El Jadid, Larache",
+   "phone": "+212539523874",
+   "lat": 35.1646,
+   "lng": -6.1386,
+   "shift": "jour",
    "shift_label": ""
   }
  ],
  "center": [
-  35.1805,
-  -6.1479
+  35.1646,
+  -6.1386
  ]
 }

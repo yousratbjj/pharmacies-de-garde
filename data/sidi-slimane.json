@@ -1,23 +1,23 @@
 {
  "city": "sidi-slimane",
  "label": "Sidi Slimane",
- "date": "2026-10-21",
+ "date": "2026-10-22",
  "source": "sahha.ma",
  "source_url": "https://sahha.ma/pharmacie-de-garde/sidi-slimane",
  "kind": "roster",
  "pharmacies": [
   {
-   "name": "PHARMACIE OULED EL GHAZI",
-   "address": "10, av Zerktouni , lot. Lemhamed Sidi slimane",
-   "phone": "+212537505871",
-   "lat": 34.2590735,
-   "lng": -5.9350268,
+   "name": "Pharmacie Arrahma",
+   "address": "hay Ouled El Ghazi rue 10 n°244, Sidi Slimane",
+   "phone": "+212537505768",
+   "lat": 34.259251,
+   "lng": -5.931036,
    "shift": "jour",
    "shift_label": ""
   }
  ],
  "center": [
-  34.2591,
-  -5.935
+  34.2593,
+  -5.931
  ]
 }

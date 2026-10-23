@@ -12,7 +12,7 @@
    "phone": "+212536617761",
    "lat": 34.894536,
    "lng": -2.289742,
-   "shift": "nuit",
+   "shift": "jour",
    "shift_label": ""
   },
   {
@@ -21,7 +21,7 @@
    "phone": "+212536255076",
    "lat": 34.928316,
    "lng": -2.3264,
-   "shift": "nuit",
+   "shift": "jour",
    "shift_label": ""
   },
   {
@@ -30,7 +30,7 @@
    "phone": "+212536230660",
    "lat": 34.932988,
    "lng": -2.345315,
-   "shift": "nuit",
+   "shift": "jour",
    "shift_label": ""
   }
  ],

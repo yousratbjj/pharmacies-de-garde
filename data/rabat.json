@@ -7,48 +7,57 @@
  "kind": "roster",
  "pharmacies": [
   {
-   "name": "Pharmacie Assabah",
-   "address": "cité Yacoub El Mansour résid. Assabah, Rabat",
-   "phone": "+212537790375",
-   "lat": 33.992117,
-   "lng": -6.882007,
-   "shift": "nuit",
+   "name": "Pharmacie AL HIKMA",
+   "address": "numéro 1376 Amal 5 C.Y.M",
+   "phone": "+212537293392",
+   "lat": 33.9707523,
+   "lng": -6.8907447,
+   "shift": "jour",
    "shift_label": ""
   },
   {
-   "name": "Pharmacie Ben Omar",
-   "address": "72 X avenue du Chellah -ex Abderrahmane Annegay, Rabat",
-   "phone": "+212537769930",
-   "lat": 34.015632,
-   "lng": -6.827133,
-   "shift": "nuit",
+   "name": "Pharmacie ARRAYHANE",
+   "address": "Secteur 6D1, Rue Arrayhane",
+   "phone": "+212537714676",
+   "lat": 33.9541389,
+   "lng": -6.8611944,
+   "shift": "jour",
    "shift_label": ""
   },
   {
-   "name": "Pharmacie Ibn Nafis",
-   "address": "12 rue Jazirat Al Arab, Rabat",
-   "phone": "+212537720657",
-   "lat": 34.024295,
-   "lng": -6.843979,
-   "shift": "nuit",
+   "name": "Pharmacie AVENUE D’ALGER HASSAN",
+   "address": "19 Avenue d'Alger Hassan",
+   "phone": "+212537726323",
+   "lat": 34.017392,
+   "lng": -6.825778,
+   "shift": "jour",
    "shift_label": ""
   },
   {
-   "name": "Pharmacie l'Avenir",
-   "address": "23 avenue Al Majd imm.7 hay ElFath Massira III, Rabat",
-   "phone": "+212537798871",
-   "lat": 33.99072,
-   "lng": -6.870218,
-   "shift": "nuit",
+   "name": "Pharmacie CHBANAT",
+   "address": "349 Lot Chbanat C.Y.M",
+   "phone": "+212537290998",
+   "lat": 33.9819679,
+   "lng": -6.8913975,
+   "shift": "jour",
    "shift_label": ""
   },
   {
-   "name": "Pharmacie Av. Goundafa",
-   "address": "av. Goundafa (qu. Youssoufia ouest) rue 43 n°9, Rabat",
-   "phone": "+212537752722",
-   "lat": 33.983592,
-   "lng": -6.81893,
-   "shift": "nuit",
+   "name": "Pharmacie KSAR LABHAR",
+   "address": "7,8 Bloc B maché Ksar labhar (Prés hopital My Youssef)",
+   "phone": "+212537297208",
+   "lat": 34.010906,
+   "lng": -6.864804,
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie MICHLIFEN",
+   "address": "2 Avenue Michlifen",
+   "phone": "+212537675354",
+   "lat": 33.994806,
+   "lng": -6.850667,
+   "shift": "jour",
    "shift_label": ""
   },
   {
@@ -57,7 +66,7 @@
    "phone": "+212537290867",
    "lat": 34.0223999,
    "lng": -6.8345399,
-   "shift": "nuit",
+   "shift": "jour",
    "shift_label": ""
   },
   {
@@ -66,30 +75,30 @@
    "phone": "+212537670404",
    "lat": 33.9875984,
    "lng": -6.8515,
-   "shift": "nuit",
+   "shift": "jour",
    "shift_label": ""
   },
   {
-   "name": "PHARMACIE EL KOUASS",
-   "address": "732 J5 Boulevard Al Massira Al Khadra C.Y.M",
-   "phone": "+212537794099",
-   "lat": 33.9824049,
-   "lng": -6.8809576,
-   "shift": "nuit",
+   "name": "Pharmacie Essalam",
+   "address": "Avenue Essalam (c.y.m.) G.2, Rabat",
+   "phone": "+212537691455",
+   "lat": 33.998578,
+   "lng": -6.869838,
+   "shift": "jour",
    "shift_label": ""
   },
   {
-   "name": "Pharmacie Ibn Hajar",
-   "address": "4 rue Ibn Hajjar Agdal, Rabat",
-   "phone": "+212537680687",
-   "lat": 34.008615,
-   "lng": -6.851597,
-   "shift": "nuit",
+   "name": "Pharmacie Lacustre",
+   "address": "Pharmacie Lacustre",
+   "phone": "+212537757878",
+   "lat": 33.9815821,
+   "lng": -6.8316733,
+   "shift": "jour",
    "shift_label": ""
   }
  ],
  "center": [
-  34.0008,
-  -6.8512
+  33.992,
+  -6.8572
  ]
 }

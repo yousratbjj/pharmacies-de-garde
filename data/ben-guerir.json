@@ -7,26 +7,26 @@
  "kind": "roster",
  "pharmacies": [
   {
-   "name": "Pharmacie Attassamoh",
-   "address": "74 lotiss. Attassamoh, Ben Guerir",
-   "phone": "+212678474779",
-   "lat": 32.22723,
-   "lng": -7.95358,
-   "shift": "nuit",
+   "name": "Pharmacie Al Fadl",
+   "address": "6 pl. Abdelkrim Khattabi - Autre ville, Ben Guerir",
+   "phone": "+212524323030",
+   "lat": 32.231906,
+   "lng": -7.947567,
+   "shift": "jour",
    "shift_label": ""
   },
   {
-   "name": "Pharmacie Al Yassamine",
-   "address": "Pharmacie Al Yassamine",
-   "phone": "+212660404593",
-   "lat": 32.2411544,
-   "lng": -7.9440173,
-   "shift": "nuit",
+   "name": "Pharmacie Lina",
+   "address": "Cité OCP Sec26 n° 112, Ben Guerir",
+   "phone": "+212524316608",
+   "lat": 32.21001,
+   "lng": -7.93266,
+   "shift": "jour",
    "shift_label": ""
   }
  ],
  "center": [
-  32.2342,
-  -7.9488
+  32.221,
+  -7.9401
  ]
 }

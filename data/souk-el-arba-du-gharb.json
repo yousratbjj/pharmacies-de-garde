@@ -7,17 +7,17 @@
  "kind": "roster",
  "pharmacies": [
   {
-   "name": "Pharmacie Ibn Sina",
-   "address": "6 av de la Résistance, Souk El Arba du Gharb",
-   "phone": "+212537901481",
-   "lat": 34.689512,
-   "lng": -6.00357,
-   "shift": "",
+   "name": "Pharmacie Boushaba",
+   "address": "douar Oulad Ben Sbaa Rte Bouhzatate, Souk El Arba du Gharb",
+   "phone": "+212537903108",
+   "lat": 34.686366,
+   "lng": -5.981962,
+   "shift": "jour",
    "shift_label": ""
   }
  ],
  "center": [
-  34.6895,
-  -6.0036
+  34.6864,
+  -5.982
  ]
 }

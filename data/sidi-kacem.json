@@ -7,17 +7,17 @@
  "kind": "roster",
  "pharmacies": [
   {
-   "name": "Pharmacie Afca",
-   "address": "511 hay Al Qods, Sidi Kacem",
-   "phone": "+212537595895",
-   "lat": 34.226964,
-   "lng": -5.719383,
-   "shift": "nuit",
+   "name": "Pharmacie Oued Eddahab",
+   "address": "41 av. Allal Ben Abdellah, Sidi Kacem",
+   "phone": "+212537590294",
+   "lat": 34.226846,
+   "lng": -5.710364,
+   "shift": "jour",
    "shift_label": ""
   }
  ],
  "center": [
-  34.227,
-  -5.7194
+  34.2268,
+  -5.7104
  ]
 }

@@ -7,17 +7,26 @@
  "kind": "roster",
  "pharmacies": [
   {
-   "name": "Pharmacie l'hôpital",
-   "address": "78 bd Mohammed VI, Ouarzazate",
-   "phone": "+212524885500",
-   "lat": 30.9249,
-   "lng": -6.914317,
-   "shift": "nuit",
+   "name": "Pharmacie Al Moussala",
+   "address": "550 hay Al Wahda, Ouarzazate",
+   "phone": "+212524885533",
+   "lat": 30.929183,
+   "lng": -6.905283,
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie Dadouch",
+   "address": "hay Mohammadi n°329, Ouarzazate",
+   "phone": "+212524887852",
+   "lat": 30.93389,
+   "lng": -6.923428,
+   "shift": "jour",
    "shift_label": ""
   }
  ],
  "center": [
-  30.9249,
-  -6.9143
+  30.9315,
+  -6.9144
  ]
 }

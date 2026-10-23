@@ -7,17 +7,17 @@
  "kind": "roster",
  "pharmacies": [
   {
-   "name": "Pharmacie Andalouss",
-   "address": "hay Andalouss grp. A rue 15 n°58, Ksar El Kébir",
-   "phone": "+212539906542",
-   "lat": 34.9984,
-   "lng": -5.911133,
-   "shift": "nuit",
+   "name": "Pharmacie Sidi Biyati",
+   "address": "route Sidi El Biyati grp Z n°75, Ksar El Kébir",
+   "phone": "+212539905045",
+   "lat": 34.998341,
+   "lng": -5.89404,
+   "shift": "jour",
    "shift_label": ""
   }
  ],
  "center": [
-  34.9984,
-  -5.9111
+  34.9983,
+  -5.894
  ]
 }

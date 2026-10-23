@@ -7,12 +7,12 @@
  "kind": "roster",
  "pharmacies": [
   {
-   "name": "Pharmacie AlHanane",
-   "address": "18 rue Abda résid. Idriss II Bettana, Salé",
-   "phone": "+212537801585",
-   "lat": 34.031466,
-   "lng": -6.799557,
-   "shift": "nuit",
+   "name": "Pharmacie AL HIKMA",
+   "address": "شارع مولاي عبد القادر رقم 29 بلاد السحيمي قرب سوق الشيشان و الملحقة الادارية السهلي",
+   "phone": "+212537813287",
+   "lat": 34.053056,
+   "lng": -6.77525,
+   "shift": "jour",
    "shift_label": ""
   },
   {
@@ -21,7 +21,61 @@
    "phone": "+212537854243",
    "lat": 34.044899,
    "lng": -6.8140202,
-   "shift": "nuit",
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie BETTANA",
+   "address": "1, Avenue Wattassiyine Bettana",
+   "phone": "+212537800556",
+   "lat": 34.029528,
+   "lng": -6.804,
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie DU MYRTE",
+   "address": "Mag N° 6 Imm N° 6 Résidence Rouihiyene Al Omrane (Prés Mosquée Mohamed VI et Piscine Sala Al Jadida)",
+   "phone": "+212537535117",
+   "lat": 34.0016237,
+   "lng": -6.734896,
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie HAJJI",
+   "address": "46,Rue El Haddadine (Houatine)",
+   "phone": "+212537780930",
+   "lat": 34.039477,
+   "lng": -6.823212,
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie L'OPERA",
+   "address": "Res. Essania II N°1 (Derrière Cinéma L'Opera et prés de l'institut El Yakada)",
+   "phone": "+212537864800",
+   "lat": 34.045917,
+   "lng": -6.809861,
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie PARC ADDOHA",
+   "address": "صيدلية حديقة الضحى شارع القاعدة الجوية مشروع الضحى الحديقة عمارة 75 متجر 1 لعيايدة",
+   "phone": "+212537887373",
+   "lat": 34.0631875,
+   "lng": -6.7637031,
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
+   "name": "PHARMACIE AL HANANE",
+   "address": "imm 2 résidence idriss ii bettana",
+   "phone": "+212537801585",
+   "lat": 34.0275766,
+   "lng": -6.7648426,
+   "shift": "jour",
    "shift_label": ""
   },
   {
@@ -30,7 +84,7 @@
    "phone": "+212537533359",
    "lat": 33.9879668,
    "lng": -6.7343864,
-   "shift": "nuit",
+   "shift": "jour",
    "shift_label": ""
   },
   {
@@ -39,30 +93,12 @@
    "phone": "+212537851291",
    "lat": 34.048433,
    "lng": -6.805617,
-   "shift": "nuit",
-   "shift_label": ""
-  },
-  {
-   "name": "PHARMACIE DOCTEUR HILAL",
-   "address": "av. ismailia assoualem, hay alamal 2, n°486, ( à côté de résidences bayt almostakbal 2 lotissement sidi abdellah) laayayda 11050 -",
-   "phone": "+212530135075",
-   "lat": 33.9945795,
-   "lng": -6.7305856,
-   "shift": "nuit",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie Koutoubia",
-   "address": "41 rte de Mehdia lotiss. Koutoubia II n°1, Salé",
-   "phone": "+212537784633",
-   "lat": 34.062873,
-   "lng": -6.807902,
-   "shift": "nuit",
+   "shift": "jour",
    "shift_label": ""
   }
  ],
  "center": [
-  34.0284,
-  -6.782
+  34.0342,
+  -6.783
  ]
 }

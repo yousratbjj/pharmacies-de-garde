@@ -7,17 +7,17 @@
  "kind": "roster",
  "pharmacies": [
   {
-   "name": "Pharmacie ElMachichi",
-   "address": "bd. El Machichi, Chefchaouen",
-   "phone": "+212539987149",
-   "lat": 35.170383,
-   "lng": -5.2687,
-   "shift": "nuit",
+   "name": "Pharmacie Oumouma",
+   "address": "bd Al Maghrib Al Arabi, Chefchaouen",
+   "phone": "+212539883111",
+   "lat": 35.166649,
+   "lng": -5.273293,
+   "shift": "jour",
    "shift_label": ""
   }
  ],
  "center": [
-  35.1704,
-  -5.2687
+  35.1666,
+  -5.2733
  ]
 }

@@ -7,17 +7,26 @@
  "kind": "roster",
  "pharmacies": [
   {
-   "name": "Pharmacie Avenue Trente",
-   "address": "lotiss. Goughrabou Afrag 38, Tiznit",
-   "phone": "+212528864433",
-   "lat": 29.687548,
-   "lng": -9.729171,
-   "shift": "nuit",
+   "name": "Pharmacie de Tiznit",
+   "address": "126 rue Hamam, Tiznit",
+   "phone": "+212528862302",
+   "lat": 29.697433,
+   "lng": -9.73065,
+   "shift": "",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie Erac",
+   "address": "hay Erac bloc I n°5, Tiznit",
+   "phone": "+212528600346",
+   "lat": 29.696183,
+   "lng": -9.74235,
+   "shift": "",
    "shift_label": ""
   }
  ],
  "center": [
-  29.6875,
-  -9.7292
+  29.6968,
+  -9.7365
  ]
 }

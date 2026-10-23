@@ -7,17 +7,17 @@
  "kind": "roster",
  "pharmacies": [
   {
-   "name": "Pharmacie Nia",
-   "address": "bd Al Wahda - Autre ville q. Imachroubane, Zghanghan",
-   "phone": "+212536352475",
-   "lat": 35.165936,
-   "lng": -2.657074,
+   "name": "Pharmacie Anoual",
+   "address": "Av. Mohamed V, Zghanghan",
+   "phone": "+212536352900",
+   "lat": 35.177267,
+   "lng": -2.9303,
    "shift": "nuit",
    "shift_label": ""
   }
  ],
  "center": [
-  35.1659,
-  -2.6571
+  35.1773,
+  -2.9303
  ]
 }

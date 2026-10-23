@@ -7,17 +7,17 @@
  "kind": "roster",
  "pharmacies": [
   {
-   "name": "Pharmacie Ibnou Rochd",
-   "address": "168 av Hassan II, Al Hoceima",
-   "phone": "+212539981757",
-   "lat": 35.238833,
-   "lng": -3.937483,
-   "shift": "nuit",
+   "name": "Pharmacie Abdelkerim El Khattabi",
+   "address": "61 av Bir Anzarane, Al Hoceima",
+   "phone": "+212539982270",
+   "lat": 35.244433,
+   "lng": -3.918783,
+   "shift": "jour",
    "shift_label": ""
   }
  ],
  "center": [
-  35.2388,
-  -3.9375
+  35.2444,
+  -3.9188
  ]
 }

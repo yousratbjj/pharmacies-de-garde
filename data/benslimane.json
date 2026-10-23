@@ -97,20 +97,20 @@
    "shift_label": "Pharmacies de jour"
   },
   {
-   "name": "Pharmacie Mly Youssef",
-   "address": "Pharmacie Mly Youssef BENSLIMANE Ben Slimane Ben Slimane Benslimane",
-   "phone": "+212 523 29 23 03",
-   "lat": 33.6179938,
-   "lng": -7.1253965,
-   "shift": "24h",
-   "shift_label": "Pharmacies 24h/24"
-  },
-  {
    "name": "Pharmacie Jorio",
    "address": "Pharmacie Jorio BENSLIMANE Ben Slimane Ben Slimane Benslimane",
    "phone": "+212 523 29 74 72",
    "lat": 33.6278567,
    "lng": -7.1325229,
+   "shift": "24h",
+   "shift_label": "Pharmacies 24h/24"
+  },
+  {
+   "name": "Pharmacie Mly Youssef",
+   "address": "Pharmacie Mly Youssef BENSLIMANE Ben Slimane Ben Slimane Benslimane",
+   "phone": "+212 523 29 23 03",
+   "lat": 33.6179938,
+   "lng": -7.1253965,
    "shift": "24h",
    "shift_label": "Pharmacies 24h/24"
   }
