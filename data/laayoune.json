@@ -1,7 +1,7 @@
 {
  "city": "laayoune",
  "label": "Laâyoune",
- "date": "2026-10-22",
+ "date": "2026-10-23",
  "source": "sahha.ma",
  "source_url": "https://sahha.ma/pharmacie-de-garde/laayoune",
  "kind": "roster",
@@ -12,7 +12,7 @@
    "phone": "+212528890846",
    "lat": 27.157653,
    "lng": -13.199514,
-   "shift": "jour",
+   "shift": "nuit",
    "shift_label": ""
   },
   {
@@ -21,7 +21,7 @@
    "phone": "+212528985485",
    "lat": 27.13502,
    "lng": -13.163491,
-   "shift": "jour",
+   "shift": "nuit",
    "shift_label": ""
   },
   {
@@ -30,7 +30,7 @@
    "phone": "+212528893833",
    "lat": 27.135462,
    "lng": -13.19871,
-   "shift": "jour",
+   "shift": "nuit",
    "shift_label": ""
   }
  ],

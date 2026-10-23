@@ -1,35 +1,71 @@
 {
  "city": "taounate",
  "label": "Taounate",
- "date": "2026-10-22",
+ "date": "2026-10-23",
  "source": "med.ma",
  "source_url": "https://www.med.ma/pharmacy/day-time/taounate",
  "kind": "directory",
  "pharmacies": [
   {
-   "name": "Pharmacie Habitat",
-   "address": "114 bd Hassan 1ér Sette Massouda Séfrou Ahermoumou Sefrou",
-   "phone": "+212 535 96 92 42",
+   "name": "Pharmacie Assalam",
+   "address": "887 av. Mohamed Yakhlaf Ben Seffar Sefrou Ahermoumou Sefrou",
+   "phone": "+212 533 74 07 20",
+   "lat": 33.8297101,
+   "lng": -4.8287953,
+   "shift": "nuit",
+   "shift_label": "Pharmacies de nuit"
+  },
+  {
+   "name": "Pharmacie Sidi Lahcen Lyoussi",
+   "address": "281 derb El Miter Sefrou Ahermoumou Sefrou",
+   "phone": "+212 535 66 04 29",
    "lat": 33.827836,
    "lng": -4.833416,
    "shift": "nuit",
    "shift_label": "Pharmacies de nuit"
   },
   {
-   "name": "Pharmacie Zahrat Al Jabal",
-   "address": "1 Massay q.i. SEFROU Ahermoumou Sefrou",
-   "phone": "+212 535 96 97 84",
-   "lat": 33.8176654,
-   "lng": -4.8290643,
-   "shift": "nuit",
-   "shift_label": "Pharmacies de nuit"
+   "name": "Pharmacie Al Kobba",
+   "address": "rue 2 jnane hjij, ain nakbi proche de l'ancien dar dbegh Fes Oued Amlil Oued Amlil Fes",
+   "phone": "+212 535 66 91 59",
+   "lat": 34.0644215,
+   "lng": -4.9528205,
+   "shift": "24h",
+   "shift_label": "Pharmacies 24h/24"
   },
   {
-   "name": "Pharmacie Bouslama",
-   "address": "pharmacie bouslama, 17 lotissement almousfir route imouzer Fes Fes",
-   "phone": "+212 535 60 81 06",
-   "lat": 34.000820852124,
-   "lng": -4.9953007698059,
+   "name": "Pharmacie De L'hôpital Universitaire",
+   "address": "hay al amal bd madina monaouara Fes Ville Nouvelle ville nouvelle Fes",
+   "phone": "+212 532 11 08 16",
+   "lat": 34.0105073,
+   "lng": -4.9658554,
+   "shift": "24h",
+   "shift_label": "Pharmacies 24h/24"
+  },
+  {
+   "name": "Pharmacie Siberia",
+   "address": "douar Khrabcha Fès - Maroc Ville Nouvelle ville nouvelle Fes",
+   "phone": "+212 655 17 36 77",
+   "lat": 34.0181246,
+   "lng": -5.0078451,
+   "shift": "24h",
+   "shift_label": "Pharmacies 24h/24"
+  },
+  {
+   "name": "Pharmacie Masjid Arreda",
+   "address": "route imouzzar. lotissement arrida. derriere mosquée arrida Fes Fes",
+   "phone": "+212 532 03 45 26",
+   "lat": 34.0024527,
+   "lng": -4.9985708,
+   "shift": "24h",
+   "shift_label": "Pharmacies 24h/24"
+  },
+  {
+   "name": "Pharmacie Habitat",
+   "address": "114 bd Hassan 1ér Sette Massouda Séfrou Ahermoumou Sefrou",
+   "phone": "+212 535 96 92 42",
+   "lat": 33.827836,
+   "lng": -4.833416,
    "shift": "24h",
    "shift_label": "Pharmacies 24h/24"
   },
@@ -43,15 +79,6 @@
    "shift_label": "Pharmacies 24h/24"
   },
   {
-   "name": "Pharmacie la Famille",
-   "address": "lotissement Bir Anzarane Ben Seffar n°19 Séfrou Ahermoumou Sefrou",
-   "phone": "+212 535 66 22 64",
-   "lat": 33.8253851,
-   "lng": -4.8219393,
-   "shift": "24h",
-   "shift_label": "Pharmacies 24h/24"
-  },
-  {
    "name": "Pharmacie Avicenne",
    "address": "bd Amir Abdelkader Sefrou Ahermoumou Sefrou",
    "phone": "+212 535 66 05 62",
@@ -59,10 +86,19 @@
    "lng": -4.8219393,
    "shift": "24h",
    "shift_label": "Pharmacies 24h/24"
+  },
+  {
+   "name": "Pharmacie la Famille",
+   "address": "lotissement Bir Anzarane Ben Seffar n°19 Séfrou Ahermoumou Sefrou",
+   "phone": "+212 535 66 22 64",
+   "lat": 33.8253851,
+   "lng": -4.8219393,
+   "shift": "24h",
+   "shift_label": "Pharmacies 24h/24"
   }
  ],
  "center": [
-  33.8538,
-  -4.8539
+  33.9057,
+  -4.8886
  ]
 }

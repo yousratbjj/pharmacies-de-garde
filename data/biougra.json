@@ -1,7 +1,7 @@
 {
  "city": "biougra",
  "label": "Biougra",
- "date": "2026-10-22",
+ "date": "2026-10-23",
  "source": "sahha.ma",
  "source_url": "https://sahha.ma/pharmacie-de-garde/biougra",
  "kind": "roster",
@@ -12,7 +12,7 @@
    "phone": "+212528818318",
    "lat": 30.215408,
    "lng": -9.363742,
-   "shift": "jour",
+   "shift": "nuit",
    "shift_label": ""
   },
   {
@@ -21,7 +21,7 @@
    "phone": "+212528810505",
    "lat": 30.22075,
    "lng": -9.371133,
-   "shift": "jour",
+   "shift": "nuit",
    "shift_label": ""
   }
  ],

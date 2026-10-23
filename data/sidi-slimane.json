@@ -1,7 +1,7 @@
 {
  "city": "sidi-slimane",
  "label": "Sidi Slimane",
- "date": "2026-10-22",
+ "date": "2026-10-23",
  "source": "sahha.ma",
  "source_url": "https://sahha.ma/pharmacie-de-garde/sidi-slimane",
  "kind": "roster",
@@ -12,7 +12,7 @@
    "phone": "+212537505768",
    "lat": 34.259251,
    "lng": -5.931036,
-   "shift": "jour",
+   "shift": "nuit",
    "shift_label": ""
   }
  ],

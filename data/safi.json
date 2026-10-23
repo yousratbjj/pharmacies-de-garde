@@ -1,7 +1,7 @@
 {
  "city": "safi",
  "label": "Safi",
- "date": "2026-10-22",
+ "date": "2026-10-23",
  "source": "sahha.ma",
  "source_url": "https://sahha.ma/pharmacie-de-garde/safi",
  "kind": "roster",
@@ -12,7 +12,7 @@
    "phone": "+212524651801",
    "lat": 32.2664715,
    "lng": -9.2464395,
-   "shift": "jour",
+   "shift": "",
    "shift_label": ""
   },
   {
@@ -21,7 +21,7 @@
    "phone": "+212524650367",
    "lat": 32.2644295,
    "lng": -9.23983,
-   "shift": "jour",
+   "shift": "",
    "shift_label": ""
   },
   {
@@ -30,7 +30,7 @@
    "phone": "+212524630608",
    "lat": 32.3072904,
    "lng": -9.2378754,
-   "shift": "jour",
+   "shift": "",
    "shift_label": ""
   },
   {
@@ -39,7 +39,7 @@
    "phone": "+212524621038",
    "lat": 32.2980725,
    "lng": -9.2070955,
-   "shift": "jour",
+   "shift": "",
    "shift_label": ""
   },
   {
@@ -48,7 +48,7 @@
    "phone": "+212524651082",
    "lat": 32.2691833,
    "lng": -9.2438667,
-   "shift": "jour",
+   "shift": "",
    "shift_label": ""
   },
   {
@@ -57,7 +57,7 @@
    "phone": "+212524612407",
    "lat": 32.3070058,
    "lng": -9.213203,
-   "shift": "jour",
+   "shift": "",
    "shift_label": ""
   },
   {
@@ -66,7 +66,7 @@
    "phone": "+212540041233",
    "lat": 32.259593,
    "lng": -9.246632,
-   "shift": "jour",
+   "shift": "",
    "shift_label": ""
   },
   {
@@ -75,7 +75,7 @@
    "phone": "+212524622379",
    "lat": 32.2936333,
    "lng": -9.2351833,
-   "shift": "jour",
+   "shift": "",
    "shift_label": ""
   },
   {
@@ -84,7 +84,7 @@
    "phone": "+212524668429",
    "lat": 32.3129859,
    "lng": -9.2240204,
-   "shift": "jour",
+   "shift": "",
    "shift_label": ""
   }
  ],

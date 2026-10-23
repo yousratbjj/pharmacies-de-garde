@@ -1,11 +1,20 @@
 {
  "city": "ifrane",
  "label": "Ifrane",
- "date": "2026-10-22",
+ "date": "2026-10-23",
  "source": "med.ma",
  "source_url": "https://www.med.ma/pharmacy/day-time/ifrane",
  "kind": "directory",
  "pharmacies": [
+  {
+   "name": "Pharmacie du Myrte",
+   "address": "mag n° 6 imm n° 6 résidence rouihiyene Sale Sidi Allal El Bahraoui Sale",
+   "phone": "+212 537 53 75 63",
+   "lat": 34.0019101,
+   "lng": -6.7348982,
+   "shift": "jour",
+   "shift_label": "Pharmacies de jour"
+  },
   {
    "name": "Pharmacie Bassatine El Menzeh",
    "address": "N°6, bloc 10, Bassatine El Menzeh - El Menzeh Harhoura Harhoura Rabat",
@@ -16,44 +25,44 @@
    "shift_label": "Pharmacies de jour"
   },
   {
-   "name": "Pharmacie Ben Omar",
-   "address": "72 bis av du chellah - hassan Rabat Harhoura Harhoura Rabat",
-   "phone": "+212 537 76 99 30",
-   "lat": 34.0154464,
-   "lng": -6.8271746,
+   "name": "Pharmacie Al Hikma",
+   "address": "1376, quartier Amal 5, Al Massira Rabat Harhoura Harhoura Rabat",
+   "phone": "+212 537 29 33 92",
+   "lat": 34.019122,
+   "lng": -6.8328093,
    "shift": "jour",
    "shift_label": "Pharmacies de jour"
   },
   {
-   "name": "Pharmacie du quartier",
-   "address": "1457 Av. Tarik Ibn Ziad, Témara Harhoura Harhoura Temara",
-   "phone": "+212 537 60 07 79",
-   "lat": 33.923251766455,
-   "lng": -6.8978499285831,
+   "name": "Pharmacie Ksar Labhar",
+   "address": "7,8 bloc b maché ksar labhar (prés hopital my youssef) Rabat Harhoura Harhoura Rabat",
+   "phone": "+212 537 29 72 08",
+   "lat": 34.01019,
+   "lng": -6.8634934,
    "shift": "jour",
    "shift_label": "Pharmacies de jour"
   },
   {
-   "name": "Pharmacie l'Avenir",
-   "address": "23, m3 av el majd hay el fath c.y.m - Rabat Harhoura Harhoura Rabat",
-   "phone": "+212 537 79 88 71",
-   "lat": 33.9711888,
-   "lng": -6.8860168,
+   "name": "Pharmacie Essalam",
+   "address": "Avenue Essalam (c.y.m.), G.2 Rabat Harhoura Harhoura Rabat",
+   "phone": "+212 537 69 14 55",
+   "lat": 33.9985454,
+   "lng": -6.8698991,
    "shift": "jour",
    "shift_label": "Pharmacies de jour"
   },
   {
-   "name": "Pharmacie Assabah",
-   "address": "residence assabah ilot 7 c3 c.y.m - Rabat Harhoura Harhoura Rabat",
-   "phone": "+212 537 79 03 75",
-   "lat": 33.9925698,
-   "lng": -6.8818687,
+   "name": "Pharmacie Moulay Idriss",
+   "address": "lot 103 sect.1 , Massira I Temara Harhoura Harhoura Temara",
+   "phone": "+212 537 60 22 70",
+   "lat": 33.9325161,
+   "lng": -6.8983713,
    "shift": "jour",
    "shift_label": "Pharmacies de jour"
   }
  ],
  "center": [
-  33.9519,
-  -6.8693
+  33.9699,
+  -6.8422
  ]
 }

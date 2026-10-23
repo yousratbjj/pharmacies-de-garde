@@ -1,7 +1,7 @@
 {
  "city": "boujad",
  "label": "Boujad",
- "date": "2026-10-22",
+ "date": "2026-10-23",
  "source": "sahha.ma",
  "source_url": "https://sahha.ma/pharmacie-de-garde/boujad",
  "kind": "roster",
@@ -12,7 +12,7 @@
    "phone": "+212523414141",
    "lat": 32.770864,
    "lng": -6.384475,
-   "shift": "jour",
+   "shift": "nuit",
    "shift_label": ""
   }
  ],

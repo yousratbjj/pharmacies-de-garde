@@ -1,7 +1,7 @@
 {
  "city": "ait-melloul",
  "label": "Aït Melloul",
- "date": "2026-10-22",
+ "date": "2026-10-23",
  "source": "sahha.ma",
  "source_url": "https://sahha.ma/pharmacie-de-garde/ait-melloul",
  "kind": "roster",
@@ -12,7 +12,7 @@
    "phone": "+212528248750",
    "lat": 30.3473,
    "lng": -9.485783,
-   "shift": "jour",
+   "shift": "",
    "shift_label": ""
   },
   {
@@ -21,7 +21,7 @@
    "phone": "+212528245139",
    "lat": 30.33555,
    "lng": -9.501867,
-   "shift": "jour",
+   "shift": "",
    "shift_label": ""
   },
   {
@@ -30,7 +30,7 @@
    "phone": "+212528245214",
    "lat": 30.33485,
    "lng": -9.508633,
-   "shift": "jour",
+   "shift": "",
    "shift_label": ""
   },
   {
@@ -39,7 +39,7 @@
    "phone": "+212528249165",
    "lat": 30.349,
    "lng": -9.506,
-   "shift": "jour",
+   "shift": "",
    "shift_label": ""
   },
   {
@@ -48,7 +48,7 @@
    "phone": "+212528310361",
    "lat": 30.296267,
    "lng": -9.4676,
-   "shift": "jour",
+   "shift": "",
    "shift_label": ""
   }
  ],

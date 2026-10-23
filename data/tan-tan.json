@@ -1,7 +1,7 @@
 {
  "city": "tan-tan",
  "label": "Tan-Tan",
- "date": "2026-10-22",
+ "date": "2026-10-23",
  "source": "med.ma",
  "source_url": "https://www.med.ma/pharmacy/day-time/tan-tan",
  "kind": "directory",
@@ -57,15 +57,6 @@
    "phone": "+212 528 33 18 88",
    "lat": 30.369002,
    "lng": -9.5375093,
-   "shift": "jour",
-   "shift_label": "Pharmacies de jour"
-  },
-  {
-   "name": "Pharmacie Admine",
-   "address": "6, Hay AlMassira , bloc B Ait melloul El Guerdan Agadir",
-   "phone": "+212 528 24 87 50",
-   "lat": 30.347189,
-   "lng": -9.4855272,
    "shift": "jour",
    "shift_label": "Pharmacies de jour"
   },
@@ -143,7 +134,7 @@
   }
  ],
  "center": [
-  30.338,
-  -9.502
+  30.3373,
+  -9.5031
  ]
 }

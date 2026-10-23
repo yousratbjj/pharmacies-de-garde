@@ -1,7 +1,7 @@
 {
  "city": "essaouira",
  "label": "Essaouira",
- "date": "2026-10-22",
+ "date": "2026-10-23",
  "source": "med.ma",
  "source_url": "https://www.med.ma/pharmacy/day-time/essaouirra",
  "kind": "directory",
@@ -88,18 +88,18 @@
    "shift_label": "Pharmacies 24h/24"
   },
   {
-   "name": "Pharmacie Al Oulya",
-   "address": "7 hay taddart - secteur a lot 5 anza Agadir Agadir",
-   "phone": "+212 528 20 52 36",
+   "name": "Pharmacie de la Poste",
+   "address": "bd moukaouama en face du jardin lala meryem Agadir Agadir",
+   "phone": "+212 528 84 23 15",
    "lat": 30.4277547,
    "lng": -9.5981072,
    "shift": "24h",
    "shift_label": "Pharmacies 24h/24"
   },
   {
-   "name": "Pharmacie de la Poste",
-   "address": "bd moukaouama en face du jardin lala meryem Agadir Agadir",
-   "phone": "+212 528 84 23 15",
+   "name": "Pharmacie Al Oulya",
+   "address": "7 hay taddart - secteur a lot 5 anza Agadir Agadir",
+   "phone": "+212 528 20 52 36",
    "lat": 30.4277547,
    "lng": -9.5981072,
    "shift": "24h",

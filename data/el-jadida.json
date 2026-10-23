@@ -1,7 +1,7 @@
 {
  "city": "el-jadida",
  "label": "El Jadida",
- "date": "2026-10-22",
+ "date": "2026-10-23",
  "source": "sahha.ma",
  "source_url": "https://sahha.ma/pharmacie-de-garde/el-jadida",
  "kind": "roster",
@@ -12,7 +12,7 @@
    "phone": "+212523374920",
    "lat": 33.230838,
    "lng": -8.527671,
-   "shift": "jour",
+   "shift": "",
    "shift_label": ""
   },
   {
@@ -21,7 +21,7 @@
    "phone": "+212523343928",
    "lat": 33.2316326,
    "lng": -8.5007116,
-   "shift": "jour",
+   "shift": "",
    "shift_label": ""
   },
   {
@@ -30,7 +30,7 @@
    "phone": "+212523800493",
    "lat": 33.2466866,
    "lng": -8.53426,
-   "shift": "jour",
+   "shift": "",
    "shift_label": ""
   },
   {
@@ -39,7 +39,7 @@
    "phone": "+212523340900",
    "lat": 33.218832,
    "lng": -8.4919657,
-   "shift": "jour",
+   "shift": "",
    "shift_label": ""
   },
   {
@@ -48,7 +48,7 @@
    "phone": "+212523371099",
    "lat": 33.2440575,
    "lng": -8.4987398,
-   "shift": "jour",
+   "shift": "",
    "shift_label": ""
   },
   {
@@ -57,7 +57,7 @@
    "phone": "+212523355653",
    "lat": 33.2375,
    "lng": -8.49145,
-   "shift": "jour",
+   "shift": "",
    "shift_label": ""
   },
   {
@@ -66,7 +66,7 @@
    "phone": "+212523392279",
    "lat": 33.229406,
    "lng": -8.512636,
-   "shift": "jour",
+   "shift": "",
    "shift_label": ""
   },
   {
@@ -75,7 +75,7 @@
    "phone": "+212523392487",
    "lat": 33.2378167,
    "lng": -8.5312333,
-   "shift": "jour",
+   "shift": "",
    "shift_label": ""
   },
   {
@@ -84,7 +84,7 @@
    "phone": "+212523393333",
    "lat": 33.2549833,
    "lng": -8.5173833,
-   "shift": "jour",
+   "shift": "",
    "shift_label": ""
   },
   {
@@ -93,7 +93,7 @@
    "phone": "+212523355745",
    "lat": 33.2355511,
    "lng": -8.4791019,
-   "shift": "jour",
+   "shift": "",
    "shift_label": ""
   }
  ],

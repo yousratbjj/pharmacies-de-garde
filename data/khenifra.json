@@ -1,7 +1,7 @@
 {
  "city": "khenifra",
  "label": "Khénifra",
- "date": "2026-10-22",
+ "date": "2026-10-23",
  "source": "sahha.ma",
  "source_url": "https://sahha.ma/pharmacie-de-garde/khenifra",
  "kind": "roster",
@@ -12,7 +12,7 @@
    "phone": "+212535586395",
    "lat": 32.934633,
    "lng": -5.668083,
-   "shift": "jour",
+   "shift": "nuit",
    "shift_label": ""
   },
   {
@@ -21,7 +21,7 @@
    "phone": "+212535586506",
    "lat": 32.936222,
    "lng": -5.673764,
-   "shift": "jour",
+   "shift": "nuit",
    "shift_label": ""
   },
   {
@@ -30,7 +30,7 @@
    "phone": "",
    "lat": 32.9382728,
    "lng": -5.6746518,
-   "shift": "jour",
+   "shift": "",
    "shift_label": ""
   }
  ],

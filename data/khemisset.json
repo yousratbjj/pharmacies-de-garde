@@ -1,7 +1,7 @@
 {
  "city": "khemisset",
  "label": "Khémisset",
- "date": "2026-10-22",
+ "date": "2026-10-23",
  "source": "sahha.ma",
  "source_url": "https://sahha.ma/pharmacie-de-garde/khemisset",
  "kind": "roster",
@@ -12,7 +12,7 @@
    "phone": "+212537551952",
    "lat": 33.822448,
    "lng": -6.084573,
-   "shift": "jour",
+   "shift": "nuit",
    "shift_label": ""
   }
  ],
