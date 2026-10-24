@@ -1,7 +1,7 @@
 {
  "city": "nador",
  "label": "Nador",
- "date": "2026-10-23",
+ "date": "2026-10-24",
  "source": "sahha.ma",
  "source_url": "https://sahha.ma/pharmacie-de-garde/nador",
  "kind": "roster",
@@ -12,7 +12,7 @@
    "phone": "+212536351995",
    "lat": 35.174677,
    "lng": -2.923315,
-   "shift": "jour",
+   "shift": "nuit",
    "shift_label": ""
   },
   {
@@ -21,7 +21,7 @@
    "phone": "+212536604408",
    "lat": 35.1751,
    "lng": -2.922383,
-   "shift": "jour",
+   "shift": "nuit",
    "shift_label": ""
   },
   {
@@ -30,7 +30,7 @@
    "phone": "+212536337171",
    "lat": 35.162182,
    "lng": -2.964737,
-   "shift": "jour",
+   "shift": "nuit",
    "shift_label": ""
   },
   {
@@ -39,7 +39,7 @@
    "phone": "+212536380933",
    "lat": 35.131367,
    "lng": -2.926915,
-   "shift": "jour",
+   "shift": "nuit",
    "shift_label": ""
   }
  ],

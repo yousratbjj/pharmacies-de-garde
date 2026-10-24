@@ -1,7 +1,7 @@
 {
  "city": "azilal",
  "label": "Azilal",
- "date": "2026-10-23",
+ "date": "2026-10-24",
  "source": "med.ma",
  "source_url": "https://www.med.ma/pharmacy/day-time/azilal",
  "kind": "directory",
@@ -104,19 +104,10 @@
    "lng": -8.0,
    "shift": "nuit",
    "shift_label": "Pharmacies de nuit"
-  },
-  {
-   "name": "Pharmacie Les Jardins De Majorelle (ex. Zahia)",
-   "address": "Bd. My Abdellah (Ex.Safi) derrière Jardins de Majorelle, près du Musée Yves Saint Laurent et en face Club Justice Marrakech Kettara Kettara Marrakech",
-   "phone": "+212 524 30 12 11",
-   "lat": 31.6416541,
-   "lng": -8.0049777,
-   "shift": "nuit",
-   "shift_label": "Pharmacies de nuit"
   }
  ],
  "center": [
-  31.635,
-  -7.9755
+  31.6344,
+  -7.9728
  ]
 }

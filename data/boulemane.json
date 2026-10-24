@@ -1,26 +1,26 @@
 {
  "city": "boulemane",
  "label": "Boulemane",
- "date": "2026-10-23",
+ "date": "2026-10-24",
  "source": "med.ma",
  "source_url": "https://www.med.ma/pharmacy/day-time/boulemane",
  "kind": "directory",
  "pharmacies": [
   {
-   "name": "Pharmacie Sidi Lahcen Lyoussi",
-   "address": "281 derb El Miter Sefrou Ahermoumou Sefrou",
-   "phone": "+212 535 66 04 29",
-   "lat": 33.827836,
-   "lng": -4.833416,
+   "name": "Pharmacie la Province",
+   "address": "q. chram v.n. Sefrou Bhalil Bhalil Sefrou",
+   "phone": "+212 535 68 21 39",
+   "lat": 33.8269801,
+   "lng": -4.8399459,
    "shift": "nuit",
    "shift_label": "Pharmacies de nuit"
   },
   {
-   "name": "Pharmacie Assalam",
-   "address": "887 av. Mohamed Yakhlaf Ben Seffar Sefrou Ahermoumou Sefrou",
-   "phone": "+212 533 74 07 20",
-   "lat": 33.8297101,
-   "lng": -4.8287953,
+   "name": "Pharmacie Zine El Abidine",
+   "address": "lotiss. Atlas , Ben Seffar Sefrou Bhalil Bhalil Sefrou",
+   "phone": "+212 535 96 96 32",
+   "lat": 33.8305244,
+   "lng": -4.8353154,
    "shift": "nuit",
    "shift_label": "Pharmacies de nuit"
   },
@@ -61,44 +61,53 @@
    "shift_label": "Pharmacies 24h/24"
   },
   {
-   "name": "Pharmacie De L'hôpital Universitaire",
-   "address": "hay al amal bd madina monaouara Fes Ville Nouvelle ville nouvelle Fes",
-   "phone": "+212 532 11 08 16",
-   "lat": 34.0105073,
-   "lng": -4.9658554,
+   "name": "Pharmacie La Suite",
+   "address": "lotissement. riad annakhil .route imouzzar proche du café la suite Fes Ain Cheggag Fes",
+   "phone": "+212 535 60 36 49",
+   "lat": 33.9938953,
+   "lng": -4.9907419,
    "shift": "24h",
    "shift_label": "Pharmacies 24h/24"
   },
   {
-   "name": "Pharmacie Masjid Arreda",
-   "address": "route imouzzar. lotissement arrida. derriere mosquée arrida Fes Fes",
-   "phone": "+212 532 03 45 26",
-   "lat": 34.0024527,
-   "lng": -4.9985708,
+   "name": "Pharmacie Ain Chkef",
+   "address": "arrondissement ain chkef Fes Fes",
+   "phone": "+212 535 96 26 45",
+   "lat": 33.998543,
+   "lng": -5.009265,
    "shift": "24h",
    "shift_label": "Pharmacies 24h/24"
   },
   {
-   "name": "Pharmacie Siberia",
-   "address": "douar Khrabcha Fès - Maroc Ville Nouvelle ville nouvelle Fes",
-   "phone": "+212 655 17 36 77",
-   "lat": 34.0181246,
-   "lng": -5.0078451,
+   "name": "Pharmacie Arrahma",
+   "address": "labita dher lkhmiss Fes Ville Nouvelle ville nouvelle Fes",
+   "phone": "+212 535 64 53 91",
+   "lat": 34.016935,
+   "lng": -4.9698089,
    "shift": "24h",
    "shift_label": "Pharmacies 24h/24"
   },
   {
-   "name": "Pharmacie Al Kobba",
-   "address": "rue 2 jnane hjij, ain nakbi proche de l'ancien dar dbegh Fes Oued Amlil Oued Amlil Fes",
-   "phone": "+212 535 66 91 59",
-   "lat": 34.0644215,
-   "lng": -4.9528205,
+   "name": "Pharmacie La Bonté",
+   "address": "hay tarik 1, lot 20 n° 2 et 3, en face de collège l'hippodrome Fes Ville Nouvelle ville nouvelle Fes",
+   "phone": "+212 535 61 06 22",
+   "lat": 34.03356,
+   "lng": -5.0270117,
+   "shift": "24h",
+   "shift_label": "Pharmacies 24h/24"
+  },
+  {
+   "name": "Pharmacie Kamal",
+   "address": "numéro 12 rue blad saadani sehb al ward a cote du terminus 53 Fes Oued Amlil Oued Amlil Fes",
+   "phone": "+212 535 76 20 65",
+   "lat": 34.0570586,
+   "lng": -4.9545935,
    "shift": "24h",
    "shift_label": "Pharmacies 24h/24"
   }
  ],
  "center": [
-  33.9057,
-  -4.8886
+  33.9147,
+  -4.9023
  ]
 }

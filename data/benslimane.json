@@ -1,7 +1,7 @@
 {
  "city": "benslimane",
  "label": "Ben Slimane",
- "date": "2026-10-23",
+ "date": "2026-10-24",
  "source": "med.ma",
  "source_url": "https://www.med.ma/pharmacy/day-time/benslimane",
  "kind": "directory",
@@ -106,17 +106,17 @@
    "shift_label": "Pharmacies 24h/24"
   },
   {
-   "name": "Pharmacie Jorio",
-   "address": "Pharmacie Jorio BENSLIMANE Ben Slimane Ben Slimane Benslimane",
-   "phone": "+212 523 29 74 72",
-   "lat": 33.6278567,
-   "lng": -7.1325229,
+   "name": "Pharmacie hay El Hassani",
+   "address": "Pharmacie hay El Hassani BENSLIMANE Ben Slimane Ben Slimane Benslimane",
+   "phone": "+212 523 29 76 02",
+   "lat": 33.6134274,
+   "lng": -7.121881,
    "shift": "24h",
    "shift_label": "Pharmacies 24h/24"
   }
  ],
  "center": [
-  33.6901,
-  -7.317
+  33.6889,
+  -7.3161
  ]
 }

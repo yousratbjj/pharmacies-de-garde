@@ -1,7 +1,7 @@
 {
  "city": "sale",
  "label": "Salé",
- "date": "2026-10-23",
+ "date": "2026-10-24",
  "source": "sahha.ma",
  "source_url": "https://sahha.ma/pharmacie-de-garde/sale",
  "kind": "roster",
@@ -12,7 +12,7 @@
    "phone": "+212537863198",
    "lat": 34.050206,
    "lng": -6.802357,
-   "shift": "jour",
+   "shift": "nuit",
    "shift_label": ""
   },
   {
@@ -21,7 +21,7 @@
    "phone": "+212537871067",
    "lat": 34.064083,
    "lng": -6.786611,
-   "shift": "jour",
+   "shift": "nuit",
    "shift_label": ""
   },
   {
@@ -39,7 +39,7 @@
    "phone": "+212537800556",
    "lat": 34.029528,
    "lng": -6.804,
-   "shift": "jour",
+   "shift": "nuit",
    "shift_label": ""
   },
   {
@@ -57,7 +57,7 @@
    "phone": "+212537845503",
    "lat": 34.057778,
    "lng": -6.805556,
-   "shift": "jour",
+   "shift": "nuit",
    "shift_label": ""
   },
   {
@@ -66,7 +66,7 @@
    "phone": "+212651520998",
    "lat": 34.092146,
    "lng": -6.7724339,
-   "shift": "jour",
+   "shift": "nuit",
    "shift_label": ""
   },
   {
@@ -75,7 +75,7 @@
    "phone": "+212537532696",
    "lat": 33.991972,
    "lng": -6.740361,
-   "shift": "jour",
+   "shift": "nuit",
    "shift_label": ""
   },
   {
@@ -84,7 +84,7 @@
    "phone": "+212537873944",
    "lat": 34.0477643,
    "lng": -6.7743173,
-   "shift": "jour",
+   "shift": "nuit",
    "shift_label": ""
   },
   {

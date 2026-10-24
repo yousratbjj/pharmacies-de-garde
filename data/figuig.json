@@ -1,59 +1,59 @@
 {
  "city": "figuig",
  "label": "Figuig",
- "date": "2026-10-23",
+ "date": "2026-10-24",
  "source": "med.ma",
  "source_url": "https://www.med.ma/pharmacy/day-time/figuig",
  "kind": "directory",
  "pharmacies": [
   {
-   "name": "Pharmacie Centrale Ain Serrak",
-   "address": "lot. Laalej n°209 rue D n°57 rte. Ain Serrak Oujda Jerada Jerada Oujda",
-   "phone": "+212 536 71 20 09",
-   "lat": 34.6576053,
-   "lng": -1.926096,
+   "name": "Pharmacie Benkhirane",
+   "address": "lotiss. Benkhirane C5/48 Oujda Ain Bni Mathar Oujda",
+   "phone": "+212 536 51 81 54",
+   "lat": 34.65665,
+   "lng": -1.933783333333,
    "shift": "24h",
    "shift_label": "Pharmacies 24h/24"
   },
   {
-   "name": "Pharmacie ElHouda",
-   "address": "Hay Elwahda E11 n°31 Tarik ElGharb Oujda Oujda",
-   "phone": "+212 536 51 86 30",
-   "lat": 34.6760479,
-   "lng": -1.9405453,
+   "name": "Pharmacie Palais de Justice",
+   "address": "78 rue Oued Oum Errabia Lotiss iris Oujda Oujda",
+   "phone": "+212 536 53 25 00",
+   "lat": 34.6602483,
+   "lng": -1.9140682,
    "shift": "24h",
    "shift_label": "Pharmacies 24h/24"
   },
   {
-   "name": "Pharmacie Hicham",
-   "address": "lotiss. Loukili n°6 Derb Berrahmoune OUJDA Oujda",
-   "phone": "+212 536 74 57 39",
-   "lat": 34.6819079,
-   "lng": -1.8931785,
+   "name": "Pharmacie Moderne",
+   "address": "35 Rue de Marrakech Oujda Oujda",
+   "phone": "+212 536 68 28 71",
+   "lat": 34.6821715,
+   "lng": -1.9128072,
    "shift": "24h",
    "shift_label": "Pharmacies 24h/24"
   },
   {
-   "name": "Pharmacie Pasteur",
-   "address": "53 bd. Fétouaki Oujda Oujda",
-   "phone": "+212 536 68 60 44",
-   "lat": 34.6891501,
-   "lng": -1.9175128,
+   "name": "Pharmacie Nour Marjane Moussaoui",
+   "address": "hay El Hassani Nour Borj n°3 Oujda Oujda",
+   "phone": "+212 536 68 04 73",
+   "lat": 34.6819218,
+   "lng": -1.9001531,
    "shift": "24h",
    "shift_label": "Pharmacies 24h/24"
   },
   {
-   "name": "Pharmacie Tennis",
-   "address": "rte Maghnia bloc 3 n°19 Oujda Oujda",
-   "phone": "+212 536 69 06 02",
-   "lat": 34.6982592,
-   "lng": -1.8973012,
+   "name": "Pharmacie Ihyae Chark",
+   "address": "195 hay Agdal lot Ihyae Chark Oujda - Maroc Oujda",
+   "phone": "+212 536 54 21 16",
+   "lat": 34.681962,
+   "lng": -1.900155,
    "shift": "24h",
    "shift_label": "Pharmacies 24h/24"
   }
  ],
  "center": [
-  34.6806,
-  -1.9149
+  34.6726,
+  -1.9122
  ]
 }

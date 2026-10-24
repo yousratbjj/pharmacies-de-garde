@@ -1,7 +1,7 @@
 {
  "city": "kenitra",
  "label": "Kénitra",
- "date": "2026-10-23",
+ "date": "2026-10-24",
  "source": "sahha.ma",
  "source_url": "https://sahha.ma/pharmacie-de-garde/kenitra",
  "kind": "roster",
@@ -12,7 +12,7 @@
    "phone": "+212537387900",
    "lat": 34.272106,
    "lng": -6.557952,
-   "shift": "jour",
+   "shift": "nuit",
    "shift_label": ""
   },
   {
@@ -21,7 +21,7 @@
    "phone": "+212808684998",
    "lat": 34.245037,
    "lng": -6.598511,
-   "shift": "jour",
+   "shift": "nuit",
    "shift_label": ""
   },
   {
@@ -30,7 +30,7 @@
    "phone": "+212537388889",
    "lat": 34.2579819,
    "lng": -6.6553538,
-   "shift": "jour",
+   "shift": "nuit",
    "shift_label": ""
   }
  ],

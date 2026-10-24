@@ -1,17 +1,17 @@
 {
  "city": "ifrane",
  "label": "Ifrane",
- "date": "2026-10-23",
+ "date": "2026-10-24",
  "source": "med.ma",
  "source_url": "https://www.med.ma/pharmacy/day-time/ifrane",
  "kind": "directory",
  "pharmacies": [
   {
-   "name": "Pharmacie du Myrte",
-   "address": "mag n° 6 imm n° 6 résidence rouihiyene Sale Sidi Allal El Bahraoui Sale",
-   "phone": "+212 537 53 75 63",
-   "lat": 34.0019101,
-   "lng": -6.7348982,
+   "name": "Pharmacie Errai",
+   "address": "safaa 3 n°1 hssain Sale Sale",
+   "phone": "+212 537 82 97 60",
+   "lat": 34.012666,
+   "lng": -6.7367488,
    "shift": "jour",
    "shift_label": "Pharmacies de jour"
   },
@@ -25,44 +25,44 @@
    "shift_label": "Pharmacies de jour"
   },
   {
-   "name": "Pharmacie Al Hikma",
-   "address": "1376, quartier Amal 5, Al Massira Rabat Harhoura Harhoura Rabat",
-   "phone": "+212 537 29 33 92",
-   "lat": 34.019122,
-   "lng": -6.8328093,
+   "name": "Pharmacie Du Croissant",
+   "address": "200 avenue mohamed ben abdellah - akkari Rabat Harhoura Harhoura Rabat",
+   "phone": "+212 537 69 04 23",
+   "lat": 34.0106528,
+   "lng": -6.8594996,
    "shift": "jour",
    "shift_label": "Pharmacies de jour"
   },
   {
-   "name": "Pharmacie Ksar Labhar",
-   "address": "7,8 bloc b maché ksar labhar (prés hopital my youssef) Rabat Harhoura Harhoura Rabat",
-   "phone": "+212 537 29 72 08",
-   "lat": 34.01019,
-   "lng": -6.8634934,
+   "name": "Pharmacie Hay Al Kora",
+   "address": "93, lot sidi elyabouri douar al kora c.y.m - RABAT Harhoura Harhoura Rabat",
+   "phone": "+212 537 29 91 76",
+   "lat": 33.9962762,
+   "lng": -6.8779575,
    "shift": "jour",
    "shift_label": "Pharmacies de jour"
   },
   {
-   "name": "Pharmacie Essalam",
-   "address": "Avenue Essalam (c.y.m.), G.2 Rabat Harhoura Harhoura Rabat",
-   "phone": "+212 537 69 14 55",
-   "lat": 33.9985454,
-   "lng": -6.8698991,
+   "name": "Pharmacie Mly Ali Chrif",
+   "address": "468, av Moulay Ali Cherif , Massira I Temara Harhoura Harhoura Temara",
+   "phone": "+212 537 60 05 25",
+   "lat": 33.9319309,
+   "lng": -6.9055139,
    "shift": "jour",
    "shift_label": "Pharmacies de jour"
   },
   {
-   "name": "Pharmacie Moulay Idriss",
-   "address": "lot 103 sect.1 , Massira I Temara Harhoura Harhoura Temara",
-   "phone": "+212 537 60 22 70",
-   "lat": 33.9325161,
-   "lng": -6.8983713,
+   "name": "Pharmacie Attaïssir",
+   "address": "443 rue alhassoune hay al manzah c.y.m (a côté de youpi et du restaurant piccola italia) Rabat Harhoura Harhoura Rabat",
+   "phone": "+212 537 28 02 96",
+   "lat": 33.9779473,
+   "lng": -6.8922267,
    "shift": "jour",
    "shift_label": "Pharmacies de jour"
   }
  ],
  "center": [
-  33.9699,
-  -6.8422
+  33.9644,
+  -6.8543
  ]
 }
