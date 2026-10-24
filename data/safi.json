@@ -8,29 +8,20 @@
  "pharmacies": [
   {
    "name": "Pharmacie Ezzaouia",
-   "address": "10, rue Caïd Sidi Ouassel",
+   "address": "10, Rue Caïd Sidi Ouassel,",
    "phone": "+212524651801",
    "lat": 32.2664715,
    "lng": -9.2464395,
-   "shift": "",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie Laarissa",
-   "address": "Quartier Laarissa , rue 22 n°15 Safi",
-   "phone": "+212524650367",
-   "lat": 32.2644295,
-   "lng": -9.23983,
-   "shift": "",
+   "shift": "nuit",
    "shift_label": ""
   },
   {
    "name": "Pharmacie la Marine",
-   "address": "83 bd Chakib Arssalane oued ElBacha Safi",
+   "address": "83, Bd Chakib Arssalane , Oued Elbacha",
    "phone": "+212524630608",
    "lat": 32.3072904,
    "lng": -9.2378754,
-   "shift": "",
+   "shift": "nuit",
    "shift_label": ""
   },
   {
@@ -39,57 +30,12 @@
    "phone": "+212524621038",
    "lat": 32.2980725,
    "lng": -9.2070955,
-   "shift": "",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie Aabid",
-   "address": "Quartier de l'Aviation",
-   "phone": "+212524651082",
-   "lat": 32.2691833,
-   "lng": -9.2438667,
-   "shift": "",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie Al Hamd",
-   "address": "159, lotiss. Lamia , rte Dar Si Aïsa",
-   "phone": "+212524612407",
-   "lat": 32.3070058,
-   "lng": -9.213203,
-   "shift": "",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie Al Hidaya",
-   "address": "q. Kaouki",
-   "phone": "+212540041233",
-   "lat": 32.259593,
-   "lng": -9.246632,
-   "shift": "",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie Arrazi",
-   "address": "23 bd Zerktouni imm. Anaville",
-   "phone": "+212524622379",
-   "lat": 32.2936333,
-   "lng": -9.2351833,
-   "shift": "",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie Chenguit",
-   "address": "11, Lot. Rida , Sidi Abdelkerim",
-   "phone": "+212524668429",
-   "lat": 32.3129859,
-   "lng": -9.2240204,
-   "shift": "",
+   "shift": "nuit",
    "shift_label": ""
   }
  ],
  "center": [
-  32.2865,
-  -9.2327
+  32.2906,
+  -9.2305
  ]
 }

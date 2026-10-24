@@ -7,26 +7,26 @@
  "kind": "roster",
  "pharmacies": [
   {
-   "name": "Pharmacie Al Fadl",
-   "address": "6 pl. Abdelkrim Khattabi - Autre ville, Ben Guerir",
-   "phone": "+212524323030",
-   "lat": 32.231906,
-   "lng": -7.947567,
-   "shift": "",
+   "name": "Pharmacie Al Machrek",
+   "address": "11 hay riad, derrière 2eme préfecture",
+   "phone": "+212702188850",
+   "lat": 32.239034,
+   "lng": -7.958131,
+   "shift": "nuit",
    "shift_label": ""
   },
   {
-   "name": "Pharmacie Lina",
-   "address": "Cité OCP Sec26 n° 112, Ben Guerir",
-   "phone": "+212524316608",
-   "lat": 32.21001,
-   "lng": -7.93266,
-   "shift": "",
+   "name": "Pharmacie la Ville Verte",
+   "address": "hay Takadoum - Autre ville, Ben Guerir",
+   "phone": "+212525242310",
+   "lat": 32.254289,
+   "lng": -7.948056,
+   "shift": "nuit",
    "shift_label": ""
   }
  ],
  "center": [
-  32.221,
-  -7.9401
+  32.2467,
+  -7.9531
  ]
 }

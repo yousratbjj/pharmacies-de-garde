@@ -7,89 +7,80 @@
  "kind": "roster",
  "pharmacies": [
   {
-   "name": "Pharmacie Arrajae",
-   "address": "hay Al Merja rue 23 n°1, Fès",
-   "phone": "+212535726162",
-   "lat": 34.032733,
-   "lng": -5.047963,
-   "shift": "nuit",
+   "name": "Pharmacie Ain Chkef",
+   "address": "3 hay Ain Chkef - Autre ville, Fès",
+   "phone": "+212535967050",
+   "lat": 33.998543,
+   "lng": -5.009265,
+   "shift": "jour",
    "shift_label": ""
   },
   {
-   "name": "Pharmacie de l'Hôpital Universitaire",
-   "address": "rue Al Madina Al Mounaouara hay El Amal Rte Sefrou, Fès",
-   "phone": "+212535615683",
-   "lat": 34.0107,
-   "lng": -4.966283,
-   "shift": "nuit",
+   "name": "Pharmacie Arrahma",
+   "address": "hay Dhar Lakhmis bloc 3 n°48 l'habitat, Fès",
+   "phone": "+212535645391",
+   "lat": 34.069312,
+   "lng": -4.990886,
+   "shift": "jour",
    "shift_label": ""
   },
   {
-   "name": "Pharmacie ElKobba",
-   "address": "X hay Ain Nokbi Jnane Hjiej rue 2 n°8 Ain Nokbi, Fès",
-   "phone": "+212535669159",
-   "lat": 34.064206,
-   "lng": -4.953426,
-   "shift": "nuit",
+   "name": "Pharmacie Hamraouy",
+   "address": "hay Bradaa - Autre ville Lot. n° 240, Fès",
+   "phone": "+212535655755",
+   "lat": 34.0349133,
+   "lng": -5.0527122,
+   "shift": "jour",
    "shift_label": ""
   },
   {
-   "name": "Pharmacie Lhoumadi",
-   "address": "320 lotiss. Al Mountazah 3, Fès",
-   "phone": "+212611248625",
-   "lat": 34.051165,
-   "lng": -5.039386,
-   "shift": "nuit",
+   "name": "Pharmacie Kamal",
+   "address": "hay Sehb El Ward bled Saadani rue 8 n°12 Bab Ftouh, Fès",
+   "phone": "+212535762065",
+   "lat": 34.056219,
+   "lng": -4.951261,
+   "shift": "jour",
    "shift_label": ""
   },
   {
-   "name": "Pharmacie Masjid Arreda",
-   "address": "35 rte d'Imouzzer - Autre ville lotiss. Sofia, Fès",
-   "phone": "+212532034526",
-   "lat": 34.0030978,
-   "lng": -4.9983859,
-   "shift": "nuit",
+   "name": "Pharmacie La Bonte",
+   "address": "hay Tarik 1 lot 20 n°2 et 3, Fès",
+   "phone": "+212535610622",
+   "lat": 34.033639,
+   "lng": -5.026883,
+   "shift": "jour",
    "shift_label": ""
   },
   {
-   "name": "Pharmacie Nour",
-   "address": "n° 85. bd les marinides. mellah",
-   "phone": "+212532367793",
+   "name": "Pharmacie La Suite",
+   "address": "85 lotiss. Riad Nakhil rte Immouzzer, Fès",
+   "phone": "+212535603649",
+   "lat": 33.99443,
+   "lng": -4.990526,
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie Siberia",
+   "address": "Pharmacie Siberia",
+   "phone": "+212655173677",
    "lat": 34.0181246,
    "lng": -5.0078451,
-   "shift": "nuit",
+   "shift": "jour",
    "shift_label": ""
   },
   {
-   "name": "Pharmacie Amrani",
-   "address": "bd lalla meryem place florence. entre mosquée ttajmouâti et banc du maroc",
-   "phone": "+212535624238",
-   "lat": 34.0419913,
-   "lng": -5.0034098,
-   "shift": "nuit",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie Avicenne De Fes",
-   "address": "Pharmacie Avicenne De Fes",
-   "phone": "+212532086957",
-   "lat": 34.0108462,
-   "lng": -4.950113,
-   "shift": "nuit",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie Jbel Tghat",
-   "address": "Pharmacie Jbel Tghat",
-   "phone": "+212779451700",
-   "lat": 34.047125,
-   "lng": -5.0263661,
-   "shift": "nuit",
+   "name": "Pharmacie Zkak Lahjar",
+   "address": "Pharmacie Zkak Lahjar",
+   "phone": "+212535633674",
+   "lat": 34.0635419,
+   "lng": -4.9779571,
+   "shift": "jour",
    "shift_label": ""
   }
  ],
  "center": [
-  34.0311,
-  -4.9992
+  34.0336,
+  -5.0009
  ]
 }

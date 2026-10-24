@@ -7,17 +7,17 @@
  "kind": "roster",
  "pharmacies": [
   {
-   "name": "Pharmacie AlKamal",
-   "address": "319 bd. Hassan II, Al Arrui",
-   "phone": "+212536362395",
-   "lat": 35.011233,
-   "lng": -3.0082,
-   "shift": "nuit",
+   "name": "Pharmacie Belkheir",
+   "address": "17 bd. Badr ang. bd. Mly Youssef, Al Arrui",
+   "phone": "+212536361622",
+   "lat": 35.0097,
+   "lng": -3.005467,
+   "shift": "jour",
    "shift_label": ""
   }
  ],
  "center": [
-  35.0112,
-  -3.0082
+  35.0097,
+  -3.0055
  ]
 }

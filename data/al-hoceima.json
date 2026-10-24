@@ -7,17 +7,17 @@
  "kind": "roster",
  "pharmacies": [
   {
-   "name": "Pharmacie Abdelkerim El Khattabi",
-   "address": "61 av Bir Anzarane, Al Hoceima",
-   "phone": "+212539982270",
-   "lat": 35.244433,
-   "lng": -3.918783,
-   "shift": "nuit",
+   "name": "Pharmacie Cala Bonita",
+   "address": "28 hay Cala Bonita résid. Firadaous, Al Hoceima",
+   "phone": "+212539985864",
+   "lat": 35.234263,
+   "lng": -3.92711,
+   "shift": "jour",
    "shift_label": ""
   }
  ],
  "center": [
-  35.2444,
-  -3.9188
+  35.2343,
+  -3.9271
  ]
 }

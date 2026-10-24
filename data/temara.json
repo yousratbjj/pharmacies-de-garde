@@ -7,65 +7,20 @@
  "kind": "roster",
  "pharmacies": [
   {
-   "name": "LA GRANDE PHARMACIE DE TAMESNA",
-   "address": "172, Marina d'or (à côté de jouteya Tamesna)",
-   "phone": "+212537013065",
-   "lat": 33.838833,
-   "lng": -6.924722,
-   "shift": "jour",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie Al Fouarat",
-   "address": "av tarik ibn ziad lot nessma imm 1 a -",
-   "phone": "+212537611601",
-   "lat": 33.9133515,
-   "lng": -6.9112789,
+   "name": "Pharmacie AL KASBAH",
+   "address": "69 Lotissement Al kasbah skikina - Temara",
+   "phone": "+212537644046",
+   "lat": 33.900681,
+   "lng": -6.92521,
    "shift": "nuit",
    "shift_label": ""
   },
   {
-   "name": "Pharmacie ANNASSIHA",
-   "address": "603 S1 lot B Riad Ouled Mtaâ Témara",
-   "phone": "+212537560866",
-   "lat": 33.9411011,
-   "lng": -6.900486,
-   "shift": "",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie DU CONSEIL",
-   "address": "33 Rue De Rabat Temara",
-   "phone": "+212537741163",
-   "lat": 33.9175,
-   "lng": -6.924067,
-   "shift": "nuit",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie Le Croissant Vert",
-   "address": "Pharmacie Le Croissant Vert",
-   "phone": "+212537601951",
-   "lat": 33.9310185,
-   "lng": -6.8965039,
-   "shift": "nuit",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie MOULAY IDRISS",
-   "address": "Secteur 1 Lot 103 Massira 1",
-   "phone": "+212537602270",
-   "lat": 33.9261667,
-   "lng": -6.8866667,
-   "shift": "nuit",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie REGRAGUI",
-   "address": "42 Residence attawfik,casino Plage Harhoura",
-   "phone": "+212537744305",
-   "lat": 33.925059,
-   "lng": -6.954881,
+   "name": "Pharmacie AL WAHA",
+   "address": "Résidence Al Waha Mag N°3 Harhoura",
+   "phone": "+212537407575",
+   "lat": 33.9220912,
+   "lng": -6.9552734,
    "shift": "nuit",
    "shift_label": ""
   },
@@ -77,10 +32,19 @@
    "lng": -6.935582,
    "shift": "nuit",
    "shift_label": ""
+  },
+  {
+   "name": "Pharmacie Mly Ali Cherif",
+   "address": "468 av Moulay Ali Cherif Massira I, Témara",
+   "phone": "+212537600525",
+   "lat": 33.932817,
+   "lng": -6.90715,
+   "shift": "nuit",
+   "shift_label": ""
   }
  ],
  "center": [
-  33.9111,
-  -6.9168
+  33.9129,
+  -6.9308
  ]
 }

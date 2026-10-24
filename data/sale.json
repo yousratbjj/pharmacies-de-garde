@@ -7,11 +7,20 @@
  "kind": "roster",
  "pharmacies": [
   {
-   "name": "Pharmacie AL HIKMA",
-   "address": "شارع مولاي عبد القادر رقم 29 بلاد السحيمي قرب سوق الشيشان و الملحقة الادارية السهلي",
-   "phone": "+212537813287",
-   "lat": 34.053056,
-   "lng": -6.77525,
+   "name": "Pharmacie 20 AOÛT",
+   "address": "إقامة 20 غشت تابريكت",
+   "phone": "+212537863198",
+   "lat": 34.050206,
+   "lng": -6.802357,
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie ALHAMD",
+   "address": "366, Rue Yasmine, Sect.A Hay Rahma",
+   "phone": "+212537871067",
+   "lat": 34.064083,
+   "lng": -6.786611,
    "shift": "jour",
    "shift_label": ""
   },
@@ -30,75 +39,66 @@
    "phone": "+212537800556",
    "lat": 34.029528,
    "lng": -6.804,
-   "shift": "nuit",
+   "shift": "jour",
    "shift_label": ""
   },
   {
-   "name": "Pharmacie DU MYRTE",
-   "address": "Mag N° 6 Imm N° 6 Résidence Rouihiyene Al Omrane (Prés Mosquée Mohamed VI et Piscine Sala Al Jadida)",
-   "phone": "+212537535117",
-   "lat": 34.0016237,
-   "lng": -6.734896,
-   "shift": "nuit",
+   "name": "Pharmacie EL WAHDA",
+   "address": "زنقة حسان المعروفة بزنقة الذهبية (قرب الشاطو الكبير)",
+   "phone": "+212537812893",
+   "lat": 34.049924,
+   "lng": -6.7809432,
+   "shift": "jour",
    "shift_label": ""
   },
   {
-   "name": "Pharmacie HAJJI",
-   "address": "46,Rue El Haddadine (Houatine)",
-   "phone": "+212537780930",
-   "lat": 34.039477,
-   "lng": -6.823212,
-   "shift": "nuit",
+   "name": "Pharmacie HIBA SANTE",
+   "address": "Lot Bachir II Hay Chemaou (Route de Kenitra)",
+   "phone": "+212537845503",
+   "lat": 34.057778,
+   "lng": -6.805556,
+   "shift": "jour",
    "shift_label": ""
   },
   {
-   "name": "Pharmacie L'OPERA",
-   "address": "Res. Essania II N°1 (Derrière Cinéma L'Opera et prés de l'institut El Yakada)",
-   "phone": "+212537864800",
-   "lat": 34.045917,
-   "lng": -6.809861,
-   "shift": "nuit",
+   "name": "Pharmacie KAMAR",
+   "address": "Lotissement shems lot 219 Route de Kenitra",
+   "phone": "+212651520998",
+   "lat": 34.092146,
+   "lng": -6.7724339,
+   "shift": "jour",
    "shift_label": ""
   },
   {
-   "name": "Pharmacie PARC ADDOHA",
-   "address": "صيدلية حديقة الضحى شارع القاعدة الجوية مشروع الضحى الحديقة عمارة 75 متجر 1 لعيايدة",
-   "phone": "+212537887373",
-   "lat": 34.0631875,
-   "lng": -6.7637031,
-   "shift": "nuit",
+   "name": "Pharmacie LA NOUVELLE CITÉ Ex: CITE ROYALE",
+   "address": "Avenue Atlass IMB 4 (Prés Station Taxi & Hamam Zahra)",
+   "phone": "+212537532696",
+   "lat": 33.991972,
+   "lng": -6.740361,
+   "shift": "jour",
    "shift_label": ""
   },
   {
-   "name": "PHARMACIE AL HANANE",
-   "address": "imm 2 résidence idriss ii bettana",
-   "phone": "+212537801585",
-   "lat": 34.0275766,
-   "lng": -6.7648426,
-   "shift": "",
+   "name": "Pharmacie MOUSSADIKINE",
+   "address": "Av Ennasser hay oued Eddahab rue dar Essalam N 252 bis",
+   "phone": "+212537873944",
+   "lat": 34.0477643,
+   "lng": -6.7743173,
+   "shift": "jour",
    "shift_label": ""
   },
   {
-   "name": "PHARMACIE BAYTI",
-   "address": "av mohamed v g28 mag n°1.28 bayti 2 -",
-   "phone": "+212537533359",
-   "lat": 33.9879668,
-   "lng": -6.7343864,
-   "shift": "nuit",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie Dahab",
-   "address": "47 bd Six Novembre hay Hourya Tabriquet, Salé",
-   "phone": "+212537851291",
-   "lat": 34.048433,
-   "lng": -6.805617,
-   "shift": "nuit",
+   "name": "Pharmacie TAJEDDINE",
+   "address": "Mag C 20 Résidence Al Amine 3 Laayayda",
+   "phone": "+212612719279",
+   "lat": 34.0736351,
+   "lng": -6.7532153,
+   "shift": "jour",
    "shift_label": ""
   }
  ],
  "center": [
-  34.0342,
-  -6.783
+  34.0502,
+  -6.7834
  ]
 }

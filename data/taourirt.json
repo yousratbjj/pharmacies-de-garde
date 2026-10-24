@@ -7,17 +7,17 @@
  "kind": "roster",
  "pharmacies": [
   {
-   "name": "Pharmacie la Santé",
-   "address": "2 av Lycée Al Fath lotiss. El Massira, Taourirt",
-   "phone": "+212536679426",
-   "lat": 34.402568,
-   "lng": -2.888755,
+   "name": "Pharmacie AlHikma",
+   "address": "20 hay Chouhada, Taourirt",
+   "phone": "+212536695681",
+   "lat": 34.4051,
+   "lng": -2.8931,
    "shift": "nuit",
    "shift_label": ""
   }
  ],
  "center": [
-  34.4026,
-  -2.8888
+  34.4051,
+  -2.8931
  ]
 }

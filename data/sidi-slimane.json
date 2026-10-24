@@ -7,17 +7,17 @@
  "kind": "roster",
  "pharmacies": [
   {
-   "name": "Pharmacie Arrahma",
-   "address": "hay Ouled El Ghazi rue 10 n°244, Sidi Slimane",
-   "phone": "+212537505768",
-   "lat": 34.259251,
-   "lng": -5.931036,
-   "shift": "nuit",
+   "name": "Pharmacie Mohammedia",
+   "address": "190 lotiss. Mohammedia 4, Sidi Slimane",
+   "phone": "+212537502210",
+   "lat": 34.253363,
+   "lng": -5.909632,
+   "shift": "jour",
    "shift_label": ""
   }
  ],
  "center": [
-  34.2593,
-  -5.931
+  34.2534,
+  -5.9096
  ]
 }

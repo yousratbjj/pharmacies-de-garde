@@ -7,17 +7,17 @@
  "kind": "roster",
  "pharmacies": [
   {
-   "name": "Pharmacie Yassine",
-   "address": "278 bd Mohammed V, Zagora",
-   "phone": "+212524848719",
-   "lat": 30.345233,
-   "lng": -5.838167,
-   "shift": "",
+   "name": "Pharmacie Manssour Dahbi",
+   "address": "hay Mansour Dahbi station Ahmed Benasser, Zagora",
+   "phone": "+212524838116",
+   "lat": 30.341326,
+   "lng": -5.834992,
+   "shift": "nuit",
    "shift_label": ""
   }
  ],
  "center": [
-  30.3452,
-  -5.8382
+  30.3413,
+  -5.835
  ]
 }

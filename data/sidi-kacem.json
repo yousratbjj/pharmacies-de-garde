@@ -7,17 +7,17 @@
  "kind": "roster",
  "pharmacies": [
   {
-   "name": "Pharmacie Oued Eddahab",
-   "address": "41 av. Allal Ben Abdellah, Sidi Kacem",
-   "phone": "+212537590294",
-   "lat": 34.226846,
-   "lng": -5.710364,
-   "shift": "nuit",
+   "name": "Pharmacie Sahraoua",
+   "address": "hay Sahraoua rue 80 n°15, Sidi Kacem",
+   "phone": "+212537596045",
+   "lat": 34.225696,
+   "lng": -5.709995,
+   "shift": "jour",
    "shift_label": ""
   }
  ],
  "center": [
-  34.2268,
-  -5.7104
+  34.2257,
+  -5.71
  ]
 }

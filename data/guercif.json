@@ -7,26 +7,26 @@
  "kind": "roster",
  "pharmacies": [
   {
-   "name": "Pharmacie Guercif",
-   "address": "11 av Mly Youssef, Guercif",
-   "phone": "+212535676210",
-   "lat": 34.227383,
-   "lng": -3.348267,
-   "shift": "nuit",
+   "name": "Pharmacie Houara",
+   "address": "218 bd. My Youssef rte Oujda, Guercif",
+   "phone": "+212535200694",
+   "lat": 34.230283,
+   "lng": -3.342167,
+   "shift": "jour",
    "shift_label": ""
   },
   {
-   "name": "Pharmacie Harchat Gambir",
-   "address": "hay Al Arass, Guercif",
-   "phone": "+212535200293",
-   "lat": 34.25236,
-   "lng": -3.34633,
-   "shift": "nuit",
+   "name": "Pharmacie Ibn Rochd",
+   "address": "7 rue Caire - Autre ville, Guercif",
+   "phone": "+212535675904",
+   "lat": 34.229939,
+   "lng": -3.348967,
+   "shift": "jour",
    "shift_label": ""
   }
  ],
  "center": [
-  34.2399,
-  -3.3473
+  34.2301,
+  -3.3456
  ]
 }

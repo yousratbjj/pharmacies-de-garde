@@ -12,7 +12,7 @@
    "phone": "+212523567541",
    "lat": 32.892092,
    "lng": -6.898086,
-   "shift": "",
+   "shift": "nuit",
    "shift_label": ""
   },
   {
@@ -21,39 +21,12 @@
    "phone": "+212523499335",
    "lat": 32.890819,
    "lng": -6.930536,
-   "shift": "",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie Ghizlaine",
-   "address": "Khouadria Jdad bloc 1 n° 16, Khouribga",
-   "phone": "+212673141886",
-   "lat": 32.873434,
-   "lng": -6.917092,
-   "shift": "",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie Narjis",
-   "address": "6 bd Annasr - Autre ville, Khouribga",
-   "phone": "+212656084151",
-   "lat": 32.87881,
-   "lng": -6.93717,
-   "shift": "",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie Saphir",
-   "address": "42 rue des Cerises, Khouribga",
-   "phone": "+212523563381",
-   "lat": 32.895718,
-   "lng": -6.908079,
-   "shift": "",
+   "shift": "nuit",
    "shift_label": ""
   }
  ],
  "center": [
-  32.8862,
-  -6.9182
+  32.8915,
+  -6.9143
  ]
 }

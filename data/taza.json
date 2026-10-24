@@ -7,17 +7,26 @@
  "kind": "roster",
  "pharmacies": [
   {
-   "name": "Pharmacie Imam Malek",
-   "address": "9 X bd 11 Janvier, Taza",
-   "phone": "+212535673609",
-   "lat": 34.218917,
-   "lng": -4.014083,
+   "name": "Pharmacie Adarissa",
+   "address": "17 bd Bir Anzarane - Autre ville, Taza",
+   "phone": "+212535673238",
+   "lat": 34.231241,
+   "lng": -4.012895,
+   "shift": "nuit",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie Bab Zitouna",
+   "address": "bd. My Ismaïl, Taza",
+   "phone": "+212535270268",
+   "lat": 34.208083,
+   "lng": -4.0198,
    "shift": "nuit",
    "shift_label": ""
   }
  ],
  "center": [
-  34.2189,
-  -4.0141
+  34.2197,
+  -4.0163
  ]
 }

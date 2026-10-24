@@ -7,17 +7,17 @@
  "kind": "roster",
  "pharmacies": [
   {
-   "name": "Pharmacie Ezzarad",
-   "address": "154 lotiss. Sebou, Mechraa Bel Ksiri",
-   "phone": "+212660871021",
-   "lat": 34.579338,
-   "lng": -5.979953,
-   "shift": "nuit",
+   "name": "Pharmacie Yasmine",
+   "address": "245 Rte souk El Arbaa hay Allaymoune bloc B, Mechraa Bel Ksiri",
+   "phone": "+212537906126",
+   "lat": 34.581245,
+   "lng": -5.958424,
+   "shift": "jour",
    "shift_label": ""
   }
  ],
  "center": [
-  34.5793,
-  -5.98
+  34.5812,
+  -5.9584
  ]
 }

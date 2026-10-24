@@ -7,17 +7,17 @@
  "kind": "roster",
  "pharmacies": [
   {
-   "name": "Pharmacie Bd Hassan II",
-   "address": "37 X bd Hassan II, Boujad",
-   "phone": "+212523414141",
-   "lat": 32.770864,
-   "lng": -6.384475,
-   "shift": "nuit",
+   "name": "Pharmacie la Santé",
+   "address": "242 av. Hassan II, Boujad",
+   "phone": "+212523413336",
+   "lat": 32.771222,
+   "lng": -6.386992,
+   "shift": "jour",
    "shift_label": ""
   }
  ],
  "center": [
-  32.7709,
-  -6.3845
+  32.7712,
+  -6.387
  ]
 }

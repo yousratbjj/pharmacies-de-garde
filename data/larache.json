@@ -7,17 +7,17 @@
  "kind": "roster",
  "pharmacies": [
   {
-   "name": "Pharmacie AlMaghreb ElJadid",
-   "address": "1871 lot Al Maghreb El Jadid, Larache",
-   "phone": "+212539523874",
-   "lat": 35.1646,
-   "lng": -6.1386,
-   "shift": "nuit",
+   "name": "Pharmacie Alkhadra",
+   "address": "111 bd Oqba Bnou Nafia, Larache",
+   "phone": "+212539910773",
+   "lat": 35.183133,
+   "lng": -6.1506,
+   "shift": "jour",
    "shift_label": ""
   }
  ],
  "center": [
-  35.1646,
-  -6.1386
+  35.1831,
+  -6.1506
  ]
 }

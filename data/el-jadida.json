@@ -7,39 +7,12 @@
  "kind": "roster",
  "pharmacies": [
   {
-   "name": "Pharmacie Achraf Al Idrissi",
-   "address": "bd Khalil Jabrane, Diar Al Mansour imm. 8 GH 52, n°6",
-   "phone": "+212523374920",
-   "lat": 33.230838,
-   "lng": -8.527671,
-   "shift": "",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie Albreija",
-   "address": "59 Pl. Abdelkrim Khattabi El jadida",
-   "phone": "+212523343928",
-   "lat": 33.2316326,
-   "lng": -8.5007116,
-   "shift": "",
-   "shift_label": ""
-  },
-  {
    "name": "Pharmacie Amwaj",
    "address": "53 lot Oussama 1 El Harraz El jadida",
    "phone": "+212523800493",
    "lat": 33.2466866,
    "lng": -8.53426,
-   "shift": "",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie Atlas",
-   "address": "rte de Marrakech, imm. Abou El Faraj",
-   "phone": "+212523340900",
-   "lat": 33.218832,
-   "lng": -8.4919657,
-   "shift": "",
+   "shift": "nuit",
    "shift_label": ""
   },
   {
@@ -48,57 +21,12 @@
    "phone": "+212523371099",
    "lat": 33.2440575,
    "lng": -8.4987398,
-   "shift": "",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie Hakima",
-   "address": "31, lotiss. Hakima, Sidi Moussa",
-   "phone": "+212523355653",
-   "lat": 33.2375,
-   "lng": -8.49145,
-   "shift": "",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie Izdihare",
-   "address": "hay Ennajd , n°1, Riad Essalam, Res. Izdihare",
-   "phone": "+212523392279",
-   "lat": 33.229406,
-   "lng": -8.512636,
-   "shift": "",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie la santé",
-   "address": "rte Sidi Bouzid, résid. Najmat AlJanoub III D1 n°5",
-   "phone": "+212523392487",
-   "lat": 33.2378167,
-   "lng": -8.5312333,
-   "shift": "",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie la source",
-   "address": "20 Bis, rue Jabal Habri",
-   "phone": "+212523393333",
-   "lat": 33.2549833,
-   "lng": -8.5173833,
-   "shift": "",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie l'Hôpital",
-   "address": "32 rue Fès Plateau El jadida",
-   "phone": "+212523355745",
-   "lat": 33.2355511,
-   "lng": -8.4791019,
-   "shift": "",
+   "shift": "nuit",
    "shift_label": ""
   }
  ],
  "center": [
-  33.2367,
-  -8.5085
+  33.2454,
+  -8.5165
  ]
 }

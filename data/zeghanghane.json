@@ -7,17 +7,26 @@
  "kind": "roster",
  "pharmacies": [
   {
-   "name": "Pharmacie Anoual",
-   "address": "Av. Mohamed V, Zghanghan",
-   "phone": "+212536352900",
-   "lat": 35.177267,
-   "lng": -2.9303,
+   "name": "Pharmacie Essalam",
+   "address": "313 bd Mohammed V, Zghanghan",
+   "phone": "+212536350190",
+   "lat": 35.153,
+   "lng": -3.005967,
+   "shift": "nuit",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie Le Prince",
+   "address": "bd Mohammed V Jouhara Soufla, Zghanghan",
+   "phone": "+212536351717",
+   "lat": 35.153767,
+   "lng": -2.959283,
    "shift": "nuit",
    "shift_label": ""
   }
  ],
  "center": [
-  35.1773,
-  -2.9303
+  35.1534,
+  -2.9826
  ]
 }

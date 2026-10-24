@@ -7,66 +7,12 @@
  "kind": "roster",
  "pharmacies": [
   {
-   "name": "Dar Al Idaa",
-   "address": "Hay Al Osra, Rue 50, N 161, Quartier R.T.M.",
-   "phone": "+212522503233",
-   "lat": 33.53571,
-   "lng": -7.579917,
-   "shift": "",
-   "shift_label": ""
-  },
-  {
-   "name": "DE L'HOPITAL MED V",
-   "address": "BOULEVARD DE LA GRANDE CEINTURE - LOT EL MOUAHIDINE N° 62 - (CINEMA MIRAGE) HAY MOHAMMADI",
-   "phone": "+212522357290",
-   "lat": 33.599334,
-   "lng": -7.624678,
-   "shift": "",
-   "shift_label": ""
-  },
-  {
-   "name": "FOUARAT",
-   "address": "N° 23, BD. EL FOUARAT - HAY EL QODS - CENTRE COMMERCIAL EL QODS 2 - SIDI BERNOUSSI",
-   "phone": "+212522766063",
-   "lat": 33.577063,
-   "lng": -7.566927,
-   "shift": "",
-   "shift_label": ""
-  },
-  {
-   "name": "Kounouz",
-   "address": "BOULEVARD CHEFCHAOUNI - ROUTE 110 KM 9,5 N 424 Quartier Industriel SIDI BERNOUSSI",
-   "phone": "+212522674703",
-   "lat": 33.6117,
-   "lng": -7.53087,
-   "shift": "",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie Ahmida",
-   "address": "rte 1100 cplxe com. Sidi Maarouf Oulad Haddou Sidi Maarouf Casablanca",
-   "phone": "+212522335587",
-   "lat": 33.515629,
-   "lng": -7.641776,
-   "shift": "",
-   "shift_label": ""
-  },
-  {
    "name": "Pharmacie Al Azhar Essalam",
    "address": "hay El Oulfa , q. Al Azhar, imm. 38, mag4",
    "phone": "+212522911718",
    "lat": 33.539896,
    "lng": -7.6916578,
-   "shift": "nuit",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie Attakwa",
-   "address": "derb Friha (cité Djemaa), rue n°20 Casablanca",
-   "phone": "+212522561935",
-   "lat": 33.553228,
-   "lng": -7.572734,
-   "shift": "",
+   "shift": "jour",
    "shift_label": ""
   },
   {
@@ -75,30 +21,84 @@
    "phone": "+212522247539",
    "lat": 33.5945563,
    "lng": -7.5869205,
-   "shift": "nuit",
+   "shift": "jour",
    "shift_label": ""
   },
   {
-   "name": "Pharmacie Bechar El Kheir",
-   "address": "35, hay Mohammadi, Quartier Bechar El Kheir",
-   "phone": "+212522635029",
-   "lat": 33.5919407,
-   "lng": -7.5700192,
-   "shift": "",
+   "name": "Pharmacie Croix du Sud",
+   "address": "62, rue Mohamed Sedki, Quartier Bourgogne",
+   "phone": "+212522277534",
+   "lat": 33.5935803,
+   "lng": -7.6349502,
+   "shift": "jour",
    "shift_label": ""
   },
   {
-   "name": "Pharmacie Benali",
-   "address": "hay Mansour extension rue 2 bloc 70, n°152 Casablanca",
-   "phone": "+212522754050",
-   "lat": 33.604004,
-   "lng": -7.507914,
-   "shift": "",
+   "name": "Pharmacie ElBachir",
+   "address": "62 X bd Haj Ahmed Mekouar -ex C.Caillat El Gantour Casablanca",
+   "phone": "+212522344127",
+   "lat": 33.6155063,
+   "lng": -7.5383059,
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie ElOuazzani",
+   "address": "75, lotiss. Al Moustakbal, Sidi Maârouf Casablanca",
+   "phone": "+212522975308",
+   "lat": 33.5278052,
+   "lng": -7.6515681,
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie Hind",
+   "address": "N 516 Bis, Lotissement Municipal, Bloc 2 - Hay Hassani",
+   "phone": "+212522914457",
+   "lat": 33.5641688,
+   "lng": -7.6707993,
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie Jabir Bnou Hayane",
+   "address": "500 bd Abdellah Senhaji - ex C Drissia 2 Hay El Farah Casablanca",
+   "phone": "+212522815364",
+   "lat": 33.5645702,
+   "lng": -7.5878875,
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie la Mission",
+   "address": "K120 cité Sidi Bernoussi km 12 résid. Al Boustane II Sidi bernoussi",
+   "phone": "+212522741930",
+   "lat": 33.6173458,
+   "lng": -7.4958349,
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie Marina",
+   "address": "54 rue Ibn Jahir -ex Taravo Hassan Casablanca",
+   "phone": "+212522942439",
+   "lat": 33.6001126,
+   "lng": -7.6481081,
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie Mly. Thami",
+   "address": "cité Essalam, n°1A, Gh 1 Casablanca",
+   "phone": "+212522895687",
+   "lat": 33.5519387,
+   "lng": -7.6928669,
+   "shift": "jour",
    "shift_label": ""
   }
  ],
  "center": [
-  33.5723,
-  -7.5873
+  33.5769,
+  -7.6199
  ]
 }

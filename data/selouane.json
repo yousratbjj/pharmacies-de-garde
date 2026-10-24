@@ -1,32 +1,32 @@
 {
  "city": "selouane",
  "label": "Selouane",
- "date": "2026-10-22",
+ "date": "2026-10-23",
  "source": "sahha.ma",
  "source_url": "https://sahha.ma/pharmacie-de-garde/selouane",
  "kind": "roster",
  "pharmacies": [
   {
-   "name": "Pharmacie Centrale la Perle",
-   "address": "2 Rte Nationale Al Omrane, Selouane",
-   "phone": "+212520715613",
-   "lat": 35.05945,
-   "lng": -2.91283,
-   "shift": "nuit",
+   "name": "Pharmacie AlOsra",
+   "address": "Place AlMassira, Selouane",
+   "phone": "+212536609081",
+   "lat": 35.07103,
+   "lng": -2.94159,
+   "shift": "jour",
    "shift_label": ""
   },
   {
-   "name": "Pharmacie Selouane",
-   "address": "Pharmacie Selouane",
-   "phone": "+212536358469",
-   "lat": 35.0708796,
-   "lng": -2.9407176,
-   "shift": "nuit",
+   "name": "Pharmacie Boulevard 30",
+   "address": "Boulevard 30 quartier Al Omrane, Selouane",
+   "phone": "+212538799914",
+   "lat": 35.07284,
+   "lng": -2.941719,
+   "shift": "jour",
    "shift_label": ""
   }
  ],
  "center": [
-  35.0652,
-  -2.9268
+  35.0719,
+  -2.9417
  ]
 }

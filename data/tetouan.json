@@ -7,35 +7,26 @@
  "kind": "roster",
  "pharmacies": [
   {
-   "name": "GRANDE NOUVELLE",
-   "address": "Avenue 10 Maiشارع 10 ماي",
-   "phone": "+212539966255",
-   "lat": 35.5716654,
-   "lng": -5.3764305,
-   "shift": "",
+   "name": "Pharmacie Babtout",
+   "address": "6 rue Prince Héritier, Tétouan",
+   "phone": "+212539967458",
+   "lat": 35.570883,
+   "lng": -5.371567,
+   "shift": "nuit",
    "shift_label": ""
   },
   {
-   "name": "Grande Pharmacie Nouvelle",
-   "address": "10 rue 10 Mai, Tétouan",
-   "phone": "+212539966255",
-   "lat": 35.571083,
-   "lng": -5.37565,
-   "shift": "",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie Chams",
-   "address": "6 lotis. Kasbat Azahra bloc 3 imm.A, Tétouan",
-   "phone": "+212627225059",
-   "lat": 35.58206,
-   "lng": -5.339392,
-   "shift": "",
+   "name": "Pharmacie Coelma",
+   "address": "63 av. Sidi Abdellah Alfakhar, Tétouan",
+   "phone": "+212539726752",
+   "lat": 35.56495,
+   "lng": -5.347233,
+   "shift": "nuit",
    "shift_label": ""
   }
  ],
  "center": [
-  35.5749,
-  -5.3638
+  35.5679,
+  -5.3594
  ]
 }

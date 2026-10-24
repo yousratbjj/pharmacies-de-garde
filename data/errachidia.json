@@ -7,17 +7,26 @@
  "kind": "roster",
  "pharmacies": [
   {
-   "name": "Pharmacie La Cité Universitaire",
-   "address": "535 lot Mly Ali Chérif, Errachidia",
-   "phone": "+212535572057",
-   "lat": 31.937651,
-   "lng": -4.452787,
-   "shift": "",
+   "name": "Pharmacie Al Mountazah",
+   "address": "528 X lotiss. Oued Eddahab, Errachidia",
+   "phone": "+212535791705",
+   "lat": 31.916333,
+   "lng": -4.444607,
+   "shift": "nuit",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie Ennakhil",
+   "address": "95 bd Al Alaouiyine Al Mouhit, Errachidia",
+   "phone": "+212535571898",
+   "lat": 31.929551,
+   "lng": -4.433809,
+   "shift": "nuit",
    "shift_label": ""
   }
  ],
  "center": [
-  31.9377,
-  -4.4528
+  31.9229,
+  -4.4392
  ]
 }

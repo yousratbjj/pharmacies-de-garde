@@ -12,16 +12,16 @@
    "phone": "+212535969242",
    "lat": 33.83212,
    "lng": -4.83702,
-   "shift": "nuit",
+   "shift": "jour",
    "shift_label": ""
   },
   {
    "name": "Pharmacie la Colline",
    "address": "102 Lotissement Lalla Moulati rte. El Menzel, Séfrou",
-   "phone": "+212535661818",
+   "phone": "+212535683887",
    "lat": 33.825433,
    "lng": -4.821717,
-   "shift": "nuit",
+   "shift": "jour",
    "shift_label": ""
   },
   {
@@ -30,7 +30,7 @@
    "phone": "+212535662264",
    "lat": 33.8333,
    "lng": -4.828833,
-   "shift": "nuit",
+   "shift": "jour",
    "shift_label": ""
   },
   {
@@ -39,12 +39,30 @@
    "phone": "+212535660562",
    "lat": 33.825066,
    "lng": -4.836497,
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie la Province",
+   "address": "q. chram v.n., Séfrou",
+   "phone": "+212535682139",
+   "lat": 33.828709,
+   "lng": -4.833836,
+   "shift": "nuit",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie Zine El Abidine",
+   "address": "lotiss. Atlas Ben Seffar, Séfrou",
+   "phone": "+212535969632",
+   "lat": 33.83405,
+   "lng": -4.81895,
    "shift": "nuit",
    "shift_label": ""
   }
  ],
  "center": [
-  33.829,
-  -4.831
+  33.8298,
+  -4.8295
  ]
 }

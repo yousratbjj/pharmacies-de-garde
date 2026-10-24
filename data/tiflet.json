@@ -7,17 +7,17 @@
  "kind": "roster",
  "pharmacies": [
   {
-   "name": "Pharmacie Oued Dahab",
-   "address": "hay ElJadid bloc 11, Tiflet",
-   "phone": "+212537511879",
-   "lat": 33.88813,
-   "lng": -6.31528,
-   "shift": "",
+   "name": "Pharmacie Pasteur",
+   "address": "79 hay Andalous - Autre ville, Tiflet",
+   "phone": "+212537515858",
+   "lat": 33.90005,
+   "lng": -6.32934,
+   "shift": "nuit",
    "shift_label": ""
   }
  ],
  "center": [
-  33.8881,
-  -6.3153
+  33.9001,
+  -6.3293
  ]
 }

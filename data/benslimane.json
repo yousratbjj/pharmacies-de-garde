@@ -97,20 +97,20 @@
    "shift_label": "Pharmacies de jour"
   },
   {
-   "name": "Pharmacie Jorio",
-   "address": "Pharmacie Jorio BENSLIMANE Ben Slimane Ben Slimane Benslimane",
-   "phone": "+212 523 29 74 72",
-   "lat": 33.6278567,
-   "lng": -7.1325229,
-   "shift": "24h",
-   "shift_label": "Pharmacies 24h/24"
-  },
-  {
    "name": "Pharmacie Omar",
    "address": "Pharmacie Omar BENSLIMANE Ben Slimane Ben Slimane Benslimane",
    "phone": "+212 523 29 10 37",
    "lat": 33.6258383,
    "lng": -7.1356178,
+   "shift": "24h",
+   "shift_label": "Pharmacies 24h/24"
+  },
+  {
+   "name": "Pharmacie Jorio",
+   "address": "Pharmacie Jorio BENSLIMANE Ben Slimane Ben Slimane Benslimane",
+   "phone": "+212 523 29 74 72",
+   "lat": 33.6278567,
+   "lng": -7.1325229,
    "shift": "24h",
    "shift_label": "Pharmacies 24h/24"
   }
