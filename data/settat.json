@@ -16,11 +16,11 @@
    "shift_label": "Pharmacies de jour"
   },
   {
-   "name": "Pharmacie des Familles",
-   "address": "229, bd Abdellah Echafchaouni , bloc \"F\", hay Hassani Berrechid Berrechid Settat",
-   "phone": "+212 522 32 58 23",
-   "lat": 33.27426,
-   "lng": -7.571736,
+   "name": "Pharmacie Al-Oum",
+   "address": "52, bd ElHouria, Maghrib Eljadid Berrechid Berrechid Settat",
+   "phone": "+212 522 32 41 76",
+   "lat": 33.265356,
+   "lng": -7.579744,
    "shift": "jour",
    "shift_label": "Pharmacies de jour"
   },
@@ -34,11 +34,11 @@
    "shift_label": "Pharmacies de jour"
   },
   {
-   "name": "Pharmacie Al-Oum",
-   "address": "52, bd ElHouria, Maghrib Eljadid Berrechid Berrechid Settat",
-   "phone": "+212 522 32 41 76",
-   "lat": 33.265356,
-   "lng": -7.579744,
+   "name": "Pharmacie des Familles",
+   "address": "229, bd Abdellah Echafchaouni , bloc \"F\", hay Hassani Berrechid Berrechid Settat",
+   "phone": "+212 522 32 58 23",
+   "lat": 33.27426,
+   "lng": -7.571736,
    "shift": "jour",
    "shift_label": "Pharmacies de jour"
   },

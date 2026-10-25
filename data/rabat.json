@@ -7,75 +7,75 @@
  "kind": "roster",
  "pharmacies": [
   {
-   "name": "Pharmacie ATTAISSIR",
-   "address": "443 Rue Alhassoune Hay Al Manzah C.Y.M (A Côté De Youpi Et Du Restaurant Piccola Italia)",
-   "phone": "+212537280296",
-   "lat": 33.977889,
-   "lng": -6.892361,
-   "shift": "nuit",
+   "name": "Pharmacie AKKARI",
+   "address": "57, rue Sidi Ahmed Akkari",
+   "phone": "+212537691086",
+   "lat": 34.0223999,
+   "lng": -6.8345399,
+   "shift": "jour",
    "shift_label": ""
   },
   {
-   "name": "Pharmacie CENTRE CHEQUES POSTAUX",
-   "address": "45, Av Moulay Ismail HASSAN",
-   "phone": "+212537726216",
-   "lat": 34.0209414,
-   "lng": -6.8267249,
-   "shift": "nuit",
+   "name": "Pharmacie AL BOUSTANE",
+   "address": "69 Amal 4 Complémentaire (Près de l'accés supérieur de la feraille) C.Y.M",
+   "phone": "+212537799293",
+   "lat": 33.980139,
+   "lng": -6.888333,
+   "shift": "jour",
    "shift_label": ""
   },
   {
-   "name": "Pharmacie CHOUKROALLAH",
-   "address": "À côté Av Al Majd 9 bis bloc DG Kouass (Ancien poste pointage taxi et Achoura) C.Y.M",
-   "phone": "+212537792355",
-   "lat": 33.9876508,
-   "lng": -6.8732679,
-   "shift": "nuit",
+   "name": "Pharmacie BIN EL OUIDANE",
+   "address": "Angle Av Bin El Ouidane Rue El Gansra Agdal",
+   "phone": "+212537772478",
+   "lat": 34.006611,
+   "lng": -6.85075,
+   "shift": "jour",
    "shift_label": ""
   },
   {
-   "name": "Pharmacie DU CROISSANT",
-   "address": "200 Avenue Mohamed Ben Abdellah - Akkari",
-   "phone": "+212537690423",
-   "lat": 34.012941,
-   "lng": -6.857298,
-   "shift": "nuit",
+   "name": "Pharmacie CHENIER",
+   "address": "27 Rue Tunis Hassan",
+   "phone": "+212537201539",
+   "lat": 34.018833,
+   "lng": -6.823,
+   "shift": "jour",
    "shift_label": ""
   },
   {
-   "name": "Pharmacie GARE AGDAL",
-   "address": "A l’intérieur de la gare Al Boraq A l’intérieur gare Al Boraq A Côté Starbucks Rue Abderrahmane Ghafiki",
-   "phone": "+212537774220",
-   "lat": 34.000417,
-   "lng": -6.855556,
-   "shift": "nuit",
+   "name": "Pharmacie DIOUR JAMAA",
+   "address": "Rue Tahiti sur Avenue Hassan II",
+   "phone": "+212537261668",
+   "lat": 34.016611,
+   "lng": -6.846583,
+   "shift": "jour",
    "shift_label": ""
   },
   {
-   "name": "Pharmacie GHAYT",
-   "address": "Av Nakhil Résidence Ryad Al Otors",
-   "phone": "+212537571572",
-   "lat": 33.950894,
-   "lng": -6.860279,
-   "shift": "nuit",
+   "name": "Pharmacie LE CLARIDGE",
+   "address": "Av Ahmed Rifai Complexe prestige extension (Entre Pizza Hut Souissi et Ecole Minbet)",
+   "phone": "+212537654055",
+   "lat": 33.9730833,
+   "lng": -6.8321389,
+   "shift": "jour",
    "shift_label": ""
   },
   {
-   "name": "Pharmacie HASSANIA",
-   "address": "Av Ahmed Reda Guidira Résidence Nakhil - Rabat (Prés De Dar El Khobz Et Hammam Aouicha)",
-   "phone": "+212537657429",
-   "lat": 33.979309,
-   "lng": -6.813899,
-   "shift": "nuit",
+   "name": "Pharmacie MARJOLAINE",
+   "address": "Rue la méditerranée,n 62, al montalak 2, C.Y.M",
+   "phone": "+212537291233",
+   "lat": 33.9697277,
+   "lng": -6.9043373,
+   "shift": "jour",
    "shift_label": ""
   },
   {
-   "name": "Pharmacie HAY AL KORA",
-   "address": "93, Lot Sidi Elyabouri Douar Al Kora C.Y.M",
-   "phone": "+212537299176",
-   "lat": 33.9962576,
-   "lng": -6.8779726,
-   "shift": "nuit",
+   "name": "Pharmacie YA-SIN",
+   "address": "1-2 Mosquée Nahda Hay Nahda II",
+   "phone": "+212537754008",
+   "lat": 33.972831,
+   "lng": -6.819991,
+   "shift": "jour",
    "shift_label": ""
   },
   {
@@ -84,12 +84,21 @@
    "phone": "+212537714676",
    "lat": 33.9541389,
    "lng": -6.8611944,
-   "shift": "nuit",
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie ATTAISSIR",
+   "address": "443 Rue Alhassoune Hay Al Manzah C.Y.M (A Côté De Youpi Et Du Restaurant Piccola Italia)",
+   "phone": "+212537280296",
+   "lat": 33.977889,
+   "lng": -6.892361,
+   "shift": "jour",
    "shift_label": ""
   }
  ],
  "center": [
-  33.9867,
-  -6.8576
+  33.9892,
+  -6.8553
  ]
 }
