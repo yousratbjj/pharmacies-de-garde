@@ -1,7 +1,7 @@
 {
  "city": "tamesna",
  "label": "Tamesna",
- "date": "2026-10-19",
+ "date": "2026-10-25",
  "source": "sahha.ma",
  "source_url": "https://sahha.ma/pharmacie-de-garde/tamesna",
  "kind": "roster",
@@ -12,12 +12,39 @@
    "phone": "",
    "lat": 33.8388973,
    "lng": -6.9324059,
-   "shift": "jour",
+   "shift": "",
+   "shift_label": ""
+  },
+  {
+   "name": "MASJID ANNOUR",
+   "address": "39 Gr6 Résidence Annour 139 مجموعة 6 إقامة النور 1",
+   "phone": "",
+   "lat": 33.8470047,
+   "lng": -6.9359075,
+   "shift": "",
+   "shift_label": ""
+  },
+  {
+   "name": "RIAD 1TAMESNA",
+   "address": "Arsat Tamesna Residence Lilas Magasin N 1عرصة تامسنا إقانة ليلاس محل رقم 1",
+   "phone": "",
+   "lat": 33.8387902,
+   "lng": -6.913033,
+   "shift": "",
+   "shift_label": ""
+  },
+  {
+   "name": "TAMESNA",
+   "address": "Hiba 1, Immeuble 9, N 5هبة، عمارة 9, رقم 5",
+   "phone": "",
+   "lat": 33.8387902,
+   "lng": -6.913033,
+   "shift": "",
    "shift_label": ""
   }
  ],
  "center": [
-  33.8389,
-  -6.9324
+  33.8409,
+  -6.9236
  ]
 }
