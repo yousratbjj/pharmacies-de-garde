@@ -1,7 +1,7 @@
 {
  "city": "oujda",
  "label": "Oujda",
- "date": "2026-10-24",
+ "date": "2026-10-25",
  "source": "sahha.ma",
  "source_url": "https://sahha.ma/pharmacie-de-garde/oujda",
  "kind": "roster",
@@ -16,38 +16,20 @@
    "shift_label": ""
   },
   {
-   "name": "Pharmacie Centrale Ain Serrak",
-   "address": "N 209, Rue D57, Lotissement Laalaj",
-   "phone": "+212536712009",
-   "lat": 34.6576683,
-   "lng": -1.9260256,
-   "shift": "nuit",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie ElHouda",
-   "address": "Hay Elwahda E11 , n 31 Tarik ElGharb",
-   "phone": "+212536518630",
-   "lat": 34.6793526,
-   "lng": -1.939353,
-   "shift": "nuit",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie Hicham",
-   "address": "lotiss. Loukili n 6 , Derb Berrahmoune",
-   "phone": "+212536745739",
-   "lat": 34.6819079,
-   "lng": -1.8931785,
-   "shift": "nuit",
-   "shift_label": ""
-  },
-  {
    "name": "Pharmacie Ihyae Chark",
-   "address": "195 hay Agdal - Autre ville lot Ihyae Chark, Oujda",
+   "address": "HAY AGDAL II.RTE SIDI YAHYA.",
    "phone": "+212536542116",
-   "lat": 34.682384,
-   "lng": -1.853442,
+   "lat": 34.6800701,
+   "lng": -1.8575628,
+   "shift": "nuit",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie Moderne",
+   "address": "35, Rue De Marrakech",
+   "phone": "+212536682871",
+   "lat": 34.68185,
+   "lng": -1.912017,
    "shift": "nuit",
    "shift_label": ""
   },
@@ -62,25 +44,25 @@
   },
   {
    "name": "Pharmacie Palais de Justice",
-   "address": "78 rue Oued Oum Errabia Lotiss iris, Oujda",
+   "address": "78, rue Oued Oum Errabia, Lotiss iris",
    "phone": "+212536532500",
-   "lat": 34.660474,
-   "lng": -1.914038,
+   "lat": 34.6603146,
+   "lng": -1.9140592,
    "shift": "nuit",
    "shift_label": ""
   },
   {
-   "name": "Pharmacie Tennis",
-   "address": "rte Maghnia , bloc 3 n 19.",
-   "phone": "+212536690602",
-   "lat": 34.6982347,
-   "lng": -1.8972911,
+   "name": "PHARMACIE MOUSSAOUI",
+   "address": "Hay Al Hassani Annour Borj N°3",
+   "phone": "",
+   "lat": 34.7181658,
+   "lng": -1.8976851,
    "shift": "nuit",
    "shift_label": ""
   }
  ],
  "center": [
-  34.6748,
-  -1.9071
+  34.6799,
+  -1.9025
  ]
 }

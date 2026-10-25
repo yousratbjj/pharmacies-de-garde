@@ -1,32 +1,23 @@
 {
  "city": "taza",
  "label": "Taza",
- "date": "2026-10-24",
+ "date": "2026-10-25",
  "source": "sahha.ma",
  "source_url": "https://sahha.ma/pharmacie-de-garde/taza",
  "kind": "roster",
  "pharmacies": [
   {
-   "name": "Pharmacie Adarissa",
-   "address": "17 bd Bir Anzarane - Autre ville, Taza",
-   "phone": "+212535673238",
-   "lat": 34.231241,
-   "lng": -4.012895,
-   "shift": "",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie Bab Zitouna",
-   "address": "bd. My Ismaïl, Taza",
-   "phone": "+212535270268",
-   "lat": 34.208083,
-   "lng": -4.0198,
-   "shift": "",
+   "name": "Pharmacie Ibn Rochd",
+   "address": "85 rue Sultan Abou Elhassan, Taza",
+   "phone": "+212535672133",
+   "lat": 34.224,
+   "lng": -4.007133,
+   "shift": "nuit",
    "shift_label": ""
   }
  ],
  "center": [
-  34.2197,
-  -4.0163
+  34.224,
+  -4.0071
  ]
 }

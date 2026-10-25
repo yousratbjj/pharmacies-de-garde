@@ -1,23 +1,23 @@
 {
  "city": "tiflet",
  "label": "Tiflet",
- "date": "2026-10-24",
+ "date": "2026-10-25",
  "source": "sahha.ma",
  "source_url": "https://sahha.ma/pharmacie-de-garde/tiflet",
  "kind": "roster",
  "pharmacies": [
   {
-   "name": "Pharmacie Pasteur",
-   "address": "79 hay Andalous - Autre ville, Tiflet",
-   "phone": "+212537515858",
-   "lat": 33.90005,
-   "lng": -6.32934,
-   "shift": "",
+   "name": "Pharmacie Ibn Sina (Avicenne)",
+   "address": "bd Ibn Sina hay Rachad, Tiflet",
+   "phone": "+212537512580",
+   "lat": 33.89977,
+   "lng": -6.32905,
+   "shift": "nuit",
    "shift_label": ""
   }
  ],
  "center": [
-  33.9001,
-  -6.3293
+  33.8998,
+  -6.329
  ]
 }

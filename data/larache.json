@@ -1,23 +1,32 @@
 {
  "city": "larache",
  "label": "Larache",
- "date": "2026-10-24",
+ "date": "2026-10-25",
  "source": "sahha.ma",
  "source_url": "https://sahha.ma/pharmacie-de-garde/larache",
  "kind": "roster",
  "pharmacies": [
   {
-   "name": "Pharmacie Alkhadra",
-   "address": "111 bd Oqba Bnou Nafia, Larache",
-   "phone": "+212539910773",
-   "lat": 35.183133,
-   "lng": -6.1506,
+   "name": "Pharmacie hay Nador",
+   "address": "rue jakarta jnane bouhssina, Larache",
+   "phone": "+212539916004",
+   "lat": 35.192537,
+   "lng": -6.1617,
+   "shift": "nuit",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie Salama",
+   "address": "161 bd Oqba Ibn Nafie, Larache",
+   "phone": "+212539915786",
+   "lat": 35.184167,
+   "lng": -6.150267,
    "shift": "nuit",
    "shift_label": ""
   }
  ],
  "center": [
-  35.1831,
-  -6.1506
+  35.1884,
+  -6.156
  ]
 }

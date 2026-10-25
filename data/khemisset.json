@@ -1,23 +1,32 @@
 {
  "city": "khemisset",
  "label": "Khémisset",
- "date": "2026-10-24",
+ "date": "2026-10-25",
  "source": "sahha.ma",
  "source_url": "https://sahha.ma/pharmacie-de-garde/khemisset",
  "kind": "roster",
  "pharmacies": [
   {
-   "name": "Pharmacie Al Mansour",
-   "address": "243 av. Tawfik Al Hakim RWF8, Khémisset",
-   "phone": "+212537551952",
-   "lat": 33.822448,
-   "lng": -6.084573,
+   "name": "Pharmacie AlMasjid AlKadim",
+   "address": "36 X rue M'Barek El Bekay, Khémisset",
+   "phone": "+212537556027",
+   "lat": 33.823667,
+   "lng": -6.068683,
+   "shift": "nuit",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie Firdaous",
+   "address": "158 X rue Cdt Driss Harti hay Essalam, Khémisset",
+   "phone": "+212537550550",
+   "lat": 33.829542,
+   "lng": -6.067456,
    "shift": "nuit",
    "shift_label": ""
   }
  ],
  "center": [
-  33.8224,
-  -6.0846
+  33.8266,
+  -6.0681
  ]
 }

@@ -1,95 +1,104 @@
 {
  "city": "meknes",
  "label": "Meknès",
- "date": "2026-10-24",
+ "date": "2026-10-25",
  "source": "sahha.ma",
  "source_url": "https://sahha.ma/pharmacie-de-garde/meknes",
  "kind": "roster",
  "pharmacies": [
   {
-   "name": "Pharmacie Ain Chebbik",
-   "address": "542 rue Sakia El Hamra Ain Chebbik, Meknès",
-   "phone": "+212535521559",
-   "lat": 33.907583,
-   "lng": -5.538795,
+   "name": "Pharmacie AlFirdaous",
+   "address": "65 rue Yougoslavie Hamria Meknés, Meknès",
+   "phone": "+212535525230",
+   "lat": 33.9074,
+   "lng": -5.556617,
    "shift": "jour",
    "shift_label": ""
   },
   {
-   "name": "Pharmacie Al Khalil",
-   "address": "23 lotiss. Al Mountazah 1 - Autre ville bloc 25 Mejjat, Meknès",
-   "phone": "+212535466055",
-   "lat": 33.84961,
-   "lng": -5.559542,
+   "name": "Pharmacie Al Izdihar",
+   "address": "hay El Izdihar sect 10 n°4 Bmo, Meknès",
+   "phone": "+212535524549",
+   "lat": 33.905361,
+   "lng": -5.523262,
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie Belmadani",
+   "address": "155 Diar Al Madina Ait Ouallal, Meknès",
+   "phone": "+212532037461",
+   "lat": 33.854934,
+   "lng": -5.591571,
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie Dkhissa Ouislane",
+   "address": "26 lotiss. Addoha, Meknès",
+   "phone": "+212663289828",
+   "lat": 33.929851,
+   "lng": -5.500975,
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie Elfath",
+   "address": "26 rue Sekkakine, Meknès",
+   "phone": "+212535531780",
+   "lat": 33.8932,
+   "lng": -5.567083,
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie ElMenzeh",
+   "address": "6 bd Allal El Fassi, Meknès",
+   "phone": "+212535526758",
+   "lat": 33.905167,
+   "lng": -5.529817,
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie Lahlali",
+   "address": "hay Atlas Elkheir 1, Meknès",
+   "phone": "+212535463672",
+   "lat": 33.9004099,
+   "lng": -5.5485418,
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie Oujah Arrous",
+   "address": "4021 bd El Kebir Oujah Arrous, Meknès",
+   "phone": "+212535532606",
+   "lat": 33.903467,
+   "lng": -5.577633,
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie Riad Assiha",
+   "address": "322 bd Massira El Khadra hay Riad Ouislane, Meknès",
+   "phone": "+212535548137",
+   "lat": 33.915817,
+   "lng": -5.48215,
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie Riad El Ghali",
+   "address": "16 rue Palestine - Autre ville, Meknès",
+   "phone": "+212535055342",
+   "lat": 33.888697,
+   "lng": -5.571056,
    "shift": "nuit",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie AlKhassa",
-   "address": "24 rue Safi résid. El Houssaini v.n, Meknès",
-   "phone": "+212535403598",
-   "lat": 33.89735,
-   "lng": -5.552667,
-   "shift": "jour",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie Anasse",
-   "address": "hay Al Bassatine rue 21 n°480 Olm, Meknès",
-   "phone": "+212535501854",
-   "lat": 33.8934,
-   "lng": -5.503917,
-   "shift": "jour",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie Chorafas",
-   "address": "27 bd Annasr Sidi Saîd, Meknès",
-   "phone": "+212535537204",
-   "lat": 33.889483,
-   "lng": -5.579067,
-   "shift": "jour",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie Khalid",
-   "address": "hay Ouislane imm 6 El Majd 5, Meknès",
-   "phone": "+212535548900",
-   "lat": 33.903667,
-   "lng": -5.534918,
-   "shift": "jour",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie La Farge",
-   "address": "76 lotiss. la Farge, Meknès",
-   "phone": "+212535509100",
-   "lat": 33.909587,
-   "lng": -5.491321,
-   "shift": "jour",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie My Ali Cherif",
-   "address": "bd Bir Anzarane Sidi Bouzekri marjane 5 n°1551, Meknès",
-   "phone": "+212535454682",
-   "lat": 33.85675,
-   "lng": -5.528717,
-   "shift": "jour",
-   "shift_label": ""
-  },
-  {
-   "name": "PHARMACIE ABOU ALI",
-   "address": "5 lotiss. Al Ataoui, Meknès5تجزئة العطاوي5تجزئة العطاوي5تجزئة العطاوي",
-   "phone": "+212535463581",
-   "lat": 33.88043,
-   "lng": -5.581542,
-   "shift": "jour",
    "shift_label": ""
   }
  ],
  "center": [
-  33.8875,
-  -5.5412
+  33.9004,
+  -5.5449
  ]
 }

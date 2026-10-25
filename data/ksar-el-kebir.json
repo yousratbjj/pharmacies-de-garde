@@ -1,23 +1,32 @@
 {
  "city": "ksar-el-kebir",
  "label": "Ksar El Kebir",
- "date": "2026-10-24",
+ "date": "2026-10-25",
  "source": "sahha.ma",
  "source_url": "https://sahha.ma/pharmacie-de-garde/ksar-el-kebir",
  "kind": "roster",
  "pharmacies": [
   {
-   "name": "Pharmacie Ksar ElKebir",
-   "address": "7 av. de La Station, Ksar El Kébir",
-   "phone": "+212539906462",
-   "lat": 34.99629,
-   "lng": -5.902528,
+   "name": "Pharmacie l'Hôpital",
+   "address": "1 lotiss. Al Ouahda rte de Larache, Ksar El Kébir",
+   "phone": "+212539906976",
+   "lat": 35.013147,
+   "lng": -5.910959,
+   "shift": "nuit",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie Mansour Eddahbi",
+   "address": "hay Sidi Redwan Derb 1 n°3, Ksar El Kébir",
+   "phone": "+212539906852",
+   "lat": 35.002545,
+   "lng": -5.903442,
    "shift": "nuit",
    "shift_label": ""
   }
  ],
  "center": [
-  34.9963,
-  -5.9025
+  35.0078,
+  -5.9072
  ]
 }

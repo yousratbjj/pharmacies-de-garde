@@ -1,26 +1,62 @@
 {
  "city": "kenitra",
  "label": "Kénitra",
- "date": "2026-10-24",
+ "date": "2026-10-25",
  "source": "sahha.ma",
  "source_url": "https://sahha.ma/pharmacie-de-garde/kenitra",
  "kind": "roster",
  "pharmacies": [
   {
-   "name": "Pharmacie Ennasr",
-   "address": "hay Bab Fès lotiss. Haj Salah n°1, Kénitra",
-   "phone": "+212537387900",
-   "lat": 34.272106,
-   "lng": -6.557952,
+   "name": "Pharmacie Avicennes",
+   "address": "bd Mohammed V carrefour Mimosas, Kénitra",
+   "phone": "+212537374874",
+   "lat": 34.255825,
+   "lng": -6.597156,
    "shift": "nuit",
    "shift_label": ""
   },
   {
-   "name": "Pharmacie Jamaâ M'chich",
-   "address": "rue Mohamed Mahjoubi - Autre ville, Kénitra",
-   "phone": "+212808684998",
-   "lat": 34.245037,
-   "lng": -6.598511,
+   "name": "Pharmacie Elmassira",
+   "address": "hay Chabab grp. 90, Kénitra",
+   "phone": "+212537380627",
+   "lat": 34.252018,
+   "lng": -6.550299,
+   "shift": "nuit",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie GOLF",
+   "address": "قرب مسجد الأنوار وقرب بيم القجيم الهاتف. 14 80 38 0537",
+   "phone": "+212537388014",
+   "lat": 34.2624279,
+   "lng": -6.6428426,
+   "shift": "nuit",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie Ibn Rochd",
+   "address": "102 rue Aryada quartier la Cigogne, Kénitra",
+   "phone": "+212537363598",
+   "lat": 34.260506,
+   "lng": -6.567739,
+   "shift": "nuit",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie Jnane Ikbal",
+   "address": "2072 hay Bir Rami Lotiss Jnane, Kénitra",
+   "phone": "+212700808586",
+   "lat": 34.221456,
+   "lng": -6.613931,
+   "shift": "nuit",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie MAAOUI",
+   "address": "إقامة أليانس الجديدة (أمام حديقة الألعاب العليا) الهاتف. 32 12 25 0530",
+   "phone": "+212530251232",
+   "lat": 34.2523923,
+   "lng": -6.6567771,
    "shift": "nuit",
    "shift_label": ""
   },
@@ -32,10 +68,19 @@
    "lng": -6.6553538,
    "shift": "nuit",
    "shift_label": ""
+  },
+  {
+   "name": "Pharmacie Siham",
+   "address": "hay Al Maghrib Al Arabi D lot 63, Kénitra",
+   "phone": "+212537360805",
+   "lat": 34.255766,
+   "lng": -6.614017,
+   "shift": "nuit",
+   "shift_label": ""
   }
  ],
  "center": [
-  34.2584,
-  -6.6039
+  34.2523,
+  -6.6123
  ]
 }

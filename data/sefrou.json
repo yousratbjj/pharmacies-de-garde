@@ -1,11 +1,20 @@
 {
  "city": "sefrou",
  "label": "Sefrou",
- "date": "2026-10-24",
+ "date": "2026-10-25",
  "source": "sahha.ma",
  "source_url": "https://sahha.ma/pharmacie-de-garde/sefrou",
  "kind": "roster",
  "pharmacies": [
+  {
+   "name": "Pharmacie Cascades",
+   "address": "rue Errachad bloc 2 n°°167, Séfrou",
+   "phone": "+212535682925",
+   "lat": 33.837071,
+   "lng": -4.825672,
+   "shift": "nuit",
+   "shift_label": ""
+  },
   {
    "name": "Pharmacie Habitat",
    "address": "114 bd Hassan 1ér Sette Massouda, Séfrou",
@@ -43,26 +52,17 @@
    "shift_label": ""
   },
   {
-   "name": "Pharmacie la Province",
-   "address": "q. chram v.n., Séfrou",
-   "phone": "+212535682139",
-   "lat": 33.828709,
-   "lng": -4.833836,
-   "shift": "nuit",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie Zine El Abidine",
-   "address": "lotiss. Atlas Ben Seffar, Séfrou",
-   "phone": "+212535969632",
-   "lat": 33.83405,
-   "lng": -4.81895,
+   "name": "Pharmacie Razi",
+   "address": "220 av Yaâcoub El Mansour, Séfrou",
+   "phone": "+212535969460",
+   "lat": 33.832817,
+   "lng": -4.834467,
    "shift": "nuit",
    "shift_label": ""
   }
  ],
  "center": [
-  33.8298,
-  -4.8295
+  33.831,
+  -4.8307
  ]
 }

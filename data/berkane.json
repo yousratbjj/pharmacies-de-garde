@@ -1,7 +1,7 @@
 {
  "city": "berkane",
  "label": "Berkane",
- "date": "2026-10-24",
+ "date": "2026-10-25",
  "source": "sahha.ma",
  "source_url": "https://sahha.ma/pharmacie-de-garde/berkane",
  "kind": "roster",
@@ -12,6 +12,15 @@
    "phone": "+212536617761",
    "lat": 34.894536,
    "lng": -2.289742,
+   "shift": "nuit",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie Bouhdila",
+   "address": "44 rue Moulouya hay El Fath, Berkane",
+   "phone": "+212536612002",
+   "lat": 34.930033,
+   "lng": -2.34125,
    "shift": "nuit",
    "shift_label": ""
   },
@@ -32,10 +41,19 @@
    "lng": -2.345315,
    "shift": "nuit",
    "shift_label": ""
+  },
+  {
+   "name": "Pharmacie Ouartass",
+   "address": "hay Zellaka rue 465, Berkane",
+   "phone": "+212536615727",
+   "lat": 34.913017,
+   "lng": -2.319333,
+   "shift": "nuit",
+   "shift_label": ""
   }
  ],
  "center": [
-  34.9186,
-  -2.3205
+  34.9198,
+  -2.3244
  ]
 }

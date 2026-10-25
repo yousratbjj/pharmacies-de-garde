@@ -1,32 +1,32 @@
 {
  "city": "tetouan",
  "label": "Tétouan",
- "date": "2026-10-24",
+ "date": "2026-10-25",
  "source": "sahha.ma",
  "source_url": "https://sahha.ma/pharmacie-de-garde/tetouan",
  "kind": "roster",
  "pharmacies": [
   {
-   "name": "Pharmacie Babtout",
-   "address": "6 rue Prince Héritier, Tétouan",
-   "phone": "+212539967458",
-   "lat": 35.570883,
-   "lng": -5.371567,
-   "shift": "",
+   "name": "Pharmacie Achifaa",
+   "address": "17 av. Mohamed Torres, Tétouan",
+   "phone": "+212539965511",
+   "lat": 35.56955,
+   "lng": -5.37185,
+   "shift": "nuit",
    "shift_label": ""
   },
   {
-   "name": "Pharmacie Coelma",
-   "address": "63 av. Sidi Abdellah Alfakhar, Tétouan",
-   "phone": "+212539726752",
-   "lat": 35.56495,
-   "lng": -5.347233,
-   "shift": "",
+   "name": "Pharmacie Chtouki",
+   "address": "13 bd Hassan al mahdi, Tétouan",
+   "phone": "+212700761585",
+   "lat": 35.567066,
+   "lng": -5.404418,
+   "shift": "nuit",
    "shift_label": ""
   }
  ],
  "center": [
-  35.5679,
-  -5.3594
+  35.5683,
+  -5.3881
  ]
 }

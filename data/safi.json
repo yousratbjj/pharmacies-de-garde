@@ -1,23 +1,23 @@
 {
  "city": "safi",
  "label": "Safi",
- "date": "2026-10-24",
+ "date": "2026-10-25",
  "source": "sahha.ma",
  "source_url": "https://sahha.ma/pharmacie-de-garde/safi",
  "kind": "roster",
  "pharmacies": [
   {
    "name": "Pharmacie Ezzaouia",
-   "address": "10, Rue Caïd Sidi Ouassel,",
+   "address": "10 rue Caïd Sidi Ouassel SAFI",
    "phone": "+212524651801",
-   "lat": 32.2664715,
-   "lng": -9.2464395,
+   "lat": 32.2664755,
+   "lng": -9.2464839,
    "shift": "nuit",
    "shift_label": ""
   },
   {
    "name": "Pharmacie la Marine",
-   "address": "83, Bd Chakib Arssalane , Oued Elbacha",
+   "address": "83 bd Chakib Arssalane oued ElBacha Safi",
    "phone": "+212524630608",
    "lat": 32.3072904,
    "lng": -9.2378754,
@@ -26,7 +26,7 @@
   },
   {
    "name": "Pharmacie Route Marrakech",
-   "address": "rte de Marrakech lotiss. Al Kods n°3 Safi",
+   "address": "Num3 Lotissement Al Qods Route De Marrkech",
    "phone": "+212524621038",
    "lat": 32.2980725,
    "lng": -9.2070955,

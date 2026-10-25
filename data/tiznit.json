@@ -1,7 +1,7 @@
 {
  "city": "tiznit",
  "label": "Tiznit",
- "date": "2026-10-24",
+ "date": "2026-10-25",
  "source": "sahha.ma",
  "source_url": "https://sahha.ma/pharmacie-de-garde/tiznit",
  "kind": "roster",
@@ -12,7 +12,7 @@
    "phone": "+212528864433",
    "lat": 29.687548,
    "lng": -9.729171,
-   "shift": "",
+   "shift": "nuit",
    "shift_label": ""
   }
  ],

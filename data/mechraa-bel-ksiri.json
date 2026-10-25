@@ -1,23 +1,23 @@
 {
  "city": "mechraa-bel-ksiri",
  "label": "Mechraâ Bel Ksiri",
- "date": "2026-10-24",
+ "date": "2026-10-25",
  "source": "sahha.ma",
  "source_url": "https://sahha.ma/pharmacie-de-garde/mechraa-bel-ksiri",
  "kind": "roster",
  "pharmacies": [
   {
-   "name": "Pharmacie Yasmine",
-   "address": "245 Rte souk El Arbaa hay Allaymoune bloc B, Mechraa Bel Ksiri",
-   "phone": "+212537906126",
-   "lat": 34.581245,
-   "lng": -5.958424,
+   "name": "Pharmacie Pam",
+   "address": "212 bd des F.a.r. - Autre ville, Mechraa Bel Ksiri",
+   "phone": "+212537906950",
+   "lat": 34.576668,
+   "lng": -5.96845,
    "shift": "nuit",
    "shift_label": ""
   }
  ],
  "center": [
-  34.5812,
-  -5.9584
+  34.5767,
+  -5.9684
  ]
 }

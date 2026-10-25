@@ -1,23 +1,32 @@
 {
  "city": "sidi-slimane",
  "label": "Sidi Slimane",
- "date": "2026-10-24",
+ "date": "2026-10-25",
  "source": "sahha.ma",
  "source_url": "https://sahha.ma/pharmacie-de-garde/sidi-slimane",
  "kind": "roster",
  "pharmacies": [
   {
-   "name": "Pharmacie Mohammedia",
-   "address": "190 lotiss. Mohammedia 4, Sidi Slimane",
-   "phone": "+212537502210",
-   "lat": 34.253363,
-   "lng": -5.909632,
+   "name": "Pharmacie Al Masjid",
+   "address": "hay Salam bloc 17 n°23, Sidi Slimane",
+   "phone": "+212537502513",
+   "lat": 34.254361,
+   "lng": -5.923949,
+   "shift": "nuit",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie ElHay ElJadid",
+   "address": "av Zerktouni hay ElJadid, Sidi Slimane",
+   "phone": "+212537500650",
+   "lat": 34.259459,
+   "lng": -5.93849,
    "shift": "nuit",
    "shift_label": ""
   }
  ],
  "center": [
-  34.2534,
-  -5.9096
+  34.2569,
+  -5.9312
  ]
 }

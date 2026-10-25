@@ -1,23 +1,23 @@
 {
  "city": "ouarzazate",
  "label": "Ouarzazate",
- "date": "2026-10-24",
+ "date": "2026-10-25",
  "source": "sahha.ma",
  "source_url": "https://sahha.ma/pharmacie-de-garde/ouarzazate",
  "kind": "roster",
  "pharmacies": [
   {
-   "name": "Pharmacie l'hôpital",
-   "address": "78 bd Mohammed VI, Ouarzazate",
-   "phone": "+212524885500",
-   "lat": 30.9249,
-   "lng": -6.914317,
+   "name": "Pharmacie Sidi Daoud",
+   "address": "bd Mohammed V lotiss. Tichka, Ouarzazate",
+   "phone": "+212524883380",
+   "lat": 30.922967,
+   "lng": -6.896983,
    "shift": "nuit",
    "shift_label": ""
   }
  ],
  "center": [
-  30.9249,
-  -6.9143
+  30.923,
+  -6.897
  ]
 }

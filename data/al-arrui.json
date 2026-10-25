@@ -1,23 +1,23 @@
 {
  "city": "al-arrui",
  "label": "Al Arrui",
- "date": "2026-10-24",
+ "date": "2026-10-25",
  "source": "sahha.ma",
  "source_url": "https://sahha.ma/pharmacie-de-garde/al-arrui",
  "kind": "roster",
  "pharmacies": [
   {
-   "name": "Pharmacie Belkheir",
-   "address": "17 bd. Badr ang. bd. Mly Youssef, Al Arrui",
-   "phone": "+212536361622",
-   "lat": 35.0097,
-   "lng": -3.005467,
+   "name": "Pharmacie Idrissi",
+   "address": "48 av. des f.a.r., Al Arrui",
+   "phone": "+212536362378",
+   "lat": 35.012233,
+   "lng": -3.007567,
    "shift": "nuit",
    "shift_label": ""
   }
  ],
  "center": [
-  35.0097,
-  -3.0055
+  35.0122,
+  -3.0076
  ]
 }

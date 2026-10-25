@@ -1,27 +1,90 @@
 {
  "city": "temara",
  "label": "Témara",
- "date": "2026-10-24",
+ "date": "2026-10-25",
  "source": "sahha.ma",
  "source_url": "https://sahha.ma/pharmacie-de-garde/temara",
  "kind": "roster",
  "pharmacies": [
   {
+   "name": "Pharmacie ERRACHAD",
+   "address": "N°2327,Rue errachad Hay El Wifaq",
+   "phone": "+212537617929",
+   "lat": 33.9189663,
+   "lng": -6.9305233,
+   "shift": "nuit",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie MASJID ANNOUR",
+   "address": "39 Gr.6 résidence Annour 1 - Tamesna",
+   "phone": "+212537619778",
+   "lat": 33.8470047,
+   "lng": -6.9359075,
+   "shift": "nuit",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie MOULAY SLIMANE",
+   "address": "806 Hay Nahda -",
+   "phone": "+212538973645",
+   "lat": 33.92325,
+   "lng": -6.90525,
+   "shift": "nuit",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie MOURAM",
+   "address": "Av Tarik Ibn Ziad, Residence Janane Temara Ilot N°2 Mag 48",
+   "phone": "+212537408618",
+   "lat": 33.910972,
+   "lng": -6.905389,
+   "shift": "nuit",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie TARIK EL FELLAH",
+   "address": "Km 4 Route El Fellah - Harhoura",
+   "phone": "+212808604874",
+   "lat": 33.913944,
+   "lng": -6.961944,
+   "shift": "nuit",
+   "shift_label": ""
+  },
+  {
    "name": "Pharmacie AL KASBAH",
    "address": "69 Lotissement Al kasbah skikina - Temara",
    "phone": "+212537644046",
-   "lat": 33.900681,
-   "lng": -6.92521,
-   "shift": "",
+   "lat": 33.9059939,
+   "lng": -6.9295412,
+   "shift": "nuit",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie AlMaghreb AlArabi",
+   "address": "1684 av. AlAdarissa hay AlMaghreb AlArabi Massira II, Témara",
+   "phone": "+212537600765",
+   "lat": 33.920249,
+   "lng": -6.896549,
+   "shift": "nuit",
    "shift_label": ""
   },
   {
    "name": "Pharmacie AL WAHA",
    "address": "Résidence Al Waha Mag N°3 Harhoura",
    "phone": "+212537407575",
-   "lat": 33.9220912,
-   "lng": -6.9552734,
-   "shift": "",
+   "lat": 33.9756127,
+   "lng": -6.8223086,
+   "shift": "nuit",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie ElQods",
+   "address": "288 lotiss. Ouled Bennacer 1, Témara",
+   "phone": "+212537600043",
+   "lat": 33.927844,
+   "lng": -6.903165,
+   "shift": "nuit",
    "shift_label": ""
   },
   {
@@ -30,21 +93,12 @@
    "phone": "+212537622291",
    "lat": 33.895935,
    "lng": -6.935582,
-   "shift": "",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie Mly Ali Cherif",
-   "address": "468 av Moulay Ali Cherif Massira I, Témara",
-   "phone": "+212537600525",
-   "lat": 33.932817,
-   "lng": -6.90715,
-   "shift": "",
+   "shift": "nuit",
    "shift_label": ""
   }
  ],
  "center": [
-  33.9129,
-  -6.9308
+  33.914,
+  -6.9126
  ]
 }

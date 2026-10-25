@@ -1,23 +1,23 @@
 {
  "city": "sidi-kacem",
  "label": "Sidi Kacem",
- "date": "2026-10-24",
+ "date": "2026-10-25",
  "source": "sahha.ma",
  "source_url": "https://sahha.ma/pharmacie-de-garde/sidi-kacem",
  "kind": "roster",
  "pharmacies": [
   {
-   "name": "Pharmacie Sahraoua",
-   "address": "hay Sahraoua rue 80 n°15, Sidi Kacem",
-   "phone": "+212537596045",
-   "lat": 34.225696,
-   "lng": -5.709995,
+   "name": "Pharmacie Errazi",
+   "address": "Mlahla rue 67 n°6, Sidi Kacem",
+   "phone": "+212537595193",
+   "lat": 34.220533,
+   "lng": -5.712183,
    "shift": "nuit",
    "shift_label": ""
   }
  ],
  "center": [
-  34.2257,
-  -5.71
+  34.2205,
+  -5.7122
  ]
 }

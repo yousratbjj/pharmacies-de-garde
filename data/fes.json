@@ -1,86 +1,104 @@
 {
  "city": "fes",
  "label": "Fès",
- "date": "2026-10-24",
+ "date": "2026-10-25",
  "source": "sahha.ma",
  "source_url": "https://sahha.ma/pharmacie-de-garde/fes",
  "kind": "roster",
  "pharmacies": [
   {
-   "name": "Pharmacie Ain Chkef",
-   "address": "3 hay Ain Chkef - Autre ville, Fès",
-   "phone": "+212535967050",
-   "lat": 33.998543,
-   "lng": -5.009265,
+   "name": "Pharmacie AlHadika",
+   "address": "lotiss. Al Hadika rte de Meknès Zwagha, Fès",
+   "phone": "+212535703199",
+   "lat": 34.053362,
+   "lng": -5.027841,
+   "shift": "24h",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie Al Jawahir",
+   "address": "82 rue Al Jawahir - Autre ville Bensouda, Fès",
+   "phone": "+212535974545",
+   "lat": 34.034223,
+   "lng": -5.061526,
+   "shift": "24h",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie Arrayhane",
+   "address": "rte de Sefrou lot. Arrayhane 2 imm. 7 n°16, Fès",
+   "phone": "+212535765506",
+   "lat": 33.994553,
+   "lng": -4.970545,
+   "shift": "24h",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie Bahia",
+   "address": "66 rue Midelt hay Najah Sidi Brahim, Fès",
+   "phone": "+212535732870",
+   "lat": 34.02465,
+   "lng": -4.985333,
+   "shift": "24h",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie Benjelloun",
+   "address": "hay Tarik 2 lotiss. Krikach n°24, Fès",
+   "phone": "+212535610967",
+   "lat": 34.027033,
+   "lng": -5.021917,
+   "shift": "24h",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie Bvd Mohamed VI",
+   "address": "70 lotiss. Mohammedia, Fès",
+   "phone": "+212535604135",
+   "lat": 34.021805,
+   "lng": -5.026441,
    "shift": "nuit",
    "shift_label": ""
   },
   {
-   "name": "Pharmacie Arrahma",
-   "address": "hay Dhar Lakhmis bloc 3 n°48 l'habitat, Fès",
-   "phone": "+212535645391",
-   "lat": 34.069312,
-   "lng": -4.990886,
+   "name": "Pharmacie Chifa",
+   "address": "36 hay Ain Chkef - Autre ville Labsaiss, Fès",
+   "phone": "+212535966745",
+   "lat": 33.964655,
+   "lng": -5.020694,
    "shift": "nuit",
    "shift_label": ""
   },
   {
-   "name": "Pharmacie Hamraouy",
-   "address": "hay Bradaa - Autre ville Lot. n° 240, Fès",
-   "phone": "+212535655755",
-   "lat": 34.0349133,
-   "lng": -5.0527122,
-   "shift": "nuit",
+   "name": "Pharmacie Debbagh",
+   "address": "bd Abou Obeida Ibnou Al Jarrah, Fès",
+   "phone": "+212535622381",
+   "lat": 34.0429,
+   "lng": -5.003683,
+   "shift": "24h",
    "shift_label": ""
   },
   {
-   "name": "Pharmacie Kamal",
-   "address": "hay Sehb El Ward bled Saadani rue 8 n°12 Bab Ftouh, Fès",
-   "phone": "+212535762065",
-   "lat": 34.056219,
-   "lng": -4.951261,
-   "shift": "nuit",
+   "name": "Pharmacie Jnane Drader",
+   "address": "34 rue Jnane Drader n°3 Sidi Boujida, Fès",
+   "phone": "+212535763849",
+   "lat": 34.067392,
+   "lng": -4.969991,
+   "shift": "24h",
    "shift_label": ""
   },
   {
-   "name": "Pharmacie La Bonte",
-   "address": "hay Tarik 1 lot 20 n°2 et 3, Fès",
-   "phone": "+212535610622",
-   "lat": 34.033639,
-   "lng": -5.026883,
-   "shift": "nuit",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie La Suite",
-   "address": "85 lotiss. Riad Nakhil rte Immouzzer, Fès",
-   "phone": "+212535603649",
-   "lat": 33.99443,
-   "lng": -4.990526,
-   "shift": "nuit",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie Siberia",
-   "address": "Pharmacie Siberia",
-   "phone": "+212655173677",
-   "lat": 34.0181246,
-   "lng": -5.0078451,
-   "shift": "nuit",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie Zkak Lahjar",
-   "address": "Pharmacie Zkak Lahjar",
-   "phone": "+212535633674",
-   "lat": 34.0635419,
-   "lng": -4.9779571,
-   "shift": "nuit",
+   "name": "Pharmacie Zahraoui",
+   "address": "2 lotiss. Bab Assalam rte Ain Smen, Fès",
+   "phone": "+212535691680",
+   "lat": 34.001408,
+   "lng": -5.015342,
+   "shift": "24h",
    "shift_label": ""
   }
  ],
  "center": [
-  34.0336,
-  -5.0009
+  34.0232,
+  -5.0103
  ]
 }

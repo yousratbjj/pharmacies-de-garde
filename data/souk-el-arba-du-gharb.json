@@ -1,23 +1,23 @@
 {
  "city": "souk-el-arba-du-gharb",
  "label": "Souk El Arba du Gharb",
- "date": "2026-10-24",
+ "date": "2026-10-25",
  "source": "sahha.ma",
  "source_url": "https://sahha.ma/pharmacie-de-garde/souk-el-arba-du-gharb",
  "kind": "roster",
  "pharmacies": [
   {
-   "name": "Pharmacie ElMajd",
-   "address": "lot. AlWahda grp. 8 Bloc A, Souk El Arba du Gharb",
-   "phone": "+212531014982",
-   "lat": 34.683001,
-   "lng": -5.984708,
-   "shift": "",
+   "name": "Pharmacie Arrahma",
+   "address": "33 Hay Hind grp. El Massira, Souk El Arba du Gharb",
+   "phone": "+212524221515",
+   "lat": 34.680895,
+   "lng": -5.993848,
+   "shift": "nuit",
    "shift_label": ""
   }
  ],
  "center": [
-  34.683,
-  -5.9847
+  34.6809,
+  -5.9938
  ]
 }

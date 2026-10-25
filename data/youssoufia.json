@@ -1,7 +1,7 @@
 {
  "city": "youssoufia",
  "label": "Youssoufia",
- "date": "2026-10-24",
+ "date": "2026-10-25",
  "source": "sahha.ma",
  "source_url": "https://sahha.ma/pharmacie-de-garde/youssoufia",
  "kind": "roster",
@@ -12,7 +12,7 @@
    "phone": "+212524646491",
    "lat": 32.25885,
    "lng": -8.526517,
-   "shift": "",
+   "shift": "nuit",
    "shift_label": ""
   },
   {
@@ -21,7 +21,7 @@
    "phone": "+212524645524",
    "lat": 32.241883,
    "lng": -8.541425,
-   "shift": "",
+   "shift": "nuit",
    "shift_label": ""
   }
  ],
