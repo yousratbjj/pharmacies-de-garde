@@ -1,32 +1,23 @@
 {
  "city": "selouane",
  "label": "Selouane",
- "date": "2026-10-25",
+ "date": "2026-10-26",
  "source": "sahha.ma",
  "source_url": "https://sahha.ma/pharmacie-de-garde/selouane",
  "kind": "roster",
  "pharmacies": [
   {
-   "name": "Pharmacie Boulevard 30",
-   "address": "Boulevard 30 quartier Al Omrane, Selouane",
-   "phone": "+212538799914",
-   "lat": 35.07284,
-   "lng": -2.941719,
-   "shift": "nuit",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie Charki",
-   "address": "220 bd Mohamed V, Selouane",
-   "phone": "+212536358132",
-   "lat": 35.075967,
-   "lng": -2.9388,
+   "name": "Pharmacie Al Omrane",
+   "address": "hay Al Omrane, Selouane",
+   "phone": "+212536609257",
+   "lat": 35.069189,
+   "lng": -2.918761,
    "shift": "nuit",
    "shift_label": ""
   }
  ],
  "center": [
-  35.0744,
-  -2.9403
+  35.0692,
+  -2.9188
  ]
 }

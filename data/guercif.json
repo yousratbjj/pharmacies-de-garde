@@ -1,32 +1,32 @@
 {
  "city": "guercif",
  "label": "Guercif",
- "date": "2026-10-25",
+ "date": "2026-10-26",
  "source": "sahha.ma",
  "source_url": "https://sahha.ma/pharmacie-de-garde/guercif",
  "kind": "roster",
  "pharmacies": [
   {
-   "name": "Pharmacie Ibn Al Haytam",
-   "address": "rue Ibn Al Haytam, Guercif",
-   "phone": "+212535675438",
-   "lat": 34.22657,
-   "lng": -3.340847,
+   "name": "Pharmacie Guercif",
+   "address": "11 av Mly Youssef, Guercif",
+   "phone": "+212535676210",
+   "lat": 34.227383,
+   "lng": -3.348267,
    "shift": "nuit",
    "shift_label": ""
   },
   {
-   "name": "Pharmacie La Clinique",
-   "address": "3 X av. Abdelkrim El Khattabi hay Nougd, Guercif",
-   "phone": "+212535675144",
-   "lat": 34.236438,
-   "lng": -3.348546,
+   "name": "Pharmacie Nougd (Hamria AlJadida)",
+   "address": "36 bd. Abdelkrim El Khattabi hay Nougd, Guercif",
+   "phone": "+212535200115",
+   "lat": 34.232395,
+   "lng": -3.353883,
    "shift": "nuit",
    "shift_label": ""
   }
  ],
  "center": [
-  34.2315,
-  -3.3447
+  34.2299,
+  -3.3511
  ]
 }

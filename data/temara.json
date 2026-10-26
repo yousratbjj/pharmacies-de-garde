@@ -1,7 +1,7 @@
 {
  "city": "temara",
  "label": "Témara",
- "date": "2026-10-25",
+ "date": "2026-10-26",
  "source": "sahha.ma",
  "source_url": "https://sahha.ma/pharmacie-de-garde/temara",
  "kind": "roster",
@@ -52,29 +52,11 @@
    "shift_label": ""
   },
   {
-   "name": "Pharmacie AL KASBAH",
-   "address": "69 Lotissement Al kasbah skikina - Temara",
-   "phone": "+212537644046",
-   "lat": 33.9059939,
-   "lng": -6.9295412,
-   "shift": "nuit",
-   "shift_label": ""
-  },
-  {
    "name": "Pharmacie AlMaghreb AlArabi",
    "address": "1684 av. AlAdarissa hay AlMaghreb AlArabi Massira II, Témara",
    "phone": "+212537600765",
    "lat": 33.920249,
    "lng": -6.896549,
-   "shift": "nuit",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie AL WAHA",
-   "address": "Résidence Al Waha Mag N°3 Harhoura",
-   "phone": "+212537407575",
-   "lat": 33.9756127,
-   "lng": -6.8223086,
    "shift": "nuit",
    "shift_label": ""
   },
@@ -95,10 +77,28 @@
    "lng": -6.935582,
    "shift": "nuit",
    "shift_label": ""
+  },
+  {
+   "name": "Pharmacie Ilias",
+   "address": "7 lotiss. Chkail M'barek, Témara",
+   "phone": "+212537611260",
+   "lat": 33.915467,
+   "lng": -6.919067,
+   "shift": "nuit",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie Masrour",
+   "address": "224 Hay Masrour II, Témara",
+   "phone": "+212537741990",
+   "lat": 33.911033,
+   "lng": -6.925213,
+   "shift": "nuit",
+   "shift_label": ""
   }
  ],
  "center": [
-  33.914,
-  -6.9126
+  33.9085,
+  -6.9219
  ]
 }

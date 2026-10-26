@@ -1,7 +1,7 @@
 {
  "city": "agadir",
  "label": "Agadir",
- "date": "2026-10-25",
+ "date": "2026-10-26",
  "source": "sahha.ma",
  "source_url": "https://sahha.ma/pharmacie-de-garde/agadir",
  "kind": "roster",
@@ -16,47 +16,47 @@
    "shift_label": ""
   },
   {
-   "name": "Pharmacie Adrar",
-   "address": "quartier Adrar résid. Saâda imm. 23, Agadir",
-   "phone": "+212528288099",
-   "lat": 30.38631,
-   "lng": -9.50245,
+   "name": "Pharmacie Adam",
+   "address": "701, z.i tilila, rue mekka",
+   "phone": "+212528288080",
+   "lat": 30.3965009,
+   "lng": -9.5124727,
    "shift": "nuit",
    "shift_label": ""
   },
   {
-   "name": "Pharmacie Al Andaloussia",
-   "address": "résidence nasr-3 (bicha) près de jet sakan",
-   "phone": "+212528292999",
-   "lat": 30.3999177,
-   "lng": -9.5552929,
-   "shift": "nuit",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie AlHanane",
-   "address": "Ait Ouraht Anouar Souss villa Taddart, Agadir",
-   "phone": "+212528235890",
-   "lat": 30.432596,
-   "lng": -9.582886,
+   "name": "Pharmacie Al Hanane",
+   "address": "avenue des far en face du quartier taddart",
+   "phone": "+212528848543",
+   "lat": 30.4324748,
+   "lng": -9.5828934,
    "shift": "nuit",
    "shift_label": ""
   },
   {
    "name": "Pharmacie Anbary",
-   "address": "bd Hassan II imm. Hasna, Agadir",
+   "address": "bd hassan ii, imm. hasna",
    "phone": "+212528845592",
-   "lat": 30.4235,
-   "lng": -9.605233,
+   "lat": 30.4235102,
+   "lng": -9.6054486,
+   "shift": "nuit",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie Assafa",
+   "address": "a coté du café kenya",
+   "phone": "+212528224141",
+   "lat": 30.4324008,
+   "lng": -9.5554984,
    "shift": "nuit",
    "shift_label": ""
   },
   {
    "name": "Pharmacie Attawhid",
-   "address": "348 X hay Al Houda sect. E, Agadir",
+   "address": "348 bis, hay al houda, sect. e",
    "phone": "+212528320002",
-   "lat": 30.394917,
-   "lng": -9.5379,
+   "lat": 30.394694,
+   "lng": -9.5378609,
    "shift": "nuit",
    "shift_label": ""
   },
@@ -71,16 +71,25 @@
   },
   {
    "name": "Pharmacie Boutasra",
-   "address": "394 J hay Al Wifaq Ben Sergao, Agadir",
+   "address": "394 j hay al wifaq ben sergao",
    "phone": "+212528280079",
-   "lat": 30.3958,
-   "lng": -9.573783,
+   "lat": 30.395412,
+   "lng": -9.5737638,
+   "shift": "nuit",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie Chifa Al Farah",
+   "address": "hay bensergao , hay el farah",
+   "phone": "+212528280159",
+   "lat": 30.3954844,
+   "lng": -9.5580444,
    "shift": "nuit",
    "shift_label": ""
   }
  ],
  "center": [
-  30.4107,
-  -9.5628
+  30.4137,
+  -9.5635
  ]
 }

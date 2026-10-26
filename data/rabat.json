@@ -1,7 +1,7 @@
 {
  "city": "rabat",
  "label": "Rabat",
- "date": "2026-10-25",
+ "date": "2026-10-26",
  "source": "sahha.ma",
  "source_url": "https://sahha.ma/pharmacie-de-garde/rabat",
  "kind": "roster",
@@ -30,7 +30,7 @@
    "phone": "+212537772478",
    "lat": 34.006611,
    "lng": -6.85075,
-   "shift": "24h",
+   "shift": "nuit",
    "shift_label": ""
   },
   {
@@ -39,7 +39,7 @@
    "phone": "+212537201539",
    "lat": 34.018833,
    "lng": -6.823,
-   "shift": "jour",
+   "shift": "nuit",
    "shift_label": ""
   },
   {
@@ -57,7 +57,7 @@
    "phone": "+212537654055",
    "lat": 33.9730833,
    "lng": -6.8321389,
-   "shift": "24h",
+   "shift": "nuit",
    "shift_label": ""
   },
   {
@@ -75,7 +75,7 @@
    "phone": "+212537754008",
    "lat": 33.972831,
    "lng": -6.819991,
-   "shift": "24h",
+   "shift": "nuit",
    "shift_label": ""
   },
   {

@@ -1,7 +1,7 @@
 {
  "city": "sidi-slimane",
  "label": "Sidi Slimane",
- "date": "2026-10-25",
+ "date": "2026-10-26",
  "source": "sahha.ma",
  "source_url": "https://sahha.ma/pharmacie-de-garde/sidi-slimane",
  "kind": "roster",
@@ -16,6 +16,15 @@
    "shift_label": ""
   },
   {
+   "name": "Pharmacie Bir Anzarane",
+   "address": "63 bd. Bir Anzarane, Sidi Slimane",
+   "phone": "+212537502900",
+   "lat": 34.2622961,
+   "lng": -5.9239749,
+   "shift": "nuit",
+   "shift_label": ""
+  },
+  {
    "name": "Pharmacie ElHay ElJadid",
    "address": "av Zerktouni hay ElJadid, Sidi Slimane",
    "phone": "+212537500650",
@@ -26,7 +35,7 @@
   }
  ],
  "center": [
-  34.2569,
-  -5.9312
+  34.2587,
+  -5.9288
  ]
 }

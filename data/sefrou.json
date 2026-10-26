@@ -1,7 +1,7 @@
 {
  "city": "sefrou",
  "label": "Sefrou",
- "date": "2026-10-25",
+ "date": "2026-10-26",
  "source": "sahha.ma",
  "source_url": "https://sahha.ma/pharmacie-de-garde/sefrou",
  "kind": "roster",
@@ -27,7 +27,7 @@
   {
    "name": "Pharmacie la Colline",
    "address": "102 Lotissement Lalla Moulati rte. El Menzel, Séfrou",
-   "phone": "+212535683887",
+   "phone": "+212534439606",
    "lat": 33.825433,
    "lng": -4.821717,
    "shift": "nuit",

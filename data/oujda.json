@@ -1,17 +1,17 @@
 {
  "city": "oujda",
  "label": "Oujda",
- "date": "2026-10-25",
+ "date": "2026-10-26",
  "source": "sahha.ma",
  "source_url": "https://sahha.ma/pharmacie-de-garde/oujda",
  "kind": "roster",
  "pharmacies": [
   {
    "name": "Pharmacie Benkhirane",
-   "address": "lotiss. Benkhirane C5/48, Oujda",
+   "address": "lotiss. benkhirane , c5/48",
    "phone": "+212536518154",
-   "lat": 34.65665,
-   "lng": -1.933783,
+   "lat": 34.6565581,
+   "lng": -1.933781,
    "shift": "nuit",
    "shift_label": ""
   },
@@ -26,28 +26,28 @@
   },
   {
    "name": "Pharmacie Moderne",
-   "address": "35, Rue De Marrakech",
+   "address": "35 rue de marrakech",
    "phone": "+212536682871",
-   "lat": 34.68185,
-   "lng": -1.912017,
+   "lat": 34.6817349,
+   "lng": -1.9119481,
    "shift": "nuit",
    "shift_label": ""
   },
   {
    "name": "Pharmacie Nour Marjane Moussaoui",
-   "address": "hay El Hassani Nour Borj n°3, Oujda",
+   "address": "hay el hassani, nour borj n°3",
    "phone": "+212536680473",
-   "lat": 34.682111,
-   "lng": -1.899732,
+   "lat": 34.681962,
+   "lng": -1.900155,
    "shift": "nuit",
    "shift_label": ""
   },
   {
    "name": "Pharmacie Palais de Justice",
-   "address": "78, rue Oued Oum Errabia, Lotiss iris",
+   "address": "78, rue oued oum errabia, lotiss iris",
    "phone": "+212536532500",
-   "lat": 34.6603146,
-   "lng": -1.9140592,
+   "lat": 34.6602483,
+   "lng": -1.9140682,
    "shift": "nuit",
    "shift_label": ""
   },
@@ -62,7 +62,7 @@
   }
  ],
  "center": [
-  34.6799,
+  34.6798,
   -1.9025
  ]
 }

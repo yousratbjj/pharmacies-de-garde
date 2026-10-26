@@ -1,20 +1,11 @@
 {
  "city": "tikiouine",
  "label": "Tikiouine",
- "date": "2026-10-25",
+ "date": "2026-10-26",
  "source": "sahha.ma",
  "source_url": "https://sahha.ma/pharmacie-de-garde/tikiouine",
  "kind": "roster",
  "pharmacies": [
-  {
-   "name": "Pharmacie Cokail",
-   "address": "206 rue Talouzine lot. Bir Anzarane, Tikiouine",
-   "phone": "+212528284789",
-   "lat": 30.374732,
-   "lng": -9.516698,
-   "shift": "nuit",
-   "shift_label": ""
-  },
   {
    "name": "Pharmacie Tikiouine",
    "address": "hay Ighious bloc 3 av. 07, Tikiouine",
@@ -26,7 +17,7 @@
   }
  ],
  "center": [
-  30.375,
-  -9.5101
+  30.3753,
+  -9.5035
  ]
 }

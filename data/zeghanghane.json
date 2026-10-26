@@ -1,7 +1,7 @@
 {
  "city": "zeghanghane",
  "label": "Zeghanghane",
- "date": "2026-10-25",
+ "date": "2026-10-26",
  "source": "sahha.ma",
  "source_url": "https://sahha.ma/pharmacie-de-garde/zeghanghane",
  "kind": "roster",
@@ -12,21 +12,12 @@
    "phone": "+212536350190",
    "lat": 35.153,
    "lng": -3.005967,
-   "shift": "",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie Le Prince",
-   "address": "bd Mohammed V Jouhara Soufla, Zghanghan",
-   "phone": "+212536351717",
-   "lat": 35.153767,
-   "lng": -2.959283,
-   "shift": "",
+   "shift": "nuit",
    "shift_label": ""
   }
  ],
  "center": [
-  35.1534,
-  -2.9826
+  35.153,
+  -3.006
  ]
 }

@@ -1,7 +1,7 @@
 {
  "city": "kenitra",
  "label": "Kénitra",
- "date": "2026-10-25",
+ "date": "2026-10-26",
  "source": "sahha.ma",
  "source_url": "https://sahha.ma/pharmacie-de-garde/kenitra",
  "kind": "roster",
@@ -25,21 +25,12 @@
    "shift_label": ""
   },
   {
-   "name": "Pharmacie GOLF",
-   "address": "قرب مسجد الأنوار وقرب بيم القجيم الهاتف. 14 80 38 0537",
-   "phone": "+212537388014",
-   "lat": 34.2624279,
-   "lng": -6.6428426,
-   "shift": "nuit",
-   "shift_label": ""
-  },
-  {
    "name": "Pharmacie Ibn Rochd",
-   "address": "102 rue Aryada quartier la Cigogne, Kénitra",
+   "address": "102, rue aryada, quartier la cigogne",
    "phone": "+212537363598",
-   "lat": 34.260506,
-   "lng": -6.567739,
-   "shift": "nuit",
+   "lat": 34.2605048,
+   "lng": -6.5677869,
+   "shift": "24h",
    "shift_label": ""
   },
   {
@@ -48,6 +39,24 @@
    "phone": "+212700808586",
    "lat": 34.221456,
    "lng": -6.613931,
+   "shift": "nuit",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie Siham",
+   "address": "hay Al Maghrib Al Arabi D lot 63, Kénitra",
+   "phone": "+212537360805",
+   "lat": 34.255766,
+   "lng": -6.614017,
+   "shift": "nuit",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie GOLF",
+   "address": "قرب مسجد الأنوار وقرب بيم القجيم الهاتف. 14 80 38 0537",
+   "phone": "+212537388014",
+   "lat": 34.2624279,
+   "lng": -6.6428426,
    "shift": "nuit",
    "shift_label": ""
   },
@@ -66,15 +75,6 @@
    "phone": "+212537388889",
    "lat": 34.2579819,
    "lng": -6.6553538,
-   "shift": "nuit",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie Siham",
-   "address": "hay Al Maghrib Al Arabi D lot 63, Kénitra",
-   "phone": "+212537360805",
-   "lat": 34.255766,
-   "lng": -6.614017,
    "shift": "nuit",
    "shift_label": ""
   }

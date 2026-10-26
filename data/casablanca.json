@@ -1,7 +1,7 @@
 {
  "city": "casablanca",
  "label": "Casablanca",
- "date": "2026-10-25",
+ "date": "2026-10-26",
  "source": "sahha.ma",
  "source_url": "https://sahha.ma/pharmacie-de-garde/casablanca",
  "kind": "roster",
@@ -80,10 +80,10 @@
   },
   {
    "name": "Pharmacie Marina",
-   "address": "54 rue Ibn Jahir -ex Taravo Hassan Casablanca",
+   "address": "N°54. Rue Ibn Jahir -ex Taravo. Boulevard Tantan. Bourgogne (Bank BMCE)",
    "phone": "+212522942439",
-   "lat": 33.6001126,
-   "lng": -7.6481081,
+   "lat": 33.6000629,
+   "lng": -7.6483968,
    "shift": "nuit",
    "shift_label": ""
   },

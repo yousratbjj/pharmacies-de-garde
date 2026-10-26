@@ -1,23 +1,23 @@
 {
  "city": "al-hoceima",
  "label": "Al Hoceïma",
- "date": "2026-10-25",
+ "date": "2026-10-26",
  "source": "sahha.ma",
  "source_url": "https://sahha.ma/pharmacie-de-garde/al-hoceima",
  "kind": "roster",
  "pharmacies": [
   {
-   "name": "Pharmacie Anissa",
-   "address": "33 av 9 juillet, Al Hoceima",
-   "phone": "+212539984234",
-   "lat": 35.242167,
-   "lng": -3.9274,
+   "name": "Pharmacie Ibnou Rochd",
+   "address": "168 av Hassan II, Al Hoceima",
+   "phone": "+212539981757",
+   "lat": 35.238833,
+   "lng": -3.937483,
    "shift": "nuit",
    "shift_label": ""
   }
  ],
  "center": [
-  35.2422,
-  -3.9274
+  35.2388,
+  -3.9375
  ]
 }

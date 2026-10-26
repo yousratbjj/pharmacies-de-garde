@@ -1,20 +1,11 @@
 {
  "city": "inezgane",
  "label": "Inezgane",
- "date": "2026-10-25",
+ "date": "2026-10-26",
  "source": "sahha.ma",
  "source_url": "https://sahha.ma/pharmacie-de-garde/inezgane",
  "kind": "roster",
  "pharmacies": [
-  {
-   "name": "Pharmacie du Souk",
-   "address": "53 bd Mokhtar Soussi lot. Erac, Inezgane",
-   "phone": "+212528832275",
-   "lat": 30.358517,
-   "lng": -9.531317,
-   "shift": "nuit",
-   "shift_label": ""
-  },
   {
    "name": "Pharmacie Hagounia",
    "address": "1 av Mokhtar Essoussi, Inezgane",
@@ -26,7 +17,7 @@
   }
  ],
  "center": [
-  30.3593,
-  -9.5297
+  30.3601,
+  -9.5281
  ]
 }

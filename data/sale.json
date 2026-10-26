@@ -1,27 +1,18 @@
 {
  "city": "sale",
  "label": "Salé",
- "date": "2026-10-25",
+ "date": "2026-10-26",
  "source": "sahha.ma",
  "source_url": "https://sahha.ma/pharmacie-de-garde/sale",
  "kind": "roster",
  "pharmacies": [
   {
-   "name": "Pharmacie AHMED HAJJI",
-   "address": "Avenue Hassan II (En face de la gare routiere)",
-   "phone": "+212537803271",
-   "lat": 34.0346201,
-   "lng": -6.8022645,
-   "shift": "jour",
-   "shift_label": ""
-  },
-  {
    "name": "Pharmacie AMRI",
    "address": "صيدلية العمري تجزئة المراكشية وراء ملعب الفرشي سابقا و إقامة الطواهري 16 حاليا",
    "phone": "+212530912099",
-   "lat": 34.2215178,
-   "lng": -6.628677,
-   "shift": "24h",
+   "lat": 34.042967,
+   "lng": -6.808186,
+   "shift": "nuit",
    "shift_label": ""
   },
   {
@@ -39,7 +30,7 @@
    "phone": "+212537854243",
    "lat": 34.044899,
    "lng": -6.8140202,
-   "shift": "24h",
+   "shift": "nuit",
    "shift_label": ""
   },
   {
@@ -48,7 +39,7 @@
    "phone": "+212537807100",
    "lat": 34.051861,
    "lng": -6.778778,
-   "shift": "24h",
+   "shift": "nuit",
    "shift_label": ""
   },
   {
@@ -57,7 +48,7 @@
    "phone": "+212537533359",
    "lat": 33.9881111,
    "lng": -6.7340556,
-   "shift": "jour",
+   "shift": "nuit",
    "shift_label": ""
   },
   {
@@ -66,7 +57,7 @@
    "phone": "+212537870184",
    "lat": 34.0759448,
    "lng": -6.7635857,
-   "shift": "24h",
+   "shift": "nuit",
    "shift_label": ""
   },
   {
@@ -75,7 +66,7 @@
    "phone": "+212537782388",
    "lat": 34.0509148,
    "lng": -6.8101611,
-   "shift": "24h",
+   "shift": "nuit",
    "shift_label": ""
   },
   {
@@ -84,12 +75,21 @@
    "phone": "+212537874694",
    "lat": 34.069204,
    "lng": -6.782253,
-   "shift": "24h",
+   "shift": "nuit",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie OUM AL KORA",
+   "address": "Av Youssef Ibn Tachfine N°110 Bis Hay Cheikh Lamfadel",
+   "phone": "+212537871343",
+   "lat": 34.056694,
+   "lng": -6.786361,
+   "shift": "nuit",
    "shift_label": ""
   }
  ],
  "center": [
-  34.0617,
-  -6.7623
+  34.0443,
+  -6.7805
  ]
 }

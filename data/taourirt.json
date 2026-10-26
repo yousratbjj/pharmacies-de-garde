@@ -1,23 +1,23 @@
 {
  "city": "taourirt",
  "label": "Taourirt",
- "date": "2026-10-25",
+ "date": "2026-10-26",
  "source": "sahha.ma",
  "source_url": "https://sahha.ma/pharmacie-de-garde/taourirt",
  "kind": "roster",
  "pharmacies": [
   {
-   "name": "Pharmacie Almadina Almounawara",
-   "address": "1162 lot Mly Ali Cherif, Taourirt",
-   "phone": "+212536699241",
-   "lat": 34.408233,
-   "lng": -2.884823,
+   "name": "Pharmacie la Santé",
+   "address": "2 av Lycée Al Fath lotiss. El Massira, Taourirt",
+   "phone": "+212536679426",
+   "lat": 34.402568,
+   "lng": -2.888755,
    "shift": "nuit",
    "shift_label": ""
   }
  ],
  "center": [
-  34.4082,
-  -2.8848
+  34.4026,
+  -2.8888
  ]
 }

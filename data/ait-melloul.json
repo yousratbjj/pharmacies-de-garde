@@ -1,7 +1,7 @@
 {
  "city": "ait-melloul",
  "label": "Aït Melloul",
- "date": "2026-10-25",
+ "date": "2026-10-26",
  "source": "sahha.ma",
  "source_url": "https://sahha.ma/pharmacie-de-garde/ait-melloul",
  "kind": "roster",
@@ -16,15 +16,6 @@
    "shift_label": ""
   },
   {
-   "name": "Pharmacie Essounni",
-   "address": "Hay ElMassira bloc C 119 Chouhada, Aït Melloul",
-   "phone": "+212528242800",
-   "lat": 30.34475,
-   "lng": -9.487183,
-   "shift": "nuit",
-   "shift_label": ""
-  },
-  {
    "name": "Pharmacie Semlali ( Usmam)",
    "address": "3 av. AlMoukawama rte Admim cplxe.u.s.m.a.m, Aït Melloul",
    "phone": "+212528248639",
@@ -35,7 +26,7 @@
   }
  ],
  "center": [
-  30.3471,
-  -9.4903
+  30.3483,
+  -9.4919
  ]
 }

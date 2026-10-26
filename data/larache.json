@@ -1,7 +1,7 @@
 {
  "city": "larache",
  "label": "Larache",
- "date": "2026-10-25",
+ "date": "2026-10-26",
  "source": "sahha.ma",
  "source_url": "https://sahha.ma/pharmacie-de-garde/larache",
  "kind": "roster",
@@ -12,7 +12,16 @@
    "phone": "+212539916004",
    "lat": 35.192537,
    "lng": -6.1617,
-   "shift": "nuit",
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
+   "name": "ASSALAM",
+   "address": "Lotissment Assalamتجزئة السلام",
+   "phone": "+212539911579",
+   "lat": 35.1818499,
+   "lng": -6.1438284,
+   "shift": "jour",
    "shift_label": ""
   },
   {
@@ -26,7 +35,7 @@
   }
  ],
  "center": [
-  35.1884,
-  -6.156
+  35.1862,
+  -6.1519
  ]
 }
