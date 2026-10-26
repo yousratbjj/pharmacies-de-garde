@@ -1,42 +1,33 @@
 {
  "city": "boulemane",
  "label": "Boulemane",
- "date": "2026-10-24",
+ "date": "2026-10-26",
  "source": "med.ma",
  "source_url": "https://www.med.ma/pharmacy/day-time/boulemane",
  "kind": "directory",
  "pharmacies": [
   {
-   "name": "Pharmacie la Province",
-   "address": "q. chram v.n. Sefrou Bhalil Bhalil Sefrou",
-   "phone": "+212 535 68 21 39",
-   "lat": 33.8269801,
-   "lng": -4.8399459,
-   "shift": "nuit",
-   "shift_label": "Pharmacies de nuit"
-  },
-  {
-   "name": "Pharmacie Zine El Abidine",
-   "address": "lotiss. Atlas , Ben Seffar Sefrou Bhalil Bhalil Sefrou",
-   "phone": "+212 535 96 96 32",
-   "lat": 33.8305244,
-   "lng": -4.8353154,
-   "shift": "nuit",
-   "shift_label": "Pharmacies de nuit"
-  },
-  {
-   "name": "Pharmacie la Famille",
-   "address": "lotissement Bir Anzarane Ben Seffar n°19 Séfrou Ahermoumou Sefrou",
-   "phone": "+212 535 66 22 64",
+   "name": "Pharmacie Avicenne",
+   "address": "bd Amir Abdelkader Sefrou Ahermoumou Sefrou",
+   "phone": "+212 535 66 05 62",
    "lat": 33.8253851,
    "lng": -4.8219393,
    "shift": "24h",
    "shift_label": "Pharmacies 24h/24"
   },
   {
-   "name": "Pharmacie Avicenne",
-   "address": "bd Amir Abdelkader Sefrou Ahermoumou Sefrou",
-   "phone": "+212 535 66 05 62",
+   "name": "Pharmacie Cascades",
+   "address": "rue Errachad bloc 2 n°°167 Séfrou Ahermoumou Sefrou",
+   "phone": "+212 535 68 29 25",
+   "lat": 33.8253851,
+   "lng": -4.8219393,
+   "shift": "24h",
+   "shift_label": "Pharmacies 24h/24"
+  },
+  {
+   "name": "Pharmacie la Famille",
+   "address": "lotissement Bir Anzarane Ben Seffar n°19 Séfrou Ahermoumou Sefrou",
+   "phone": "+212 535 66 22 64",
    "lat": 33.8253851,
    "lng": -4.8219393,
    "shift": "24h",
@@ -61,53 +52,44 @@
    "shift_label": "Pharmacies 24h/24"
   },
   {
-   "name": "Pharmacie La Suite",
-   "address": "lotissement. riad annakhil .route imouzzar proche du café la suite Fes Ain Cheggag Fes",
-   "phone": "+212 535 60 36 49",
-   "lat": 33.9938953,
-   "lng": -4.9907419,
+   "name": "Pharmacie Razi",
+   "address": "220 av Yaâcoub El Mansour Séfrou - Maroc Ahermoumou Sefrou",
+   "phone": "+212 535 96 94 60",
+   "lat": 33.832865408463,
+   "lng": -4.8343505786906,
    "shift": "24h",
    "shift_label": "Pharmacies 24h/24"
   },
   {
-   "name": "Pharmacie Ain Chkef",
-   "address": "arrondissement ain chkef Fes Fes",
-   "phone": "+212 535 96 26 45",
-   "lat": 33.998543,
-   "lng": -5.009265,
+   "name": "Pharmacie Arrayhane",
+   "address": "rte de sefrou lot. arrayhane 2 imm. 7 n°16 Fes Ain Cheggag Fes",
+   "phone": "+212 535 76 55 06",
+   "lat": 33.9945202,
+   "lng": -4.9707358,
    "shift": "24h",
    "shift_label": "Pharmacies 24h/24"
   },
   {
-   "name": "Pharmacie Arrahma",
-   "address": "labita dher lkhmiss Fes Ville Nouvelle ville nouvelle Fes",
-   "phone": "+212 535 64 53 91",
-   "lat": 34.016935,
-   "lng": -4.9698089,
+   "name": "Pharmacie Zahraoui",
+   "address": "lot bab salam a91 n°2,route ain chkef Fes Fes",
+   "phone": "+212 535 69 16 80",
+   "lat": 34.0015314,
+   "lng": -5.015539,
    "shift": "24h",
    "shift_label": "Pharmacies 24h/24"
   },
   {
-   "name": "Pharmacie La Bonté",
-   "address": "hay tarik 1, lot 20 n° 2 et 3, en face de collège l'hippodrome Fes Ville Nouvelle ville nouvelle Fes",
-   "phone": "+212 535 61 06 22",
-   "lat": 34.03356,
-   "lng": -5.0270117,
-   "shift": "24h",
-   "shift_label": "Pharmacies 24h/24"
-  },
-  {
-   "name": "Pharmacie Kamal",
-   "address": "numéro 12 rue blad saadani sehb al ward a cote du terminus 53 Fes Oued Amlil Oued Amlil Fes",
-   "phone": "+212 535 76 20 65",
-   "lat": 34.0570586,
-   "lng": -4.9545935,
+   "name": "Pharmacie Zqaq Lahjar",
+   "address": "zqaq lahjar Fes Ville Nouvelle ville nouvelle Fes",
+   "phone": "+212 535 63 36 74",
+   "lat": 34.0181246,
+   "lng": -5.0078451,
    "shift": "24h",
    "shift_label": "Pharmacies 24h/24"
   }
  ],
  "center": [
-  33.9147,
-  -4.9023
+  33.8863,
+  -4.8833
  ]
 }

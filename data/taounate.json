@@ -1,104 +1,113 @@
 {
  "city": "taounate",
  "label": "Taounate",
- "date": "2026-10-24",
+ "date": "2026-10-26",
  "source": "med.ma",
  "source_url": "https://www.med.ma/pharmacy/day-time/taounate",
  "kind": "directory",
  "pharmacies": [
   {
-   "name": "Pharmacie Zine El Abidine",
-   "address": "lotiss. Atlas , Ben Seffar Sefrou Bhalil Bhalil Sefrou",
-   "phone": "+212 535 96 96 32",
-   "lat": 33.8305244,
-   "lng": -4.8353154,
+   "name": "Pharmacie Al Hourria",
+   "address": "rue bouziane, hay assalam, el aouama Tanger Tangier Tanger",
+   "phone": "+212 539 35 02 28",
+   "lat": 35.746747764766,
+   "lng": -5.8002777579521,
+   "shift": "jour",
+   "shift_label": "Pharmacies de jour"
+  },
+  {
+   "name": "Pharmacie Drissia",
+   "address": "42, avenue tarik ibn ziad, drissia 90000 tanger - maroc Tangier Tanger",
+   "phone": "+212 539 95 64 15",
+   "lat": 35.7538205,
+   "lng": -5.7999134,
+   "shift": "jour",
+   "shift_label": "Pharmacies de jour"
+  },
+  {
+   "name": "Pharmacie Chams Ahlen",
+   "address": "428, lotissement riad ahlen 2 90000 tanger - maroc Tangier Tanger",
+   "phone": "+212 539 42 44 95",
+   "lat": 35.742234,
+   "lng": -5.8384859,
+   "shift": "jour",
+   "shift_label": "Pharmacies de jour"
+  },
+  {
+   "name": "Pharmacie Fleming",
+   "address": "immeuble 6, complexe résidentiéls les fleurs, rdc, nr. 1 90000 tanger - maroc Tangier Tanger",
+   "phone": "+212 539 38 08 92",
+   "lat": 35.7444342,
+   "lng": -5.8547966,
+   "shift": "jour",
+   "shift_label": "Pharmacies de jour"
+  },
+  {
+   "name": "Pharmacie Oued Sania",
+   "address": "route sidi driss, aharrarin 90000 tanger - maroc El Marsa Tanger",
+   "phone": "+212 539 31 42 88",
+   "lat": 35.7688833,
+   "lng": -5.7572321,
    "shift": "nuit",
    "shift_label": "Pharmacies de nuit"
   },
   {
-   "name": "Pharmacie la Province",
-   "address": "q. chram v.n. Sefrou Bhalil Bhalil Sefrou",
-   "phone": "+212 535 68 21 39",
-   "lat": 33.8269801,
-   "lng": -4.8399459,
+   "name": "Pharmacie Salaheddine",
+   "address": "40a, lot. rhorfa, 2 lot nr.1 90000 tanger - maroc Tangier Tanger",
+   "phone": "+212 539 31 56 88",
+   "lat": 35.7602607,
+   "lng": -5.7827385,
    "shift": "nuit",
    "shift_label": "Pharmacies de nuit"
   },
   {
-   "name": "Pharmacie Kamal",
-   "address": "numéro 12 rue blad saadani sehb al ward a cote du terminus 53 Fes Oued Amlil Oued Amlil Fes",
-   "phone": "+212 535 76 20 65",
-   "lat": 34.0570586,
-   "lng": -4.9545935,
-   "shift": "24h",
-   "shift_label": "Pharmacies 24h/24"
+   "name": "Pharmacie Al Aouda",
+   "address": "186, avenue principal, hay al aouda 90000 tanger - maroc Tangier Tanger",
+   "phone": "+212 539 36 05 00",
+   "lat": 35.7470416,
+   "lng": -5.8057087,
+   "shift": "nuit",
+   "shift_label": "Pharmacies de nuit"
   },
   {
-   "name": "Pharmacie Arrahma",
-   "address": "labita dher lkhmiss Fes Ville Nouvelle ville nouvelle Fes",
-   "phone": "+212 535 64 53 91",
-   "lat": 34.016935,
-   "lng": -4.9698089,
-   "shift": "24h",
-   "shift_label": "Pharmacies 24h/24"
+   "name": "Pharmacie Mosque El Fath",
+   "address": "rue labatoire, hay benkirane ii 90000 tanger - maroc Tangier Tanger",
+   "phone": "+212 539 95 90 26",
+   "lat": 35.764427249788,
+   "lng": -5.7833454468159,
+   "shift": "nuit",
+   "shift_label": "Pharmacies de nuit"
   },
   {
-   "name": "Pharmacie La Bonté",
-   "address": "hay tarik 1, lot 20 n° 2 et 3, en face de collège l'hippodrome Fes Ville Nouvelle ville nouvelle Fes",
-   "phone": "+212 535 61 06 22",
-   "lat": 34.03356,
-   "lng": -5.0270117,
-   "shift": "24h",
-   "shift_label": "Pharmacies 24h/24"
+   "name": "Pharmacie Ben Taeib",
+   "address": "24 b, avenue moulay abdelhafid 90000 tanger - maroc Tangier Tanger",
+   "phone": "+212 539 93 60 15",
+   "lat": 35.767444,
+   "lng": -5.8179189,
+   "shift": "nuit",
+   "shift_label": "Pharmacies de nuit"
   },
   {
-   "name": "Pharmacie La Suite",
-   "address": "lotissement. riad annakhil .route imouzzar proche du café la suite Fes Ain Cheggag Fes",
-   "phone": "+212 535 60 36 49",
-   "lat": 33.9938953,
-   "lng": -4.9907419,
-   "shift": "24h",
-   "shift_label": "Pharmacies 24h/24"
+   "name": "Pharmacie LA PLAGE",
+   "address": "87, Avenue Imam Mouslim, Ain Hayani Dradeb 90000 Tanger - Maroc Tangier Tanger",
+   "phone": "+212 539 94 71 85",
+   "lat": 35.7788148,
+   "lng": -5.8025951,
+   "shift": "nuit",
+   "shift_label": "Pharmacies de nuit"
   },
   {
-   "name": "Pharmacie Ain Chkef",
-   "address": "arrondissement ain chkef Fes Fes",
-   "phone": "+212 535 96 26 45",
-   "lat": 33.998543,
-   "lng": -5.009265,
-   "shift": "24h",
-   "shift_label": "Pharmacies 24h/24"
-  },
-  {
-   "name": "Pharmacie Habitat",
-   "address": "114 bd Hassan 1ér Sette Massouda Séfrou Ahermoumou Sefrou",
-   "phone": "+212 535 96 92 42",
-   "lat": 33.827836,
-   "lng": -4.833416,
-   "shift": "24h",
-   "shift_label": "Pharmacies 24h/24"
-  },
-  {
-   "name": "Pharmacie Laaouini",
-   "address": "102 Lotissement Lalla Moulati rte. El Menzel Sefrou Ahermoumou Sefrou",
-   "phone": "+212 535 68 38 87",
-   "lat": 33.8255679,
-   "lng": -4.8218198,
-   "shift": "24h",
-   "shift_label": "Pharmacies 24h/24"
-  },
-  {
-   "name": "Pharmacie Avicenne",
-   "address": "bd Amir Abdelkader Sefrou Ahermoumou Sefrou",
-   "phone": "+212 535 66 05 62",
-   "lat": 33.8253851,
-   "lng": -4.8219393,
-   "shift": "24h",
-   "shift_label": "Pharmacies 24h/24"
+   "name": "Pharmacie Sekka Aouama",
+   "address": "quartier de sekka, mrabet charkia, aouama 90080 tanger - maroc Tangier Tanger",
+   "phone": "+212 620 28 35 90",
+   "lat": 35.78624,
+   "lng": -5.81006,
+   "shift": "nuit",
+   "shift_label": "Pharmacies de nuit"
   }
  ],
  "center": [
-  33.9236,
-  -4.9104
+  35.76,
+  -5.8048
  ]
 }

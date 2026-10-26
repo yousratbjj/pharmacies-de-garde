@@ -1,59 +1,68 @@
 {
  "city": "settat",
  "label": "Settat",
- "date": "2026-10-24",
+ "date": "2026-10-26",
  "source": "med.ma",
  "source_url": "https://www.med.ma/pharmacy/day-time/settat",
  "kind": "directory",
  "pharmacies": [
   {
-   "name": "Pharmacie Ryad Ahl Alwifaq",
-   "address": "Lot 38 rue elwifak, Deroua Berrechid Berrechid Settat",
-   "phone": "+212 522 51 40 83",
-   "lat": 33.3652807,
-   "lng": -7.5325664,
-   "shift": "jour",
-   "shift_label": "Pharmacies de jour"
+   "name": "Pharmacie Masjid Aicha",
+   "address": "Marrakech 40000 Kettara Kettara Marrakech",
+   "phone": "+212 524 31 10 40",
+   "lat": 31.667897442196,
+   "lng": -7.9924799558205,
+   "shift": "nuit",
+   "shift_label": "Pharmacies de nuit"
   },
   {
-   "name": "Pharmacie Al-Oum",
-   "address": "52, bd ElHouria, Maghrib Eljadid Berrechid Berrechid Settat",
-   "phone": "+212 522 32 41 76",
-   "lat": 33.265356,
-   "lng": -7.579744,
-   "shift": "jour",
-   "shift_label": "Pharmacies de jour"
+   "name": "Pharmacie Bassatine Targa",
+   "address": "Espaces Essaada, Op. Bassatine targa, près de l'Etablissement Targa Junior et le nouveau Rond Point de l'Azzouzia à gauche Marrakech Kettara Kettara Marrakech",
+   "phone": "+212 524 35 85 01",
+   "lat": 31.6721291,
+   "lng": -8.0533475,
+   "shift": "nuit",
+   "shift_label": "Pharmacies de nuit"
   },
   {
-   "name": "Pharmacie AlIhsane",
-   "address": "20, bd Mohammed V , résid. la Gare Berrechid Berrechid Settat",
-   "phone": "+212 522 32 65 79",
-   "lat": 33.2750407,
-   "lng": -7.5870091,
-   "shift": "jour",
-   "shift_label": "Pharmacies de jour"
+   "name": "Pharmacie Kamilia",
+   "address": "7, Quartier Assif C, en face de la mosquée Assif C Lot. Bouamria MARRAKECH Kettara Kettara Marrakech",
+   "phone": "+212 524 30 63 22",
+   "lat": 31.6533554,
+   "lng": -8.0051676,
+   "shift": "nuit",
+   "shift_label": "Pharmacies de nuit"
   },
   {
-   "name": "Pharmacie des Familles",
-   "address": "229, bd Abdellah Echafchaouni , bloc \"F\", hay Hassani Berrechid Berrechid Settat",
-   "phone": "+212 522 32 58 23",
-   "lat": 33.27426,
-   "lng": -7.571736,
-   "shift": "jour",
-   "shift_label": "Pharmacies de jour"
+   "name": "Pharmacie Kawtar",
+   "address": "C9, Lot. Kawtar Ennakhil Sud en face de la porte de Aouda Saadia vers la gauche à côté de Ferran Laaraj Marrakech Kettara Kettara Marrakech",
+   "phone": "+212 524 29 26 96",
+   "lat": 31.6358539,
+   "lng": -7.9766519,
+   "shift": "nuit",
+   "shift_label": "Pharmacies de nuit"
   },
   {
-   "name": "Pharmacie Saïdi",
-   "address": "hay Essaâda , lot. Abou Rahal n°13 Berrechid Ben Ahmed Ben Ahmed Settat",
-   "phone": "+212 522 33 71 71",
-   "lat": 33.259236730274,
-   "lng": -7.5840759718972,
-   "shift": "24h",
-   "shift_label": "Pharmacies 24h/24"
+   "name": "Pharmacie Chams Nakhil",
+   "address": "Lakhili Arset El Mellakh n°43, Marrakech Sud près du Centre de Santé Annakhil Route de Tallaght Loudaya Loudaya Marrakech",
+   "phone": "+212 529 80 50 83",
+   "lat": 31.6275371,
+   "lng": -7.9556413,
+   "shift": "nuit",
+   "shift_label": "Pharmacies de nuit"
+  },
+  {
+   "name": "Pharmacie Residence Annassim",
+   "address": "Résidence Annassim 1 Massira 3, proche du Centre d'Estivage de Maroc Télécom derrière la Direction des Impôts Targa Marrakech Kettara Kettara Marrakech",
+   "phone": "+212 524 39 44 83",
+   "lat": 31.648682,
+   "lng": -8.0614514,
+   "shift": "nuit",
+   "shift_label": "Pharmacies de nuit"
   }
  ],
  "center": [
-  33.2878,
-  -7.571
+  31.6509,
+  -8.0075
  ]
 }

@@ -1,17 +1,53 @@
 {
  "city": "mohammedia",
  "label": "Mohammedia",
- "date": "2026-10-24",
+ "date": "2026-10-26",
  "source": "med.ma",
  "source_url": "https://www.med.ma/pharmacy/day-time/mohammedia",
  "kind": "directory",
  "pharmacies": [
+  {
+   "name": "Pharmacie Jamila",
+   "address": "145, bd Tadla, derb Jamila Mohammedia Mohammedia",
+   "phone": "+212 523 31 51 28",
+   "lat": 33.6839734,
+   "lng": -7.3867866,
+   "shift": "jour",
+   "shift_label": "Pharmacies de jour"
+  },
   {
    "name": "Pharmacie Mesbahiate",
    "address": "13, bd kadi tazi, hassania 1 Mohammedia",
    "phone": "+212 523 28 15 61",
    "lat": 33.6747412,
    "lng": -7.3962336,
+   "shift": "jour",
+   "shift_label": "Pharmacies de jour"
+  },
+  {
+   "name": "Pharmacie Malak",
+   "address": "résidence ya mulki, bd fatema zahra, nassim Mohammedia Mohammedia",
+   "phone": "+212 523 32 05 06",
+   "lat": 33.6830162,
+   "lng": -7.4003245,
+   "shift": "jour",
+   "shift_label": "Pharmacies de jour"
+  },
+  {
+   "name": "Pharmacie la Liberté",
+   "address": "336 lotiss. El Houria Lotissement houria Mohammedia - Maroc Mohammedia",
+   "phone": "+212 523 32 03 06",
+   "lat": 33.6901999,
+   "lng": -7.3784593,
+   "shift": "jour",
+   "shift_label": "Pharmacies de jour"
+  },
+  {
+   "name": "Pharmacie Al Hamd",
+   "address": "150, lotiss. Riad Essalam Mohammedia Mohammedia",
+   "phone": "+212 523 30 05 45",
+   "lat": 33.7023959,
+   "lng": -7.3624551,
    "shift": "jour",
    "shift_label": "Pharmacies de jour"
   },
@@ -34,47 +70,11 @@
    "shift_label": "Pharmacies de jour"
   },
   {
-   "name": "Pharmacie la Liberté",
-   "address": "336 lotiss. El Houria Lotissement houria Mohammedia - Maroc Mohammedia",
-   "phone": "+212 523 32 03 06",
-   "lat": 33.6901999,
-   "lng": -7.3784593,
-   "shift": "jour",
-   "shift_label": "Pharmacies de jour"
-  },
-  {
    "name": "Pharmacie Moumen",
    "address": "bd Palestine, Lotiss. Moumen El Alia Mohammedia Mohammedia",
    "phone": "+212 523 28 44 85",
    "lat": 33.684388,
    "lng": -7.3722269,
-   "shift": "jour",
-   "shift_label": "Pharmacies de jour"
-  },
-  {
-   "name": "Pharmacie Al Hamd",
-   "address": "150, lotiss. Riad Essalam Mohammedia Mohammedia",
-   "phone": "+212 523 30 05 45",
-   "lat": 33.7023959,
-   "lng": -7.3624551,
-   "shift": "jour",
-   "shift_label": "Pharmacies de jour"
-  },
-  {
-   "name": "Pharmacie Jamila",
-   "address": "145, bd Tadla, derb Jamila Mohammedia Mohammedia",
-   "phone": "+212 523 31 51 28",
-   "lat": 33.6839734,
-   "lng": -7.3867866,
-   "shift": "jour",
-   "shift_label": "Pharmacies de jour"
-  },
-  {
-   "name": "Pharmacie Malak",
-   "address": "résidence ya mulki, bd fatema zahra, nassim Mohammedia Mohammedia",
-   "phone": "+212 523 32 05 06",
-   "lat": 33.6830162,
-   "lng": -7.4003245,
    "shift": "jour",
    "shift_label": "Pharmacies de jour"
   },

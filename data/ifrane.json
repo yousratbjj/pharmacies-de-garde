@@ -1,17 +1,17 @@
 {
  "city": "ifrane",
  "label": "Ifrane",
- "date": "2026-10-24",
+ "date": "2026-10-26",
  "source": "med.ma",
  "source_url": "https://www.med.ma/pharmacy/day-time/ifrane",
  "kind": "directory",
  "pharmacies": [
   {
-   "name": "Pharmacie Errai",
-   "address": "safaa 3 n°1 hssain Sale Sale",
-   "phone": "+212 537 82 97 60",
-   "lat": 34.012666,
-   "lng": -6.7367488,
+   "name": "Pharmacie Argana",
+   "address": "4 rte Ouled Gzouli Salé - Maroc Sale",
+   "phone": "+212 638 39 40 26",
+   "lat": 34.0336969,
+   "lng": -6.7708138,
    "shift": "jour",
    "shift_label": "Pharmacies de jour"
   },
@@ -25,44 +25,71 @@
    "shift_label": "Pharmacies de jour"
   },
   {
-   "name": "Pharmacie Du Croissant",
-   "address": "200 avenue mohamed ben abdellah - akkari Rabat Harhoura Harhoura Rabat",
-   "phone": "+212 537 69 04 23",
-   "lat": 34.0106528,
-   "lng": -6.8594996,
+   "name": "Pharmacie Boukroune",
+   "address": "12, rue Bouqroun Rabat Sale Rabat",
+   "phone": "+212 537 72 24 68",
+   "lat": 34.0264609,
+   "lng": -6.8366547,
    "shift": "jour",
    "shift_label": "Pharmacies de jour"
   },
   {
-   "name": "Pharmacie Hay Al Kora",
-   "address": "93, lot sidi elyabouri douar al kora c.y.m - RABAT Harhoura Harhoura Rabat",
-   "phone": "+212 537 29 91 76",
-   "lat": 33.9962762,
-   "lng": -6.8779575,
+   "name": "Pharmacie Diour Jamaa",
+   "address": "rue tahiti sur avenue hassan ii Rabat Harhoura Harhoura Rabat",
+   "phone": "+212 537 26 16 68",
+   "lat": 34.016628,
+   "lng": -6.846606,
    "shift": "jour",
    "shift_label": "Pharmacies de jour"
   },
   {
-   "name": "Pharmacie Mly Ali Chrif",
-   "address": "468, av Moulay Ali Cherif , Massira I Temara Harhoura Harhoura Temara",
-   "phone": "+212 537 60 05 25",
-   "lat": 33.9319309,
-   "lng": -6.9055139,
+   "name": "Pharmacie Akkari",
+   "address": "57, rue Sidi Ahmed Rabat Harhoura Harhoura Rabat",
+   "phone": "+212 537 69 10 86",
+   "lat": 34.0086906,
+   "lng": -6.8594815,
    "shift": "jour",
    "shift_label": "Pharmacies de jour"
   },
   {
-   "name": "Pharmacie Attaïssir",
-   "address": "443 rue alhassoune hay al manzah c.y.m (a côté de youpi et du restaurant piccola italia) Rabat Harhoura Harhoura Rabat",
-   "phone": "+212 537 28 02 96",
-   "lat": 33.9779473,
-   "lng": -6.8922267,
+   "name": "Pharmacie ElQods",
+   "address": "288, lotiss. Ouled Bennacer 1 Témara Harhoura Harhoura Temara",
+   "phone": "+212 537 60 00 43",
+   "lat": 33.9266315,
+   "lng": -6.9020348,
+   "shift": "jour",
+   "shift_label": "Pharmacies de jour"
+  },
+  {
+   "name": "Pharmacie AlBoustane",
+   "address": "69, bd Moustakbal, Amal 4 compl. (c.y.m.) Rabat Harhoura Harhoura Rabat",
+   "phone": "+212 537 79 92 93",
+   "lat": 33.9790077,
+   "lng": -6.8892348,
+   "shift": "jour",
+   "shift_label": "Pharmacies de jour"
+  },
+  {
+   "name": "Pharmacie Masrour",
+   "address": "224, Hay Masrour II Temara Harhoura Harhoura Temara",
+   "phone": "+212 537 74 19 90",
+   "lat": 33.929956,
+   "lng": -6.91434,
+   "shift": "jour",
+   "shift_label": "Pharmacies de jour"
+  },
+  {
+   "name": "Pharmacie Marjolaine",
+   "address": "rue la méditerranée,n 62, al montalak 2, c.y.m - Rabat Harhoura Harhoura Rabat",
+   "phone": "+212 537 29 12 33",
+   "lat": 33.9697277,
+   "lng": -6.9043373,
    "shift": "jour",
    "shift_label": "Pharmacies de jour"
   }
  ],
  "center": [
-  33.9644,
-  -6.8543
+  33.972,
+  -6.8641
  ]
 }
