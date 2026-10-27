@@ -7,17 +7,17 @@
  "kind": "roster",
  "pharmacies": [
   {
-   "name": "Pharmacie Zohra",
-   "address": "av Moukaouama, Tahla",
-   "phone": "+212535678088",
-   "lat": 34.041867,
-   "lng": -4.4168,
+   "name": "Pharmacie Chifaa",
+   "address": "77 bd Annasr, Tahla",
+   "phone": "+212535679689",
+   "lat": 34.051102,
+   "lng": -4.424827,
    "shift": "nuit",
    "shift_label": ""
   }
  ],
  "center": [
-  34.0419,
-  -4.4168
+  34.0511,
+  -4.4248
  ]
 }

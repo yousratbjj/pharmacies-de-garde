@@ -7,17 +7,17 @@
  "kind": "roster",
  "pharmacies": [
   {
-   "name": "Pharmacie Jnane Ali",
-   "address": "17 rue Guedira, Ouazzane",
-   "phone": "+212537466679",
-   "lat": 34.79468,
-   "lng": -5.58172,
-   "shift": "nuit",
+   "name": "Pharmacie Bousswalef",
+   "address": "bd El Houria - Autre ville q. Agadir, Ouazzane",
+   "phone": "+212537907480",
+   "lat": 34.797421,
+   "lng": -5.586707,
+   "shift": "jour",
    "shift_label": ""
   }
  ],
  "center": [
-  34.7947,
-  -5.5817
+  34.7974,
+  -5.5867
  ]
 }

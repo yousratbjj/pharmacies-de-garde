@@ -7,17 +7,17 @@
  "kind": "roster",
  "pharmacies": [
   {
-   "name": "Pharmacie ElMachichi",
-   "address": "bd. El Machichi, Chefchaouen",
-   "phone": "+212539987149",
-   "lat": 35.170383,
-   "lng": -5.2687,
-   "shift": "nuit",
+   "name": "Pharmacie ElHafa",
+   "address": "15 av. Mohamed. V, Chefchaouen",
+   "phone": "+212539883008",
+   "lat": 35.167417,
+   "lng": -5.268767,
+   "shift": "jour",
    "shift_label": ""
   }
  ],
  "center": [
-  35.1704,
-  -5.2687
+  35.1674,
+  -5.2688
  ]
 }

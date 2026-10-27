@@ -7,7 +7,7 @@
  "kind": "roster",
  "pharmacies": [
   {
-   "name": "Pharmacie Al Masjid",
+   "name": "PHARMACIE AL MASJID",
    "address": "hay Salam bloc 17 n°23, Sidi Slimane",
    "phone": "+212537502513",
    "lat": 34.254361,
@@ -16,26 +16,44 @@
    "shift_label": ""
   },
   {
-   "name": "Pharmacie Bir Anzarane",
-   "address": "63 bd. Bir Anzarane, Sidi Slimane",
-   "phone": "+212537502900",
+   "name": "PHARMACIE ARRAHMA",
+   "address": "hay Ouled El Ghazi rue 10 n°244, Sidi Slimane",
+   "phone": "+212537505768",
+   "lat": 34.259251,
+   "lng": -5.931036,
+   "shift": "nuit",
+   "shift_label": ""
+  },
+  {
+   "name": "PHARMACIE ELHAY ELJADID",
+   "address": "av Zerktouni hay ElJadid, Sidi Slimane",
+   "phone": "+212537500650",
    "lat": 34.2622961,
    "lng": -5.9239749,
    "shift": "nuit",
    "shift_label": ""
   },
   {
-   "name": "Pharmacie ElHay ElJadid",
-   "address": "av Zerktouni hay ElJadid, Sidi Slimane",
-   "phone": "+212537500650",
-   "lat": 34.259459,
-   "lng": -5.93849,
+   "name": "PHARMACIE INTERNATIONALE",
+   "address": "Coomplexe medicale, Sidi Slimane",
+   "phone": "+212669554771",
+   "lat": 34.259878,
+   "lng": -5.927253,
+   "shift": "nuit",
+   "shift_label": ""
+  },
+  {
+   "name": "PHARMACIE OULED EL GHAZI",
+   "address": "10, av Zerktouni , lot. Lemhamed Sidi slimane",
+   "phone": "+212537505871",
+   "lat": 34.2590735,
+   "lng": -5.9350268,
    "shift": "nuit",
    "shift_label": ""
   }
  ],
  "center": [
-  34.2587,
-  -5.9288
+  34.259,
+  -5.9282
  ]
 }

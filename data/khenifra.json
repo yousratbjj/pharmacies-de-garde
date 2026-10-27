@@ -7,26 +7,26 @@
  "kind": "roster",
  "pharmacies": [
   {
-   "name": "Pharmacie 8 Mars",
-   "address": "Cité Pam rue 1 n°20, Khénifra",
-   "phone": "+212535586395",
-   "lat": 32.934633,
-   "lng": -5.668083,
-   "shift": "nuit",
+   "name": "Pharmacie Al Course",
+   "address": "hay Course rue 2 n°23",
+   "phone": "+212535588558",
+   "lat": 32.9357718,
+   "lng": -5.6696504,
+   "shift": "jour",
    "shift_label": ""
   },
   {
-   "name": "Pharmacie Atlas",
-   "address": "37 bd Mohammed V, Khénifra",
-   "phone": "+212535586506",
-   "lat": 32.936222,
-   "lng": -5.673764,
-   "shift": "nuit",
+   "name": "Pharmacie Oum El Qora",
+   "address": "Lotissement El Abdellaoui rte. de Meknés n°31 bis",
+   "phone": "+212535384143",
+   "lat": 32.94885,
+   "lng": -5.6635,
+   "shift": "jour",
    "shift_label": ""
   }
  ],
  "center": [
-  32.9354,
-  -5.6709
+  32.9423,
+  -5.6666
  ]
 }

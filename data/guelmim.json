@@ -7,17 +7,26 @@
  "kind": "roster",
  "pharmacies": [
   {
-   "name": "Pharmacie Tayert",
-   "address": "av Ibnou Sina hay Tayert, Guelmim",
-   "phone": "+212528873795",
-   "lat": 28.9936,
-   "lng": -10.04421,
-   "shift": "nuit",
+   "name": "Pharmacie Hôpital Régional",
+   "address": "hay Arrahma rte Sidi Ifni bloc 3",
+   "phone": "+212808560362",
+   "lat": 28.980857,
+   "lng": -10.049272,
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie Meryem - Ex Azza",
+   "address": "32 bd Hassan II",
+   "phone": "+212649941730",
+   "lat": 28.991749,
+   "lng": -10.066198,
+   "shift": "jour",
    "shift_label": ""
   }
  ],
  "center": [
-  28.9936,
-  -10.0442
+  28.9863,
+  -10.0577
  ]
 }

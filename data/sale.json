@@ -7,89 +7,80 @@
  "kind": "roster",
  "pharmacies": [
   {
-   "name": "Pharmacie AMRI",
-   "address": "صيدلية العمري تجزئة المراكشية وراء ملعب الفرشي سابقا و إقامة الطواهري 16 حاليا",
+   "name": "Pharmacie AL A'ARAF",
+   "address": "Avenue Atlas Al Kabir 26, Rue Al Fadl Hay Chafaa",
+   "phone": "+212537808724",
+   "lat": 34.044889,
+   "lng": -6.814017,
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie AL KASBA",
+   "address": "طريق البحر أمام سبيطار الحومة سيدي موسى ومارشي سيدي موسى الهاتف. 17 33 78 0537",
+   "phone": "+212537783317",
+   "lat": 34.0564503,
+   "lng": -6.8199818,
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie AZZEDINE",
+   "address": "Route de mahdia résidence annajah 2 immeuble 17 magasin N° 1 Bouchouk",
+   "phone": "+212537849195",
+   "lat": 34.086566,
+   "lng": -6.781806,
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie DU MAGHREB ARABE",
+   "address": "Lot Villa 1223 N°4 (Prés du lycée-Collège du Maghreb Arabe)",
+   "phone": "+212537531310",
+   "lat": 33.9982674,
+   "lng": -6.7338054,
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie L'HOPITAL DE SALE",
+   "address": "Secteur D numéro 777 hay errahma",
+   "phone": "+212537871146",
+   "lat": 34.0645343,
+   "lng": -6.7909504,
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie MOHAMED V",
+   "address": "6 Avenue Mohamed V Entre Redal et Marjane Hay Karima Salé (Route Tramway Salé)",
+   "phone": "+212537863294",
+   "lat": 34.0491714,
+   "lng": -6.7996178,
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie OUM SALMA",
+   "address": "تجزئة سلمى رقم 29 حي واد الذهب - لعيايدة",
+   "phone": "+212662629818",
+   "lat": 34.0764599,
+   "lng": -6.7603561,
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
+   "name": "PHARMACIE AMRI",
+   "address": "avenue al morabitine, lotissement marrakchia n°2.angle rue chafchaoun et hassiane. en face stade ferchi et résidence assafaa",
    "phone": "+212530912099",
-   "lat": 34.042967,
-   "lng": -6.808186,
-   "shift": "nuit",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie ARGANA",
-   "address": "Lot Assaada ferdaous Imm 140 N°5 Hssain",
-   "phone": "+212662779154",
-   "lat": 34.0183931,
-   "lng": -6.7471656,
-   "shift": "nuit",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie Asseha",
-   "address": "Pharmacie Asseha",
-   "phone": "+212537854243",
-   "lat": 34.044899,
-   "lng": -6.8140202,
-   "shift": "nuit",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie AZ-ZAHRA",
-   "address": "Rue Oued Erromane Hay Al Inbiat",
-   "phone": "+212537807100",
-   "lat": 34.051861,
-   "lng": -6.778778,
-   "shift": "nuit",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie BAYTI",
-   "address": "Av Mohamed V G28 Mag N°1.28 Bayti 2",
-   "phone": "+212537533359",
-   "lat": 33.9881111,
-   "lng": -6.7340556,
-   "shift": "nuit",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie DAR EL YOUSR",
-   "address": "تجزئة سيدي عبد الله رقم 1028 لعيايدة",
-   "phone": "+212537870184",
-   "lat": 34.0759448,
-   "lng": -6.7635857,
-   "shift": "nuit",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie EL FILALI",
-   "address": "30 Lotissement Jouhari, Hors Bab Sebta, Route kenitra EST وراء المدرسة العليا للتكنولوجيا",
-   "phone": "+212537782388",
-   "lat": 34.0509148,
-   "lng": -6.8101611,
-   "shift": "nuit",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie NASSIHA",
-   "address": "صيدلية النصيحة الكاريان أمام المسبح البلدي E حي الرحمة سكتور و سوق حي الرحمة",
-   "phone": "+212537874694",
-   "lat": 34.069204,
-   "lng": -6.782253,
-   "shift": "nuit",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie OUM AL KORA",
-   "address": "Av Youssef Ibn Tachfine N°110 Bis Hay Cheikh Lamfadel",
-   "phone": "+212537871343",
-   "lat": 34.056694,
-   "lng": -6.786361,
-   "shift": "nuit",
+   "lat": 34.2215178,
+   "lng": -6.628677,
+   "shift": "jour",
    "shift_label": ""
   }
  ],
  "center": [
-  34.0443,
-  -6.7805
+  34.0747,
+  -6.7662
  ]
 }

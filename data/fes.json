@@ -7,98 +7,98 @@
  "kind": "roster",
  "pharmacies": [
   {
-   "name": "Pharmacie AlHadika",
-   "address": "lotiss. Al Hadika rte de Meknès Zwagha, Fès",
+   "name": "Pharmacie Bahia",
+   "address": "bd midelt, hay najah sidi brahim",
+   "phone": "+212535732870",
+   "lat": 34.0332985,
+   "lng": -5.0,
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie Berrada",
+   "address": "212 hay Mohammadi Ain Kadouss, Fès",
+   "phone": "+212535631068",
+   "lat": 34.059087,
+   "lng": -5.013883,
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie Centrale Ain Chkef",
+   "address": "1 lotiss. Jinane, Fès",
+   "phone": "+212535691133",
+   "lat": 34.006669,
+   "lng": -5.010188,
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie Diamant de Fés",
+   "address": "5 rte Sefrou, Fès",
+   "phone": "+212664079593",
+   "lat": 33.99426,
+   "lng": -4.966602,
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie Driss",
+   "address": "2 hay Msallah - Autre ville lot Msallah bab Ftouh, Fès",
+   "phone": "+212532002800",
+   "lat": 34.050041,
+   "lng": -4.964602,
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie Ifrane",
+   "address": "lotiss. Al Qods bloc 11 n°12 rte Immouzer, Fès",
+   "phone": "+212535604712",
+   "lat": 34.014317,
+   "lng": -5.001567,
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie La Criée",
+   "address": "11 hay Al Amane Bensouda, Fès",
+   "phone": "+212535655327",
+   "lat": 33.999683,
+   "lng": -5.033333,
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie Zkak Lahjar",
+   "address": "n°107.zkak lahjar",
+   "phone": "+212535633674",
+   "lat": 34.0635419,
+   "lng": -4.9779571,
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie Al Hadika",
+   "address": "pharmacie alhadika, lot. alhadika route meknes",
    "phone": "+212535703199",
-   "lat": 34.053362,
-   "lng": -5.027841,
-   "shift": "nuit",
+   "lat": 34.0555058,
+   "lng": -5.0232767,
+   "shift": "jour",
    "shift_label": ""
   },
   {
    "name": "Pharmacie Al Jawahir",
-   "address": "82 rue Al Jawahir - Autre ville Bensouda, Fès",
+   "address": "82 lot al jawahir bensouda en face de lot chaimae ( mobile: 06 64 57 93 99 )",
    "phone": "+212535974545",
-   "lat": 34.034223,
-   "lng": -5.061526,
-   "shift": "nuit",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie Arrayhane",
-   "address": "rte de Sefrou lot. Arrayhane 2 imm. 7 n°16, Fès",
-   "phone": "+212535765506",
-   "lat": 33.994553,
-   "lng": -4.970545,
-   "shift": "nuit",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie Bahia",
-   "address": "66 rue Midelt hay Najah Sidi Brahim, Fès",
-   "phone": "+212535732870",
-   "lat": 34.02465,
-   "lng": -4.985333,
-   "shift": "nuit",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie Benjelloun",
-   "address": "hay Tarik 2 lotiss. Krikach n°24, Fès",
-   "phone": "+212535610967",
-   "lat": 34.027033,
-   "lng": -5.021917,
-   "shift": "nuit",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie Bvd Mohamed VI",
-   "address": "70 lotiss. Mohammedia, Fès",
-   "phone": "+212535604135",
-   "lat": 34.021805,
-   "lng": -5.026441,
-   "shift": "nuit",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie Chifa",
-   "address": "36 hay Ain Chkef - Autre ville Labsaiss, Fès",
-   "phone": "+212535966745",
-   "lat": 33.964655,
-   "lng": -5.020694,
-   "shift": "nuit",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie Debbagh",
-   "address": "bd Abou Obeida Ibnou Al Jarrah, Fès",
-   "phone": "+212535622381",
-   "lat": 34.0429,
-   "lng": -5.003683,
-   "shift": "nuit",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie Jnane Drader",
-   "address": "34 rue Jnane Drader n°3 Sidi Boujida, Fès",
-   "phone": "+212535763849",
-   "lat": 34.067392,
-   "lng": -4.969991,
-   "shift": "nuit",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie Zahraoui",
-   "address": "2 lotiss. Bab Assalam rte Ain Smen, Fès",
-   "phone": "+212535691680",
-   "lat": 34.001408,
-   "lng": -5.015342,
-   "shift": "nuit",
+   "lat": 34.0335888,
+   "lng": -5.0008613,
+   "shift": "jour",
    "shift_label": ""
   }
  ],
  "center": [
-  34.0232,
-  -5.0103
+  34.031,
+  -4.9992
  ]
 }

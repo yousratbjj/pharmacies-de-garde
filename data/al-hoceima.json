@@ -7,17 +7,26 @@
  "kind": "roster",
  "pharmacies": [
   {
-   "name": "Pharmacie Ibnou Rochd",
-   "address": "168 av Hassan II, Al Hoceima",
-   "phone": "+212539981757",
-   "lat": 35.238833,
-   "lng": -3.937483,
-   "shift": "nuit",
+   "name": "CALABONITA",
+   "address": "28, Hay Cala Bonita, Résidence Firadaous",
+   "phone": "+212539985864",
+   "lat": 35.2336055,
+   "lng": -3.9274061,
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie le Port (Al Minae)",
+   "address": "24 place 9 Avril, Al Hoceima",
+   "phone": "+212539980606",
+   "lat": 35.244988,
+   "lng": -3.927132,
+   "shift": "jour",
    "shift_label": ""
   }
  ],
  "center": [
-  35.2388,
-  -3.9375
+  35.2393,
+  -3.9273
  ]
 }

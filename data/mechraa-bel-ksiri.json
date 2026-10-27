@@ -7,17 +7,17 @@
  "kind": "roster",
  "pharmacies": [
   {
-   "name": "Pharmacie Pam",
-   "address": "212 bd des F.a.r. - Autre ville, Mechraa Bel Ksiri",
-   "phone": "+212537906950",
-   "lat": 34.576668,
-   "lng": -5.96845,
-   "shift": "nuit",
+   "name": "Pharmacie du Marché",
+   "address": "58 av Caid Mansour, Mechraa Bel Ksiri",
+   "phone": "+212537438140",
+   "lat": 34.574281,
+   "lng": -5.952496,
+   "shift": "jour",
    "shift_label": ""
   }
  ],
  "center": [
-  34.5767,
-  -5.9684
+  34.5743,
+  -5.9525
  ]
 }

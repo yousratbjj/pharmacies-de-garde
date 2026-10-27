@@ -7,21 +7,12 @@
  "kind": "roster",
  "pharmacies": [
   {
-   "name": "Pharmacie Avicennes",
-   "address": "bd Mohammed V carrefour Mimosas, Kénitra",
-   "phone": "+212537374874",
-   "lat": 34.255825,
-   "lng": -6.597156,
-   "shift": "nuit",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie Elmassira",
-   "address": "hay Chabab grp. 90, Kénitra",
-   "phone": "+212537380627",
-   "lat": 34.252018,
-   "lng": -6.550299,
-   "shift": "nuit",
+   "name": "Pharmacie Arzak",
+   "address": "1208 lotiss. Amal ouled Arafa Saknia",
+   "phone": "+212537391416",
+   "lat": 34.2478736,
+   "lng": -6.5419331,
+   "shift": "jour",
    "shift_label": ""
   },
   {
@@ -34,53 +25,35 @@
    "shift_label": ""
   },
   {
-   "name": "Pharmacie Jnane Ikbal",
-   "address": "2072 hay Bir Rami Lotiss Jnane, Kénitra",
-   "phone": "+212700808586",
-   "lat": 34.221456,
-   "lng": -6.613931,
-   "shift": "nuit",
+   "name": "Pharmacie Tredano - El Bakkali",
+   "address": "hay Bir Rami Lahrichi",
+   "phone": "+212537394969",
+   "lat": 34.22239,
+   "lng": -6.629637,
+   "shift": "jour",
    "shift_label": ""
   },
   {
-   "name": "Pharmacie Siham",
-   "address": "hay Al Maghrib Al Arabi D lot 63, Kénitra",
-   "phone": "+212537360805",
-   "lat": 34.255766,
-   "lng": -6.614017,
-   "shift": "nuit",
+   "name": "PHARMACIE AVICENNES",
+   "address": "bd mohammed v carrefour mimosas",
+   "phone": "+212537374874",
+   "lat": 34.2557944,
+   "lng": -6.5971595,
+   "shift": "jour",
    "shift_label": ""
   },
   {
-   "name": "Pharmacie GOLF",
-   "address": "قرب مسجد الأنوار وقرب بيم القجيم الهاتف. 14 80 38 0537",
-   "phone": "+212537388014",
-   "lat": 34.2624279,
-   "lng": -6.6428426,
-   "shift": "nuit",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie MAAOUI",
-   "address": "إقامة أليانس الجديدة (أمام حديقة الألعاب العليا) الهاتف. 32 12 25 0530",
-   "phone": "+212530251232",
-   "lat": 34.2523923,
-   "lng": -6.6567771,
-   "shift": "nuit",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie SAADAOUI",
-   "address": "أمام مؤسسة محمد السادس للتضامن دار البحارة, سكتور 9 القصبة الهاتف. 89 88 38 0537",
-   "phone": "+212537388889",
-   "lat": 34.2579819,
-   "lng": -6.6553538,
-   "shift": "nuit",
+   "name": "PHARMACIE SIHAM",
+   "address": "hay al maghrib al arabi, d lot 63",
+   "phone": "+212 537 360805",
+   "lat": 34.2558248,
+   "lng": -6.6139945,
+   "shift": "jour",
    "shift_label": ""
   }
  ],
  "center": [
-  34.2523,
-  -6.6123
+  34.2485,
+  -6.5901
  ]
 }

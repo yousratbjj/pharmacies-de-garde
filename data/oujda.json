@@ -12,7 +12,7 @@
    "phone": "+212536518154",
    "lat": 34.6565581,
    "lng": -1.933781,
-   "shift": "nuit",
+   "shift": "jour",
    "shift_label": ""
   },
   {
@@ -21,16 +21,16 @@
    "phone": "+212536542116",
    "lat": 34.6800701,
    "lng": -1.8575628,
-   "shift": "nuit",
+   "shift": "jour",
    "shift_label": ""
   },
   {
    "name": "Pharmacie Moderne",
-   "address": "35 rue de marrakech",
+   "address": "35, Rue De Marrakech",
    "phone": "+212536682871",
-   "lat": 34.6817349,
-   "lng": -1.9119481,
-   "shift": "nuit",
+   "lat": 34.6817881,
+   "lng": -1.9119321,
+   "shift": "jour",
    "shift_label": ""
   },
   {
@@ -39,30 +39,57 @@
    "phone": "+212536680473",
    "lat": 34.681962,
    "lng": -1.900155,
-   "shift": "nuit",
+   "shift": "jour",
    "shift_label": ""
   },
   {
    "name": "Pharmacie Palais de Justice",
-   "address": "78, rue oued oum errabia, lotiss iris",
+   "address": "78, rue Oued Oum Errabia, Lotiss iris",
    "phone": "+212536532500",
    "lat": 34.6602483,
    "lng": -1.9140682,
-   "shift": "nuit",
+   "shift": "jour",
    "shift_label": ""
   },
   {
-   "name": "PHARMACIE MOUSSAOUI",
-   "address": "Hay Al Hassani Annour Borj N°3",
-   "phone": "",
-   "lat": 34.7181658,
-   "lng": -1.8976851,
-   "shift": "nuit",
+   "name": "Pharmacie ElAzzaoui",
+   "address": "10 Kaffr Kacem ElQods, Oujda",
+   "phone": "+212536500620",
+   "lat": 34.657783,
+   "lng": -1.895867,
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie ElBaraka",
+   "address": "10 bd. Mohamed Bedrane hay ElWahda, Oujda",
+   "phone": "+212536510673",
+   "lat": 34.675617,
+   "lng": -1.938233,
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie Essafae",
+   "address": "hay Toba Extérieur rue n°226 n°10, Oujda",
+   "phone": "+212536524285",
+   "lat": 34.691181,
+   "lng": -1.903128,
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie Zenati Lazaret",
+   "address": "lotiss.Msirdi Dhar Lamhala Lazaret, Oujda",
+   "phone": "+212536747552",
+   "lat": 34.67835,
+   "lng": -1.875417,
+   "shift": "jour",
    "shift_label": ""
   }
  ],
  "center": [
-  34.6798,
-  -1.9025
+  34.6737,
+  -1.9033
  ]
 }

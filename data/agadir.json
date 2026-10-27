@@ -7,21 +7,12 @@
  "kind": "roster",
  "pharmacies": [
   {
-   "name": "Pharmacie 20 Aout",
-   "address": "180 bd imam el boukhari erac bouargane",
-   "phone": "+212528233279",
-   "lat": 30.4260216,
-   "lng": -9.5675334,
-   "shift": "nuit",
-   "shift_label": ""
-  },
-  {
    "name": "Pharmacie Adam",
    "address": "701, z.i tilila, rue mekka",
    "phone": "+212528288080",
    "lat": 30.3965009,
    "lng": -9.5124727,
-   "shift": "nuit",
+   "shift": "jour",
    "shift_label": ""
   },
   {
@@ -30,7 +21,7 @@
    "phone": "+212528848543",
    "lat": 30.4324748,
    "lng": -9.5828934,
-   "shift": "nuit",
+   "shift": "jour",
    "shift_label": ""
   },
   {
@@ -39,7 +30,7 @@
    "phone": "+212528845592",
    "lat": 30.4235102,
    "lng": -9.6054486,
-   "shift": "nuit",
+   "shift": "jour",
    "shift_label": ""
   },
   {
@@ -48,7 +39,7 @@
    "phone": "+212528224141",
    "lat": 30.4324008,
    "lng": -9.5554984,
-   "shift": "nuit",
+   "shift": "jour",
    "shift_label": ""
   },
   {
@@ -57,16 +48,7 @@
    "phone": "+212528320002",
    "lat": 30.394694,
    "lng": -9.5378609,
-   "shift": "nuit",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie Boussaïd",
-   "address": "hay farha, bd hadj lahbib, bloc 14 n°1, proche de l'école kastalani",
-   "phone": "+212528238636",
-   "lat": 30.4266508,
-   "lng": -9.5776389,
-   "shift": "nuit",
+   "shift": "jour",
    "shift_label": ""
   },
   {
@@ -75,21 +57,48 @@
    "phone": "+212528280079",
    "lat": 30.395412,
    "lng": -9.5737638,
-   "shift": "nuit",
+   "shift": "jour",
    "shift_label": ""
   },
   {
-   "name": "Pharmacie Chifa Al Farah",
-   "address": "hay bensergao , hay el farah",
-   "phone": "+212528280159",
-   "lat": 30.3954844,
-   "lng": -9.5580444,
-   "shift": "nuit",
+   "name": "Pharmacie El Alami",
+   "address": "hay riad essalam, imm. aferni n°22",
+   "phone": "+212528232957",
+   "lat": 30.4067131,
+   "lng": -9.5741367,
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie Ennajd",
+   "address": "bd hassan 1er, 11 bloc g4 cité dakhla, en face sgmb agence dakhla",
+   "phone": "+212528226907",
+   "lat": 30.4078932,
+   "lng": -9.5563074,
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie Hadrane",
+   "address": "2 bis, rue ibn al arabi, a coté de la mosquée lagouira, près de l'école fikri, cité lagouira",
+   "phone": "+212528231012",
+   "lat": 30.4221553,
+   "lng": -9.5764138,
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie Ibn Zouhr",
+   "address": "229, type o, rue aglou, cité essalam",
+   "phone": "+212528235451",
+   "lat": 30.4024965,
+   "lng": -9.5526994,
+   "shift": "jour",
    "shift_label": ""
   }
  ],
  "center": [
-  30.4137,
-  -9.5635
+  30.4114,
+  -9.5627
  ]
 }

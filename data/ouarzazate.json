@@ -7,17 +7,26 @@
  "kind": "roster",
  "pharmacies": [
   {
-   "name": "Pharmacie Sidi Daoud",
-   "address": "bd Mohammed V lotiss. Tichka, Ouarzazate",
-   "phone": "+212524883380",
-   "lat": 30.922967,
-   "lng": -6.896983,
-   "shift": "nuit",
+   "name": "Pharmacie Al Hizame",
+   "address": "77 av. My Abdellah",
+   "phone": "+212524888081",
+   "lat": 30.92745,
+   "lng": -6.9268333,
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie Al Wahda",
+   "address": "311 av. Al Maghreb Al Arabi lotiss. Al Wahda",
+   "phone": "+212524887990",
+   "lat": 30.92705,
+   "lng": -6.9047,
+   "shift": "jour",
    "shift_label": ""
   }
  ],
  "center": [
-  30.923,
-  -6.897
+  30.9273,
+  -6.9158
  ]
 }

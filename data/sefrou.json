@@ -7,62 +7,35 @@
  "kind": "roster",
  "pharmacies": [
   {
-   "name": "Pharmacie Cascades",
-   "address": "rue Errachad bloc 2 n°°167, Séfrou",
-   "phone": "+212535682925",
-   "lat": 33.837071,
-   "lng": -4.825672,
-   "shift": "nuit",
+   "name": "Pharmacie Chabbak",
+   "address": "Q. Chabbak 1 n°117 bis",
+   "phone": "+212535969207",
+   "lat": 33.829993,
+   "lng": -4.838255,
+   "shift": "jour",
    "shift_label": ""
   },
   {
-   "name": "Pharmacie Habitat",
-   "address": "114 bd Hassan 1ér Sette Massouda, Séfrou",
-   "phone": "+212535969242",
-   "lat": 33.83212,
-   "lng": -4.83702,
-   "shift": "nuit",
+   "name": "Pharmacie Khalil",
+   "address": "1218 Zalagh Ben Sefar",
+   "phone": "+212535660737",
+   "lat": 33.82943,
+   "lng": -4.8253,
+   "shift": "jour",
    "shift_label": ""
   },
   {
-   "name": "Pharmacie la Colline",
-   "address": "102 Lotissement Lalla Moulati rte. El Menzel, Séfrou",
-   "phone": "+212534439606",
-   "lat": 33.825433,
-   "lng": -4.821717,
-   "shift": "nuit",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie la Famille",
-   "address": "lotissement Bir Anzarane Ben Seffar n°19, Séfrou",
-   "phone": "+212535662264",
-   "lat": 33.8333,
-   "lng": -4.828833,
-   "shift": "nuit",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie Lamkacem Ex- Avicenne Sina",
-   "address": "171 bd Amir Abdelkader, Séfrou",
-   "phone": "+212535660562",
-   "lat": 33.825066,
-   "lng": -4.836497,
-   "shift": "nuit",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie Razi",
-   "address": "220 av Yaâcoub El Mansour, Séfrou",
-   "phone": "+212535969460",
-   "lat": 33.832817,
-   "lng": -4.834467,
-   "shift": "nuit",
+   "name": "Pharmacie Zahrat Al Jabal",
+   "address": "1 Massay q.i.",
+   "phone": "+212535969784",
+   "lat": 33.817726,
+   "lng": -4.828977,
+   "shift": "jour",
    "shift_label": ""
   }
  ],
  "center": [
-  33.831,
-  -4.8307
+  33.8257,
+  -4.8308
  ]
 }

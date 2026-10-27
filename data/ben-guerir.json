@@ -7,26 +7,26 @@
  "kind": "roster",
  "pharmacies": [
   {
-   "name": "Pharmacie Al Machrek",
-   "address": "11 hay riad, derrière 2eme préfecture",
-   "phone": "+212702188850",
-   "lat": 32.239034,
-   "lng": -7.958131,
-   "shift": "",
+   "name": "Pharmacie la Poste",
+   "address": "2 bd Complexe Commercial, Ben Guerir",
+   "phone": "+212524317053",
+   "lat": 32.2444,
+   "lng": -7.956833,
+   "shift": "jour",
    "shift_label": ""
   },
   {
-   "name": "Pharmacie la Ville Verte",
-   "address": "hay Takadoum - Autre ville, Ben Guerir",
-   "phone": "+212525242310",
-   "lat": 32.254289,
-   "lng": -7.948056,
-   "shift": "",
+   "name": "Pharmacie Medeci",
+   "address": "hay Moulay Rachid - Autre ville sect.05 n° 141, Ben Guerir",
+   "phone": "+212669624782",
+   "lat": 32.21355,
+   "lng": -7.92432,
+   "shift": "jour",
    "shift_label": ""
   }
  ],
  "center": [
-  32.2467,
-  -7.9531
+  32.229,
+  -7.9406
  ]
 }

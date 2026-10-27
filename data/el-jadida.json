@@ -12,7 +12,7 @@
    "phone": "+212523800493",
    "lat": 33.2466866,
    "lng": -8.53426,
-   "shift": "nuit",
+   "shift": "jour",
    "shift_label": ""
   },
   {
@@ -21,12 +21,84 @@
    "phone": "+212523371099",
    "lat": 33.2440575,
    "lng": -8.4987398,
-   "shift": "nuit",
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie Izdihare",
+   "address": "1 .HAY ENNAJD.RIAD ESSALAM .RES IZDIHARE",
+   "phone": "+212523392279",
+   "lat": 33.2293335,
+   "lng": -8.5126298,
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie Achraf Al Idrissi",
+   "address": "bd Khalil Jabrane Diar Al Mansour imm. 8 GH 52 n°6 El jadida",
+   "phone": "+212523374920",
+   "lat": 33.2316326,
+   "lng": -8.5007116,
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie Al Bayane",
+   "address": "lotiss. Hiba - Autre ville sect Ibrahim Al Khalil, El Jadida",
+   "phone": "+212523395960",
+   "lat": 33.231502,
+   "lng": -8.504781,
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie Amoury",
+   "address": "20 X rue M'barek Loughlimi Derb Ghalef, El Jadida",
+   "phone": "+212523342869",
+   "lat": 33.25467,
+   "lng": -8.506817,
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie Atlas",
+   "address": "Immeuble Abou Al Faraj.route Marrakeche",
+   "phone": "+212523340900",
+   "lat": 33.2188737,
+   "lng": -8.4920377,
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie de France",
+   "address": "13 rue France, El Jadida",
+   "phone": "+212523352275",
+   "lat": 33.2588,
+   "lng": -8.5089,
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie El Khair",
+   "address": "61 bd Doukkala lotiss. Mouilha, El Jadida",
+   "phone": "+212523390948",
+   "lat": 33.250917,
+   "lng": -8.520933,
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie Hakima",
+   "address": "N 31 LOT HAKIMA QUARTIER SIDI MOUSSA DERIERE LE C.Q.P",
+   "phone": "+212523355653",
+   "lat": 33.2376084,
+   "lng": -8.4915287,
+   "shift": "jour",
    "shift_label": ""
   }
  ],
  "center": [
-  33.2454,
-  -8.5165
+  33.2404,
+  -8.5071
  ]
 }

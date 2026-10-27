@@ -14,10 +14,19 @@
    "lng": -2.918761,
    "shift": "nuit",
    "shift_label": ""
+  },
+  {
+   "name": "Pharmacie Principale",
+   "address": "25 bd Mohammed V, Selouane",
+   "phone": "+212536609047",
+   "lat": 35.07494,
+   "lng": -2.939456,
+   "shift": "nuit",
+   "shift_label": ""
   }
  ],
  "center": [
-  35.0692,
-  -2.9188
+  35.0721,
+  -2.9291
  ]
 }

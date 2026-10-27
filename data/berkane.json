@@ -7,53 +7,17 @@
  "kind": "roster",
  "pharmacies": [
   {
-   "name": "Pharmacie Anas Ibnou Malek",
-   "address": "douar Wartass, Berkane",
-   "phone": "+212536617761",
-   "lat": 34.894536,
-   "lng": -2.289742,
-   "shift": "nuit",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie Bouhdila",
-   "address": "44 rue Moulouya hay El Fath, Berkane",
-   "phone": "+212536612002",
-   "lat": 34.930033,
-   "lng": -2.34125,
-   "shift": "nuit",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie Boujir",
-   "address": "210 bd Mohammed V, Berkane",
-   "phone": "+212536255076",
-   "lat": 34.928316,
-   "lng": -2.3264,
-   "shift": "nuit",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie l'Indépendance",
-   "address": "rue Istiqlal lotis. Assadaka imm. Al Houria, Berkane",
-   "phone": "+212536230660",
-   "lat": 34.932988,
-   "lng": -2.345315,
-   "shift": "nuit",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie Ouartass",
-   "address": "hay Zellaka rue 465, Berkane",
-   "phone": "+212536615727",
-   "lat": 34.913017,
-   "lng": -2.319333,
-   "shift": "nuit",
+   "name": "Pharmacie Ibn Rochd",
+   "address": "157 Rue Ibn Sina",
+   "phone": "+212536613631",
+   "lat": 34.92195,
+   "lng": -2.3243333,
+   "shift": "jour",
    "shift_label": ""
   }
  ],
  "center": [
-  34.9198,
-  -2.3244
+  34.922,
+  -2.3243
  ]
 }

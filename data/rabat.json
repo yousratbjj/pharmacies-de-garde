@@ -7,98 +7,80 @@
  "kind": "roster",
  "pharmacies": [
   {
-   "name": "Pharmacie AKKARI",
-   "address": "57, rue Sidi Ahmed Akkari",
-   "phone": "+212537691086",
-   "lat": 34.0223999,
-   "lng": -6.8345399,
-   "shift": "nuit",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie AL BOUSTANE",
-   "address": "69 Amal 4 Complémentaire (Près de l'accés supérieur de la feraille) C.Y.M",
-   "phone": "+212537799293",
-   "lat": 33.980139,
-   "lng": -6.888333,
+   "name": "Pharmacie AL MASBAH AL KABIR",
+   "address": "Avenue Chbanat 9 Rue Ibn Taimia En Face De La Cimetiere C.Y.M",
+   "phone": "+212537290673",
+   "lat": 33.98625,
+   "lng": -6.887722,
    "shift": "jour",
    "shift_label": ""
   },
   {
-   "name": "Pharmacie BIN EL OUIDANE",
-   "address": "Angle Av Bin El Ouidane Rue El Gansra Agdal",
+   "name": "Pharmacie AYA",
+   "address": "Dr. Nawfal LAHLOU Rue El Hachmi el Mestari (Douwar al askar)",
+   "phone": "+212537693388",
+   "lat": 34.016667,
+   "lng": -6.856583,
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie HAY CHABAB",
+   "address": "Bloc 18 appt 2 Hay Chabab Avenue Annour C.Y.M",
+   "phone": "+212537692902",
+   "lat": 33.9957197,
+   "lng": -6.8657472,
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie HAY EL FATH",
+   "address": "Imm 30 terminus des bus a Hay el fath La fin du Boulevard Al Massira C.Y.M Tél / WhatsApp: 0703 01 02 03",
+   "phone": "+212703010203",
+   "lat": 33.964806,
+   "lng": -6.903833,
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie IMANE Ex: BENYAHIA",
+   "address": "457 Av Hassan II Résid Meryem",
+   "phone": "+212537693900",
+   "lat": 34.0060366,
+   "lng": -6.8562332,
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie LES COLONNES",
+   "address": "à côté de la clinique Amal-Rajae Derrière le ministère des affaires étrangères et dans la rue de l’ex. ambassade Américaine)",
+   "phone": "+212537660618",
+   "lat": 34.0131792,
+   "lng": -6.8226534,
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
+   "name": "PHARMACIE AL BOUSTANE",
+   "address": "69 amal 4 complémentaire  (près de l'accés supérieur de la feraille)c.y.m",
+   "phone": "+212537799293",
+   "lat": 33.9803551,
+   "lng": -6.8883849,
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
+   "name": "PHARMACIE BIN EL OUIDANE",
+   "address": "angle av bin el ouidane rue el gansra agdal ss",
    "phone": "+212537772478",
-   "lat": 34.006611,
-   "lng": -6.85075,
-   "shift": "nuit",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie CHENIER",
-   "address": "27 Rue Tunis Hassan",
-   "phone": "+212537201539",
-   "lat": 34.018833,
-   "lng": -6.823,
-   "shift": "nuit",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie DIOUR JAMAA",
-   "address": "Rue Tahiti sur Avenue Hassan II",
-   "phone": "+212537261668",
-   "lat": 34.016611,
-   "lng": -6.846583,
-   "shift": "nuit",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie LE CLARIDGE",
-   "address": "Av Ahmed Rifai Complexe prestige extension (Entre Pizza Hut Souissi et Ecole Minbet)",
-   "phone": "+212537654055",
-   "lat": 33.9730833,
-   "lng": -6.8321389,
-   "shift": "nuit",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie MARJOLAINE",
-   "address": "Rue la méditerranée,n 62, al montalak 2, C.Y.M",
-   "phone": "+212537291233",
-   "lat": 33.9697277,
-   "lng": -6.9043373,
-   "shift": "nuit",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie YA-SIN",
-   "address": "1-2 Mosquée Nahda Hay Nahda II",
-   "phone": "+212537754008",
-   "lat": 33.972831,
-   "lng": -6.819991,
-   "shift": "nuit",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie ARRAYHANE",
-   "address": "Secteur 6D1, Rue Arrayhane",
-   "phone": "+212537714676",
-   "lat": 33.9541389,
-   "lng": -6.8611944,
-   "shift": "nuit",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie ATTAISSIR",
-   "address": "443 Rue Alhassoune Hay Al Manzah C.Y.M (A Côté De Youpi Et Du Restaurant Piccola Italia)",
-   "phone": "+212537280296",
-   "lat": 33.977889,
-   "lng": -6.892361,
-   "shift": "nuit",
+   "lat": 34.0066391,
+   "lng": -6.8508352,
+   "shift": "jour",
    "shift_label": ""
   }
  ],
  "center": [
-  33.9892,
-  -6.8553
+  33.9962,
+  -6.8665
  ]
 }

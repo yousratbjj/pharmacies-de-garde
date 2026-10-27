@@ -7,98 +7,71 @@
  "kind": "roster",
  "pharmacies": [
   {
-   "name": "Pharmacie Achouhada",
-   "address": "hay Al Bassatine 7 Tranche 3 rte Bougaraa, Meknès",
-   "phone": "+212535502972",
-   "lat": 33.884464,
-   "lng": -5.50582,
-   "shift": "nuit",
+   "name": "Pharmacie Bounoua",
+   "address": "3 rue Bir Anzarane Rte ElHajeb",
+   "phone": "+212535521809",
+   "lat": 33.8761833,
+   "lng": -5.5482,
+   "shift": "jour",
    "shift_label": ""
   },
   {
-   "name": "Pharmacie Al Inaya",
-   "address": "hay Oujah Arous rue 16 n°333, Meknès",
-   "phone": "+212535530906",
-   "lat": 33.903717,
-   "lng": -5.573917,
-   "shift": "nuit",
+   "name": "Pharmacie Elfath",
+   "address": "26 rue Sekkakine",
+   "phone": "+212535531780",
+   "lat": 33.8932,
+   "lng": -5.5670833,
+   "shift": "jour",
    "shift_label": ""
   },
   {
-   "name": "Pharmacie AlKhassa",
-   "address": "24 rue Safi résid. El Houssaini v.n, Meknès",
-   "phone": "+212535403598",
-   "lat": 33.89735,
-   "lng": -5.552667,
-   "shift": "nuit",
+   "name": "Pharmacie Fadilia",
+   "address": "117 lotiss. Fadilia rte. Agourai",
+   "phone": "+212535469509",
+   "lat": 33.8785,
+   "lng": -5.5785667,
+   "shift": "jour",
    "shift_label": ""
   },
   {
-   "name": "Pharmacie Chorafas",
-   "address": "27 bd Annasr Sidi Saîd, Meknès",
-   "phone": "+212535537204",
-   "lat": 33.889483,
-   "lng": -5.579067,
-   "shift": "nuit",
+   "name": "Pharmacie Hayati",
+   "address": "hay Al Bassatine 18 Olm Ext. Sud",
+   "phone": "+212535500128",
+   "lat": 33.8892067,
+   "lng": -5.5077351,
+   "shift": "jour",
    "shift_label": ""
   },
   {
-   "name": "Pharmacie de l'Academie",
-   "address": "135 lotiss. Tazi Jamaâ Roua, Meknès",
-   "phone": "+212535551936",
-   "lat": 33.874083,
-   "lng": -5.558917,
-   "shift": "nuit",
+   "name": "Pharmacie Jawharat Toulal",
+   "address": "57 lotiss. Al Massira",
+   "phone": "+212669749098",
+   "lat": 33.880779,
+   "lng": -5.607692,
+   "shift": "jour",
    "shift_label": ""
   },
   {
-   "name": "Pharmacie Grande Gare",
-   "address": "hay Ismailia 2 imm. 5 n°3 bd. Ibn Sina, Meknès",
-   "phone": "+212535404493",
-   "lat": 33.899733,
-   "lng": -5.532367,
-   "shift": "nuit",
+   "name": "Pharmacie Route de Fès",
+   "address": "bd des F.a.r. lotiss. Al Wifaq",
+   "phone": "+212535515966",
+   "lat": 33.89386,
+   "lng": -5.544674,
+   "shift": "jour",
    "shift_label": ""
   },
   {
-   "name": "Pharmacie La Baraka",
-   "address": "188 hay Marjane 4 sidi Bouzekri, Meknès",
-   "phone": "+212535550907",
-   "lat": 33.857615,
-   "lng": -5.5357,
-   "shift": "nuit",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie Lahbib",
-   "address": "358 hay Marjane 2 - Autre ville, Meknès",
-   "phone": "+212663657390",
-   "lat": 33.863333,
-   "lng": -5.571733,
-   "shift": "nuit",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie l'Océan",
-   "address": "rte Agourai résid. sijilmassa imm. B 10 n°6, Meknès",
-   "phone": "+212535466207",
-   "lat": 33.872783,
-   "lng": -5.578267,
-   "shift": "nuit",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie Toulal",
-   "address": "hay Toulal lot El Fath, Meknès",
-   "phone": "+212535554821",
-   "lat": 33.885667,
-   "lng": -5.597383,
-   "shift": "nuit",
+   "name": "Pharmacie Sijilmassa",
+   "address": "1004 hay Marjane 5 Sidi Bouzekri",
+   "phone": "+212535439870",
+   "lat": 33.8593833,
+   "lng": -5.5308833,
+   "shift": "jour",
    "shift_label": ""
   }
  ],
  "center": [
-  33.8828,
-  -5.5586
+  33.8816,
+  -5.555
  ]
 }

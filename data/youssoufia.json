@@ -7,26 +7,26 @@
  "kind": "roster",
  "pharmacies": [
   {
-   "name": "Pharmacie Agendis",
-   "address": "34 lotiss. Agendis, Youssoufia",
-   "phone": "+212524646491",
-   "lat": 32.25885,
-   "lng": -8.526517,
+   "name": "Pharmacie El Khiria",
+   "address": "25 rue Meknés cité Hassani",
+   "phone": "+212524648216",
+   "lat": 32.2445167,
+   "lng": -8.5281833,
    "shift": "nuit",
    "shift_label": ""
   },
   {
-   "name": "Pharmacie Inas",
-   "address": "11 bd Damas q. Salam Youssoufia, Youssoufia",
-   "phone": "+212524645524",
-   "lat": 32.241883,
-   "lng": -8.541425,
+   "name": "Pharmacie Zineb",
+   "address": "342 lotiss. Agendis",
+   "phone": "+212524645909",
+   "lat": 32.26022,
+   "lng": -8.52348,
    "shift": "nuit",
    "shift_label": ""
   }
  ],
  "center": [
-  32.2504,
-  -8.534
+  32.2524,
+  -8.5258
  ]
 }

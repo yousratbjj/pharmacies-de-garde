@@ -7,35 +7,17 @@
  "kind": "roster",
  "pharmacies": [
   {
-   "name": "Pharmacie hay Nador",
-   "address": "rue jakarta jnane bouhssina, Larache",
-   "phone": "+212539916004",
-   "lat": 35.192537,
-   "lng": -6.1617,
+   "name": "Pharmacie Masjid AlForkan",
+   "address": "17 lotiss. des Fonctionnaires hay ElJadid, Larache",
+   "phone": "+212539521121",
+   "lat": 35.182103,
+   "lng": -6.156333,
    "shift": "jour",
-   "shift_label": ""
-  },
-  {
-   "name": "ASSALAM",
-   "address": "Lotissment Assalamتجزئة السلام",
-   "phone": "+212539911579",
-   "lat": 35.1818499,
-   "lng": -6.1438284,
-   "shift": "jour",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie Salama",
-   "address": "161 bd Oqba Ibn Nafie, Larache",
-   "phone": "+212539915786",
-   "lat": 35.184167,
-   "lng": -6.150267,
-   "shift": "nuit",
    "shift_label": ""
   }
  ],
  "center": [
-  35.1862,
-  -6.1519
+  35.1821,
+  -6.1563
  ]
 }

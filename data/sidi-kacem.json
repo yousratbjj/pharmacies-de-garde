@@ -7,17 +7,17 @@
  "kind": "roster",
  "pharmacies": [
   {
-   "name": "Pharmacie Yasmina",
-   "address": "hay Essalam bloc Hind n°37 lot Slaoui, Sidi Kacem",
-   "phone": "+212537595810",
-   "lat": 34.227761,
-   "lng": -5.722959,
+   "name": "Pharmacie Ennasr",
+   "address": "9 Yasmine II",
+   "phone": "+212537900008",
+   "lat": 34.224252,
+   "lng": -5.716286,
    "shift": "nuit",
    "shift_label": ""
   }
  ],
  "center": [
-  34.2278,
-  -5.723
+  34.2243,
+  -5.7163
  ]
 }

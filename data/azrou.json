@@ -7,17 +7,17 @@
  "kind": "roster",
  "pharmacies": [
   {
-   "name": "Pharmacie Akchmir",
-   "address": "quartier Michlifen II Ahadaf n°17, Azrou",
-   "phone": "+212535564641",
-   "lat": 33.439967,
-   "lng": -5.231067,
-   "shift": "nuit",
+   "name": "Pharmacie Masjid Essaada",
+   "address": "Ahadaf rue 15 n°578",
+   "phone": "+212535564141",
+   "lat": 33.4380833,
+   "lng": -5.2269,
+   "shift": "jour",
    "shift_label": ""
   }
  ],
  "center": [
-  33.44,
-  -5.2311
+  33.4381,
+  -5.2269
  ]
 }

@@ -7,26 +7,17 @@
  "kind": "roster",
  "pharmacies": [
   {
-   "name": "Pharmacie l'Hôpital",
-   "address": "1 lotiss. Al Ouahda rte de Larache, Ksar El Kébir",
-   "phone": "+212539906976",
-   "lat": 35.013147,
-   "lng": -5.910959,
-   "shift": "nuit",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie Mansour Eddahbi",
-   "address": "hay Sidi Redwan Derb 1 n°3, Ksar El Kébir",
-   "phone": "+212539906852",
-   "lat": 35.002545,
-   "lng": -5.903442,
-   "shift": "nuit",
+   "name": "Pharmacie Wahrani",
+   "address": "hay Assalam grp. D rue 15 n°16",
+   "phone": "+212534629568",
+   "lat": 34.996243,
+   "lng": -5.897575,
+   "shift": "jour",
    "shift_label": ""
   }
  ],
  "center": [
-  35.0078,
-  -5.9072
+  34.9962,
+  -5.8976
  ]
 }

@@ -7,26 +7,17 @@
  "kind": "roster",
  "pharmacies": [
   {
-   "name": "Pharmacie Bouanane",
-   "address": "Saf ElHamam rte. Torreta n°6, Tétouan",
-   "phone": "+212539990022",
-   "lat": 35.5556,
-   "lng": -5.376317,
-   "shift": "nuit",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie Chikri",
-   "address": "105 av. M'fadel Afailal, Tétouan",
+   "name": "CHIKRI",
+   "address": "av mfadel afailal n 105",
    "phone": "+212539993128",
-   "lat": 35.57135,
-   "lng": -5.36005,
-   "shift": "nuit",
+   "lat": 35.5714445,
+   "lng": -5.3601156,
+   "shift": "",
    "shift_label": ""
   }
  ],
  "center": [
-  35.5635,
-  -5.3682
+  35.5714,
+  -5.3601
  ]
 }

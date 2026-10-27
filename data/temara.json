@@ -7,71 +7,35 @@
  "kind": "roster",
  "pharmacies": [
   {
-   "name": "Pharmacie ERRACHAD",
-   "address": "N°2327,Rue errachad Hay El Wifaq",
-   "phone": "+212537617929",
-   "lat": 33.9189663,
-   "lng": -6.9305233,
-   "shift": "nuit",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie MASJID ANNOUR",
-   "address": "39 Gr.6 résidence Annour 1 - Tamesna",
-   "phone": "+212537619778",
-   "lat": 33.8470047,
-   "lng": -6.9359075,
-   "shift": "nuit",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie MOULAY SLIMANE",
-   "address": "806 Hay Nahda -",
-   "phone": "+212538973645",
-   "lat": 33.92325,
-   "lng": -6.90525,
-   "shift": "nuit",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie MOURAM",
-   "address": "Av Tarik Ibn Ziad, Residence Janane Temara Ilot N°2 Mag 48",
-   "phone": "+212537408618",
-   "lat": 33.910972,
-   "lng": -6.905389,
-   "shift": "nuit",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie TARIK EL FELLAH",
-   "address": "Km 4 Route El Fellah - Harhoura",
-   "phone": "+212808604874",
-   "lat": 33.913944,
-   "lng": -6.961944,
-   "shift": "nuit",
-   "shift_label": ""
-  },
-  {
    "name": "Pharmacie AlMaghreb AlArabi",
-   "address": "1684 av. AlAdarissa hay AlMaghreb AlArabi Massira II, Témara",
+   "address": "1684 av. AlAdarissa hay AlMaghreb AlArabi Massira II",
    "phone": "+212537600765",
-   "lat": 33.920249,
-   "lng": -6.896549,
+   "lat": 33.9202493,
+   "lng": -6.8965485,
    "shift": "nuit",
    "shift_label": ""
   },
   {
-   "name": "Pharmacie ElQods",
-   "address": "288 lotiss. Ouled Bennacer 1, Témara",
-   "phone": "+212537600043",
-   "lat": 33.927844,
-   "lng": -6.903165,
-   "shift": "nuit",
+   "name": "Pharmacie AL MASJID",
+   "address": "N° 276, Secteur 1 Ouled Mtaâ",
+   "phone": "+212663455044",
+   "lat": 33.941539,
+   "lng": -6.897608,
+   "shift": "",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie ERRAHA",
+   "address": "Rue daj guich oudaya Prés du centre dentaire Kobry",
+   "phone": "+212537561393",
+   "lat": 33.9423669,
+   "lng": -6.8862505,
+   "shift": "",
    "shift_label": ""
   },
   {
    "name": "Pharmacie Hind",
-   "address": "241 rue Othman Ibn Madhoun, Témara",
+   "address": "241 rue Othman Ibn Madhoun",
    "phone": "+212537622291",
    "lat": 33.895935,
    "lng": -6.935582,
@@ -79,26 +43,44 @@
    "shift_label": ""
   },
   {
-   "name": "Pharmacie Ilias",
-   "address": "7 lotiss. Chkail M'barek, Témara",
-   "phone": "+212537611260",
-   "lat": 33.915467,
-   "lng": -6.919067,
+   "name": "Pharmacie Laraki",
+   "address": "lot. ElWifak Sect. 2 n°2388",
+   "phone": "+212537645254",
+   "lat": 33.92467,
+   "lng": -6.930575,
    "shift": "nuit",
    "shift_label": ""
   },
   {
-   "name": "Pharmacie Masrour",
-   "address": "224 Hay Masrour II, Témara",
-   "phone": "+212537741990",
-   "lat": 33.911033,
-   "lng": -6.925213,
+   "name": "Pharmacie Al Balsem",
+   "address": "lotiss. Ibn Khaldoun I ang. rue Oued Souss-Oued Amlil, El Harhoura",
+   "phone": "+212537744787",
+   "lat": 33.921791,
+   "lng": -6.957506,
+   "shift": "nuit",
+   "shift_label": ""
+  },
+  {
+   "name": "PHARMACIE AL MAMOUNE",
+   "address": "rue al anisse, guich loudaya",
+   "phone": "+212537560315",
+   "lat": 33.9427007,
+   "lng": -6.8834139,
+   "shift": "",
+   "shift_label": ""
+  },
+  {
+   "name": "PHARMACIE MASJID ANNOUR",
+   "address": "39 gr.6 résidence annour 1 - tamesna",
+   "phone": "+212537619778",
+   "lat": 33.8468337,
+   "lng": -6.9359057,
    "shift": "nuit",
    "shift_label": ""
   }
  ],
  "center": [
-  33.9085,
-  -6.9219
+  33.917,
+  -6.9154
  ]
 }

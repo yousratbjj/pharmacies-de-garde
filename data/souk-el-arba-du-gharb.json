@@ -7,17 +7,17 @@
  "kind": "roster",
  "pharmacies": [
   {
-   "name": "Pharmacie Arrahma",
-   "address": "33 Hay Hind grp. El Massira, Souk El Arba du Gharb",
-   "phone": "+212524221515",
-   "lat": 34.680895,
-   "lng": -5.993848,
+   "name": "Pharmacie AlMasjid",
+   "address": "26 av Moukaouama, Souk El Arba du Gharb",
+   "phone": "+212537902519",
+   "lat": 34.688861,
+   "lng": -6.000042,
    "shift": "nuit",
    "shift_label": ""
   }
  ],
  "center": [
-  34.6809,
-  -5.9938
+  34.6889,
+  -6.0
  ]
 }

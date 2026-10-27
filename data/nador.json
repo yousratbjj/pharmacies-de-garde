@@ -7,44 +7,53 @@
  "kind": "roster",
  "pharmacies": [
   {
-   "name": "Pharmacie Al Kadaoui",
-   "address": "K050 Rte de Zegangan km 5 Ihdadden, Nador",
-   "phone": "+212536351995",
-   "lat": 35.174677,
-   "lng": -2.923315,
-   "shift": "nuit",
-   "shift_label": ""
-  },
-  {
    "name": "Pharmacie AlMahatta",
-   "address": "254 av Hassan II, Nador",
+   "address": "254 av Hassan II",
    "phone": "+212536604408",
    "lat": 35.1751,
-   "lng": -2.922383,
-   "shift": "nuit",
+   "lng": -2.9223833,
+   "shift": "jour",
    "shift_label": ""
   },
   {
-   "name": "Pharmacie Al Masjid",
-   "address": "bd Mohammed V, Nador",
-   "phone": "+212536350148",
-   "lat": 35.177383,
-   "lng": -2.925266,
-   "shift": "nuit",
+   "name": "Pharmacie Al Mostakbal",
+   "address": "Rte Berraka hay El Fid",
+   "phone": "+212536330332",
+   "lat": 35.1651589,
+   "lng": -2.9313701,
+   "shift": "jour",
    "shift_label": ""
   },
   {
-   "name": "Pharmacie ElOum",
-   "address": "bd. Mohammed V Jaadar, Nador",
-   "phone": "+212536353864",
-   "lat": 35.1538,
-   "lng": -2.98865,
-   "shift": "nuit",
+   "name": "Pharmacie Arrisala",
+   "address": "10 hay Al Matar imm. Essaada",
+   "phone": "+212530123898",
+   "lat": 35.148999,
+   "lng": -2.917951,
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie Dar El Makhzen",
+   "address": "Douar Bouyzarzaren",
+   "phone": "+212536330361",
+   "lat": 35.1629174,
+   "lng": -2.9697658,
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie Taha Houssein",
+   "address": "av Prince Héritier Sidi Mohamed",
+   "phone": "+212536350017",
+   "lat": 35.1570333,
+   "lng": -2.9859167,
+   "shift": "jour",
    "shift_label": ""
   }
  ],
  "center": [
-  35.1702,
-  -2.9399
+  35.1618,
+  -2.9455
  ]
 }

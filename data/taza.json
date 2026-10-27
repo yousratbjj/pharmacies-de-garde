@@ -7,17 +7,26 @@
  "kind": "roster",
  "pharmacies": [
   {
-   "name": "Pharmacie Ibn Rochd",
-   "address": "85 rue Sultan Abou Elhassan, Taza",
-   "phone": "+212535672133",
-   "lat": 34.224,
-   "lng": -4.007133,
+   "name": "Pharmacie Douar Ayad",
+   "address": "hay Ennahda bloc B n°17",
+   "phone": "+212535674595",
+   "lat": 34.227494,
+   "lng": -4.023118,
+   "shift": "nuit",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie Hay ElHassani Hajra",
+   "address": "hay ElHassani Jiyarine bloc E n°232",
+   "phone": "+212535282222",
+   "lat": 34.2060667,
+   "lng": -3.9976,
    "shift": "nuit",
    "shift_label": ""
   }
  ],
  "center": [
-  34.224,
-  -4.0071
+  34.2168,
+  -4.0104
  ]
 }

@@ -7,26 +7,26 @@
  "kind": "roster",
  "pharmacies": [
   {
-   "name": "Pharmacie Guercif",
-   "address": "11 av Mly Youssef, Guercif",
-   "phone": "+212535676210",
-   "lat": 34.227383,
-   "lng": -3.348267,
-   "shift": "nuit",
+   "name": "Pharmacie Ibnou Sina",
+   "address": "100 Av. Mly Hassan, Guercif",
+   "phone": "+212535675055",
+   "lat": 34.2321,
+   "lng": -3.34865,
+   "shift": "jour",
    "shift_label": ""
   },
   {
-   "name": "Pharmacie Nougd (Hamria AlJadida)",
-   "address": "36 bd. Abdelkrim El Khattabi hay Nougd, Guercif",
-   "phone": "+212535200115",
-   "lat": 34.232395,
-   "lng": -3.353883,
-   "shift": "nuit",
+   "name": "Pharmacie L'Oriental",
+   "address": "Rte Saka, Guercif",
+   "phone": "+212535676194",
+   "lat": 34.23785,
+   "lng": -3.34126,
+   "shift": "jour",
    "shift_label": ""
   }
  ],
  "center": [
-  34.2299,
-  -3.3511
+  34.235,
+  -3.345
  ]
 }

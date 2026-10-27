@@ -7,26 +7,17 @@
  "kind": "roster",
  "pharmacies": [
   {
-   "name": "Pharmacie AlMasjid AlKadim",
-   "address": "36 X rue M'Barek El Bekay, Khémisset",
-   "phone": "+212537556027",
-   "lat": 33.823667,
-   "lng": -6.068683,
-   "shift": "nuit",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie Firdaous",
-   "address": "158 X rue Cdt Driss Harti hay Essalam, Khémisset",
-   "phone": "+212537550550",
-   "lat": 33.829542,
-   "lng": -6.067456,
-   "shift": "nuit",
+   "name": "Pharmacie Bel Hassan Louazani",
+   "address": "129 hay Riad",
+   "phone": "+212537556662",
+   "lat": 33.837085,
+   "lng": -6.08778,
+   "shift": "jour",
    "shift_label": ""
   }
  ],
  "center": [
-  33.8266,
-  -6.0681
+  33.8371,
+  -6.0878
  ]
 }
