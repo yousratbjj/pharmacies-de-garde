@@ -1,26 +1,26 @@
 {
  "city": "errachidia",
  "label": "Errachidia",
- "date": "2026-10-26",
+ "date": "2026-10-27",
  "source": "sahha.ma",
  "source_url": "https://sahha.ma/pharmacie-de-garde/errachidia",
  "kind": "roster",
  "pharmacies": [
   {
    "name": "Pharmacie La Nouvelle",
-   "address": "ouled Elhaj rue 37 n°28, Errachidia",
+   "address": "ouled Elhaj rue 37 n°28",
    "phone": "+212535572075",
-   "lat": 31.936254,
-   "lng": -4.412685,
+   "lat": 31.9362539,
+   "lng": -4.4126848,
    "shift": "nuit",
    "shift_label": ""
   },
   {
    "name": "Pharmacie Targa",
-   "address": "Targa Jdida rue 50 n°5, Errachidia",
+   "address": "Targa Jdida rue 50 n°5",
    "phone": "+212535571416",
-   "lat": 31.930776,
-   "lng": -4.425789,
+   "lat": 31.9307758,
+   "lng": -4.4257895,
    "shift": "nuit",
    "shift_label": ""
   }
