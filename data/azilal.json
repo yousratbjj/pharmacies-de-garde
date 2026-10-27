@@ -1,7 +1,7 @@
 {
  "city": "azilal",
  "label": "Azilal",
- "date": "2026-10-26",
+ "date": "2026-10-27",
  "source": "med.ma",
  "source_url": "https://www.med.ma/pharmacy/day-time/azilal",
  "kind": "directory",
@@ -39,24 +39,6 @@
    "phone": "+212 524 49 15 53",
    "lat": 31.6294723,
    "lng": -7.9810845,
-   "shift": "jour",
-   "shift_label": "Pharmacies de jour"
-  },
-  {
-   "name": "Pharmacie El Hamidi",
-   "address": "26, Aïn Itti devant le cimetière de Bab lakhmis Marrakech Kettara Kettara Marrakech",
-   "phone": "+212 524 30 73 50",
-   "lat": 31.6451595,
-   "lng": -7.9851382,
-   "shift": "jour",
-   "shift_label": "Pharmacies de jour"
-  },
-  {
-   "name": "Pharmacie Jnane El Afia",
-   "address": "4, Rue Jnane El Afia Toualate El Miara Hay Essalam, face du cimetière juif Mellah Marrakech Loudaya Loudaya Marrakech",
-   "phone": "+212 524 37 64 76",
-   "lat": 31.6203765,
-   "lng": -7.980524,
    "shift": "jour",
    "shift_label": "Pharmacies de jour"
   },
@@ -122,10 +104,19 @@
    "lng": -8.0051676,
    "shift": "nuit",
    "shift_label": "Pharmacies de nuit"
+  },
+  {
+   "name": "Pharmacie Al Ahbass",
+   "address": "10, Imm. Habouss Bab Doukkala Marrakech Kettara Kettara Marrakech",
+   "phone": "+212 524 43 21 83",
+   "lat": 31.6335452,
+   "lng": -8.0015688,
+   "shift": "nuit",
+   "shift_label": "Pharmacies de nuit"
   }
  ],
  "center": [
-  31.633,
-  -7.978
+  31.6331,
+  -7.9792
  ]
 }

@@ -1,7 +1,7 @@
 {
  "city": "tan-tan",
  "label": "Tan-Tan",
- "date": "2026-10-26",
+ "date": "2026-10-27",
  "source": "med.ma",
  "source_url": "https://www.med.ma/pharmacy/day-time/tan-tan",
  "kind": "directory",
@@ -79,9 +79,27 @@
    "shift_label": "Pharmacies de nuit"
   },
   {
+   "name": "Pharmacie Jnane Essaada Biougra",
+   "address": "Rte Lekhmiss lot Essaada Biougra - Maroc El Guerdan Agadir",
+   "phone": "+212 528 81 92 93",
+   "lat": 30.2206575,
+   "lng": -9.3728585,
+   "shift": "24h",
+   "shift_label": "Pharmacies 24h/24"
+  },
+  {
    "name": "Pharmacie Rebbouh",
    "address": "Pharmacie Rebbouh BIOUGRA El Guerdan Agadir",
    "phone": "+212 528 81 05 05",
+   "lat": 30.2206575,
+   "lng": -9.3728585,
+   "shift": "24h",
+   "shift_label": "Pharmacies 24h/24"
+  },
+  {
+   "name": "Pharmacie Wad Essafaa",
+   "address": "Pharmacie Wad Essafaa BIOUGRA El Guerdan Agadir",
+   "phone": "+212 528 81 94 77",
    "lat": 30.2206575,
    "lng": -9.3728585,
    "shift": "24h",
@@ -113,28 +131,10 @@
    "lng": -9.5738171,
    "shift": "24h",
    "shift_label": "Pharmacies 24h/24"
-  },
-  {
-   "name": "Pharmacie El Alami",
-   "address": "hay riad essalam, imm. aferni n°22 AGADIR Agadir",
-   "phone": "+212 528 23 29 57",
-   "lat": 30.4067131,
-   "lng": -9.5741367,
-   "shift": "24h",
-   "shift_label": "Pharmacies 24h/24"
-  },
-  {
-   "name": "Pharmacie Anbary",
-   "address": "bd hassan ii, imm. hasna Agadir Tamri Tamri Agadir",
-   "phone": "+212 528 84 55 92",
-   "lat": 30.4235102,
-   "lng": -9.6054486,
-   "shift": "24h",
-   "shift_label": "Pharmacies 24h/24"
   }
  ],
  "center": [
-  30.3387,
-  -9.5088
+  30.3109,
+  -9.4778
  ]
 }

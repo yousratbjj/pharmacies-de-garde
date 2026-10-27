@@ -1,17 +1,98 @@
 {
  "city": "essaouira",
  "label": "Essaouira",
- "date": "2026-10-26",
+ "date": "2026-10-27",
  "source": "med.ma",
  "source_url": "https://www.med.ma/pharmacy/day-time/essaouirra",
  "kind": "directory",
  "pharmacies": [
   {
-   "name": "Pharmacie Miftah Sahil",
-   "address": "imm 31, mag 3, projet miftah sahil Agadir Tamri Tamri Agadir",
-   "phone": "+212 528 20 60 45",
-   "lat": 30.453347,
-   "lng": -9.655887,
+   "name": "Pharmacie de la Grande Mosquée",
+   "address": "place de la grande mosquée , q. Tarraste Inezgane Agadir Agadir",
+   "phone": "+212 528 33 07 67",
+   "lat": 30.3495085,
+   "lng": -9.5489521,
+   "shift": "jour",
+   "shift_label": "Pharmacies de jour"
+  },
+  {
+   "name": "Pharmacie Assaïs",
+   "address": "12 rue chtouka place assaïs Inezgane El Guerdan Agadir",
+   "phone": "+212 528 33 36 83",
+   "lat": 30.3622744,
+   "lng": -9.4623043,
+   "shift": "jour",
+   "shift_label": "Pharmacies de jour"
+  },
+  {
+   "name": "Pharmacie El Walidaine",
+   "address": "2 bis, timegrad jorf , rue 433 Inezgane Ait Melloul Ait Melloul Agadir",
+   "phone": "+212 528 33 03 07",
+   "lat": 30.346588,
+   "lng": -9.5387742,
+   "shift": "jour",
+   "shift_label": "Pharmacies de jour"
+  },
+  {
+   "name": "Pharmacie Hassania",
+   "address": "hay M'Barek Omar bloc 3 n°301 Ait melloul Ait Melloul Agadir",
+   "phone": "+212 528 24 69 17",
+   "lat": 30.3461758,
+   "lng": -9.506877,
+   "shift": "jour",
+   "shift_label": "Pharmacies de jour"
+  },
+  {
+   "name": "Pharmacie Essounni",
+   "address": "Hay ElMassira bloc C 119 Chouhada Ait melloul El Guerdan Agadir",
+   "phone": "+212 528 24 28 00",
+   "lat": 30.3443372,
+   "lng": -9.4873621,
+   "shift": "jour",
+   "shift_label": "Pharmacies de jour"
+  },
+  {
+   "name": "Pharmacie Mazine",
+   "address": "2 lotiss. Nassim II hay Al Fath Aït Melloul - Maroc Ait Melloul Agadir",
+   "phone": "+212 528 24 24 37",
+   "lat": 30.3396466,
+   "lng": -9.5066922,
+   "shift": "jour",
+   "shift_label": "Pharmacies de jour"
+  },
+  {
+   "name": "Pharmacie Al Hayat",
+   "address": "Hay Chouhada bloc 2 n°329 Ait melloul El Guerdan Agadir",
+   "phone": "+212 528 24 78 52",
+   "lat": 30.3418623,
+   "lng": -9.4867009,
+   "shift": "jour",
+   "shift_label": "Pharmacies de jour"
+  },
+  {
+   "name": "Pharmacie Tarraste",
+   "address": "route principale tarraste Inezgane Agadir Agadir",
+   "phone": "+212 528 83 30 33",
+   "lat": 30.3523894,
+   "lng": -9.546257,
+   "shift": "nuit",
+   "shift_label": "Pharmacies de nuit"
+  },
+  {
+   "name": "Pharmacie Semlali",
+   "address": "3 av. AlMoukawama rte Admim cplxe.u.s.m.a.m Ait melloul Ait Melloul Agadir",
+   "phone": "+212 528 24 86 39",
+   "lat": 30.3379283,
+   "lng": -9.5040247,
+   "shift": "nuit",
+   "shift_label": "Pharmacies de nuit"
+  },
+  {
+   "name": "Pharmacie du Sommet",
+   "address": "422 hay Al Wahda Anza Agadir - Maroc Tamri Tamri Agadir",
+   "phone": "+212 528 20 61 61",
+   "lat": 30.445462,
+   "lng": -9.657598,
    "shift": "24h",
    "shift_label": "Pharmacies 24h/24"
   },
@@ -30,15 +111,6 @@
    "phone": "+212 528 23 10 12",
    "lat": 30.4277625,
    "lng": -9.5982016,
-   "shift": "24h",
-   "shift_label": "Pharmacies 24h/24"
-  },
-  {
-   "name": "Pharmacie Al Oulya",
-   "address": "7 hay taddart - secteur a lot 5 anza Agadir Agadir",
-   "phone": "+212 528 20 52 36",
-   "lat": 30.4277547,
-   "lng": -9.5981072,
    "shift": "24h",
    "shift_label": "Pharmacies 24h/24"
   },
@@ -95,10 +167,19 @@
    "lng": -9.5738171,
    "shift": "24h",
    "shift_label": "Pharmacies 24h/24"
+  },
+  {
+   "name": "Pharmacie Attawhid",
+   "address": "348 Bis, hay Al Houda, sect. E Agadir Agadir",
+   "phone": "+212 528 32 00 02",
+   "lat": 30.3947041,
+   "lng": -9.5379255,
+   "shift": "24h",
+   "shift_label": "Pharmacies 24h/24"
   }
  ],
  "center": [
-  30.421,
-  -9.5853
+  30.3837,
+  -9.5464
  ]
 }

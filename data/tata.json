@@ -1,7 +1,7 @@
 {
  "city": "tata",
  "label": "Tata",
- "date": "2026-10-26",
+ "date": "2026-10-27",
  "source": "med.ma",
  "source_url": "https://www.med.ma/pharmacy/day-time/tata",
  "kind": "directory",
@@ -106,6 +106,24 @@
    "shift_label": "Pharmacies 24h/24"
   },
   {
+   "name": "Pharmacie Jnane Essaada Biougra",
+   "address": "Rte Lekhmiss lot Essaada Biougra - Maroc El Guerdan Agadir",
+   "phone": "+212 528 81 92 93",
+   "lat": 30.2206575,
+   "lng": -9.3728585,
+   "shift": "24h",
+   "shift_label": "Pharmacies 24h/24"
+  },
+  {
+   "name": "Pharmacie Wad Essafaa",
+   "address": "Pharmacie Wad Essafaa BIOUGRA El Guerdan Agadir",
+   "phone": "+212 528 81 94 77",
+   "lat": 30.2206575,
+   "lng": -9.3728585,
+   "shift": "24h",
+   "shift_label": "Pharmacies 24h/24"
+  },
+  {
    "name": "Pharmacie Rebbouh",
    "address": "Pharmacie Rebbouh BIOUGRA El Guerdan Agadir",
    "phone": "+212 528 81 05 05",
@@ -133,6 +151,15 @@
    "shift_label": "Pharmacies 24h/24"
   },
   {
+   "name": "Pharmacie Al Yousr",
+   "address": "douar taddart Agadir Ait Melloul Ait Melloul Agadir",
+   "phone": "+212 528 20 54 89",
+   "lat": 30.377759,
+   "lng": -9.514722,
+   "shift": "24h",
+   "shift_label": "Pharmacies 24h/24"
+  },
+  {
    "name": "Pharmacie Attawhid",
    "address": "348 Bis, hay Al Houda, sect. E Agadir Agadir",
    "phone": "+212 528 32 00 02",
@@ -149,37 +176,10 @@
    "lng": -9.5526994,
    "shift": "24h",
    "shift_label": "Pharmacies 24h/24"
-  },
-  {
-   "name": "Pharmacie Ennajd",
-   "address": "bd hassan 1er, 11 bloc g4 cité dakhla, en face sgmb agence dakhla AGADIR Agadir",
-   "phone": "+212 528 22 69 07",
-   "lat": 30.4078932,
-   "lng": -9.5563074,
-   "shift": "24h",
-   "shift_label": "Pharmacies 24h/24"
-  },
-  {
-   "name": "Pharmacie Boutasra",
-   "address": "394 j hay al wifaq ben sergao AGADIR Agadir",
-   "phone": "+212 528 28 00 79",
-   "lat": 30.3953482,
-   "lng": -9.5738171,
-   "shift": "24h",
-   "shift_label": "Pharmacies 24h/24"
-  },
-  {
-   "name": "Pharmacie Immeubles Assafa",
-   "address": "3025, hay Mohammadi, Tranche 3 Agadir Agadir",
-   "phone": "+212 528 22 41 41",
-   "lat": 30.4324008,
-   "lng": -9.5554984,
-   "shift": "24h",
-   "shift_label": "Pharmacies 24h/24"
   }
  ],
  "center": [
-  30.3514,
-  -9.492
+  30.3295,
+  -9.4697
  ]
 }

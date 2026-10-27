@@ -1,7 +1,7 @@
 {
  "city": "al-hoceima",
  "label": "Al Hoceïma",
- "date": "2026-10-26",
+ "date": "2026-10-27",
  "source": "sahha.ma",
  "source_url": "https://sahha.ma/pharmacie-de-garde/al-hoceima",
  "kind": "roster",
@@ -12,7 +12,7 @@
    "phone": "+212539985864",
    "lat": 35.2336055,
    "lng": -3.9274061,
-   "shift": "jour",
+   "shift": "nuit",
    "shift_label": ""
   },
   {
@@ -21,7 +21,7 @@
    "phone": "+212539980606",
    "lat": 35.244988,
    "lng": -3.927132,
-   "shift": "jour",
+   "shift": "nuit",
    "shift_label": ""
   }
  ],

@@ -1,59 +1,59 @@
 {
  "city": "figuig",
  "label": "Figuig",
- "date": "2026-10-26",
+ "date": "2026-10-27",
  "source": "med.ma",
  "source_url": "https://www.med.ma/pharmacy/day-time/figuig",
  "kind": "directory",
  "pharmacies": [
   {
-   "name": "Pharmacie Benkhirane",
-   "address": "lotiss. Benkhirane C5/48 Oujda Ain Bni Mathar Oujda",
-   "phone": "+212 536 51 81 54",
-   "lat": 34.65665,
-   "lng": -1.933783333333,
-   "shift": "24h",
-   "shift_label": "Pharmacies 24h/24"
+   "name": "Pharmacie Khalil",
+   "address": "1218 Zalagh Ben Sefar SEFROU Ahermoumou Sefrou",
+   "phone": "+212 535 66 07 37",
+   "lat": 33.8253851,
+   "lng": -4.8219393,
+   "shift": "jour",
+   "shift_label": "Pharmacies de jour"
   },
   {
-   "name": "Pharmacie Palais de Justice",
-   "address": "78 rue Oued Oum Errabia Lotiss iris Oujda Oujda",
-   "phone": "+212 536 53 25 00",
-   "lat": 34.6602483,
-   "lng": -1.9140682,
-   "shift": "24h",
-   "shift_label": "Pharmacies 24h/24"
+   "name": "Pharmacie Zahrat Al Jabal",
+   "address": "1 Massay q.i. SEFROU Ahermoumou Sefrou",
+   "phone": "+212 535 96 97 84",
+   "lat": 33.8176654,
+   "lng": -4.8290643,
+   "shift": "jour",
+   "shift_label": "Pharmacies de jour"
   },
   {
-   "name": "Pharmacie Moderne",
-   "address": "35 Rue de Marrakech Oujda Oujda",
-   "phone": "+212 536 68 28 71",
-   "lat": 34.6821715,
-   "lng": -1.9128072,
-   "shift": "24h",
-   "shift_label": "Pharmacies 24h/24"
+   "name": "Pharmacie Chabbak",
+   "address": "Q. Chabbak 1 , n°117 bis Sefrou Bhalil Bhalil Sefrou",
+   "phone": "+212 535 96 92 07",
+   "lat": 33.829958553312,
+   "lng": -4.8383291077039,
+   "shift": "jour",
+   "shift_label": "Pharmacies de jour"
   },
   {
-   "name": "Pharmacie Nour Marjane Moussaoui",
-   "address": "hay El Hassani Nour Borj n°3 Oujda Oujda",
-   "phone": "+212 536 68 04 73",
-   "lat": 34.6819218,
-   "lng": -1.9001531,
-   "shift": "24h",
-   "shift_label": "Pharmacies 24h/24"
+   "name": "Pharmacie du Stade",
+   "address": "72 Lotissement Ben Hamza Massy Sefrou Ahermoumou Sefrou",
+   "phone": "+212 535 66 25 72",
+   "lat": 33.827836,
+   "lng": -4.833416,
+   "shift": "nuit",
+   "shift_label": "Pharmacies de nuit"
   },
   {
-   "name": "Pharmacie Ihyae Chark",
-   "address": "195 hay Agdal lot Ihyae Chark Oujda - Maroc Oujda",
-   "phone": "+212 536 54 21 16",
-   "lat": 34.681962,
-   "lng": -1.900155,
-   "shift": "24h",
-   "shift_label": "Pharmacies 24h/24"
+   "name": "Pharmacie de Sefrou",
+   "address": "Boulevard Mohammed V Sefrou Bhalil Bhalil Sefrou",
+   "phone": "+212 535 66 02 68",
+   "lat": 33.829034,
+   "lng": -4.840166,
+   "shift": "nuit",
+   "shift_label": "Pharmacies de nuit"
   }
  ],
  "center": [
-  34.6726,
-  -1.9122
+  33.826,
+  -4.8326
  ]
 }

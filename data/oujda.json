@@ -1,7 +1,7 @@
 {
  "city": "oujda",
  "label": "Oujda",
- "date": "2026-10-26",
+ "date": "2026-10-27",
  "source": "sahha.ma",
  "source_url": "https://sahha.ma/pharmacie-de-garde/oujda",
  "kind": "roster",
@@ -12,7 +12,7 @@
    "phone": "+212536518154",
    "lat": 34.6565581,
    "lng": -1.933781,
-   "shift": "jour",
+   "shift": "nuit",
    "shift_label": ""
   },
   {
@@ -21,7 +21,7 @@
    "phone": "+212536542116",
    "lat": 34.6800701,
    "lng": -1.8575628,
-   "shift": "jour",
+   "shift": "nuit",
    "shift_label": ""
   },
   {
@@ -30,7 +30,7 @@
    "phone": "+212536682871",
    "lat": 34.6817881,
    "lng": -1.9119321,
-   "shift": "jour",
+   "shift": "nuit",
    "shift_label": ""
   },
   {
@@ -39,7 +39,7 @@
    "phone": "+212536680473",
    "lat": 34.681962,
    "lng": -1.900155,
-   "shift": "jour",
+   "shift": "nuit",
    "shift_label": ""
   },
   {
@@ -48,7 +48,7 @@
    "phone": "+212536532500",
    "lat": 34.6602483,
    "lng": -1.9140682,
-   "shift": "jour",
+   "shift": "nuit",
    "shift_label": ""
   },
   {
@@ -57,7 +57,7 @@
    "phone": "+212536500620",
    "lat": 34.657783,
    "lng": -1.895867,
-   "shift": "jour",
+   "shift": "nuit",
    "shift_label": ""
   },
   {
@@ -66,7 +66,7 @@
    "phone": "+212536510673",
    "lat": 34.675617,
    "lng": -1.938233,
-   "shift": "jour",
+   "shift": "nuit",
    "shift_label": ""
   },
   {
@@ -75,7 +75,7 @@
    "phone": "+212536524285",
    "lat": 34.691181,
    "lng": -1.903128,
-   "shift": "jour",
+   "shift": "nuit",
    "shift_label": ""
   },
   {
@@ -84,7 +84,7 @@
    "phone": "+212536747552",
    "lat": 34.67835,
    "lng": -1.875417,
-   "shift": "jour",
+   "shift": "nuit",
    "shift_label": ""
   }
  ],

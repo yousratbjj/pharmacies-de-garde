@@ -1,7 +1,7 @@
 {
  "city": "ksar-el-kebir",
  "label": "Ksar El Kebir",
- "date": "2026-10-26",
+ "date": "2026-10-27",
  "source": "sahha.ma",
  "source_url": "https://sahha.ma/pharmacie-de-garde/ksar-el-kebir",
  "kind": "roster",
@@ -12,7 +12,7 @@
    "phone": "+212534629568",
    "lat": 34.996243,
    "lng": -5.897575,
-   "shift": "jour",
+   "shift": "nuit",
    "shift_label": ""
   }
  ],
