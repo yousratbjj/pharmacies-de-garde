@@ -7,6 +7,15 @@
  "kind": "roster",
  "pharmacies": [
   {
+   "name": "Assafae",
+   "address": "N 10, rue n 226 Hay Toba",
+   "phone": "+212536524285",
+   "lat": 34.7032127,
+   "lng": -1.9213703,
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
    "name": "Pharmacie Benkhirane",
    "address": "lotiss. benkhirane , c5/48",
    "phone": "+212536518154",
@@ -16,21 +25,39 @@
    "shift_label": ""
   },
   {
+   "name": "Pharmacie ElAzzaoui",
+   "address": "Rue Kafr Qacem Lot El Qods N 10",
+   "phone": "+212536500620",
+   "lat": 34.657783,
+   "lng": -1.895867,
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie ElBaraka",
+   "address": "N 10 Boulevard Mohamed Bedrane Hay El Wahda Route De Taza",
+   "phone": "+212536510673",
+   "lat": 34.6756167,
+   "lng": -1.9382333,
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
    "name": "Pharmacie Ihyae Chark",
    "address": "HAY AGDAL II.RTE SIDI YAHYA.",
    "phone": "+212536542116",
-   "lat": 34.6800701,
-   "lng": -1.8575628,
+   "lat": 34.681962,
+   "lng": -1.900155,
    "shift": "nuit",
    "shift_label": ""
   },
   {
-   "name": "Pharmacie Moderne",
-   "address": "35, Rue De Marrakech",
-   "phone": "+212536682871",
-   "lat": 34.6817881,
-   "lng": -1.9119321,
-   "shift": "nuit",
+   "name": "Pharmacie Les Trois Fontaines",
+   "address": "15, bd Ferrane Ouled Aissa",
+   "phone": "+212536712122",
+   "lat": 34.6791979,
+   "lng": -1.9134852,
+   "shift": "jour",
    "shift_label": ""
   },
   {
@@ -52,44 +79,26 @@
    "shift_label": ""
   },
   {
-   "name": "Pharmacie ElAzzaoui",
-   "address": "10 Kaffr Kacem ElQods, Oujda",
-   "phone": "+212536500620",
-   "lat": 34.657783,
-   "lng": -1.895867,
-   "shift": "nuit",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie ElBaraka",
-   "address": "10 bd. Mohamed Bedrane hay ElWahda, Oujda",
-   "phone": "+212536510673",
-   "lat": 34.675617,
-   "lng": -1.938233,
-   "shift": "nuit",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie Essafae",
-   "address": "hay Toba Extérieur rue n°226 n°10, Oujda",
-   "phone": "+212536524285",
-   "lat": 34.691181,
-   "lng": -1.903128,
-   "shift": "nuit",
-   "shift_label": ""
-  },
-  {
    "name": "Pharmacie Zenati Lazaret",
-   "address": "lotiss.Msirdi Dhar Lamhala Lazaret, Oujda",
+   "address": "lotiss.Msirdi , Dhar Lamhala Lazaret",
    "phone": "+212536747552",
-   "lat": 34.67835,
-   "lng": -1.875417,
+   "lat": 34.6780661,
+   "lng": -1.8752953,
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
+   "name": "PHARMACIE MOUSSAOUI",
+   "address": "Hay Al Hassani Annour Borj N°3سدرة بوعمود بين مدرسة مصطفى سكيكر ومدرسة إدريس الشرايبي",
+   "phone": "",
+   "lat": 34.7181658,
+   "lng": -1.8976851,
    "shift": "nuit",
    "shift_label": ""
   }
  ],
  "center": [
-  34.6737,
-  -1.9033
+  34.6793,
+  -1.909
  ]
 }

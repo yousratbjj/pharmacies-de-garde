@@ -12,7 +12,7 @@
    "phone": "+212524342513",
    "lat": 31.624113,
    "lng": -8.0533084,
-   "shift": "",
+   "shift": "jour",
    "shift_label": ""
   },
   {
@@ -21,7 +21,7 @@
    "phone": "+212688127171",
    "lat": 31.6710951,
    "lng": -8.0535777,
-   "shift": "",
+   "shift": "nuit",
    "shift_label": ""
   },
   {
@@ -30,7 +30,7 @@
    "phone": "+212524344395",
    "lat": 31.5737218,
    "lng": -8.0684727,
-   "shift": "",
+   "shift": "jour",
    "shift_label": ""
   },
   {
@@ -39,25 +39,34 @@
    "phone": "+212524432183",
    "lat": 31.6335452,
    "lng": -8.0015688,
-   "shift": "",
+   "shift": "nuit",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie AL KAWTAR",
+   "address": "C9, Lot. Kawtar El Fekhara Nakhil Sud à côté de la Mosquée Al Kawtar, Marrakech AÏN ITTI",
+   "phone": "+212524292696",
+   "lat": 31.6358539,
+   "lng": -7.9766519,
+   "shift": "nuit",
    "shift_label": ""
   },
   {
    "name": "Pharmacie AL OUSRA",
    "address": "661, M'hamid II entre l'Arrondissement M'hamid et centre de Santé",
    "phone": "+212524370846",
-   "lat": 31.589316,
-   "lng": -8.039609,
-   "shift": "",
+   "lat": 31.5893065,
+   "lng": -8.039605,
+   "shift": "jour",
    "shift_label": ""
   },
   {
    "name": "Pharmacie ARRAHMA",
    "address": "8, Diour Saboun, à 300 m de Bab Taghzout vers Sakayat (Ch'reb ou Chouf), Marrakech MEDINA",
    "phone": "+212524383038",
-   "lat": 31.634162,
-   "lng": -7.988049,
-   "shift": "",
+   "lat": 31.619817,
+   "lng": -7.990367,
+   "shift": "jour",
    "shift_label": ""
   },
   {
@@ -66,7 +75,7 @@
    "phone": "+212524361622",
    "lat": 31.592383,
    "lng": -8.034717,
-   "shift": "",
+   "shift": "nuit",
    "shift_label": ""
   },
   {
@@ -75,7 +84,7 @@
    "phone": "+212524421317",
    "lat": 31.6273896,
    "lng": -8.0249061,
-   "shift": "",
+   "shift": "jour",
    "shift_label": ""
   },
   {
@@ -84,12 +93,12 @@
    "phone": "+212524331293",
    "lat": 31.6520594,
    "lng": -8.0097789,
-   "shift": "",
+   "shift": "jour",
    "shift_label": ""
   }
  ],
  "center": [
-  31.622,
-  -8.0304
+  31.6219,
+  -8.0253
  ]
 }

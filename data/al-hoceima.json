@@ -7,26 +7,17 @@
  "kind": "roster",
  "pharmacies": [
   {
-   "name": "CALABONITA",
-   "address": "28, Hay Cala Bonita, Résidence Firadaous",
-   "phone": "+212539985864",
-   "lat": 35.2336055,
-   "lng": -3.9274061,
-   "shift": "nuit",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie le Port (Al Minae)",
-   "address": "24 place 9 Avril, Al Hoceima",
-   "phone": "+212539980606",
-   "lat": 35.244988,
-   "lng": -3.927132,
-   "shift": "nuit",
+   "name": "Pharmacie Granada",
+   "address": "12 av. Madagascar, Al Hoceima",
+   "phone": "+212539840204",
+   "lat": 35.243617,
+   "lng": -3.930517,
+   "shift": "jour",
    "shift_label": ""
   }
  ],
  "center": [
-  35.2393,
-  -3.9273
+  35.2436,
+  -3.9305
  ]
 }

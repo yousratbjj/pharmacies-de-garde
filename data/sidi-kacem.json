@@ -7,17 +7,17 @@
  "kind": "roster",
  "pharmacies": [
   {
-   "name": "Pharmacie Ennasr",
-   "address": "9 Yasmine II",
-   "phone": "+212537900008",
-   "lat": 34.224252,
-   "lng": -5.716286,
-   "shift": "nuit",
+   "name": "Pharmacie Ibn Rochd",
+   "address": "Cité Nouvelle rue 21 n°3",
+   "phone": "+212672307537",
+   "lat": 34.224398,
+   "lng": -5.706088,
+   "shift": "jour",
    "shift_label": ""
   }
  ],
  "center": [
-  34.2243,
-  -5.7163
+  34.2244,
+  -5.7061
  ]
 }

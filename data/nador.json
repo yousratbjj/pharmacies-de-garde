@@ -12,48 +12,48 @@
    "phone": "+212536604408",
    "lat": 35.1751,
    "lng": -2.9223833,
-   "shift": "nuit",
+   "shift": "jour",
    "shift_label": ""
   },
   {
-   "name": "Pharmacie Al Mostakbal",
-   "address": "Rte Berraka hay El Fid",
-   "phone": "+212536330332",
-   "lat": 35.1651589,
-   "lng": -2.9313701,
-   "shift": "nuit",
+   "name": "Pharmacie Arabouz",
+   "address": "Rte Joutia ouled Boutayeb sect. A",
+   "phone": "+212536330335",
+   "lat": 35.1751258,
+   "lng": -2.9513337,
+   "shift": "jour",
    "shift_label": ""
   },
   {
-   "name": "Pharmacie Arrisala",
-   "address": "10 hay Al Matar imm. Essaada",
-   "phone": "+212530123898",
-   "lat": 35.148999,
-   "lng": -2.917951,
-   "shift": "nuit",
+   "name": "Pharmacie Dar Al Oloum",
+   "address": "hay Al Matar résid. Al Ikhlass",
+   "phone": "+212536380959",
+   "lat": 35.149917,
+   "lng": -2.910453,
+   "shift": "jour",
    "shift_label": ""
   },
   {
-   "name": "Pharmacie Dar El Makhzen",
-   "address": "Douar Bouyzarzaren",
-   "phone": "+212536330361",
-   "lat": 35.1629174,
-   "lng": -2.9697658,
-   "shift": "nuit",
+   "name": "Pharmacie Jaadar",
+   "address": "Rte de Zghanghan",
+   "phone": "+212536352755",
+   "lat": 35.1542667,
+   "lng": -2.9834833,
+   "shift": "jour",
    "shift_label": ""
   },
   {
-   "name": "Pharmacie Taha Houssein",
-   "address": "av Prince Héritier Sidi Mohamed",
-   "phone": "+212536350017",
-   "lat": 35.1570333,
-   "lng": -2.9859167,
-   "shift": "nuit",
+   "name": "Pharmacie Mariam",
+   "address": "Ihaddaden",
+   "phone": "+212536351403",
+   "lat": 35.1629745,
+   "lng": -2.9757042,
+   "shift": "jour",
    "shift_label": ""
   }
  ],
  "center": [
-  35.1618,
-  -2.9455
+  35.1635,
+  -2.9487
  ]
 }

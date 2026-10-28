@@ -7,17 +7,17 @@
  "kind": "roster",
  "pharmacies": [
   {
-   "name": "Pharmacie AlMasjid",
-   "address": "26 av Moukaouama, Souk El Arba du Gharb",
-   "phone": "+212537902519",
-   "lat": 34.688861,
-   "lng": -6.000042,
-   "shift": "nuit",
+   "name": "Pharmacie Essalam",
+   "address": "av Houmane ElFetouaki hay Salam, Souk El Arba du Gharb",
+   "phone": "+212537903333",
+   "lat": 34.678505,
+   "lng": -5.995822,
+   "shift": "jour",
    "shift_label": ""
   }
  ],
  "center": [
-  34.6889,
-  -6.0
+  34.6785,
+  -5.9958
  ]
 }

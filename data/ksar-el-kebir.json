@@ -7,17 +7,17 @@
  "kind": "roster",
  "pharmacies": [
   {
-   "name": "Pharmacie Wahrani",
-   "address": "hay Assalam grp. D rue 15 n°16",
-   "phone": "+212534629568",
-   "lat": 34.996243,
-   "lng": -5.897575,
-   "shift": "nuit",
+   "name": "Pharmacie Ennour",
+   "address": "hay Essalam secteur Z rue 17 n°53",
+   "phone": "+212539902063",
+   "lat": 34.9961,
+   "lng": -5.9004833,
+   "shift": "jour",
    "shift_label": ""
   }
  ],
  "center": [
-  34.9962,
-  -5.8976
+  34.9961,
+  -5.9005
  ]
 }

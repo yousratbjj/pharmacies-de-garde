@@ -7,15 +7,6 @@
  "kind": "roster",
  "pharmacies": [
   {
-   "name": "Pharmacie AlMaghreb AlArabi",
-   "address": "1684 av. AlAdarissa hay AlMaghreb AlArabi Massira II",
-   "phone": "+212537600765",
-   "lat": 33.9202493,
-   "lng": -6.8965485,
-   "shift": "nuit",
-   "shift_label": ""
-  },
-  {
    "name": "Pharmacie AL MASJID",
    "address": "N° 276, Secteur 1 Ouled Mtaâ",
    "phone": "+212663455044",
@@ -34,53 +25,44 @@
    "shift_label": ""
   },
   {
+   "name": "Pharmacie FATINE",
+   "address": "863 Av Moulay Ali Cherif Hay Al Maghreb Al Arabi Massira 2",
+   "phone": "+212537602705",
+   "lat": 33.9242554,
+   "lng": -6.8921914,
+   "shift": "nuit",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie JNANE EL FOUARATE",
+   "address": "Alintissar N49, El Fouarate",
+   "phone": "+212530463424",
+   "lat": 33.901083,
+   "lng": -6.910194,
+   "shift": "nuit",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie NASSIM EL BAHR",
+   "address": "47 Lot II Résidence Roches Blanches II Harhoura",
+   "phone": "+212537744699",
+   "lat": 33.927288,
+   "lng": -6.949803,
+   "shift": "nuit",
+   "shift_label": ""
+  },
+  {
    "name": "Pharmacie Hind",
-   "address": "241 rue Othman Ibn Madhoun",
+   "address": "241 rue Othman Ibn Madhoun, Témara",
    "phone": "+212537622291",
    "lat": 33.895935,
    "lng": -6.935582,
    "shift": "nuit",
    "shift_label": ""
-  },
-  {
-   "name": "Pharmacie Laraki",
-   "address": "lot. ElWifak Sect. 2 n°2388",
-   "phone": "+212537645254",
-   "lat": 33.92467,
-   "lng": -6.930575,
-   "shift": "nuit",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie Al Balsem",
-   "address": "lotiss. Ibn Khaldoun I ang. rue Oued Souss-Oued Amlil, El Harhoura",
-   "phone": "+212537744787",
-   "lat": 33.921791,
-   "lng": -6.957506,
-   "shift": "nuit",
-   "shift_label": ""
-  },
-  {
-   "name": "PHARMACIE AL MAMOUNE",
-   "address": "rue al anisse, guich loudaya",
-   "phone": "+212537560315",
-   "lat": 33.9427007,
-   "lng": -6.8834139,
-   "shift": "",
-   "shift_label": ""
-  },
-  {
-   "name": "PHARMACIE MASJID ANNOUR",
-   "address": "39 gr.6 résidence annour 1 - tamesna",
-   "phone": "+212537619778",
-   "lat": 33.8468337,
-   "lng": -6.9359057,
-   "shift": "nuit",
-   "shift_label": ""
   }
  ],
  "center": [
-  33.917,
-  -6.9154
+  33.9221,
+  -6.9119
  ]
 }

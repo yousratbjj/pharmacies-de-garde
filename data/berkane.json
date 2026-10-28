@@ -12,12 +12,21 @@
    "phone": "+212536613631",
    "lat": 34.92195,
    "lng": -2.3243333,
-   "shift": "nuit",
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie Marché Couvert",
+   "address": "bd Mohammed V, Berkane",
+   "phone": "+212536256268",
+   "lat": 34.909454,
+   "lng": -2.352504,
+   "shift": "jour",
    "shift_label": ""
   }
  ],
  "center": [
-  34.922,
-  -2.3243
+  34.9157,
+  -2.3384
  ]
 }

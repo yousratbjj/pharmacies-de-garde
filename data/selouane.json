@@ -7,26 +7,26 @@
  "kind": "roster",
  "pharmacies": [
   {
-   "name": "Pharmacie Al Omrane",
-   "address": "hay Al Omrane, Selouane",
-   "phone": "+212536609257",
-   "lat": 35.069189,
-   "lng": -2.918761,
-   "shift": "nuit",
+   "name": "Pharmacie Essaada",
+   "address": "hay Essaada n°110 B3, Selouane",
+   "phone": "+212536609214",
+   "lat": 35.06785,
+   "lng": -2.93145,
+   "shift": "jour",
    "shift_label": ""
   },
   {
-   "name": "Pharmacie Principale",
-   "address": "25 bd Mohammed V, Selouane",
-   "phone": "+212536609047",
-   "lat": 35.07494,
-   "lng": -2.939456,
-   "shift": "nuit",
+   "name": "Pharmacie Selouane",
+   "address": "bd. Mohammed V, Selouane",
+   "phone": "+212536358469",
+   "lat": 35.07085,
+   "lng": -2.94085,
+   "shift": "jour",
    "shift_label": ""
   }
  ],
  "center": [
-  35.0721,
-  -2.9291
+  35.0694,
+  -2.9362
  ]
 }

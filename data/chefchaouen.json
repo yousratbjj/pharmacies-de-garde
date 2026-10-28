@@ -7,17 +7,17 @@
  "kind": "roster",
  "pharmacies": [
   {
-   "name": "Pharmacie ElHafa",
-   "address": "15 av. Mohamed. V, Chefchaouen",
-   "phone": "+212539883008",
-   "lat": 35.167417,
-   "lng": -5.268767,
-   "shift": "",
+   "name": "Pharmacie Centrale",
+   "address": "bd Sidi Abd AlHamid Route Atil Asmae, Chefchaouen",
+   "phone": "+212539883264",
+   "lat": 35.1767,
+   "lng": -5.273167,
+   "shift": "nuit",
    "shift_label": ""
   }
  ],
  "center": [
-  35.1674,
-  -5.2688
+  35.1767,
+  -5.2732
  ]
 }

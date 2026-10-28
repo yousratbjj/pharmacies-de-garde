@@ -7,12 +7,66 @@
  "kind": "roster",
  "pharmacies": [
   {
-   "name": "Pharmacie AL A'ARAF",
-   "address": "Avenue Atlas Al Kabir 26, Rue Al Fadl Hay Chafaa",
-   "phone": "+212537808724",
+   "name": "Pharmacie AL AQSA",
+   "address": "Mag 20, Imm 14, Résidence Maamora 2 Sala Al Jadida",
+   "phone": "+212537830704",
+   "lat": 34.0104256,
+   "lng": -6.7332959,
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie GHRISS",
+   "address": "Angle Rue Bir jdid et Nouasser N°53 (A coté Hamam Cherkaoui)",
+   "phone": "+212537813182",
+   "lat": 34.0273665,
+   "lng": -6.8041537,
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie JARDINS MAAMOURA",
+   "address": "Résidence jardins maamoura imm 230 magasin 1",
+   "phone": "+212537536274",
    "lat": 34.044889,
    "lng": -6.814017,
    "shift": "nuit",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie LES JUMELLES Ex: Village",
+   "address": "55, Avenue Hassan 2",
+   "phone": "+212537829500",
+   "lat": 34.027583,
+   "lng": -6.764944,
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie NOUVELLE Medic",
+   "address": "56 Bd Lalla Asmaa Tabriquet",
+   "phone": "+212537863825",
+   "lat": 34.040806,
+   "lng": -6.806389,
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie ZAHRAOUI",
+   "address": "Projet haddiqa Secteur al qods N 144 LAAYAYDA",
+   "phone": "+212530135079",
+   "lat": 34.044899,
+   "lng": -6.8140202,
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
+   "name": "PHARMACIE AL A 039 ARAF",
+   "address": "avenue atlas al kabir 26, rue al fadl hay chafaa",
+   "phone": "+212537808724",
+   "lat": 34.2415416,
+   "lng": -6.6547595,
+   "shift": "jour",
    "shift_label": ""
   },
   {
@@ -21,66 +75,21 @@
    "phone": "+212537783317",
    "lat": 34.0564503,
    "lng": -6.8199818,
-   "shift": "nuit",
+   "shift": "jour",
    "shift_label": ""
   },
   {
-   "name": "Pharmacie AZZEDINE",
-   "address": "Route de mahdia résidence annajah 2 immeuble 17 magasin N° 1 Bouchouk",
-   "phone": "+212537849195",
-   "lat": 34.086566,
-   "lng": -6.781806,
-   "shift": "nuit",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie DU MAGHREB ARABE",
-   "address": "Lot Villa 1223 N°4 (Prés du lycée-Collège du Maghreb Arabe)",
-   "phone": "+212537531310",
-   "lat": 33.9982674,
-   "lng": -6.7338054,
-   "shift": "",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie L'HOPITAL DE SALE",
-   "address": "Secteur D numéro 777 hay errahma",
-   "phone": "+212537871146",
-   "lat": 34.0645343,
-   "lng": -6.7909504,
-   "shift": "nuit",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie MOHAMED V",
-   "address": "6 Avenue Mohamed V Entre Redal et Marjane Hay Karima Salé (Route Tramway Salé)",
-   "phone": "+212537863294",
-   "lat": 34.0491714,
-   "lng": -6.7996178,
-   "shift": "nuit",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie OUM SALMA",
-   "address": "تجزئة سلمى رقم 29 حي واد الذهب - لعيايدة",
-   "phone": "+212662629818",
-   "lat": 34.0764599,
-   "lng": -6.7603561,
-   "shift": "nuit",
-   "shift_label": ""
-  },
-  {
-   "name": "PHARMACIE AMRI",
-   "address": "avenue al morabitine, lotissement marrakchia n°2.angle rue chafchaoun et hassiane. en face stade ferchi et résidence assafaa",
-   "phone": "+212530912099",
-   "lat": 34.2215178,
-   "lng": -6.628677,
-   "shift": "nuit",
+   "name": "Pharmacie Arcades",
+   "address": "37 lotiss. Alami rte Kénitra Sidi Moussa, Salé",
+   "phone": "+212537882654",
+   "lat": 34.049912,
+   "lng": -6.81434,
+   "shift": "jour",
    "shift_label": ""
   }
  ],
  "center": [
-  34.0747,
-  -6.7662
+  34.0604,
+  -6.7807
  ]
 }

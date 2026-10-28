@@ -7,26 +7,17 @@
  "kind": "roster",
  "pharmacies": [
   {
-   "name": "Pharmacie la Poste",
-   "address": "2 bd Complexe Commercial, Ben Guerir",
-   "phone": "+212524317053",
-   "lat": 32.2444,
-   "lng": -7.956833,
-   "shift": "",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie Medeci",
-   "address": "hay Moulay Rachid - Autre ville sect.05 n° 141, Ben Guerir",
-   "phone": "+212669624782",
-   "lat": 32.21355,
-   "lng": -7.92432,
-   "shift": "",
+   "name": "Pharmacie Nabih El Ouadi",
+   "address": "14 rue Ghazouani hay Zaouia Azouzia, Ben Guerir",
+   "phone": "+212524317339",
+   "lat": 32.229519,
+   "lng": -7.955292,
+   "shift": "nuit",
    "shift_label": ""
   }
  ],
  "center": [
-  32.229,
-  -7.9406
+  32.2295,
+  -7.9553
  ]
 }

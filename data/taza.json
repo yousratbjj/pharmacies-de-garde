@@ -7,26 +7,26 @@
  "kind": "roster",
  "pharmacies": [
   {
-   "name": "Pharmacie Douar Ayad",
-   "address": "hay Ennahda bloc B n°17",
-   "phone": "+212535674595",
-   "lat": 34.227494,
-   "lng": -4.023118,
+   "name": "La Grande Pharmacie",
+   "address": "ElMassira II bloc 9 n°66",
+   "phone": "+212535211540",
+   "lat": 34.2277,
+   "lng": -3.9860833,
    "shift": "nuit",
    "shift_label": ""
   },
   {
-   "name": "Pharmacie Hay ElHassani Hajra",
-   "address": "hay ElHassani Jiyarine bloc E n°232",
-   "phone": "+212535282222",
-   "lat": 34.2060667,
-   "lng": -3.9976,
+   "name": "Pharmacie Centrale",
+   "address": "Place de l'Indépendance",
+   "phone": "+212535673585",
+   "lat": 34.2223333,
+   "lng": -4.0079,
    "shift": "nuit",
    "shift_label": ""
   }
  ],
  "center": [
-  34.2168,
-  -4.0104
+  34.225,
+  -3.997
  ]
 }

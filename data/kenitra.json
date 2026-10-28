@@ -7,53 +7,35 @@
  "kind": "roster",
  "pharmacies": [
   {
-   "name": "Pharmacie Arzak",
-   "address": "1208 lotiss. Amal ouled Arafa Saknia",
-   "phone": "+212537391416",
-   "lat": 34.2478736,
-   "lng": -6.5419331,
-   "shift": "nuit",
+   "name": "Pharmacie Arredwan",
+   "address": "z.i Bir Rami grpe Jennane 2 n°1842",
+   "phone": "+212537368603",
+   "lat": 34.224062,
+   "lng": -6.62684,
+   "shift": "jour",
    "shift_label": ""
   },
   {
-   "name": "Pharmacie Ibn Rochd",
-   "address": "102, rue aryada, quartier la cigogne",
-   "phone": "+212537363598",
-   "lat": 34.2605048,
-   "lng": -6.5677869,
-   "shift": "nuit",
+   "name": "Pharmacie Balsam",
+   "address": "hay ARRAJAA Fi Allah rue 57 n°2975 Saknia",
+   "phone": "+212537391713",
+   "lat": 34.2517737,
+   "lng": -6.5547514,
+   "shift": "jour",
    "shift_label": ""
   },
   {
-   "name": "Pharmacie Tredano - El Bakkali",
-   "address": "hay Bir Rami Lahrichi",
-   "phone": "+212537394969",
-   "lat": 34.22239,
-   "lng": -6.629637,
-   "shift": "nuit",
-   "shift_label": ""
-  },
-  {
-   "name": "PHARMACIE AVICENNES",
-   "address": "bd mohammed v carrefour mimosas",
-   "phone": "+212537374874",
-   "lat": 34.2557944,
-   "lng": -6.5971595,
-   "shift": "nuit",
-   "shift_label": ""
-  },
-  {
-   "name": "PHARMACIE SIHAM",
-   "address": "hay al maghrib al arabi, d lot 63",
-   "phone": "+212 537 360805",
-   "lat": 34.2558248,
-   "lng": -6.6139945,
-   "shift": "nuit",
+   "name": "Pharmacie SIDI EL GHAZI",
+   "address": "رقم 623 قرب منطقة الأمن الوطني RAK القصبة. وراء وكالة الهاتف. 32 86 32 0537",
+   "phone": "+212537328632",
+   "lat": 34.265064,
+   "lng": -6.6474624,
+   "shift": "jour",
    "shift_label": ""
   }
  ],
  "center": [
-  34.2485,
-  -6.5901
+  34.247,
+  -6.6097
  ]
 }

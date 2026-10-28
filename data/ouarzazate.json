@@ -7,26 +7,17 @@
  "kind": "roster",
  "pharmacies": [
   {
-   "name": "Pharmacie Al Hizame",
-   "address": "77 av. My Abdellah",
-   "phone": "+212524888081",
-   "lat": 30.92745,
-   "lng": -6.9268333,
-   "shift": "",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie Al Wahda",
-   "address": "311 av. Al Maghreb Al Arabi lotiss. Al Wahda",
-   "phone": "+212524887990",
-   "lat": 30.92705,
-   "lng": -6.9047,
-   "shift": "",
+   "name": "Pharmacie Sidi Daoud",
+   "address": "bd Mohammed V lotiss. Tichka",
+   "phone": "+212524883380",
+   "lat": 30.9229667,
+   "lng": -6.8969833,
+   "shift": "nuit",
    "shift_label": ""
   }
  ],
  "center": [
-  30.9273,
-  -6.9158
+  30.923,
+  -6.897
  ]
 }

@@ -7,17 +7,35 @@
  "kind": "roster",
  "pharmacies": [
   {
-   "name": "CHIKRI",
-   "address": "av mfadel afailal n 105",
+   "name": "PHARMACIE CHIKRI",
+   "address": "105 av. M'fadel Afailal Tetouan Martil Martil Tétouan Maroc",
    "phone": "+212539993128",
-   "lat": 35.5714445,
-   "lng": -5.3601156,
-   "shift": "",
+   "lat": 35.57135,
+   "lng": -5.36005,
+   "shift": "nuit",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie Ghourghiz",
+   "address": "2 bd Neuf Avril résid. Al Fath, Tétouan",
+   "phone": "+212539714215",
+   "lat": 35.562983,
+   "lng": -5.375167,
+   "shift": "nuit",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie Omar Ibn Abdelaziz",
+   "address": "218 av Haj Mohamed Benouna, Tétouan",
+   "phone": "+212539993715",
+   "lat": 35.589617,
+   "lng": -5.3549,
+   "shift": "nuit",
    "shift_label": ""
   }
  ],
  "center": [
-  35.5714,
-  -5.3601
+  35.5746,
+  -5.3634
  ]
 }

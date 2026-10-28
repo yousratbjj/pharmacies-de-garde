@@ -7,17 +7,17 @@
  "kind": "roster",
  "pharmacies": [
   {
-   "name": "Pharmacie Al Houria",
-   "address": "72 rue Midelt hay ElHouria",
-   "phone": "+212536695660",
-   "lat": 34.4100009,
-   "lng": -2.8988804,
+   "name": "Pharmacie Ennahda (Renaissance)",
+   "address": "195 rue ElHoceima hay Ennahda",
+   "phone": "+212536698424",
+   "lat": 34.411433,
+   "lng": -2.892654,
    "shift": "nuit",
    "shift_label": ""
   }
  ],
  "center": [
-  34.41,
-  -2.8989
+  34.4114,
+  -2.8927
  ]
 }

@@ -7,35 +7,17 @@
  "kind": "roster",
  "pharmacies": [
   {
-   "name": "Pharmacie Chabbak",
-   "address": "Q. Chabbak 1 n°117 bis",
-   "phone": "+212535969207",
-   "lat": 33.829993,
-   "lng": -4.838255,
-   "shift": "",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie Khalil",
-   "address": "1218 Zalagh Ben Sefar",
-   "phone": "+212535660737",
-   "lat": 33.82943,
-   "lng": -4.8253,
-   "shift": "",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie Zahrat Al Jabal",
-   "address": "1 Massay q.i.",
-   "phone": "+212535969784",
-   "lat": 33.817726,
-   "lng": -4.828977,
-   "shift": "",
+   "name": "Pharmacie Imane",
+   "address": "rte El Menzel n°82/1 lotiss. El Hachmia bloc 6",
+   "phone": "+212532021550",
+   "lat": 33.82543,
+   "lng": -4.818019,
+   "shift": "nuit",
    "shift_label": ""
   }
  ],
  "center": [
-  33.8257,
-  -4.8308
+  33.8254,
+  -4.818
  ]
 }

@@ -10,50 +10,95 @@
    "name": "Hakam",
    "address": "442 Boulvard Ibn Tachfine",
    "phone": "+212522602324",
-   "lat": 33.582665,
-   "lng": -7.501264,
-   "shift": "nuit",
+   "lat": 33.6193056,
+   "lng": -7.4935046,
+   "shift": "jour",
    "shift_label": ""
   },
   {
-   "name": "Pharmacie Chadili",
-   "address": "hay Sidi Moumen lakdim Lot. Amal n°4 rue 24 bd Houssine Soussi Sidi Moumen Casablanca",
-   "phone": "+212522728091",
-   "lat": 33.5823471,
-   "lng": -7.530336,
-   "shift": "",
+   "name": "Pharmacie Dennay",
+   "address": "hay Sidi Moumen Dyar Essaâda mag. n°1 et 3, Casablanca",
+   "phone": "+212522709079",
+   "lat": 33.5852927,
+   "lng": -7.5206458,
+   "shift": "jour",
    "shift_label": ""
   },
   {
-   "name": "Pharmacie Marina",
-   "address": "N°54. Rue Ibn Jahir -ex Taravo. Boulevard Tantan. Bourgogne (Bank BMCE)",
-   "phone": "+212522942439",
-   "lat": 33.6000629,
-   "lng": -7.6483968,
-   "shift": "",
+   "name": "Pharmacie des Acacias",
+   "address": "76, BD. DE GERGOVIE (MOHAMED BEN MEKKI)",
+   "phone": "+212522248181",
+   "lat": 33.5998209,
+   "lng": -7.5777588,
+   "shift": "jour",
    "shift_label": ""
   },
   {
-   "name": "ATLAS",
-   "address": "N 41 BD. MOULAY DRISS 1ER",
-   "phone": "+212522307918",
-   "lat": 33.57536,
-   "lng": -7.6096067,
-   "shift": "",
+   "name": "Pharmacie ElHarti",
+   "address": "775 avenue du Cdt Driss Lharti - ex A, Casablanca",
+   "phone": "+212522371737",
+   "lat": 33.5586,
+   "lng": -7.55609,
+   "shift": "jour",
    "shift_label": ""
   },
   {
-   "name": "Attaqwa",
-   "address": "BD El joulane Rue N 20 Derb Friha( cite djemaa)",
-   "phone": "+212522561935",
-   "lat": 33.5531836,
-   "lng": -7.5728504,
-   "shift": "",
+   "name": "Pharmacie Faris El Baida",
+   "address": "928 route de Médiouna, Casablanca",
+   "phone": "+212522289090",
+   "lat": 33.552497,
+   "lng": -7.590131,
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie Fleming",
+   "address": "275, Route de la Mecque, Quartier Californie",
+   "phone": "+212522522989",
+   "lat": 33.5512,
+   "lng": -7.63223,
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie Gare de l'oasis",
+   "address": "152 X route de l' Oasis, Casablanca",
+   "phone": "+212522990284",
+   "lat": 33.5552277,
+   "lng": -7.6316208,
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie Missimi",
+   "address": "Rue 24, n 1, Angle Rue 12, Cité Missimi, Quartier Hay Hassani,",
+   "phone": "+212522900529",
+   "lat": 33.5635194,
+   "lng": -7.6744739,
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie Morjana",
+   "address": "15, lotiss. Communal , Sidi Maârouf Casablanca",
+   "phone": "+212522321931",
+   "lat": 33.5231593,
+   "lng": -7.6448043,
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie Nejma",
+   "address": "Derb Nejma, Bloc 415, n 902, Quartier Hay Hassani",
+   "phone": "+212522895435",
+   "lat": 33.5746133,
+   "lng": -7.6764487,
+   "shift": "jour",
    "shift_label": ""
   }
  ],
  "center": [
-  33.5787,
-  -7.5725
+  33.5683,
+  -7.5998
  ]
 }

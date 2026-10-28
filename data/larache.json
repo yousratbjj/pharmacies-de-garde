@@ -7,17 +7,17 @@
  "kind": "roster",
  "pharmacies": [
   {
-   "name": "Pharmacie Masjid AlForkan",
-   "address": "17 lotiss. des Fonctionnaires hay ElJadid, Larache",
-   "phone": "+212539521121",
-   "lat": 35.182103,
-   "lng": -6.156333,
-   "shift": "nuit",
+   "name": "Pharmacie Salama",
+   "address": "161 bd Oqba Ibn Nafie",
+   "phone": "+212539915786",
+   "lat": 35.1841667,
+   "lng": -6.1502667,
+   "shift": "jour",
    "shift_label": ""
   }
  ],
  "center": [
-  35.1821,
-  -6.1563
+  35.1842,
+  -6.1503
  ]
 }

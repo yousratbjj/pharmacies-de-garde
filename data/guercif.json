@@ -7,26 +7,26 @@
  "kind": "roster",
  "pharmacies": [
   {
-   "name": "Pharmacie Ibnou Sina",
-   "address": "100 Av. Mly Hassan, Guercif",
-   "phone": "+212535675055",
-   "lat": 34.2321,
-   "lng": -3.34865,
-   "shift": "nuit",
+   "name": "Pharmacie Malwiya",
+   "address": "av Mohamed V, Guercif",
+   "phone": "+212535675602",
+   "lat": 34.228683,
+   "lng": -3.34255,
+   "shift": "jour",
    "shift_label": ""
   },
   {
-   "name": "Pharmacie L'Oriental",
-   "address": "Rte Saka, Guercif",
-   "phone": "+212535676194",
-   "lat": 34.23785,
-   "lng": -3.34126,
-   "shift": "nuit",
+   "name": "Pharmacie Moderne",
+   "address": "lotissement laaricha, Guercif",
+   "phone": "+212535201321",
+   "lat": 34.2381,
+   "lng": -3.34483,
+   "shift": "jour",
    "shift_label": ""
   }
  ],
  "center": [
-  34.235,
-  -3.345
+  34.2334,
+  -3.3437
  ]
 }

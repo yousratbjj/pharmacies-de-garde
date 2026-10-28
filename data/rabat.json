@@ -7,12 +7,21 @@
  "kind": "roster",
  "pharmacies": [
   {
-   "name": "Pharmacie AL MASBAH AL KABIR",
-   "address": "Avenue Chbanat 9 Rue Ibn Taimia En Face De La Cimetiere C.Y.M",
-   "phone": "+212537290673",
-   "lat": 33.98625,
-   "lng": -6.887722,
-   "shift": "nuit",
+   "name": "Pharmacie AL IGHATA",
+   "address": "1,imm 42 cité al mountazah Hay el fath C.Y.M",
+   "phone": "+212537792986",
+   "lat": 33.9668763,
+   "lng": -6.9059703,
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie AMWAJ",
+   "address": "Avenue des FAR N°1350 hay al Manzeh derrière la feray - C.Y.M",
+   "phone": "+212537790220",
+   "lat": 33.9800045,
+   "lng": -6.8914727,
+   "shift": "jour",
    "shift_label": ""
   },
   {
@@ -21,66 +30,75 @@
    "phone": "+212537693388",
    "lat": 34.016667,
    "lng": -6.856583,
-   "shift": "nuit",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie HAY CHABAB",
-   "address": "Bloc 18 appt 2 Hay Chabab Avenue Annour C.Y.M",
-   "phone": "+212537692902",
-   "lat": 33.9957197,
-   "lng": -6.8657472,
-   "shift": "",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie HAY EL FATH",
-   "address": "Imm 30 terminus des bus a Hay el fath La fin du Boulevard Al Massira C.Y.M Tél / WhatsApp: 0703 01 02 03",
-   "phone": "+212703010203",
-   "lat": 33.964806,
-   "lng": -6.903833,
-   "shift": "",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie IMANE Ex: BENYAHIA",
-   "address": "457 Av Hassan II Résid Meryem",
-   "phone": "+212537693900",
-   "lat": 34.0060366,
-   "lng": -6.8562332,
-   "shift": "nuit",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie LES COLONNES",
-   "address": "à côté de la clinique Amal-Rajae Derrière le ministère des affaires étrangères et dans la rue de l’ex. ambassade Américaine)",
-   "phone": "+212537660618",
-   "lat": 34.0131792,
-   "lng": -6.8226534,
-   "shift": "nuit",
-   "shift_label": ""
-  },
-  {
-   "name": "PHARMACIE AL BOUSTANE",
-   "address": "69 amal 4 complémentaire  (près de l'accés supérieur de la feraille)c.y.m",
-   "phone": "+212537799293",
-   "lat": 33.9803551,
-   "lng": -6.8883849,
    "shift": "jour",
    "shift_label": ""
   },
   {
-   "name": "PHARMACIE BIN EL OUIDANE",
-   "address": "angle av bin el ouidane rue el gansra agdal ss",
-   "phone": "+212537772478",
-   "lat": 34.0066391,
-   "lng": -6.8508352,
-   "shift": "nuit",
+   "name": "Pharmacie IBN HAJAR",
+   "address": "N°4 Rue Ibn Hajar (derriere le jardin D’essai et prés du tribunal militaire)",
+   "phone": "+212537680687",
+   "lat": 34.008556,
+   "lng": -6.851056,
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie KAWTAR RIAD",
+   "address": "Secteur 13 bloc H 3 Rue soltan al jabal",
+   "phone": "+212537563638",
+   "lat": 33.9502775,
+   "lng": -6.8715295,
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie MARASSA",
+   "address": "Angle Avenue Misr Et Rue Qobross",
+   "phone": "+212537201963",
+   "lat": 34.025056,
+   "lng": -6.841639,
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie RABI",
+   "address": "Résidence ERRABIA (En Face Collège Talha)",
+   "phone": "+212537656692",
+   "lat": 33.9769904,
+   "lng": -6.8202112,
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie SAWMAAT HASSAN",
+   "address": "1 Rue Riad — Hassan",
+   "phone": "+212537720250",
+   "lat": 34.017917,
+   "lng": -6.829028,
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie SAYARH",
+   "address": "Yacoub El Mansour, Rabat",
+   "phone": "+212537292876",
+   "lat": 34.0166735,
+   "lng": -6.8567883,
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie AL MASBAH AL KABIR",
+   "address": "Avenue Chbanat 9 Rue Ibn Taimia En Face De La Cimetiere C.Y.M",
+   "phone": "+212537290673",
+   "lat": 33.98625,
+   "lng": -6.887722,
+   "shift": "jour",
    "shift_label": ""
   }
  ],
  "center": [
-  33.9962,
-  -6.8665
+  33.9945,
+  -6.8612
  ]
 }

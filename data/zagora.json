@@ -7,17 +7,17 @@
  "kind": "roster",
  "pharmacies": [
   {
-   "name": "Pharmacie Zagora",
-   "address": "bd Mohammed V, Zagora",
-   "phone": "+212524847195",
-   "lat": 30.327867,
-   "lng": -5.83855,
-   "shift": "jour",
+   "name": "Pharmacie Yassine",
+   "address": "278 bd Mohammed V, Zagora",
+   "phone": "+212524848719",
+   "lat": 30.345233,
+   "lng": -5.838167,
+   "shift": "nuit",
    "shift_label": ""
   }
  ],
  "center": [
-  30.3279,
-  -5.8385
+  30.3452,
+  -5.8382
  ]
 }

@@ -7,53 +7,26 @@
  "kind": "roster",
  "pharmacies": [
   {
-   "name": "Pharmacie Atraoui",
-   "address": "6 bd Ariha",
-   "phone": "+212661902254",
-   "lat": 32.874472,
-   "lng": -6.929913,
-   "shift": "",
+   "name": "Pharmacie La Victoire",
+   "address": "bd Abderrahim Bouabid hay El Amal lot 197",
+   "phone": "+212523497467",
+   "lat": 32.8907167,
+   "lng": -6.9339861,
+   "shift": "nuit",
    "shift_label": ""
   },
   {
-   "name": "Pharmacie Bilal Bnou Rabbah",
-   "address": "548 lotiss. Inbiaat",
-   "phone": "+212523492424",
-   "lat": 32.876411,
-   "lng": -6.933732,
-   "shift": "",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie ElRhaz",
-   "address": "234 ancienne Médina du Séchage",
-   "phone": "+212523494437",
-   "lat": 32.88409,
-   "lng": -6.911315,
-   "shift": "",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie Mly Youssef",
-   "address": "18 bd Mly Youssef",
-   "phone": "+212523565111",
-   "lat": 32.8879389,
-   "lng": -6.9109222,
-   "shift": "",
-   "shift_label": ""
-  },
-  {
-   "name": "PHARMACIE ZELLAKA",
-   "address": "1541 bd Mohammed VI hay EL Qods Khouribga Khouribga Maroc",
-   "phone": "+212523499335",
-   "lat": 32.8907209,
-   "lng": -6.9304266,
-   "shift": "",
+   "name": "Pharmacie Tawfiq",
+   "address": "251 Ancienne Médina du Séchage",
+   "phone": "+212521130339",
+   "lat": 32.8809464,
+   "lng": -6.8961939,
+   "shift": "nuit",
    "shift_label": ""
   }
  ],
  "center": [
-  32.8827,
-  -6.9233
+  32.8858,
+  -6.9151
  ]
 }
