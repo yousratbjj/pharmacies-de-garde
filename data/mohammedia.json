@@ -1,35 +1,17 @@
 {
  "city": "mohammedia",
  "label": "Mohammedia",
- "date": "2026-10-27",
+ "date": "2026-10-28",
  "source": "med.ma",
  "source_url": "https://www.med.ma/pharmacy/day-time/mohammedia",
  "kind": "directory",
  "pharmacies": [
   {
-   "name": "Pharmacie Chaker",
-   "address": "65, lotiss. Riad Essalam Mohammedia Mohammedia",
-   "phone": "+212 523 30 03 28",
-   "lat": 33.7021934,
-   "lng": -7.3542875,
-   "shift": "jour",
-   "shift_label": "Pharmacies de jour"
-  },
-  {
-   "name": "Pharmacie Al Akssa",
-   "address": "bd palestine, lotiss. ben hamdoun n°5 Mohammedia Mohammedia",
-   "phone": "+212 523 28 10 80",
-   "lat": 33.6880271,
-   "lng": -7.3740094,
-   "shift": "jour",
-   "shift_label": "Pharmacies de jour"
-  },
-  {
-   "name": "Pharmacie Majorelle",
-   "address": "bd riad numéro fb20 lot almassira Mohammedia Mohammedia",
-   "phone": "+212 523 28 49 94",
-   "lat": 33.702852,
-   "lng": -7.372212,
+   "name": "Pharmacie Mekka",
+   "address": "27, lotiss. Grini 1, ElAlia Mohammedia Mohammedia",
+   "phone": "+212 523 31 71 92",
+   "lat": 33.6915902,
+   "lng": -7.3826705,
    "shift": "jour",
    "shift_label": "Pharmacies de jour"
   },
@@ -52,29 +34,20 @@
    "shift_label": "Pharmacies de jour"
   },
   {
-   "name": "Pharmacie Nour",
-   "address": "4 bd Moulay Ismail resid. Miramar imm.A Mohammedia - Maroc Mohammedia",
-   "phone": "+212 660 00 91 14",
-   "lat": 33.7059375,
-   "lng": -7.3903125,
+   "name": "Pharmacie Ibn Rochd",
+   "address": "501, bd Abdelkrim Khattabi, El Alia Mohammedia Mohammedia",
+   "phone": "+212 523 32 31 29",
+   "lat": 33.6901375,
+   "lng": -7.3873488,
    "shift": "jour",
    "shift_label": "Pharmacies de jour"
   },
   {
-   "name": "Pharmacie Monica plage",
-   "address": "30 lotiss. Ounasser bd Hassan II Mohammedia - Maroc Mohammedia",
-   "phone": "+212 523 32 18 47",
-   "lat": 33.7113056,
-   "lng": -7.354,
-   "shift": "jour",
-   "shift_label": "Pharmacies de jour"
-  },
-  {
-   "name": "Pharmacie de l'Hôpital",
-   "address": "56, rue la Fontaine, hay Nicolas Mohammedia Mohammedia",
-   "phone": "+212 523 31 51 66",
-   "lat": 33.6990823,
-   "lng": -7.384465,
+   "name": "Pharmacie Hamza",
+   "address": "hay Errachidia III, bloc B n°314, El Alia Mohammedia Mohammedia",
+   "phone": "+212 523 28 00 71",
+   "lat": 33.673494837167,
+   "lng": -7.3908993226234,
    "shift": "jour",
    "shift_label": "Pharmacies de jour"
   },
@@ -88,11 +61,38 @@
    "shift_label": "Pharmacies de jour"
   },
   {
-   "name": "Pharmacie Hamza",
-   "address": "hay Errachidia III, bloc B n°314, El Alia Mohammedia Mohammedia",
-   "phone": "+212 523 28 00 71",
-   "lat": 33.673494837167,
-   "lng": -7.3908993226234,
+   "name": "Pharmacie de l'Hôpital",
+   "address": "56, rue la Fontaine, hay Nicolas Mohammedia Mohammedia",
+   "phone": "+212 523 31 51 66",
+   "lat": 33.6990823,
+   "lng": -7.384465,
+   "shift": "jour",
+   "shift_label": "Pharmacies de jour"
+  },
+  {
+   "name": "Pharmacie Al Akssa",
+   "address": "bd palestine, lotiss. ben hamdoun n°5 Mohammedia Mohammedia",
+   "phone": "+212 523 28 10 80",
+   "lat": 33.6880271,
+   "lng": -7.3740094,
+   "shift": "jour",
+   "shift_label": "Pharmacies de jour"
+  },
+  {
+   "name": "Pharmacie Nour",
+   "address": "4 bd Moulay Ismail resid. Miramar imm.A Mohammedia - Maroc Mohammedia",
+   "phone": "+212 660 00 91 14",
+   "lat": 33.7059375,
+   "lng": -7.3903125,
+   "shift": "jour",
+   "shift_label": "Pharmacies de jour"
+  },
+  {
+   "name": "Pharmacie Majorelle",
+   "address": "bd riad numéro fb20 lot almassira Mohammedia Mohammedia",
+   "phone": "+212 523 28 49 94",
+   "lat": 33.702852,
+   "lng": -7.372212,
    "shift": "jour",
    "shift_label": "Pharmacies de jour"
   },
@@ -188,7 +188,7 @@
   }
  ],
  "center": [
-  33.6751,
-  -7.3983
+  33.6735,
+  -7.4014
  ]
 }
