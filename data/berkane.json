@@ -1,7 +1,7 @@
 {
  "city": "berkane",
  "label": "Berkane",
- "date": "2026-10-27",
+ "date": "2026-10-28",
  "source": "sahha.ma",
  "source_url": "https://sahha.ma/pharmacie-de-garde/berkane",
  "kind": "roster",
@@ -12,16 +12,16 @@
    "phone": "+212536613631",
    "lat": 34.92195,
    "lng": -2.3243333,
-   "shift": "jour",
+   "shift": "nuit",
    "shift_label": ""
   },
   {
    "name": "Pharmacie Marché Couvert",
-   "address": "bd Mohammed V, Berkane",
+   "address": "bd Mohammed V",
    "phone": "+212536256268",
-   "lat": 34.909454,
-   "lng": -2.352504,
-   "shift": "jour",
+   "lat": 34.9094541,
+   "lng": -2.3525037,
+   "shift": "nuit",
    "shift_label": ""
   }
  ],

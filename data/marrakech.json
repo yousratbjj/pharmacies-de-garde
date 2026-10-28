@@ -1,20 +1,11 @@
 {
  "city": "marrakech",
  "label": "Marrakech",
- "date": "2026-10-27",
+ "date": "2026-10-28",
  "source": "sahha.ma",
  "source_url": "https://sahha.ma/pharmacie-de-garde/marrakech",
  "kind": "roster",
  "pharmacies": [
-  {
-   "name": "AZLI",
-   "address": "Qt. Azli, face ancienne Mosquée derrière usine Coca à côté des Im. Saâdienne ERAC",
-   "phone": "+212524342513",
-   "lat": 31.624113,
-   "lng": -8.0533084,
-   "shift": "jour",
-   "shift_label": ""
-  },
   {
    "name": "BASSATINE TARGA",
    "address": "Espaces Essaada, Op. Bassatine targa, près de l'Etablissement Targa Junior et le nouveau Rond Point de l'Azzouzia à gauche, Marrakech SIDI GHANEM AZZOUZIA",
@@ -26,15 +17,15 @@
   },
   {
    "name": "OUHOUD",
-   "address": "294, Lot. Masmoudi, avant l’école Ouhoud, route Sidi Dou Targa, Marrakech TARGA",
+   "address": "294, Lot. Masmoudi, avant l’école Ouhoud, route Sidi Dou Targa",
    "phone": "+212524344395",
-   "lat": 31.5737218,
-   "lng": -8.0684727,
-   "shift": "jour",
+   "lat": 31.6524772,
+   "lng": -8.0507147,
+   "shift": "nuit",
    "shift_label": ""
   },
   {
-   "name": "Pharmacie AL AHBASS",
+   "name": "Pharmacie Al Ahbass",
    "address": "10, Imm. Habouss Bab Doukkala, Marrakech GRAND GUELIZ",
    "phone": "+212524432183",
    "lat": 31.6335452,
@@ -52,24 +43,6 @@
    "shift_label": ""
   },
   {
-   "name": "Pharmacie AL OUSRA",
-   "address": "661, M'hamid II entre l'Arrondissement M'hamid et centre de Santé",
-   "phone": "+212524370846",
-   "lat": 31.5893065,
-   "lng": -8.039605,
-   "shift": "jour",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie ARRAHMA",
-   "address": "8, Diour Saboun, à 300 m de Bab Taghzout vers Sakayat (Ch'reb ou Chouf), Marrakech MEDINA",
-   "phone": "+212524383038",
-   "lat": 31.619817,
-   "lng": -7.990367,
-   "shift": "jour",
-   "shift_label": ""
-  },
-  {
    "name": "Pharmacie ASSOUNNA",
    "address": "384, M'hamid C, près du café Al Boughaz en face du collège Tarek Ibn Ziad, Marrakech LAMHAMID",
    "phone": "+212524361622",
@@ -79,26 +52,35 @@
    "shift_label": ""
   },
   {
-   "name": "Pharmacie AVENUE HASSAN II",
-   "address": "Av. Hassan II à 600m de Gare du Train, entre Aswak Essalam Guéliz et la Maison Hyundai, Marrakech GRAND GUELIZ",
-   "phone": "+212524421317",
-   "lat": 31.6273896,
-   "lng": -8.0249061,
-   "shift": "jour",
+   "name": "Pharmacie IBN AL AOUAM",
+   "address": "Imm. Al Habouss Massira 1 en face Café Salon 33, Marrakech HAY HASSANI",
+   "phone": "+212524346546",
+   "lat": 31.6284431,
+   "lng": -8.0590802,
+   "shift": "nuit",
    "shift_label": ""
   },
   {
-   "name": "Pharmacie AWATIF",
-   "address": "Lot. Awatif Imm. A 1 Assif, près de l'école El Bachir et Mosquée Awatif, Marrakech DAOUDIAT",
-   "phone": "+212524331293",
-   "lat": 31.6520594,
-   "lng": -8.0097789,
-   "shift": "jour",
+   "name": "Pharmacie Kamilia",
+   "address": "7, Quartier Assif C, en face de la mosquée Assif C Lot. Bouamria, Marrakech DAOUDIAT",
+   "phone": "+212524306322",
+   "lat": 31.6533554,
+   "lng": -8.0051676,
+   "shift": "nuit",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie l'Hôpital Militaire",
+   "address": "3, prolongement de l’Avenue Mohamed VI vers l’Hôpital Militaire et à côté de l’Ecole El Hilali, Marrakech GRAND GUELIZ",
+   "phone": "+212524449316",
+   "lat": 31.636489,
+   "lng": -8.020365,
+   "shift": "nuit",
    "shift_label": ""
   }
  ],
  "center": [
-  31.6219,
-  -8.0253
+  31.638,
+  -8.0252
  ]
 }

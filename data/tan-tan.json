@@ -88,29 +88,11 @@
    "shift_label": "Pharmacies 24h/24"
   },
   {
-   "name": "Pharmacie Rebbouh",
-   "address": "Pharmacie Rebbouh BIOUGRA El Guerdan Agadir",
-   "phone": "+212 528 81 05 05",
-   "lat": 30.2206575,
-   "lng": -9.3728585,
-   "shift": "24h",
-   "shift_label": "Pharmacies 24h/24"
-  },
-  {
    "name": "Pharmacie Wad Essafaa",
    "address": "Pharmacie Wad Essafaa BIOUGRA El Guerdan Agadir",
    "phone": "+212 528 81 94 77",
    "lat": 30.2206575,
    "lng": -9.3728585,
-   "shift": "24h",
-   "shift_label": "Pharmacies 24h/24"
-  },
-  {
-   "name": "Pharmacie Agharass",
-   "address": "Pharmacie Agharass BIOUGRA El Guerdan Agadir",
-   "phone": "+212 528 81 83 18",
-   "lat": 30.2153044,
-   "lng": -9.3637987,
    "shift": "24h",
    "shift_label": "Pharmacies 24h/24"
   },
@@ -131,10 +113,28 @@
    "lng": -9.5738171,
    "shift": "24h",
    "shift_label": "Pharmacies 24h/24"
+  },
+  {
+   "name": "Pharmacie du Sommet",
+   "address": "422 hay Al Wahda Anza Agadir - Maroc Tamri Tamri Agadir",
+   "phone": "+212 528 20 61 61",
+   "lat": 30.445462,
+   "lng": -9.657598,
+   "shift": "24h",
+   "shift_label": "Pharmacies 24h/24"
+  },
+  {
+   "name": "Pharmacie El Alami",
+   "address": "hay riad essalam, imm. aferni n°22 AGADIR Agadir",
+   "phone": "+212 528 23 29 57",
+   "lat": 30.4067131,
+   "lng": -9.5741367,
+   "shift": "24h",
+   "shift_label": "Pharmacies 24h/24"
   }
  ],
  "center": [
-  30.3109,
-  -9.4778
+  30.3407,
+  -9.5132
  ]
 }

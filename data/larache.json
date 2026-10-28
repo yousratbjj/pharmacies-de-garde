@@ -1,7 +1,7 @@
 {
  "city": "larache",
  "label": "Larache",
- "date": "2026-10-27",
+ "date": "2026-10-28",
  "source": "sahha.ma",
  "source_url": "https://sahha.ma/pharmacie-de-garde/larache",
  "kind": "roster",
@@ -12,7 +12,7 @@
    "phone": "+212539915786",
    "lat": 35.1841667,
    "lng": -6.1502667,
-   "shift": "jour",
+   "shift": "nuit",
    "shift_label": ""
   }
  ],

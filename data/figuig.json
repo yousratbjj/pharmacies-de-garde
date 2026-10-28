@@ -34,26 +34,26 @@
    "shift_label": "Pharmacies de jour"
   },
   {
-   "name": "Pharmacie du Stade",
-   "address": "72 Lotissement Ben Hamza Massy Sefrou Ahermoumou Sefrou",
-   "phone": "+212 535 66 25 72",
-   "lat": 33.827836,
-   "lng": -4.833416,
+   "name": "Pharmacie Imane",
+   "address": "rte El Menzel n°82/1 lotiss. El Hachmia bloc 6 Sefrou Ahermoumou Sefrou",
+   "phone": "+212 532 02 15 50",
+   "lat": 33.8252958,
+   "lng": -4.8181188,
    "shift": "nuit",
    "shift_label": "Pharmacies de nuit"
   },
   {
-   "name": "Pharmacie de Sefrou",
-   "address": "Boulevard Mohammed V Sefrou Bhalil Bhalil Sefrou",
-   "phone": "+212 535 66 02 68",
-   "lat": 33.829034,
-   "lng": -4.840166,
+   "name": "Pharmacie centrale",
+   "address": "1 pl. Bab El Mrabaa Sefrou Bhalil Bhalil Sefrou",
+   "phone": "+212 535 66 04 84",
+   "lat": 33.8280646,
+   "lng": -4.8375041,
    "shift": "nuit",
    "shift_label": "Pharmacies de nuit"
   }
  ],
  "center": [
-  33.826,
-  -4.8326
+  33.8253,
+  -4.829
  ]
 }

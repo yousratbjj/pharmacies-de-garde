@@ -70,24 +70,6 @@
    "shift_label": "Pharmacies de jour"
   },
   {
-   "name": "Pharmacie Tarraste",
-   "address": "route principale tarraste Inezgane Agadir Agadir",
-   "phone": "+212 528 83 30 33",
-   "lat": 30.3523894,
-   "lng": -9.546257,
-   "shift": "nuit",
-   "shift_label": "Pharmacies de nuit"
-  },
-  {
-   "name": "Pharmacie Semlali",
-   "address": "3 av. AlMoukawama rte Admim cplxe.u.s.m.a.m Ait melloul Ait Melloul Agadir",
-   "phone": "+212 528 24 86 39",
-   "lat": 30.3379283,
-   "lng": -9.5040247,
-   "shift": "nuit",
-   "shift_label": "Pharmacies de nuit"
-  },
-  {
    "name": "Pharmacie du Sommet",
    "address": "422 hay Al Wahda Anza Agadir - Maroc Tamri Tamri Agadir",
    "phone": "+212 528 20 61 61",
@@ -179,7 +161,7 @@
   }
  ],
  "center": [
-  30.3837,
-  -9.5464
+  30.3882,
+  -9.549
  ]
 }

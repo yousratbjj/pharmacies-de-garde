@@ -1,7 +1,7 @@
 {
  "city": "sale",
  "label": "Salé",
- "date": "2026-10-27",
+ "date": "2026-10-28",
  "source": "sahha.ma",
  "source_url": "https://sahha.ma/pharmacie-de-garde/sale",
  "kind": "roster",
@@ -12,24 +12,6 @@
    "phone": "+212537830704",
    "lat": 34.0104256,
    "lng": -6.7332959,
-   "shift": "jour",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie GHRISS",
-   "address": "Angle Rue Bir jdid et Nouasser N°53 (A coté Hamam Cherkaoui)",
-   "phone": "+212537813182",
-   "lat": 34.0273665,
-   "lng": -6.8041537,
-   "shift": "jour",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie JARDINS MAAMOURA",
-   "address": "Résidence jardins maamoura imm 230 magasin 1",
-   "phone": "+212537536274",
-   "lat": 34.044889,
-   "lng": -6.814017,
    "shift": "nuit",
    "shift_label": ""
   },
@@ -39,7 +21,7 @@
    "phone": "+212537829500",
    "lat": 34.027583,
    "lng": -6.764944,
-   "shift": "jour",
+   "shift": "nuit",
    "shift_label": ""
   },
   {
@@ -48,16 +30,7 @@
    "phone": "+212537863825",
    "lat": 34.040806,
    "lng": -6.806389,
-   "shift": "jour",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie ZAHRAOUI",
-   "address": "Projet haddiqa Secteur al qods N 144 LAAYAYDA",
-   "phone": "+212530135079",
-   "lat": 34.044899,
-   "lng": -6.8140202,
-   "shift": "jour",
+   "shift": "nuit",
    "shift_label": ""
   },
   {
@@ -66,16 +39,7 @@
    "phone": "+212537808724",
    "lat": 34.2415416,
    "lng": -6.6547595,
-   "shift": "jour",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie AL KASBA",
-   "address": "طريق البحر أمام سبيطار الحومة سيدي موسى ومارشي سيدي موسى الهاتف. 17 33 78 0537",
-   "phone": "+212537783317",
-   "lat": 34.0564503,
-   "lng": -6.8199818,
-   "shift": "jour",
+   "shift": "nuit",
    "shift_label": ""
   },
   {
@@ -84,12 +48,39 @@
    "phone": "+212537882654",
    "lat": 34.049912,
    "lng": -6.81434,
-   "shift": "jour",
+   "shift": "nuit",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie AZZEDINE",
+   "address": "Route de mahdia résidence annajah 2 immeuble 17 magasin N° 1 Bouchouk",
+   "phone": "+212537849195",
+   "lat": 34.086566,
+   "lng": -6.781806,
+   "shift": "nuit",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie Dahab",
+   "address": "47 bd Six Novembre hay Hourya Tabriquet, Salé",
+   "phone": "+212537851291",
+   "lat": 34.048433,
+   "lng": -6.805617,
+   "shift": "nuit",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie GHRISS",
+   "address": "Angle Rue Bir jdid et Nouasser N°53 (A coté Hamam Cherkaoui)",
+   "phone": "+212537813182",
+   "lat": 34.0273665,
+   "lng": -6.8041537,
+   "shift": "nuit",
    "shift_label": ""
   }
  ],
  "center": [
-  34.0604,
-  -6.7807
+  34.0666,
+  -6.7707
  ]
 }

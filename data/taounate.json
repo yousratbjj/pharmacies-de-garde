@@ -34,71 +34,26 @@
    "shift_label": "Pharmacies de jour"
   },
   {
-   "name": "Pharmacie du Stade",
-   "address": "72 Lotissement Ben Hamza Massy Sefrou Ahermoumou Sefrou",
-   "phone": "+212 535 66 25 72",
-   "lat": 33.827836,
-   "lng": -4.833416,
+   "name": "Pharmacie Imane",
+   "address": "rte El Menzel n°82/1 lotiss. El Hachmia bloc 6 Sefrou Ahermoumou Sefrou",
+   "phone": "+212 532 02 15 50",
+   "lat": 33.8252958,
+   "lng": -4.8181188,
    "shift": "nuit",
    "shift_label": "Pharmacies de nuit"
   },
   {
-   "name": "Pharmacie de Sefrou",
-   "address": "Boulevard Mohammed V Sefrou Bhalil Bhalil Sefrou",
-   "phone": "+212 535 66 02 68",
-   "lat": 33.829034,
-   "lng": -4.840166,
+   "name": "Pharmacie centrale",
+   "address": "1 pl. Bab El Mrabaa Sefrou Bhalil Bhalil Sefrou",
+   "phone": "+212 535 66 04 84",
+   "lat": 33.8280646,
+   "lng": -4.8375041,
    "shift": "nuit",
    "shift_label": "Pharmacies de nuit"
-  },
-  {
-   "name": "Pharmacie Driss",
-   "address": "2 lot. almssala, hay al mssala bab ftouh Fes Ville Nouvelle ville nouvelle Fes",
-   "phone": "+212 532 00 28 00",
-   "lat": 34.050077694167,
-   "lng": -4.9645668995611,
-   "shift": "24h",
-   "shift_label": "Pharmacies 24h/24"
-  },
-  {
-   "name": "Pharmacie Berrada",
-   "address": "n 212 hay mohammadi ain kadous. pres du clinique tajmouaati Fes Moulay Yacoub Moulay Yacoub Fes",
-   "phone": "+212 535 63 10 68",
-   "lat": 34.0590612,
-   "lng": -5.0137243,
-   "shift": "24h",
-   "shift_label": "Pharmacies 24h/24"
-  },
-  {
-   "name": "Pharmacie Ifrane",
-   "address": "route imouzer, bd mohamed el fasi, près de la clinique kaoutar FES Ville Nouvelle ville nouvelle Fes",
-   "phone": "+212 535 60 47 12",
-   "lat": 34.0144862,
-   "lng": -5.0016555,
-   "shift": "24h",
-   "shift_label": "Pharmacies 24h/24"
-  },
-  {
-   "name": "Pharmacie Diamant de Fés",
-   "address": "5 rte Sefrou Fès - Maroc Ain Cheggag Fes",
-   "phone": "+212 664 07 95 93",
-   "lat": 33.994366,
-   "lng": -4.9666884,
-   "shift": "24h",
-   "shift_label": "Pharmacies 24h/24"
-  },
-  {
-   "name": "Pharmacie Central Ain Chkef",
-   "address": "arrondissement ain chkef, lotissement jnane1 Fes Ville Nouvelle ville nouvelle Fes",
-   "phone": "+212 535 69 11 33",
-   "lat": 34.006669,
-   "lng": -5.010188,
-   "shift": "24h",
-   "shift_label": "Pharmacies 24h/24"
   }
  ],
  "center": [
-  33.9255,
-  -4.912
+  33.8253,
+  -4.829
  ]
 }

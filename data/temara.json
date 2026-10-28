@@ -1,29 +1,11 @@
 {
  "city": "temara",
  "label": "Témara",
- "date": "2026-10-27",
+ "date": "2026-10-28",
  "source": "sahha.ma",
  "source_url": "https://sahha.ma/pharmacie-de-garde/temara",
  "kind": "roster",
  "pharmacies": [
-  {
-   "name": "Pharmacie AL MASJID",
-   "address": "N° 276, Secteur 1 Ouled Mtaâ",
-   "phone": "+212663455044",
-   "lat": 33.941539,
-   "lng": -6.897608,
-   "shift": "",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie ERRAHA",
-   "address": "Rue daj guich oudaya Prés du centre dentaire Kobry",
-   "phone": "+212537561393",
-   "lat": 33.9423669,
-   "lng": -6.8862505,
-   "shift": "",
-   "shift_label": ""
-  },
   {
    "name": "Pharmacie FATINE",
    "address": "863 Av Moulay Ali Cherif Hay Al Maghreb Al Arabi Massira 2",
@@ -43,15 +25,6 @@
    "shift_label": ""
   },
   {
-   "name": "Pharmacie NASSIM EL BAHR",
-   "address": "47 Lot II Résidence Roches Blanches II Harhoura",
-   "phone": "+212537744699",
-   "lat": 33.927288,
-   "lng": -6.949803,
-   "shift": "nuit",
-   "shift_label": ""
-  },
-  {
    "name": "Pharmacie Hind",
    "address": "241 rue Othman Ibn Madhoun, Témara",
    "phone": "+212537622291",
@@ -62,7 +35,7 @@
   }
  ],
  "center": [
-  33.9221,
-  -6.9119
+  33.9071,
+  -6.9127
  ]
 }

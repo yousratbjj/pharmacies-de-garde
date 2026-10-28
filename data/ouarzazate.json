@@ -1,23 +1,23 @@
 {
  "city": "ouarzazate",
  "label": "Ouarzazate",
- "date": "2026-10-27",
+ "date": "2026-10-28",
  "source": "sahha.ma",
  "source_url": "https://sahha.ma/pharmacie-de-garde/ouarzazate",
  "kind": "roster",
  "pharmacies": [
   {
-   "name": "Pharmacie Sidi Daoud",
-   "address": "bd Mohammed V lotiss. Tichka",
+   "name": "PHARMACIE SIDI DAOUD",
+   "address": "bd Mohammed V lotiss. Tichka OUARZAZATE Skoura Ouarzazate Maroc",
    "phone": "+212524883380",
-   "lat": 30.9229667,
-   "lng": -6.8969833,
+   "lat": 30.9230924,
+   "lng": -6.8973362,
    "shift": "nuit",
    "shift_label": ""
   }
  ],
  "center": [
-  30.923,
-  -6.897
+  30.9231,
+  -6.8973
  ]
 }

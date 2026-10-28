@@ -97,27 +97,9 @@
    "shift_label": "Pharmacies 24h/24"
   },
   {
-   "name": "Pharmacie Agharass",
-   "address": "Pharmacie Agharass BIOUGRA El Guerdan Agadir",
-   "phone": "+212 528 81 83 18",
-   "lat": 30.2153044,
-   "lng": -9.3637987,
-   "shift": "24h",
-   "shift_label": "Pharmacies 24h/24"
-  },
-  {
    "name": "Pharmacie Jnane Essaada Biougra",
    "address": "Rte Lekhmiss lot Essaada Biougra - Maroc El Guerdan Agadir",
    "phone": "+212 528 81 92 93",
-   "lat": 30.2206575,
-   "lng": -9.3728585,
-   "shift": "24h",
-   "shift_label": "Pharmacies 24h/24"
-  },
-  {
-   "name": "Pharmacie Rebbouh",
-   "address": "Pharmacie Rebbouh BIOUGRA El Guerdan Agadir",
-   "phone": "+212 528 81 05 05",
    "lat": 30.2206575,
    "lng": -9.3728585,
    "shift": "24h",
@@ -176,10 +158,28 @@
    "lng": -9.5554984,
    "shift": "24h",
    "shift_label": "Pharmacies 24h/24"
+  },
+  {
+   "name": "Pharmacie Ibn Zouhr",
+   "address": "229, rue Aglou, cité Essalam Agadir Agadir",
+   "phone": "+212 528 23 54 51",
+   "lat": 30.4024965,
+   "lng": -9.5526994,
+   "shift": "24h",
+   "shift_label": "Pharmacies 24h/24"
+  },
+  {
+   "name": "Pharmacie Ennajd",
+   "address": "bd hassan 1er, 11 bloc g4 cité dakhla, en face sgmb agence dakhla AGADIR Agadir",
+   "phone": "+212 528 22 69 07",
+   "lat": 30.4078932,
+   "lng": -9.5563074,
+   "shift": "24h",
+   "shift_label": "Pharmacies 24h/24"
   }
  ],
  "center": [
-  30.3311,
-  -9.4698
+  30.3508,
+  -9.4894
  ]
 }

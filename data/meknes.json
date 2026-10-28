@@ -1,7 +1,7 @@
 {
  "city": "meknes",
  "label": "Meknès",
- "date": "2026-10-27",
+ "date": "2026-10-28",
  "source": "sahha.ma",
  "source_url": "https://sahha.ma/pharmacie-de-garde/meknes",
  "kind": "roster",
@@ -12,7 +12,7 @@
    "phone": "+212535502972",
    "lat": 33.8844602,
    "lng": -5.5058506,
-   "shift": "24h",
+   "shift": "jour",
    "shift_label": ""
   },
   {
@@ -21,15 +21,15 @@
    "phone": "+212535548815",
    "lat": 33.899133,
    "lng": -5.4804,
-   "shift": "24h",
+   "shift": "jour",
    "shift_label": ""
   },
   {
-   "name": "Pharmacie AlAmane",
+   "name": "PHARMACIE ALAMANE",
    "address": "hay Al Bassatine Sect C rue 6, Meknès",
    "phone": "+212535503087",
-   "lat": 33.894843,
-   "lng": -5.502528,
+   "lat": 33.8949921,
+   "lng": -5.501797,
    "shift": "jour",
    "shift_label": ""
   },
@@ -39,7 +39,7 @@
    "phone": "+212535644273",
    "lat": 33.903717,
    "lng": -5.573917,
-   "shift": "24h",
+   "shift": "jour",
    "shift_label": ""
   },
   {
@@ -48,20 +48,29 @@
    "phone": "+212535403598",
    "lat": 33.8975448,
    "lng": -5.5516694,
-   "shift": "24h",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie Arrahma",
-   "address": "86 lotiss. Riad Ouislane - Autre ville, Meknès",
-   "phone": "+212625094244",
-   "lat": 33.897286,
-   "lng": -5.470842,
    "shift": "jour",
    "shift_label": ""
   },
   {
-   "name": "Pharmacie Assakina 5",
+   "name": "PHARMACIE AL MADINA",
+   "address": "92 lotiss. Al Ouahba Meknès - Maroc",
+   "phone": "+212535549152",
+   "lat": 33.9187809,
+   "lng": -5.4952159,
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
+   "name": "PHARMACIE ARRAHMA",
+   "address": "86 lotiss. Riad Ouislane - Autre ville, Meknès",
+   "phone": "+212625094244",
+   "lat": 33.8971861,
+   "lng": -5.4708502,
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
+   "name": "PHARMACIE ASSAKINA 5",
    "address": "2 hay Toulal - Autre ville imm E mag.20, Meknès",
    "phone": "+212648569943",
    "lat": 33.90162,
@@ -70,35 +79,26 @@
    "shift_label": ""
   },
   {
-   "name": "PHARMACIE BELAIR",
-   "address": "14, Bd Allal El Fassi, Résid. Ibn Sina",
-   "phone": "+212535512807",
-   "lat": 33.9024811,
-   "lng": -5.5320749,
-   "shift": "nuit",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie Belle Vue",
+   "name": "PHARMACIE BELLE VUE",
    "address": "1 X rue Mansour Eddahbi, Meknès",
    "phone": "+212664116149",
-   "lat": 33.90115,
-   "lng": -5.554533,
+   "lat": 33.9015116,
+   "lng": -5.5556718,
    "shift": "jour",
    "shift_label": ""
   },
   {
-   "name": "Pharmacie Ben Moussa",
+   "name": "PHARMACIE BEN MOUSSA",
    "address": "24 derb Ahl Souss hay Sultan Sidi Med Ben Abdellah Bab Kbich, Meknès",
    "phone": "+212535552732",
-   "lat": 33.861562,
-   "lng": -5.551106,
+   "lat": 33.8615619,
+   "lng": -5.5511064,
    "shift": "jour",
    "shift_label": ""
   }
  ],
  "center": [
-  33.8944,
-  -5.532
+  33.8961,
+  -5.5283
  ]
 }

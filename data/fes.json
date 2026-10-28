@@ -1,27 +1,54 @@
 {
  "city": "fes",
  "label": "Fès",
- "date": "2026-10-27",
+ "date": "2026-10-28",
  "source": "sahha.ma",
  "source_url": "https://sahha.ma/pharmacie-de-garde/fes",
  "kind": "roster",
  "pharmacies": [
+  {
+   "name": "Pharmacie Al Boukhari",
+   "address": "n 27 rue youssef ibn tachfine. oued fès",
+   "phone": "+212535754923",
+   "lat": 34.0568427,
+   "lng": -5.0357091,
+   "shift": "nuit",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie Al Firdaous - Ch",
+   "address": "n°4, lotiss. jawahir bensouda",
+   "phone": "+212693877676",
+   "lat": 34.030968,
+   "lng": -5.064736,
+   "shift": "nuit",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie Al Ikhlass",
+   "address": "boulevard koufa n°25. route séfrou. pres municipal saiss",
+   "phone": "+212535617056",
+   "lat": 34.0071786,
+   "lng": -4.9867867,
+   "shift": "nuit",
+   "shift_label": ""
+  },
   {
    "name": "Pharmacie AlIkhlass",
    "address": "25 bd Al Koufa lotiss. Hajar rte Sefrou, Fès",
    "phone": "+212535617056",
    "lat": 34.001039,
    "lng": -4.980393,
-   "shift": "jour",
+   "shift": "nuit",
    "shift_label": ""
   },
   {
    "name": "Pharmacie Bled Tahiriyine",
-   "address": "bled Ben Makhlouf rue 1 n°46, Fès",
+   "address": "bled belmakhlouf n°46 rue1. tahiriyine",
    "phone": "+212535630682",
-   "lat": 34.047571,
-   "lng": -4.956106,
-   "shift": "jour",
+   "lat": 34.0474147,
+   "lng": -4.9585355,
+   "shift": "nuit",
    "shift_label": ""
   },
   {
@@ -30,7 +57,7 @@
    "phone": "+212535754923",
    "lat": 34.056633,
    "lng": -5.035133,
-   "shift": "jour",
+   "shift": "nuit",
    "shift_label": ""
   },
   {
@@ -39,7 +66,7 @@
    "phone": "+212673718378",
    "lat": 34.0407799,
    "lng": -5.0141234,
-   "shift": "jour",
+   "shift": "nuit",
    "shift_label": ""
   },
   {
@@ -48,30 +75,21 @@
    "phone": "+212535640625",
    "lat": 34.01485,
    "lng": -4.9899,
-   "shift": "jour",
+   "shift": "nuit",
    "shift_label": ""
   },
   {
    "name": "Pharmacie Socrate Al Hakim",
-   "address": "95 Lotiss. Karaouyine rte Ain Chkef résid. AlBaraka, Fès",
-   "phone": "+212535601206",
-   "lat": 34.003965,
-   "lng": -5.017335,
-   "shift": "jour",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie Zkak Lahjar",
-   "address": "n°107.zkak lahjar",
-   "phone": "+212535633674",
-   "lat": 34.0635419,
-   "lng": -4.9779571,
-   "shift": "jour",
+   "address": "95. lotissement al baraka. résidence adir. route ain chkef",
+   "phone": "+212634386005",
+   "lat": 34.0039824,
+   "lng": -5.0173506,
+   "shift": "nuit",
    "shift_label": ""
   }
  ],
  "center": [
-  34.0326,
-  -4.9958
+  34.0289,
+  -5.0092
  ]
 }

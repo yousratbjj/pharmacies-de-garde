@@ -1,7 +1,7 @@
 {
  "city": "rabat",
  "label": "Rabat",
- "date": "2026-10-27",
+ "date": "2026-10-28",
  "source": "sahha.ma",
  "source_url": "https://sahha.ma/pharmacie-de-garde/rabat",
  "kind": "roster",
@@ -12,25 +12,7 @@
    "phone": "+212537792986",
    "lat": 33.9668763,
    "lng": -6.9059703,
-   "shift": "jour",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie AMWAJ",
-   "address": "Avenue des FAR N°1350 hay al Manzeh derrière la feray - C.Y.M",
-   "phone": "+212537790220",
-   "lat": 33.9800045,
-   "lng": -6.8914727,
-   "shift": "jour",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie AYA",
-   "address": "Dr. Nawfal LAHLOU Rue El Hachmi el Mestari (Douwar al askar)",
-   "phone": "+212537693388",
-   "lat": 34.016667,
-   "lng": -6.856583,
-   "shift": "jour",
+   "shift": "nuit",
    "shift_label": ""
   },
   {
@@ -39,7 +21,7 @@
    "phone": "+212537680687",
    "lat": 34.008556,
    "lng": -6.851056,
-   "shift": "jour",
+   "shift": "nuit",
    "shift_label": ""
   },
   {
@@ -48,25 +30,7 @@
    "phone": "+212537563638",
    "lat": 33.9502775,
    "lng": -6.8715295,
-   "shift": "jour",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie MARASSA",
-   "address": "Angle Avenue Misr Et Rue Qobross",
-   "phone": "+212537201963",
-   "lat": 34.025056,
-   "lng": -6.841639,
-   "shift": "jour",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie RABI",
-   "address": "Résidence ERRABIA (En Face Collège Talha)",
-   "phone": "+212537656692",
-   "lat": 33.9769904,
-   "lng": -6.8202112,
-   "shift": "jour",
+   "shift": "nuit",
    "shift_label": ""
   },
   {
@@ -75,16 +39,7 @@
    "phone": "+212537720250",
    "lat": 34.017917,
    "lng": -6.829028,
-   "shift": "jour",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie SAYARH",
-   "address": "Yacoub El Mansour, Rabat",
-   "phone": "+212537292876",
-   "lat": 34.0166735,
-   "lng": -6.8567883,
-   "shift": "jour",
+   "shift": "nuit",
    "shift_label": ""
   },
   {
@@ -93,12 +48,48 @@
    "phone": "+212537290673",
    "lat": 33.98625,
    "lng": -6.887722,
-   "shift": "jour",
+   "shift": "nuit",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie AYA",
+   "address": "Dr. Nawfal LAHLOU Rue El Hachmi el Mestari (Douwar al askar)",
+   "phone": "+212537693388",
+   "lat": 34.016667,
+   "lng": -6.856583,
+   "shift": "nuit",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie Ibn Khattab",
+   "address": "32 avenue Omar Ibn Khattab, Rabat",
+   "phone": "+212537775781",
+   "lat": 34.001997,
+   "lng": -6.845713,
+   "shift": "nuit",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie IMANE Ex: BENYAHIA",
+   "address": "457 Av Hassan II Résid Meryem",
+   "phone": "+212537693900",
+   "lat": 34.0060366,
+   "lng": -6.8562332,
+   "shift": "nuit",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie LES COLONNES",
+   "address": "à côté de la clinique Amal-Rajae Derrière le ministère des affaires étrangères et dans la rue de l’ex. ambassade Américaine)",
+   "phone": "+212537660618",
+   "lat": 34.0131792,
+   "lng": -6.8226534,
+   "shift": "nuit",
    "shift_label": ""
   }
  ],
  "center": [
-  33.9945,
-  -6.8612
+  33.9964,
+  -6.8585
  ]
 }

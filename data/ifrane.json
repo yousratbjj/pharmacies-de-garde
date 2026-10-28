@@ -7,62 +7,53 @@
  "kind": "directory",
  "pharmacies": [
   {
-   "name": "Pharmacie Du Maghreb Arabe",
-   "address": "Sidi Allal El Bahraoui Sale",
-   "phone": "+212 537 53 13 10",
-   "lat": 33.9982041,
-   "lng": -6.7337435,
+   "name": "Pharmacie Zahrat Al Jabal",
+   "address": "1 Massay q.i. SEFROU Ahermoumou Sefrou",
+   "phone": "+212 535 96 97 84",
+   "lat": 33.8176654,
+   "lng": -4.8290643,
    "shift": "jour",
    "shift_label": "Pharmacies de jour"
   },
   {
-   "name": "Pharmacie Bassatine El Menzeh",
-   "address": "N°6, bloc 10, Bassatine El Menzeh - El Menzeh Harhoura Harhoura Rabat",
-   "phone": "+212 537 01 19 66",
-   "lat": 33.8571711,
-   "lng": -6.8536304,
+   "name": "Pharmacie Chabbak",
+   "address": "Q. Chabbak 1 , n°117 bis Sefrou Bhalil Bhalil Sefrou",
+   "phone": "+212 535 96 92 07",
+   "lat": 33.829958553312,
+   "lng": -4.8383291077039,
    "shift": "jour",
    "shift_label": "Pharmacies de jour"
   },
   {
-   "name": "Pharmacie AlMaghreb AlArabi",
-   "address": "Pharmacie AlMaghreb AlArabi TEMARA Harhoura Harhoura Temara",
-   "phone": "+212 537 60 07 65",
-   "lat": 34.0196478,
-   "lng": -6.846478,
+   "name": "Pharmacie Khalil",
+   "address": "1218 Zalagh Ben Sefar SEFROU Ahermoumou Sefrou",
+   "phone": "+212 535 66 07 37",
+   "lat": 33.8253851,
+   "lng": -4.8219393,
    "shift": "jour",
    "shift_label": "Pharmacies de jour"
   },
   {
-   "name": "Pharmacie Aya",
-   "address": "dr. nawfal lahlou rue el hachmi el mestari (douwar al askar) Rabat Harhoura Harhoura Rabat",
-   "phone": "+212 537 69 33 88",
-   "lat": 34.0166307,
-   "lng": -6.8569156,
-   "shift": "jour",
-   "shift_label": "Pharmacies de jour"
+   "name": "Pharmacie centrale",
+   "address": "1 pl. Bab El Mrabaa Sefrou Bhalil Bhalil Sefrou",
+   "phone": "+212 535 66 04 84",
+   "lat": 33.8280646,
+   "lng": -4.8375041,
+   "shift": "nuit",
+   "shift_label": "Pharmacies de nuit"
   },
   {
-   "name": "Pharmacie Hay Echabab",
-   "address": "Pharmacie Hay Echabab RABAT Harhoura Harhoura Rabat",
-   "phone": "+212 537 69 29 02",
-   "lat": 33.9957197,
-   "lng": -6.8657472,
-   "shift": "jour",
-   "shift_label": "Pharmacies de jour"
-  },
-  {
-   "name": "La Grande Pharmacie El Fath",
-   "address": "imm 30 terminus des bus a hay el fath la fin du boulevard massirac.y.m - Rabat Harhoura Harhoura Rabat",
-   "phone": "+212 703 01 02 03",
-   "lat": 33.9647906,
-   "lng": -6.9037928,
-   "shift": "jour",
-   "shift_label": "Pharmacies de jour"
+   "name": "Pharmacie Imane",
+   "address": "rte El Menzel n°82/1 lotiss. El Hachmia bloc 6 Sefrou Ahermoumou Sefrou",
+   "phone": "+212 532 02 15 50",
+   "lat": 33.8252958,
+   "lng": -4.8181188,
+   "shift": "nuit",
+   "shift_label": "Pharmacies de nuit"
   }
  ],
  "center": [
-  33.9754,
-  -6.8434
+  33.8253,
+  -4.829
  ]
 }

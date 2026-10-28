@@ -1,20 +1,11 @@
 {
  "city": "khouribga",
  "label": "Khouribga",
- "date": "2026-10-27",
+ "date": "2026-10-28",
  "source": "sahha.ma",
  "source_url": "https://sahha.ma/pharmacie-de-garde/khouribga",
  "kind": "roster",
  "pharmacies": [
-  {
-   "name": "Pharmacie La Victoire",
-   "address": "bd Abderrahim Bouabid hay El Amal lot 197",
-   "phone": "+212523497467",
-   "lat": 32.8907167,
-   "lng": -6.9339861,
-   "shift": "nuit",
-   "shift_label": ""
-  },
   {
    "name": "Pharmacie Tawfiq",
    "address": "251 Ancienne Médina du Séchage",
@@ -26,7 +17,7 @@
   }
  ],
  "center": [
-  32.8858,
-  -6.9151
+  32.8809,
+  -6.8962
  ]
 }

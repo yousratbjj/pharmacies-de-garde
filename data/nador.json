@@ -1,27 +1,18 @@
 {
  "city": "nador",
  "label": "Nador",
- "date": "2026-10-27",
+ "date": "2026-10-28",
  "source": "sahha.ma",
  "source_url": "https://sahha.ma/pharmacie-de-garde/nador",
  "kind": "roster",
  "pharmacies": [
-  {
-   "name": "Pharmacie AlMahatta",
-   "address": "254 av Hassan II",
-   "phone": "+212536604408",
-   "lat": 35.1751,
-   "lng": -2.9223833,
-   "shift": "jour",
-   "shift_label": ""
-  },
   {
    "name": "Pharmacie Arabouz",
    "address": "Rte Joutia ouled Boutayeb sect. A",
    "phone": "+212536330335",
    "lat": 35.1751258,
    "lng": -2.9513337,
-   "shift": "jour",
+   "shift": "nuit",
    "shift_label": ""
   },
   {
@@ -30,7 +21,7 @@
    "phone": "+212536380959",
    "lat": 35.149917,
    "lng": -2.910453,
-   "shift": "jour",
+   "shift": "nuit",
    "shift_label": ""
   },
   {
@@ -39,7 +30,7 @@
    "phone": "+212536352755",
    "lat": 35.1542667,
    "lng": -2.9834833,
-   "shift": "jour",
+   "shift": "nuit",
    "shift_label": ""
   },
   {
@@ -48,7 +39,16 @@
    "phone": "+212536351403",
    "lat": 35.1629745,
    "lng": -2.9757042,
-   "shift": "jour",
+   "shift": "nuit",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie AlMahatta",
+   "address": "254 av Hassan II",
+   "phone": "+212536604408",
+   "lat": 35.1751,
+   "lng": -2.9223833,
+   "shift": "nuit",
    "shift_label": ""
   }
  ],

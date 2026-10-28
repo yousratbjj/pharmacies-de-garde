@@ -34,15 +34,6 @@
    "shift_label": "Pharmacies de jour"
   },
   {
-   "name": "Pharmacie Hay El Hassani",
-   "address": "268 B, Toualat Massira II, entre terminus n° 8 et Lycée Salaheddine Ayoubi Marrakech Kettara Kettara Marrakech",
-   "phone": "+212 524 49 15 53",
-   "lat": 31.6294723,
-   "lng": -7.9810845,
-   "shift": "jour",
-   "shift_label": "Pharmacies de jour"
-  },
-  {
    "name": "Pharmacie Chams Nakhil",
    "address": "Lakhili Arset El Mellakh n°43, Marrakech Sud près du Centre de Santé Annakhil Route de Tallaght Loudaya Loudaya Marrakech",
    "phone": "+212 529 80 50 83",
@@ -104,19 +95,10 @@
    "lng": -8.0051676,
    "shift": "nuit",
    "shift_label": "Pharmacies de nuit"
-  },
-  {
-   "name": "Pharmacie Al Ahbass",
-   "address": "10, Imm. Habouss Bab Doukkala Marrakech Kettara Kettara Marrakech",
-   "phone": "+212 524 43 21 83",
-   "lat": 31.6335452,
-   "lng": -8.0015688,
-   "shift": "nuit",
-   "shift_label": "Pharmacies de nuit"
   }
  ],
  "center": [
-  31.6331,
-  -7.9792
+  31.6334,
+  -7.9767
  ]
 }

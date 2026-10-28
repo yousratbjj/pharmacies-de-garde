@@ -79,24 +79,6 @@
    "shift_label": "Pharmacies de jour"
   },
   {
-   "name": "Pharmacie Derb El Makina",
-   "address": "68 Bis, Souikat Av. Lamcella Derb El Makina (Ex. Derb El Bost) SYBA Marrakech Loudaya Loudaya Marrakech",
-   "phone": "+212 524 40 73 74",
-   "lat": 31.6150685,
-   "lng": -7.967861,
-   "shift": "jour",
-   "shift_label": "Pharmacies de jour"
-  },
-  {
-   "name": "Pharmacie Arrahma",
-   "address": "8, Diour Saboun, à 300 m de Bab Taghzout vers Sakayat (Ch'reb ou Chouf) Marrakech Kettara Kettara Marrakech",
-   "phone": "+212 524 38 30 38",
-   "lat": 31.6342385,
-   "lng": -7.9879963,
-   "shift": "jour",
-   "shift_label": "Pharmacies de jour"
-  },
-  {
    "name": "Pharmacie Masjid Aicha",
    "address": "Marrakech 40000 Kettara Kettara Marrakech",
    "phone": "+212 524 31 10 40",
@@ -176,19 +158,10 @@
    "lng": -8.0201284,
    "shift": "nuit",
    "shift_label": "Pharmacies de nuit"
-  },
-  {
-   "name": "Pharmacie Bassatine Targa",
-   "address": "Espaces Essaada, Op. Bassatine targa, près de l'Etablissement Targa Junior et le nouveau Rond Point de l'Azzouzia à gauche Marrakech Kettara Kettara Marrakech",
-   "phone": "+212 524 35 85 01",
-   "lat": 31.6721291,
-   "lng": -8.0533475,
-   "shift": "nuit",
-   "shift_label": "Pharmacies de nuit"
   }
  ],
  "center": [
-  31.6418,
-  -7.9905
+  31.6421,
+  -7.9883
  ]
 }

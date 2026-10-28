@@ -97,17 +97,17 @@
    "shift_label": "Pharmacies de jour"
   },
   {
-   "name": "Pharmacie Idrissi AlAzhar",
-   "address": "Pharmacie Idrissi AlAzhar BENSLIMANE Ben Slimane Ben Slimane Benslimane",
-   "phone": "+212 523 29 26 21",
-   "lat": 33.615608,
-   "lng": -7.118355,
+   "name": "Pharmacie Chadi",
+   "address": "Pharmacie Chadi BENSLIMANE Ben Slimane Ben Slimane Benslimane",
+   "phone": "+212 523 29 16 50",
+   "lat": 33.6134615,
+   "lng": -7.1204324,
    "shift": "24h",
    "shift_label": "Pharmacies 24h/24"
   }
  ],
  "center": [
-  33.6963,
-  -7.3331
+  33.6961,
+  -7.3333
  ]
 }

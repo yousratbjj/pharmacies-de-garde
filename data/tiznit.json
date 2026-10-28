@@ -1,23 +1,41 @@
 {
  "city": "tiznit",
  "label": "Tiznit",
- "date": "2026-10-27",
+ "date": "2026-10-28",
  "source": "sahha.ma",
  "source_url": "https://sahha.ma/pharmacie-de-garde/tiznit",
  "kind": "roster",
  "pharmacies": [
+  {
+   "name": "Pharmacie Al Bahia",
+   "address": "28 av. Hassan II complexe Al Bahia",
+   "phone": "+212528600070",
+   "lat": 29.6957167,
+   "lng": -9.7321,
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie de l'Hôpital",
+   "address": "750 av. Abdelatif Sbihi",
+   "phone": "+212528863285",
+   "lat": 29.70495,
+   "lng": -9.7421833,
+   "shift": "jour",
+   "shift_label": ""
+  },
   {
    "name": "Pharmacie Nassiri",
    "address": "1 bd. Med V ElYoussoufia Afrag",
    "phone": "+212528600721",
    "lat": 29.6922667,
    "lng": -9.7298333,
-   "shift": "nuit",
+   "shift": "jour",
    "shift_label": ""
   }
  ],
  "center": [
-  29.6923,
-  -9.7298
+  29.6976,
+  -9.7347
  ]
 }
