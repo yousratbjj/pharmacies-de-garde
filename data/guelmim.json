@@ -1,7 +1,7 @@
 {
  "city": "guelmim",
  "label": "Guelmim",
- "date": "2026-10-27",
+ "date": "2026-10-28",
  "source": "sahha.ma",
  "source_url": "https://sahha.ma/pharmacie-de-garde/guelmim",
  "kind": "roster",
@@ -12,7 +12,7 @@
    "phone": "+212808560362",
    "lat": 28.980857,
    "lng": -10.049272,
-   "shift": "",
+   "shift": "jour",
    "shift_label": ""
   },
   {
@@ -21,7 +21,7 @@
    "phone": "+212649941730",
    "lat": 28.991749,
    "lng": -10.066198,
-   "shift": "",
+   "shift": "jour",
    "shift_label": ""
   }
  ],

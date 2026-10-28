@@ -1,23 +1,23 @@
 {
  "city": "zeghanghane",
  "label": "Zeghanghane",
- "date": "2026-10-26",
+ "date": "2026-10-28",
  "source": "sahha.ma",
  "source_url": "https://sahha.ma/pharmacie-de-garde/zeghanghane",
  "kind": "roster",
  "pharmacies": [
   {
-   "name": "Pharmacie Essalam",
-   "address": "313 bd Mohammed V, Zghanghan",
-   "phone": "+212536350190",
-   "lat": 35.153,
-   "lng": -3.005967,
-   "shift": "nuit",
+   "name": "Pharmacie Al Yasmine",
+   "address": "32 rue Al Qods lotiss. Al Yasmine, Zghanghan",
+   "phone": "+212536352020",
+   "lat": 35.15585,
+   "lng": -3.006233,
+   "shift": "jour",
    "shift_label": ""
   }
  ],
  "center": [
-  35.153,
-  -3.006
+  35.1559,
+  -3.0062
  ]
 }
