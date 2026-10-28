@@ -1,23 +1,23 @@
 {
  "city": "tiflet",
  "label": "Tiflet",
- "date": "2026-10-27",
+ "date": "2026-10-28",
  "source": "sahha.ma",
  "source_url": "https://sahha.ma/pharmacie-de-garde/tiflet",
  "kind": "roster",
  "pharmacies": [
   {
-   "name": "Pharmacie Ibn Sina (Avicenne)",
-   "address": "bd Ibn Sina hay Rachad, Tiflet",
-   "phone": "+212537512580",
-   "lat": 33.89977,
-   "lng": -6.32905,
-   "shift": "",
+   "name": "Pharmacie Sadiss",
+   "address": "4 hay El Farah - Autre ville rue Maazis, Tiflet",
+   "phone": "+212657807670",
+   "lat": 33.89443,
+   "lng": -6.31306,
+   "shift": "nuit",
    "shift_label": ""
   }
  ],
  "center": [
-  33.8998,
-  -6.329
+  33.8944,
+  -6.3131
  ]
 }

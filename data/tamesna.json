@@ -1,50 +1,23 @@
 {
  "city": "tamesna",
  "label": "Tamesna",
- "date": "2026-10-26",
+ "date": "2026-10-28",
  "source": "sahha.ma",
  "source_url": "https://sahha.ma/pharmacie-de-garde/tamesna",
  "kind": "roster",
  "pharmacies": [
   {
-   "name": "AL BORAQ",
-   "address": "Les jasmins III, n 63 les jardins de Tamesnaالياسمين ااا رقم 63 حدائق تامسنا",
-   "phone": "",
-   "lat": 33.8388973,
-   "lng": -6.9324059,
-   "shift": "",
-   "shift_label": ""
-  },
-  {
-   "name": "MASJID ANNOUR",
-   "address": "39 Gr6 Résidence Annour 139 مجموعة 6 إقامة النور 1",
-   "phone": "",
-   "lat": 33.8470047,
-   "lng": -6.9359075,
-   "shift": "",
-   "shift_label": ""
-  },
-  {
-   "name": "RIAD 1TAMESNA",
-   "address": "Arsat Tamesna Residence Lilas Magasin N 1عرصة تامسنا إقانة ليلاس محل رقم 1",
+   "name": "OASIS TAMESNA",
+   "address": "AV Mohammed V. Hay Annassim. Résidence Annakhil Mag 5شارع محمد الخامس. حي النسيم. إقامة النخيل محل 5",
    "phone": "",
    "lat": 33.8387902,
    "lng": -6.913033,
-   "shift": "",
-   "shift_label": ""
-  },
-  {
-   "name": "TAMESNA",
-   "address": "Hiba 1, Immeuble 9, N 5هبة، عمارة 9, رقم 5",
-   "phone": "",
-   "lat": 33.8387902,
-   "lng": -6.913033,
-   "shift": "",
+   "shift": "jour",
    "shift_label": ""
   }
  ],
  "center": [
-  33.8409,
-  -6.9236
+  33.8388,
+  -6.913
  ]
 }
