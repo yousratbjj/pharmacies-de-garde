@@ -7,17 +7,17 @@
  "kind": "roster",
  "pharmacies": [
   {
-   "name": "Pharmacie Nabih El Ouadi",
-   "address": "14 rue Ghazouani hay Zaouia Azouzia, Ben Guerir",
-   "phone": "+212524317339",
-   "lat": 32.229519,
-   "lng": -7.955292,
+   "name": "Pharmacie Al Omrane",
+   "address": "3 hay Riad - Autre ville, Ben Guerir",
+   "phone": "+212706336749",
+   "lat": 32.227887,
+   "lng": -7.940979,
    "shift": "nuit",
    "shift_label": ""
   }
  ],
  "center": [
-  32.2295,
-  -7.9553
+  32.2279,
+  -7.941
  ]
 }

@@ -7,89 +7,71 @@
  "kind": "roster",
  "pharmacies": [
   {
-   "name": "Pharmacie Al Boukhari",
-   "address": "n 27 rue youssef ibn tachfine. oued fès",
-   "phone": "+212535754923",
-   "lat": 34.0568427,
-   "lng": -5.0357091,
-   "shift": "nuit",
+   "name": "Pharmacie AlAlia",
+   "address": "25 bd Mohamed El Fassi rte d'Azemour, Fès",
+   "phone": "+212535605388",
+   "lat": 34.01357,
+   "lng": -5.005786,
+   "shift": "jour",
    "shift_label": ""
   },
   {
-   "name": "Pharmacie Al Firdaous - Ch",
-   "address": "n°4, lotiss. jawahir bensouda",
-   "phone": "+212693877676",
-   "lat": 34.030968,
-   "lng": -5.064736,
-   "shift": "nuit",
+   "name": "Pharmacie Arrachad",
+   "address": "hay Griou bloc C n°42, Fès",
+   "phone": "+212535748055",
+   "lat": 34.016689,
+   "lng": -5.027318,
+   "shift": "jour",
    "shift_label": ""
   },
   {
-   "name": "Pharmacie Al Ikhlass",
-   "address": "boulevard koufa n°25. route séfrou. pres municipal saiss",
-   "phone": "+212535617056",
-   "lat": 34.0071786,
-   "lng": -4.9867867,
-   "shift": "nuit",
+   "name": "Pharmacie Faiza",
+   "address": "99 lotiss. Oued Fès, Fès",
+   "phone": "+212535753171",
+   "lat": 34.0569,
+   "lng": -5.03095,
+   "shift": "jour",
    "shift_label": ""
   },
   {
-   "name": "Pharmacie AlIkhlass",
-   "address": "25 bd Al Koufa lotiss. Hajar rte Sefrou, Fès",
-   "phone": "+212535617056",
-   "lat": 34.001039,
-   "lng": -4.980393,
-   "shift": "nuit",
+   "name": "Pharmacie Jawhara",
+   "address": "rte Ain Chkef - Autre ville Aïn Chkef, Fès",
+   "phone": "+212532313990",
+   "lat": 33.966483,
+   "lng": -5.029347,
+   "shift": "jour",
    "shift_label": ""
   },
   {
-   "name": "Pharmacie Bled Tahiriyine",
-   "address": "bled belmakhlouf n°46 rue1. tahiriyine",
-   "phone": "+212535630682",
-   "lat": 34.0474147,
-   "lng": -4.9585355,
-   "shift": "nuit",
+   "name": "Pharmacie Quartier Industriel",
+   "address": "hay Sidi Brahim bloc 18 n°6 Erac, Fès",
+   "phone": "+212535733194",
+   "lat": 34.0224,
+   "lng": -4.971583,
+   "shift": "jour",
    "shift_label": ""
   },
   {
-   "name": "Pharmacie Boukhari",
-   "address": "lotiss. Oued Fès rue 16 n°27, Fès",
-   "phone": "+212535754923",
-   "lat": 34.056633,
-   "lng": -5.035133,
-   "shift": "nuit",
+   "name": "Pharmacie Sidi Boujida",
+   "address": "11 Arsat Bennani, Fès",
+   "phone": "+212535648703",
+   "lat": 34.066933,
+   "lng": -4.966817,
+   "shift": "jour",
    "shift_label": ""
   },
   {
-   "name": "Pharmacie Chifa",
-   "address": "arrondissement ain chkef, douar lbsays",
-   "phone": "+212673718378",
-   "lat": 34.0407799,
-   "lng": -5.0141234,
-   "shift": "nuit",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie Firdaous",
-   "address": "47 rue Manama Mont Fleuri I, Fès",
-   "phone": "+212535640625",
-   "lat": 34.01485,
-   "lng": -4.9899,
-   "shift": "nuit",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie Socrate Al Hakim",
-   "address": "95. lotissement al baraka. résidence adir. route ain chkef",
-   "phone": "+212634386005",
-   "lat": 34.0039824,
-   "lng": -5.0173506,
-   "shift": "nuit",
+   "name": "Pharmacie Mouene",
+   "address": "Pharmacie Mouene",
+   "phone": "+212535711748",
+   "lat": 34.0541634,
+   "lng": -4.9609005,
+   "shift": "jour",
    "shift_label": ""
   }
  ],
  "center": [
-  34.0289,
-  -5.0092
+  34.0282,
+  -4.999
  ]
 }

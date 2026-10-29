@@ -7,17 +7,17 @@
  "kind": "roster",
  "pharmacies": [
   {
-   "name": "Pharmacie Ennour",
-   "address": "hay Essalam secteur Z rue 17 n°53",
-   "phone": "+212539902063",
-   "lat": 34.9961,
-   "lng": -5.9004833,
-   "shift": "nuit",
+   "name": "Pharmacie Abi AlMahassin",
+   "address": "hay ElMassira ElKhadra grp.D rue 10 n°65",
+   "phone": "+212539905555",
+   "lat": 35.0333333,
+   "lng": -5.9118333,
+   "shift": "jour",
    "shift_label": ""
   }
  ],
  "center": [
-  34.9961,
-  -5.9005
+  35.0333,
+  -5.9118
  ]
 }

@@ -7,51 +7,6 @@
  "kind": "roster",
  "pharmacies": [
   {
-   "name": "Pharmacie Benkhirane",
-   "address": "lotiss. benkhirane , c5/48",
-   "phone": "+212536518154",
-   "lat": 34.6565581,
-   "lng": -1.933781,
-   "shift": "nuit",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie Ihyae Chark",
-   "address": "HAY AGDAL II.RTE SIDI YAHYA.",
-   "phone": "+212536542116",
-   "lat": 34.681962,
-   "lng": -1.900155,
-   "shift": "nuit",
-   "shift_label": ""
-  },
-  {
-   "name": "PHARMACIE MOUSSAOUI",
-   "address": "Hay Al Hassani Annour Borj N°3سدرة بوعمود بين مدرسة مصطفى سكيكر ومدرسة إدريس الشرايبي",
-   "phone": "",
-   "lat": 34.7181658,
-   "lng": -1.8976851,
-   "shift": "nuit",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie Nour Marjane Moussaoui",
-   "address": "hay el hassani, nour borj n°3",
-   "phone": "+212536680473",
-   "lat": 34.681962,
-   "lng": -1.900155,
-   "shift": "nuit",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie Palais de Justice",
-   "address": "78, rue Oued Oum Errabia, Lotiss iris",
-   "phone": "+212536532500",
-   "lat": 34.6602483,
-   "lng": -1.9140682,
-   "shift": "nuit",
-   "shift_label": ""
-  },
-  {
    "name": "Assafae",
    "address": "N 10, rue n 226 Hay Toba",
    "phone": "+212536524285",
@@ -98,7 +53,7 @@
   }
  ],
  "center": [
-  34.6793,
-  -1.909
+  34.6788,
+  -1.9089
  ]
 }

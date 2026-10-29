@@ -7,17 +7,17 @@
  "kind": "roster",
  "pharmacies": [
   {
-   "name": "Pharmacie Essalam",
-   "address": "av Houmane ElFetouaki hay Salam, Souk El Arba du Gharb",
-   "phone": "+212537903333",
-   "lat": 34.678505,
-   "lng": -5.995822,
+   "name": "Pharmacie Hay Essalam",
+   "address": "bd Mohamed Zerktouni - Autre ville, Souk El Arba du Gharb",
+   "phone": "+212537901881",
+   "lat": 34.678624,
+   "lng": -5.995578,
    "shift": "nuit",
    "shift_label": ""
   }
  ],
  "center": [
-  34.6785,
-  -5.9958
+  34.6786,
+  -5.9956
  ]
 }

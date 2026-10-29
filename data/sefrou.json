@@ -7,17 +7,26 @@
  "kind": "roster",
  "pharmacies": [
   {
-   "name": "Pharmacie Imane",
-   "address": "rte El Menzel n°82/1 lotiss. El Hachmia bloc 6",
-   "phone": "+212532021550",
-   "lat": 33.82543,
-   "lng": -4.818019,
+   "name": "Pharmacie Bab ElMakam",
+   "address": "4 rue Ibn Tachfine",
+   "phone": "+212535661765",
+   "lat": 33.8314167,
+   "lng": -4.8387667,
+   "shift": "nuit",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie Zghari",
+   "address": "12 x bd Hassan II lot Karim hay Ennasr",
+   "phone": "+212659797970",
+   "lat": 33.820472,
+   "lng": -4.826171,
    "shift": "nuit",
    "shift_label": ""
   }
  ],
  "center": [
-  33.8254,
-  -4.818
+  33.8259,
+  -4.8325
  ]
 }

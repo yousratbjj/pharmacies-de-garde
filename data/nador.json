@@ -7,39 +7,12 @@
  "kind": "roster",
  "pharmacies": [
   {
-   "name": "Pharmacie Arabouz",
-   "address": "Rte Joutia ouled Boutayeb sect. A",
-   "phone": "+212536330335",
-   "lat": 35.1751258,
-   "lng": -2.9513337,
-   "shift": "nuit",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie Dar Al Oloum",
-   "address": "hay Al Matar résid. Al Ikhlass",
-   "phone": "+212536380959",
-   "lat": 35.149917,
-   "lng": -2.910453,
-   "shift": "nuit",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie Jaadar",
-   "address": "Rte de Zghanghan",
-   "phone": "+212536352755",
-   "lat": 35.1542667,
-   "lng": -2.9834833,
-   "shift": "nuit",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie Mariam",
-   "address": "Ihaddaden",
-   "phone": "+212536351403",
-   "lat": 35.1629745,
-   "lng": -2.9757042,
-   "shift": "nuit",
+   "name": "Pharmacie Afra",
+   "address": "96 av Mly. Rachid Jaadar",
+   "phone": "+212536350808",
+   "lat": 35.1785942,
+   "lng": -2.9254366,
+   "shift": "jour",
    "shift_label": ""
   },
   {
@@ -48,12 +21,39 @@
    "phone": "+212536604408",
    "lat": 35.1751,
    "lng": -2.9223833,
-   "shift": "nuit",
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie de la Côte",
+   "address": "26 corniche Nador Marchica",
+   "phone": "+212536603696",
+   "lat": 35.190891,
+   "lng": -2.930362,
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie Hamama",
+   "address": "K050 rte de Zghanghan km 5 Ehaddaden",
+   "phone": "+212536330425",
+   "lat": 35.1619526,
+   "lng": -2.964738,
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie Jinane Al Matar",
+   "address": "34 lotiss. Al Matar",
+   "phone": "+212536630063",
+   "lat": 35.1367304,
+   "lng": -2.9288058,
+   "shift": "jour",
    "shift_label": ""
   }
  ],
  "center": [
-  35.1635,
-  -2.9487
+  35.1687,
+  -2.9343
  ]
 }

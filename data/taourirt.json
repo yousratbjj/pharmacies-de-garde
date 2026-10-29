@@ -7,17 +7,17 @@
  "kind": "roster",
  "pharmacies": [
   {
-   "name": "Pharmacie Ennahda (Renaissance)",
-   "address": "195 rue ElHoceima hay Ennahda",
-   "phone": "+212536698424",
-   "lat": 34.411433,
-   "lng": -2.892654,
+   "name": "Pharmacie 20 Août",
+   "address": "52 lotiss. 20 Août hay Takaddoum",
+   "phone": "+212536679255",
+   "lat": 34.39814,
+   "lng": -2.9032,
    "shift": "nuit",
    "shift_label": ""
   }
  ],
  "center": [
-  34.4114,
-  -2.8927
+  34.3981,
+  -2.9032
  ]
 }

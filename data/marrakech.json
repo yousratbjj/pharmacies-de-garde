@@ -34,7 +34,7 @@
    "shift_label": ""
   },
   {
-   "name": "Pharmacie AL KAWTAR",
+   "name": "Pharmacie Al Kawtar",
    "address": "C9, Lot. Kawtar El Fekhara Nakhil Sud à côté de la Mosquée Al Kawtar, Marrakech AÏN ITTI",
    "phone": "+212524292696",
    "lat": 31.6358539,
@@ -43,7 +43,7 @@
    "shift_label": ""
   },
   {
-   "name": "Pharmacie ASSOUNNA",
+   "name": "Pharmacie Assounna",
    "address": "384, M'hamid C, près du café Al Boughaz en face du collège Tarek Ibn Ziad, Marrakech LAMHAMID",
    "phone": "+212524361622",
    "lat": 31.592383,
@@ -52,11 +52,20 @@
    "shift_label": ""
   },
   {
-   "name": "Pharmacie IBN AL AOUAM",
+   "name": "Pharmacie Chams Nakhil",
+   "address": "Lakhili Arset El Mellakh n°43, Marrakech Sud près du Centre de Santé Annakhil Route de Tallaght, Marrakech NAKHIL SUD",
+   "phone": "+212529805083",
+   "lat": 31.646823,
+   "lng": -7.98212,
+   "shift": "nuit",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie Ibn Al Aouam",
    "address": "Imm. Al Habouss Massira 1 en face Café Salon 33, Marrakech HAY HASSANI",
    "phone": "+212524346546",
-   "lat": 31.6284431,
-   "lng": -8.0590802,
+   "lat": 31.6282,
+   "lng": -8.059083,
    "shift": "nuit",
    "shift_label": ""
   },
@@ -80,7 +89,7 @@
   }
  ],
  "center": [
-  31.638,
-  -8.0252
+  31.6389,
+  -8.0204
  ]
 }

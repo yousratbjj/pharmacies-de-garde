@@ -7,15 +7,6 @@
  "kind": "roster",
  "pharmacies": [
   {
-   "name": "Pharmacie Annakhil",
-   "address": "Pharmacie Annakhil",
-   "phone": "+212523351203",
-   "lat": 33.2436073,
-   "lng": -8.4926079,
-   "shift": "nuit",
-   "shift_label": ""
-  },
-  {
    "name": "Pharmacie Izdihare",
    "address": "hay Ennajd , n°1, Riad Essalam, Res. Izdihare",
    "phone": "+212523392279",
@@ -35,7 +26,7 @@
   }
  ],
  "center": [
-  33.2409,
-  -8.5018
+  33.2396,
+  -8.5063
  ]
 }

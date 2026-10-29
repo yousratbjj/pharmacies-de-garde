@@ -7,26 +7,26 @@
  "kind": "roster",
  "pharmacies": [
   {
-   "name": "Pharmacie Essaada",
-   "address": "hay Essaada n°110 B3, Selouane",
-   "phone": "+212536609214",
-   "lat": 35.06785,
-   "lng": -2.93145,
+   "name": "Pharmacie Al Jamiaa",
+   "address": "lotiss. Al Omrane lot. n°3079, Selouane",
+   "phone": "+212536358625",
+   "lat": 35.064614,
+   "lng": -2.91082,
    "shift": "nuit",
    "shift_label": ""
   },
   {
-   "name": "Pharmacie Selouane",
-   "address": "bd. Mohammed V, Selouane",
-   "phone": "+212536358469",
-   "lat": 35.07085,
-   "lng": -2.94085,
+   "name": "Pharmacie Charki",
+   "address": "220 bd Mohamed V, Selouane",
+   "phone": "+212536358132",
+   "lat": 35.075967,
+   "lng": -2.9388,
    "shift": "nuit",
    "shift_label": ""
   }
  ],
  "center": [
-  35.0694,
-  -2.9362
+  35.0703,
+  -2.9248
  ]
 }

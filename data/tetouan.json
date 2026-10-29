@@ -7,35 +7,44 @@
  "kind": "roster",
  "pharmacies": [
   {
-   "name": "PHARMACIE CHIKRI",
-   "address": "105 av. M'fadel Afailal Tetouan Martil Martil Tétouan Maroc",
-   "phone": "+212539993128",
-   "lat": 35.57135,
-   "lng": -5.36005,
+   "name": "PHARMACIE HÔPITAL DES SPÉCIALITÉS",
+   "address": "14 bd Abdelkhalek Torres Résid Chems Tetouan Martil Martil Tétouan Maroc",
+   "phone": "+212669812415",
+   "lat": 35.5817841,
+   "lng": -5.3335773,
    "shift": "nuit",
    "shift_label": ""
   },
   {
-   "name": "Pharmacie Ghourghiz",
-   "address": "2 bd Neuf Avril résid. Al Fath, Tétouan",
-   "phone": "+212539714215",
-   "lat": 35.562983,
-   "lng": -5.375167,
+   "name": "PHARMACIE JBEL DERSA",
+   "address": "1 rue Al Hizam Al Akhdar Jbel Dersa TETOUAN Martil Martil Tétouan Maroc",
+   "phone": "+212539702310",
+   "lat": 35.576683,
+   "lng": -5.373533,
    "shift": "nuit",
    "shift_label": ""
   },
   {
-   "name": "Pharmacie Omar Ibn Abdelaziz",
-   "address": "218 av Haj Mohamed Benouna, Tétouan",
-   "phone": "+212539993715",
-   "lat": 35.589617,
-   "lng": -5.3549,
+   "name": "Pharmacie Laamrani",
+   "address": "bd Slimane Ben Mahran rte Tanger, Tétouan",
+   "phone": "+212539969058",
+   "lat": 35.562134,
+   "lng": -5.54641,
+   "shift": "nuit",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie Palestine",
+   "address": "25 av. des F.a.r., Tétouan",
+   "phone": "+212539973845",
+   "lat": 35.578733,
+   "lng": -5.3561,
    "shift": "nuit",
    "shift_label": ""
   }
  ],
  "center": [
-  35.5746,
-  -5.3634
+  35.5748,
+  -5.4024
  ]
 }

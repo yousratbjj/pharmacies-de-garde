@@ -7,6 +7,33 @@
  "kind": "roster",
  "pharmacies": [
   {
+   "name": "La Grande Pharmacie Jorf",
+   "address": "50 entrée arrondissement Jorf",
+   "phone": "+212528833064",
+   "lat": 30.3511833,
+   "lng": -9.5386,
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie Amlal",
+   "address": "Lot. Rmel E imm.33 n°7 Tarrast",
+   "phone": "+212528334181",
+   "lat": 30.211933,
+   "lng": -9.552375,
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie Assaïs",
+   "address": "12 rue Chtouka place Assaïs",
+   "phone": "+212528333683",
+   "lat": 30.3554667,
+   "lng": -9.5351667,
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
    "name": "Pharmacie Hagounia",
    "address": "1 av Mokhtar Essoussi",
    "phone": "+212528832161",
@@ -17,7 +44,7 @@
   }
  ],
  "center": [
-  30.3601,
-  -9.5281
+  30.3197,
+  -9.5386
  ]
 }

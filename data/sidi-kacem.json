@@ -7,17 +7,17 @@
  "kind": "roster",
  "pharmacies": [
   {
-   "name": "Pharmacie Ibn Rochd",
-   "address": "Cité Nouvelle rue 21 n°3",
-   "phone": "+212672307537",
-   "lat": 34.224398,
-   "lng": -5.706088,
+   "name": "Pharmacie Al Houda",
+   "address": "route de Tanger lot. n°241/2",
+   "phone": "+212668713111",
+   "lat": 34.234807,
+   "lng": -5.714905,
    "shift": "nuit",
    "shift_label": ""
   }
  ],
  "center": [
-  34.2244,
-  -5.7061
+  34.2348,
+  -5.7149
  ]
 }

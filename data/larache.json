@@ -7,17 +7,17 @@
  "kind": "roster",
  "pharmacies": [
   {
-   "name": "Pharmacie Salama",
-   "address": "161 bd Oqba Ibn Nafie",
-   "phone": "+212539915786",
-   "lat": 35.1841667,
-   "lng": -6.1502667,
-   "shift": "nuit",
+   "name": "Pharmacie Al Ghofran",
+   "address": "1205 Lotiss. Maghrib El Jadid",
+   "phone": "+212539523732",
+   "lat": 35.1671376,
+   "lng": -6.1387508,
+   "shift": "jour",
    "shift_label": ""
   }
  ],
  "center": [
-  35.1842,
-  -6.1503
+  35.1671,
+  -6.1388
  ]
 }

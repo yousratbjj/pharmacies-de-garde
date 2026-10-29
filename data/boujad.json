@@ -7,17 +7,17 @@
  "kind": "roster",
  "pharmacies": [
   {
-   "name": "Pharmacie Hamdi",
-   "address": "97 av. ElMoujahidine, Boujad",
-   "phone": "+212523412472",
-   "lat": 32.776025,
-   "lng": -6.389589,
-   "shift": "nuit",
+   "name": "Pharmacie Nahda",
+   "address": "51 hay Nahda - Autre ville NA 3, Boujad",
+   "phone": "+212523414823",
+   "lat": 32.785351,
+   "lng": -6.389207,
+   "shift": "jour",
    "shift_label": ""
   }
  ],
  "center": [
-  32.776,
-  -6.3896
+  32.7854,
+  -6.3892
  ]
 }

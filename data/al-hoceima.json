@@ -7,17 +7,17 @@
  "kind": "roster",
  "pharmacies": [
   {
-   "name": "Pharmacie Granada",
-   "address": "12 av. Madagascar, Al Hoceima",
-   "phone": "+212539840204",
-   "lat": 35.243617,
-   "lng": -3.930517,
-   "shift": "nuit",
+   "name": "Pharmacie Al Manzah",
+   "address": "20 rue Med Hassan El Ouazzani, Al Hoceima",
+   "phone": "+212539840282",
+   "lat": 35.2449,
+   "lng": -3.917067,
+   "shift": "jour",
    "shift_label": ""
   }
  ],
  "center": [
-  35.2436,
-  -3.9305
+  35.2449,
+  -3.9171
  ]
 }

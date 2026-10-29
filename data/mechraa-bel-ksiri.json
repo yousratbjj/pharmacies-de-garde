@@ -7,17 +7,17 @@
  "kind": "roster",
  "pharmacies": [
   {
-   "name": "Pharmacie Khadir",
-   "address": "bd Mohammed V route Souk Larbaa, Mechraa Bel Ksiri",
-   "phone": "+212537438142",
-   "lat": 34.57773,
-   "lng": -5.954773,
-   "shift": "nuit",
+   "name": "Pharmacie AlMostafa",
+   "address": "bd Tarik Bnou Ziad - Autre ville diour Jdad, Mechraa Bel Ksiri",
+   "phone": "+212537906094",
+   "lat": 34.57129,
+   "lng": -5.96252,
+   "shift": "jour",
    "shift_label": ""
   }
  ],
  "center": [
-  34.5777,
-  -5.9548
+  34.5713,
+  -5.9625
  ]
 }

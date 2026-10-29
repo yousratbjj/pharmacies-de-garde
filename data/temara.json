@@ -7,20 +7,56 @@
  "kind": "roster",
  "pharmacies": [
   {
+   "name": "Pharmacie AL MASJID",
+   "address": "N° 276, Secteur 1 Ouled Mtaâ",
+   "phone": "+212663455044",
+   "lat": 33.941539,
+   "lng": -6.897608,
+   "shift": "",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie ANNAOURASSE",
+   "address": "Lotissement Al Hachimia II, N°226",
+   "phone": "+212537642975",
+   "lat": 33.9038688,
+   "lng": -6.9321027,
+   "shift": "nuit",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie ERRAHA",
+   "address": "Rue daj guich oudaya Prés du centre dentaire Kobry",
+   "phone": "+212537561393",
+   "lat": 33.9423669,
+   "lng": -6.8862505,
+   "shift": "",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie LEILA",
+   "address": "168 Hay Al Firdaous Massira 1 Temara Proche De La Poste",
+   "phone": "+212537608606",
+   "lat": 33.925716,
+   "lng": -6.899048,
+   "shift": "nuit",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie LES ROCHES BLANCHES",
+   "address": "Av Moulay Abdellah, Temara plage (Casino)",
+   "phone": "+212537744707",
+   "lat": 33.930614,
+   "lng": -6.950888,
+   "shift": "nuit",
+   "shift_label": ""
+  },
+  {
    "name": "Pharmacie FATINE",
    "address": "863 Av Moulay Ali Cherif Hay Al Maghreb Al Arabi Massira 2",
    "phone": "+212537602705",
    "lat": 33.9242554,
    "lng": -6.8921914,
-   "shift": "nuit",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie JNANE EL FOUARATE",
-   "address": "Alintissar N49, El Fouarate",
-   "phone": "+212530463424",
-   "lat": 33.901083,
-   "lng": -6.910194,
    "shift": "nuit",
    "shift_label": ""
   },
@@ -32,10 +68,19 @@
    "lng": -6.935582,
    "shift": "nuit",
    "shift_label": ""
+  },
+  {
+   "name": "Pharmacie JNANE EL FOUARATE",
+   "address": "Alintissar N49, El Fouarate",
+   "phone": "+212530463424",
+   "lat": 33.901083,
+   "lng": -6.910194,
+   "shift": "nuit",
+   "shift_label": ""
   }
  ],
  "center": [
-  33.9071,
-  -6.9127
+  33.9207,
+  -6.913
  ]
 }

@@ -12,16 +12,7 @@
    "phone": "+212535502972",
    "lat": 33.8844602,
    "lng": -5.5058506,
-   "shift": "jour",
-   "shift_label": ""
-  },
-  {
-   "name": "PHARMACIE ALADIN",
-   "address": "14 rte de Fès Laktarat Ouislane, Meknès",
-   "phone": "+212535548815",
-   "lat": 33.899133,
-   "lng": -5.4804,
-   "shift": "jour",
+   "shift": "24h",
    "shift_label": ""
   },
   {
@@ -30,7 +21,7 @@
    "phone": "+212535503087",
    "lat": 33.8949921,
    "lng": -5.501797,
-   "shift": "jour",
+   "shift": "24h",
    "shift_label": ""
   },
   {
@@ -39,7 +30,7 @@
    "phone": "+212535644273",
    "lat": 33.903717,
    "lng": -5.573917,
-   "shift": "jour",
+   "shift": "24h",
    "shift_label": ""
   },
   {
@@ -48,7 +39,7 @@
    "phone": "+212535403598",
    "lat": 33.8975448,
    "lng": -5.5516694,
-   "shift": "jour",
+   "shift": "24h",
    "shift_label": ""
   },
   {
@@ -57,7 +48,7 @@
    "phone": "+212535549152",
    "lat": 33.9187809,
    "lng": -5.4952159,
-   "shift": "jour",
+   "shift": "24h",
    "shift_label": ""
   },
   {
@@ -66,6 +57,15 @@
    "phone": "+212625094244",
    "lat": 33.8971861,
    "lng": -5.4708502,
+   "shift": "24h",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie Arz de l’Atlas",
+   "address": "12 rue Taza - Autre ville, Meknès",
+   "phone": "+212535548090",
+   "lat": 33.920816,
+   "lng": -5.488178,
    "shift": "jour",
    "shift_label": ""
   },
@@ -75,7 +75,7 @@
    "phone": "+212648569943",
    "lat": 33.90162,
    "lng": -5.596821,
-   "shift": "jour",
+   "shift": "24h",
    "shift_label": ""
   },
   {
@@ -84,7 +84,7 @@
    "phone": "+212664116149",
    "lat": 33.9015116,
    "lng": -5.5556718,
-   "shift": "jour",
+   "shift": "24h",
    "shift_label": ""
   },
   {
@@ -93,12 +93,12 @@
    "phone": "+212535552732",
    "lat": 33.8615619,
    "lng": -5.5511064,
-   "shift": "jour",
+   "shift": "24h",
    "shift_label": ""
   }
  ],
  "center": [
-  33.8961,
-  -5.5283
+  33.8982,
+  -5.5291
  ]
 }

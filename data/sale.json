@@ -7,80 +7,71 @@
  "kind": "roster",
  "pharmacies": [
   {
-   "name": "Pharmacie AL AQSA",
-   "address": "Mag 20, Imm 14, Résidence Maamora 2 Sala Al Jadida",
-   "phone": "+212537830704",
-   "lat": 34.0104256,
-   "lng": -6.7332959,
+   "name": "Pharmacie AL WASSAT",
+   "address": "N°1 Rue Tifelt Avenue Hassan II",
+   "phone": "+212530310030",
+   "lat": 34.035056,
+   "lng": -6.808528,
    "shift": "nuit",
    "shift_label": ""
   },
   {
-   "name": "Pharmacie LES JUMELLES Ex: Village",
-   "address": "55, Avenue Hassan 2",
-   "phone": "+212537829500",
-   "lat": 34.027583,
-   "lng": -6.764944,
+   "name": "Pharmacie ANWAL",
+   "address": "N 11 Rue Goulmime Avenue Base Aérienne Secteur Majd Laayayda",
+   "phone": "+212537875750",
+   "lat": 34.044899,
+   "lng": -6.8140202,
    "shift": "nuit",
    "shift_label": ""
   },
   {
-   "name": "Pharmacie NOUVELLE Medic",
-   "address": "56 Bd Lalla Asmaa Tabriquet",
-   "phone": "+212537863825",
-   "lat": 34.040806,
-   "lng": -6.806389,
+   "name": "Pharmacie DU PLATEAU",
+   "address": "6, Avenue Sakia Al Hamra",
+   "phone": "+212537781317",
+   "lat": 34.030639,
+   "lng": -6.809444,
    "shift": "nuit",
    "shift_label": ""
   },
   {
-   "name": "PHARMACIE AL A 039 ARAF",
-   "address": "avenue atlas al kabir 26, rue al fadl hay chafaa",
-   "phone": "+212537808724",
-   "lat": 34.2415416,
-   "lng": -6.6547595,
+   "name": "Pharmacie SAFIR",
+   "address": "Sect 12 N°1584 Av Imam Malik et Av Med Alaoui",
+   "phone": "+212537802846",
+   "lat": 34.040758,
+   "lng": -6.7843789,
    "shift": "nuit",
    "shift_label": ""
   },
   {
-   "name": "Pharmacie Arcades",
-   "address": "37 lotiss. Alami rte Kénitra Sidi Moussa, Salé",
-   "phone": "+212537882654",
-   "lat": 34.049912,
-   "lng": -6.81434,
+   "name": "Pharmacie SHEMS",
+   "address": "Avenue Zarbia, N°4 Hssain",
+   "phone": "+212537835289",
+   "lat": 34.2530477,
+   "lng": -6.6194913,
    "shift": "nuit",
    "shift_label": ""
   },
   {
-   "name": "Pharmacie AZZEDINE",
-   "address": "Route de mahdia résidence annajah 2 immeuble 17 magasin N° 1 Bouchouk",
-   "phone": "+212537849195",
-   "lat": 34.086566,
-   "lng": -6.781806,
+   "name": "Pharmacie SUPER ARRAHMA",
+   "address": "Bd Mohammed V Rési Adouiby N° 1 Sect A",
+   "phone": "+212537874895",
+   "lat": 34.044899,
+   "lng": -6.8140202,
    "shift": "nuit",
    "shift_label": ""
   },
   {
-   "name": "Pharmacie Dahab",
-   "address": "47 bd Six Novembre hay Hourya Tabriquet, Salé",
-   "phone": "+212537851291",
-   "lat": 34.048433,
-   "lng": -6.805617,
-   "shift": "nuit",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie GHRISS",
-   "address": "Angle Rue Bir jdid et Nouasser N°53 (A coté Hamam Cherkaoui)",
-   "phone": "+212537813182",
-   "lat": 34.0273665,
-   "lng": -6.8041537,
+   "name": "Pharmacie TAIBA",
+   "address": "Lotissement des villas, Mosquée Taiba, 85 Sala Al Jadida",
+   "phone": "+212537817368",
+   "lat": 34.0025,
+   "lng": -6.721833,
    "shift": "nuit",
    "shift_label": ""
   }
  ],
  "center": [
-  34.0666,
-  -6.7707
+  34.0645,
+  -6.7674
  ]
 }

@@ -7,17 +7,17 @@
  "kind": "roster",
  "pharmacies": [
   {
-   "name": "PHARMACIE SIDI DAOUD",
-   "address": "bd Mohammed V lotiss. Tichka OUARZAZATE Skoura Ouarzazate Maroc",
+   "name": "Pharmacie Sidi Daoud",
+   "address": "bd Mohammed V lotiss. Tichka",
    "phone": "+212524883380",
-   "lat": 30.9230924,
-   "lng": -6.8973362,
+   "lat": 30.9229667,
+   "lng": -6.8969833,
    "shift": "nuit",
    "shift_label": ""
   }
  ],
  "center": [
-  30.9231,
-  -6.8973
+  30.923,
+  -6.897
  ]
 }

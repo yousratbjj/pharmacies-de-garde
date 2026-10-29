@@ -7,20 +7,29 @@
  "kind": "roster",
  "pharmacies": [
   {
-   "name": "Pharmacie Arredwan",
-   "address": "z.i Bir Rami grpe Jennane 2 n°1842",
-   "phone": "+212537368603",
-   "lat": 34.224062,
-   "lng": -6.62684,
+   "name": "Pharmacie Bassine",
+   "address": "995 hay Bir Rami Est Jnane 2, Kénitra",
+   "phone": "+212691820889",
+   "lat": 34.218565,
+   "lng": -6.625338,
    "shift": "jour",
    "shift_label": ""
   },
   {
-   "name": "Pharmacie Balsam",
-   "address": "hay ARRAJAA Fi Allah rue 57 n°2975 Saknia",
-   "phone": "+212537391713",
-   "lat": 34.2517737,
-   "lng": -6.5547514,
+   "name": "Pharmacie Bismillah",
+   "address": "77 lotiss. Chaâbi Atlas 2, Kénitra",
+   "phone": "+212537383576",
+   "lat": 34.273941,
+   "lng": -6.597034,
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie MEHDIA",
+   "address": "شارع مولاي إسماعيل على بعد 300م من قصر مولاي إسماعيل قرب المدرسة الإبتدائية أحمد عثمان بن دلة الإدريسي الهاتف. 74 82 33 0537",
+   "phone": "+212537338274",
+   "lat": 34.257394,
+   "lng": -6.590154,
    "shift": "jour",
    "shift_label": ""
   },
@@ -30,12 +39,21 @@
    "phone": "+212537328632",
    "lat": 34.265064,
    "lng": -6.6474624,
-   "shift": "nuit",
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie SIHAM ALLIANCE",
+   "address": "اليانس دارنا الشطر 2 وراء المركز التجاري (مهدية مول) ي عند نهاية الطريق الؤدي من الملعب البلدي الجديد إلى مكتب البيع للإقامات الجديدة شرقاوي الهاتف. 01 73 31 0537",
+   "phone": "+212537317301",
+   "lat": 34.2440841,
+   "lng": -6.6640968,
+   "shift": "jour",
    "shift_label": ""
   }
  ],
  "center": [
-  34.247,
-  -6.6097
+  34.2518,
+  -6.6248
  ]
 }

@@ -12,7 +12,7 @@
    "phone": "+212522602324",
    "lat": 33.6193056,
    "lng": -7.4935046,
-   "shift": "nuit",
+   "shift": "jour",
    "shift_label": ""
   },
   {
@@ -21,7 +21,7 @@
    "phone": "+212522709079",
    "lat": 33.5852927,
    "lng": -7.5206458,
-   "shift": "nuit",
+   "shift": "jour",
    "shift_label": ""
   },
   {
@@ -30,7 +30,7 @@
    "phone": "+212522248181",
    "lat": 33.5998209,
    "lng": -7.5777588,
-   "shift": "nuit",
+   "shift": "jour",
    "shift_label": ""
   },
   {
@@ -39,7 +39,7 @@
    "phone": "+212522371737",
    "lat": 33.5586,
    "lng": -7.55609,
-   "shift": "nuit",
+   "shift": "jour",
    "shift_label": ""
   },
   {
@@ -48,7 +48,16 @@
    "phone": "+212522289090",
    "lat": 33.552497,
    "lng": -7.590131,
-   "shift": "nuit",
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie Fleming",
+   "address": "275, Route de la Mecque, Quartier Californie",
+   "phone": "+212522522989",
+   "lat": 33.5512,
+   "lng": -7.63223,
+   "shift": "jour",
    "shift_label": ""
   },
   {
@@ -57,7 +66,7 @@
    "phone": "+212522990284",
    "lat": 33.5552277,
    "lng": -7.6316208,
-   "shift": "nuit",
+   "shift": "jour",
    "shift_label": ""
   },
   {
@@ -66,7 +75,7 @@
    "phone": "+212522900529",
    "lat": 33.5635194,
    "lng": -7.6744739,
-   "shift": "nuit",
+   "shift": "jour",
    "shift_label": ""
   },
   {
@@ -75,7 +84,7 @@
    "phone": "+212522321931",
    "lat": 33.5231593,
    "lng": -7.6448043,
-   "shift": "nuit",
+   "shift": "jour",
    "shift_label": ""
   },
   {
@@ -84,12 +93,12 @@
    "phone": "+212522895435",
    "lat": 33.5746133,
    "lng": -7.6764487,
-   "shift": "nuit",
+   "shift": "jour",
    "shift_label": ""
   }
  ],
  "center": [
-  33.5702,
-  -7.5962
+  33.5683,
+  -7.5998
  ]
 }
