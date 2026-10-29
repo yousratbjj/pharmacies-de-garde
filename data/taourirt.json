@@ -1,23 +1,23 @@
 {
  "city": "taourirt",
  "label": "Taourirt",
- "date": "2026-10-28",
+ "date": "2026-10-29",
  "source": "sahha.ma",
  "source_url": "https://sahha.ma/pharmacie-de-garde/taourirt",
  "kind": "roster",
  "pharmacies": [
   {
-   "name": "Pharmacie 20 Août",
-   "address": "52 lotiss. 20 Août hay Takaddoum",
-   "phone": "+212536679255",
-   "lat": 34.39814,
-   "lng": -2.9032,
-   "shift": "nuit",
+   "name": "Pharmacie El Malhi",
+   "address": "987 rue El Mangoub hay Takaddoum",
+   "phone": "+212536694610",
+   "lat": 34.3988673,
+   "lng": -2.9058624,
+   "shift": "jour",
    "shift_label": ""
   }
  ],
  "center": [
-  34.3981,
-  -2.9032
+  34.3989,
+  -2.9059
  ]
 }

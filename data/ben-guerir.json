@@ -1,23 +1,32 @@
 {
  "city": "ben-guerir",
  "label": "Ben Guérir",
- "date": "2026-10-28",
+ "date": "2026-10-29",
  "source": "sahha.ma",
  "source_url": "https://sahha.ma/pharmacie-de-garde/ben-guerir",
  "kind": "roster",
  "pharmacies": [
   {
-   "name": "Pharmacie Al Omrane",
-   "address": "3 hay Riad - Autre ville, Ben Guerir",
-   "phone": "+212706336749",
-   "lat": 32.227887,
-   "lng": -7.940979,
-   "shift": "nuit",
+   "name": "Pharmacie la Poste",
+   "address": "2 bd Complexe Commercial, Ben Guerir",
+   "phone": "+212524317053",
+   "lat": 32.2444,
+   "lng": -7.956833,
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie Medeci",
+   "address": "hay Moulay Rachid - Autre ville sect.05 n° 141, Ben Guerir",
+   "phone": "+212669624782",
+   "lat": 32.21355,
+   "lng": -7.92432,
+   "shift": "jour",
    "shift_label": ""
   }
  ],
  "center": [
-  32.2279,
-  -7.941
+  32.229,
+  -7.9406
  ]
 }

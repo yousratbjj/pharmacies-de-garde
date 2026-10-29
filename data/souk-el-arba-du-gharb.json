@@ -1,23 +1,23 @@
 {
  "city": "souk-el-arba-du-gharb",
  "label": "Souk El Arba du Gharb",
- "date": "2026-10-28",
+ "date": "2026-10-29",
  "source": "sahha.ma",
  "source_url": "https://sahha.ma/pharmacie-de-garde/souk-el-arba-du-gharb",
  "kind": "roster",
  "pharmacies": [
   {
-   "name": "Pharmacie Hay Essalam",
-   "address": "bd Mohamed Zerktouni - Autre ville, Souk El Arba du Gharb",
-   "phone": "+212537901881",
-   "lat": 34.678624,
-   "lng": -5.995578,
-   "shift": "nuit",
+   "name": "Pharmacie Hind",
+   "address": "1114 hay Hind rue Abdelmajid Benchekroune, Souk El Arba du Gharb",
+   "phone": "+212537901600",
+   "lat": 34.681571,
+   "lng": -5.990255,
+   "shift": "jour",
    "shift_label": ""
   }
  ],
  "center": [
-  34.6786,
-  -5.9956
+  34.6816,
+  -5.9903
  ]
 }

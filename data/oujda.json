@@ -1,7 +1,7 @@
 {
  "city": "oujda",
  "label": "Oujda",
- "date": "2026-10-28",
+ "date": "2026-10-29",
  "source": "sahha.ma",
  "source_url": "https://sahha.ma/pharmacie-de-garde/oujda",
  "kind": "roster",
@@ -12,7 +12,7 @@
    "phone": "+212536524285",
    "lat": 34.7032127,
    "lng": -1.9213703,
-   "shift": "nuit",
+   "shift": "jour",
    "shift_label": ""
   },
   {
@@ -21,7 +21,7 @@
    "phone": "+212536500620",
    "lat": 34.657783,
    "lng": -1.895867,
-   "shift": "nuit",
+   "shift": "jour",
    "shift_label": ""
   },
   {
@@ -30,7 +30,7 @@
    "phone": "+212536510673",
    "lat": 34.6756167,
    "lng": -1.9382333,
-   "shift": "nuit",
+   "shift": "jour",
    "shift_label": ""
   },
   {
@@ -39,7 +39,7 @@
    "phone": "+212536712122",
    "lat": 34.6791979,
    "lng": -1.9134852,
-   "shift": "nuit",
+   "shift": "jour",
    "shift_label": ""
   },
   {
@@ -48,12 +48,57 @@
    "phone": "+212536747552",
    "lat": 34.6780661,
    "lng": -1.8752953,
-   "shift": "nuit",
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
+   "name": "LES 3 FONTAINES",
+   "address": "15, bd Ferrane Ouled Aissaرقم 15 شارع فران ولاد عيسى",
+   "phone": "+212 536712122",
+   "lat": 34.6792032,
+   "lng": -1.9135081,
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie Benkhirane",
+   "address": "Lot Benkhirane C5 /48",
+   "phone": "+212536518154",
+   "lat": 34.656715,
+   "lng": -1.9337498,
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie Ihyae Chark",
+   "address": "lot Ihyae Chark Hay Agdal [+]حي أغدال2 طريق سيدي يحيى",
+   "phone": "+212536542116",
+   "lat": 34.681962,
+   "lng": -1.900155,
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie Moderne",
+   "address": "35, Rue De Marrakech",
+   "phone": "+212536682871",
+   "lat": 34.6817881,
+   "lng": -1.9119321,
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
+   "name": "PHARMACIE MOUSSAOUI",
+   "address": "Hay Al Hassani Annour Borj N°3سدرة بوعمود بين مدرسة مصطفى سكيكر ومدرسة إدريس الشرايبي",
+   "phone": "",
+   "lat": 34.7181658,
+   "lng": -1.8976851,
+   "shift": "jour",
    "shift_label": ""
   }
  ],
  "center": [
-  34.6788,
-  -1.9089
+  34.6812,
+  -1.9101
  ]
 }

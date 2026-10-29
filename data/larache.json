@@ -1,23 +1,23 @@
 {
  "city": "larache",
  "label": "Larache",
- "date": "2026-10-28",
+ "date": "2026-10-29",
  "source": "sahha.ma",
  "source_url": "https://sahha.ma/pharmacie-de-garde/larache",
  "kind": "roster",
  "pharmacies": [
   {
-   "name": "Pharmacie Al Ghofran",
-   "address": "1205 Lotiss. Maghrib El Jadid",
-   "phone": "+212539523732",
-   "lat": 35.1671376,
-   "lng": -6.1387508,
+   "name": "Pharmacie Ibn Sina",
+   "address": "299 lot. AlWafae",
+   "phone": "+212539500404",
+   "lat": 35.1752167,
+   "lng": -6.15275,
    "shift": "jour",
    "shift_label": ""
   }
  ],
  "center": [
-  35.1671,
-  -6.1388
+  35.1752,
+  -6.1528
  ]
 }

@@ -1,7 +1,7 @@
 {
  "city": "safi",
  "label": "Safi",
- "date": "2026-10-28",
+ "date": "2026-10-29",
  "source": "sahha.ma",
  "source_url": "https://sahha.ma/pharmacie-de-garde/safi",
  "kind": "roster",
@@ -12,16 +12,43 @@
    "phone": "+212524666266",
    "lat": 32.3050675,
    "lng": -9.23368,
-   "shift": "nuit",
+   "shift": "jour",
    "shift_label": ""
   },
   {
    "name": "Pharmacie Al Wiam",
-   "address": "Al Wiam II , Lot 58 Rue 1 Azib Derai",
+   "address": "Al Wiam II lot 58 rue 1 Azib Derai",
    "phone": "+212524621130",
-   "lat": 32.2870983,
-   "lng": -9.2157686,
-   "shift": "nuit",
+   "lat": 32.287107,
+   "lng": -9.215736,
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie Hadmi",
+   "address": "1 lotiss. Bouzoubâa q. Plateau",
+   "phone": "+212524611066",
+   "lat": 32.2953,
+   "lng": -9.2321,
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie Mirabelle",
+   "address": "hay Anas rue 38 n°9",
+   "phone": "+212524611610",
+   "lat": 32.2857361,
+   "lng": -9.2390131,
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie Mouatassim",
+   "address": "Rte diour Si Abbas douar deriouchat Safi",
+   "phone": "+212600337586",
+   "lat": 32.256681,
+   "lng": -9.242866,
+   "shift": "jour",
    "shift_label": ""
   },
   {
@@ -30,12 +57,39 @@
    "phone": "+212524651551",
    "lat": 32.2718318,
    "lng": -9.2305076,
-   "shift": "nuit",
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie Ezzaouia",
+   "address": "10, rue Caïd Sidi Ouassel",
+   "phone": "+212524651801",
+   "lat": 32.26655,
+   "lng": -9.24635,
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie Laarissa",
+   "address": "Quartier Laarissa , rue 22 n°15 Safi",
+   "phone": "+212524650367",
+   "lat": 32.2644295,
+   "lng": -9.23983,
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie la Marine",
+   "address": "83, Bd Chakib Arssalane , Oued Elbacha",
+   "phone": "+212524630608",
+   "lat": 32.3072904,
+   "lng": -9.2378754,
+   "shift": "jour",
    "shift_label": ""
   }
  ],
  "center": [
-  32.288,
-  -9.2267
+  32.2822,
+  -9.2353
  ]
 }

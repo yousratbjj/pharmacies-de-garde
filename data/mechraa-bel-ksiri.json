@@ -1,23 +1,23 @@
 {
  "city": "mechraa-bel-ksiri",
  "label": "Mechraâ Bel Ksiri",
- "date": "2026-10-28",
+ "date": "2026-10-29",
  "source": "sahha.ma",
  "source_url": "https://sahha.ma/pharmacie-de-garde/mechraa-bel-ksiri",
  "kind": "roster",
  "pharmacies": [
   {
-   "name": "Pharmacie AlMostafa",
-   "address": "bd Tarik Bnou Ziad - Autre ville diour Jdad, Mechraa Bel Ksiri",
-   "phone": "+212537906094",
-   "lat": 34.57129,
-   "lng": -5.96252,
+   "name": "Pharmacie AlMahatta",
+   "address": "34 X rue 16 Novembre (ex la Gare), Mechraa Bel Ksiri",
+   "phone": "+212537905539",
+   "lat": 34.576991,
+   "lng": -5.961993,
    "shift": "jour",
    "shift_label": ""
   }
  ],
  "center": [
-  34.5713,
-  -5.9625
+  34.577,
+  -5.962
  ]
 }

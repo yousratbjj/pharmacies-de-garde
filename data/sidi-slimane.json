@@ -1,7 +1,7 @@
 {
  "city": "sidi-slimane",
  "label": "Sidi Slimane",
- "date": "2026-10-28",
+ "date": "2026-10-29",
  "source": "sahha.ma",
  "source_url": "https://sahha.ma/pharmacie-de-garde/sidi-slimane",
  "kind": "roster",
@@ -25,9 +25,9 @@
    "shift_label": ""
   },
   {
-   "name": "PHARMACIE ELHAY ELJADID",
-   "address": "av Zerktouni hay ElJadid, Sidi Slimane",
-   "phone": "+212537500650",
+   "name": "PHARMACIE BIR ANZARANE",
+   "address": "63 bd. Bir Anzarane, Sidi Slimane",
+   "phone": "+212537502900",
    "lat": 34.2622961,
    "lng": -5.9239749,
    "shift": "jour",
@@ -43,6 +43,15 @@
    "shift_label": ""
   },
   {
+   "name": "PHARMACIE LES ORANGERS",
+   "address": "12 av Mohammed V Ghoumareyene, Sidi Slimane",
+   "phone": "+212537501965",
+   "lat": 34.2522987,
+   "lng": -5.9285332,
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
    "name": "PHARMACIE OULED EL GHAZI",
    "address": "10, av Zerktouni , lot. Lemhamed Sidi slimane",
    "phone": "+212537505871",
@@ -52,17 +61,17 @@
    "shift_label": ""
   },
   {
-   "name": "PHARMACIE LES ORANGERS",
-   "address": "12 av Mohammed V Ghoumareyene, Sidi Slimane",
-   "phone": "+212537501965",
-   "lat": 34.2522987,
-   "lng": -5.9285332,
+   "name": "Pharmacie Chifaa",
+   "address": "hay Laymoune bloc 27 n°7, Sidi Slimane",
+   "phone": "+212537503034",
+   "lat": 34.251813,
+   "lng": -5.927786,
    "shift": "jour",
    "shift_label": ""
   }
  ],
  "center": [
-  34.2579,
-  -5.9283
+  34.257,
+  -5.9282
  ]
 }

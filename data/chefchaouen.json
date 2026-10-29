@@ -1,23 +1,23 @@
 {
  "city": "chefchaouen",
  "label": "Chefchaouen",
- "date": "2026-10-28",
+ "date": "2026-10-29",
  "source": "sahha.ma",
  "source_url": "https://sahha.ma/pharmacie-de-garde/chefchaouen",
  "kind": "roster",
  "pharmacies": [
   {
-   "name": "Pharmacie Centrale",
-   "address": "bd Sidi Abd AlHamid Route Atil Asmae, Chefchaouen",
-   "phone": "+212539883264",
-   "lat": 35.1767,
-   "lng": -5.273167,
-   "shift": "nuit",
+   "name": "Pharmacie ElHafa",
+   "address": "15 av. Mohamed. V, Chefchaouen",
+   "phone": "+212539883008",
+   "lat": 35.167417,
+   "lng": -5.268767,
+   "shift": "jour",
    "shift_label": ""
   }
  ],
  "center": [
-  35.1767,
-  -5.2732
+  35.1674,
+  -5.2688
  ]
 }

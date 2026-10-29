@@ -1,7 +1,7 @@
 {
  "city": "meknes",
  "label": "Meknès",
- "date": "2026-10-28",
+ "date": "2026-10-29",
  "source": "sahha.ma",
  "source_url": "https://sahha.ma/pharmacie-de-garde/meknes",
  "kind": "roster",
@@ -61,12 +61,12 @@
    "shift_label": ""
   },
   {
-   "name": "Pharmacie Arz de l’Atlas",
+   "name": "PHARMACIE ARZ DE L’ATLAS",
    "address": "12 rue Taza - Autre ville, Meknès",
    "phone": "+212535548090",
-   "lat": 33.920816,
-   "lng": -5.488178,
-   "shift": "jour",
+   "lat": 33.9208218,
+   "lng": -5.4882235,
+   "shift": "24h",
    "shift_label": ""
   },
   {

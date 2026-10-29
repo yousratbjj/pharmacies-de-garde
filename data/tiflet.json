@@ -1,23 +1,23 @@
 {
  "city": "tiflet",
  "label": "Tiflet",
- "date": "2026-10-28",
+ "date": "2026-10-29",
  "source": "sahha.ma",
  "source_url": "https://sahha.ma/pharmacie-de-garde/tiflet",
  "kind": "roster",
  "pharmacies": [
   {
-   "name": "Pharmacie Sadiss",
-   "address": "4 hay El Farah - Autre ville rue Maazis, Tiflet",
-   "phone": "+212657807670",
-   "lat": 33.89443,
-   "lng": -6.31306,
-   "shift": "nuit",
+   "name": "Pharmacie El Felline",
+   "address": "1006 lotiss. Dalia I - Autre ville, Tiflet",
+   "phone": "+212537510242",
+   "lat": 33.9039,
+   "lng": -6.33471,
+   "shift": "jour",
    "shift_label": ""
   }
  ],
  "center": [
-  33.8944,
-  -6.3131
+  33.9039,
+  -6.3347
  ]
 }

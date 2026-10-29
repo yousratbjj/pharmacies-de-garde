@@ -1,23 +1,23 @@
 {
  "city": "boujad",
  "label": "Boujad",
- "date": "2026-10-28",
+ "date": "2026-10-29",
  "source": "sahha.ma",
  "source_url": "https://sahha.ma/pharmacie-de-garde/boujad",
  "kind": "roster",
  "pharmacies": [
   {
-   "name": "Pharmacie Nahda",
-   "address": "51 hay Nahda - Autre ville NA 3, Boujad",
-   "phone": "+212523414823",
-   "lat": 32.785351,
-   "lng": -6.389207,
+   "name": "Pharmacie Chifa",
+   "address": "517 av. Hassan II hay ElMassira, Boujad",
+   "phone": "+212526550977",
+   "lat": 32.770782,
+   "lng": -6.381596,
    "shift": "jour",
    "shift_label": ""
   }
  ],
  "center": [
-  32.7854,
-  -6.3892
+  32.7708,
+  -6.3816
  ]
 }

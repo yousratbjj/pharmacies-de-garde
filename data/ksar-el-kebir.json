@@ -1,23 +1,23 @@
 {
  "city": "ksar-el-kebir",
  "label": "Ksar El Kebir",
- "date": "2026-10-28",
+ "date": "2026-10-29",
  "source": "sahha.ma",
  "source_url": "https://sahha.ma/pharmacie-de-garde/ksar-el-kebir",
  "kind": "roster",
  "pharmacies": [
   {
-   "name": "Pharmacie Abi AlMahassin",
-   "address": "hay ElMassira ElKhadra grp.D rue 10 n°65",
-   "phone": "+212539905555",
-   "lat": 35.0333333,
-   "lng": -5.9118333,
+   "name": "Pharmacie Al Madina (Mahaj Med 6)",
+   "address": "84 X hay Lalla Fatima Andaloussia",
+   "phone": "+212539903744",
+   "lat": 34.996868,
+   "lng": -5.886751,
    "shift": "jour",
    "shift_label": ""
   }
  ],
  "center": [
-  35.0333,
-  -5.9118
+  34.9969,
+  -5.8868
  ]
 }

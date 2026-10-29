@@ -1,23 +1,23 @@
 {
  "city": "sidi-kacem",
  "label": "Sidi Kacem",
- "date": "2026-10-28",
+ "date": "2026-10-29",
  "source": "sahha.ma",
  "source_url": "https://sahha.ma/pharmacie-de-garde/sidi-kacem",
  "kind": "roster",
  "pharmacies": [
   {
-   "name": "Pharmacie Al Houda",
-   "address": "route de Tanger lot. n°241/2",
-   "phone": "+212668713111",
-   "lat": 34.234807,
-   "lng": -5.714905,
-   "shift": "nuit",
+   "name": "Pharmacie AlKhawarizmi",
+   "address": "Nouveau Quartier rue 20 n°2",
+   "phone": "+212690875123",
+   "lat": 34.22318,
+   "lng": -5.704959,
+   "shift": "jour",
    "shift_label": ""
   }
  ],
  "center": [
-  34.2348,
-  -5.7149
+  34.2232,
+  -5.705
  ]
 }

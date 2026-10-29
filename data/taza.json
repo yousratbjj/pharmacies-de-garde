@@ -1,32 +1,32 @@
 {
  "city": "taza",
  "label": "Taza",
- "date": "2026-10-28",
+ "date": "2026-10-29",
  "source": "sahha.ma",
  "source_url": "https://sahha.ma/pharmacie-de-garde/taza",
  "kind": "roster",
  "pharmacies": [
   {
-   "name": "Pharmacie de la Gare",
-   "address": "hay El Adarissa Taza bas",
-   "phone": "+212535672991",
-   "lat": 34.2307833,
-   "lng": -4.00795,
-   "shift": "nuit",
+   "name": "Pharmacie Al Ichrak",
+   "address": "291 hay Al Ichrak lotiss. Amharef hay Hassani",
+   "phone": "+212535281372",
+   "lat": 34.218975,
+   "lng": -4.005745,
+   "shift": "jour",
    "shift_label": ""
   },
   {
-   "name": "Pharmacie Errazi",
-   "address": "163 bd Tarik Ben Ziad Massira",
-   "phone": "+212535211330",
-   "lat": 34.2323,
-   "lng": -3.9881667,
-   "shift": "nuit",
+   "name": "Pharmacie Al Mouaskar",
+   "address": "111 hay Chouhada",
+   "phone": "+212535281827",
+   "lat": 34.216055,
+   "lng": -4.020398,
+   "shift": "jour",
    "shift_label": ""
   }
  ],
  "center": [
-  34.2315,
-  -3.9981
+  34.2175,
+  -4.0131
  ]
 }

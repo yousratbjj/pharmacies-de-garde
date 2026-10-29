@@ -1,7 +1,7 @@
 {
  "city": "sale",
  "label": "Salé",
- "date": "2026-10-28",
+ "date": "2026-10-29",
  "source": "sahha.ma",
  "source_url": "https://sahha.ma/pharmacie-de-garde/sale",
  "kind": "roster",
@@ -12,16 +12,25 @@
    "phone": "+212530310030",
    "lat": 34.035056,
    "lng": -6.808528,
-   "shift": "nuit",
+   "shift": "jour",
    "shift_label": ""
   },
   {
-   "name": "Pharmacie ANWAL",
-   "address": "N 11 Rue Goulmime Avenue Base Aérienne Secteur Majd Laayayda",
-   "phone": "+212537875750",
+   "name": "Pharmacie ATHÈNES",
+   "address": "Av Abderrahim Bouabid Mag 3.4.5 قرب القرية المهنية سلا الجديدة",
+   "phone": "+212537531827",
    "lat": 34.044899,
    "lng": -6.8140202,
-   "shift": "nuit",
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie DAR AL BAHR",
+   "address": "Imm 2 Mag N:C11 Res Dar Al Bahr Bloc H Mohit",
+   "phone": "+212537888782",
+   "lat": 34.087056,
+   "lng": -6.785639,
+   "shift": "jour",
    "shift_label": ""
   },
   {
@@ -30,48 +39,39 @@
    "phone": "+212537781317",
    "lat": 34.030639,
    "lng": -6.809444,
-   "shift": "nuit",
+   "shift": "jour",
    "shift_label": ""
   },
   {
-   "name": "Pharmacie SAFIR",
-   "address": "Sect 12 N°1584 Av Imam Malik et Av Med Alaoui",
-   "phone": "+212537802846",
-   "lat": 34.040758,
-   "lng": -6.7843789,
-   "shift": "nuit",
+   "name": "Pharmacie ELIXIR",
+   "address": "Rési bayti 1 Imm (J) N°1 proximite station carburant Afriquia",
+   "phone": "+212537531304",
+   "lat": 33.9869735,
+   "lng": -6.7378151,
+   "shift": "jour",
    "shift_label": ""
   },
   {
-   "name": "Pharmacie SHEMS",
-   "address": "Avenue Zarbia, N°4 Hssain",
-   "phone": "+212537835289",
-   "lat": 34.2530477,
-   "lng": -6.6194913,
-   "shift": "nuit",
+   "name": "Pharmacie EL MENZEH",
+   "address": "51, Rue Massira El Khadra",
+   "phone": "+212537803768",
+   "lat": 34.027806,
+   "lng": -6.80725,
+   "shift": "jour",
    "shift_label": ""
   },
   {
-   "name": "Pharmacie SUPER ARRAHMA",
-   "address": "Bd Mohammed V Rési Adouiby N° 1 Sect A",
-   "phone": "+212537874895",
-   "lat": 34.044899,
-   "lng": -6.8140202,
-   "shift": "nuit",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie TAIBA",
-   "address": "Lotissement des villas, Mosquée Taiba, 85 Sala Al Jadida",
-   "phone": "+212537817368",
-   "lat": 34.0025,
-   "lng": -6.721833,
-   "shift": "nuit",
+   "name": "Pharmacie GUISSI",
+   "address": "Av Bouregreg Imm,11 Zone C",
+   "phone": "+212537530345",
+   "lat": 33.9910088,
+   "lng": -6.7351017,
+   "shift": "jour",
    "shift_label": ""
   }
  ],
  "center": [
-  34.0645,
-  -6.7674
+  34.0291,
+  -6.7854
  ]
 }

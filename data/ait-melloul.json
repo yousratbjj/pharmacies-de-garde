@@ -1,32 +1,59 @@
 {
  "city": "ait-melloul",
  "label": "Aït Melloul",
- "date": "2026-10-28",
+ "date": "2026-10-29",
  "source": "sahha.ma",
  "source_url": "https://sahha.ma/pharmacie-de-garde/ait-melloul",
  "kind": "roster",
  "pharmacies": [
   {
-   "name": "Pharmacie Ait Oujrar (Al Amal)",
-   "address": "181 hay Al Amal Ait Oujrar",
-   "phone": "+212528244545",
-   "lat": 30.352463,
-   "lng": -9.4915143,
-   "shift": "nuit",
+   "name": "Pharmacie Al Hayat",
+   "address": "Hay Chouhada bloc 2 n°329",
+   "phone": "+212528247852",
+   "lat": 30.3418667,
+   "lng": -9.4867833,
+   "shift": "jour",
    "shift_label": ""
   },
   {
-   "name": "Pharmacie Semlali ( Usmam)",
-   "address": "3 av. AlMoukawama rte Admim cplxe.u.s.m.a.m",
-   "phone": "+212528248639",
-   "lat": 30.3441333,
-   "lng": -9.4922833,
-   "shift": "nuit",
+   "name": "Pharmacie alhouda",
+   "address": "rte Lkhmaiss koleaa",
+   "phone": "+212528310361",
+   "lat": 30.2962667,
+   "lng": -9.4676,
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie Essounni",
+   "address": "Hay ElMassira bloc C 119 Chouhada",
+   "phone": "+212528242800",
+   "lat": 30.34475,
+   "lng": -9.4871833,
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie Hassania",
+   "address": "hay M'Barek Omar bloc 3 n°301",
+   "phone": "+212528246917",
+   "lat": 30.3459167,
+   "lng": -9.5069333,
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie Mazine",
+   "address": "2 lotiss. Nassim II hay Al Fath",
+   "phone": "+212528242437",
+   "lat": 30.339682,
+   "lng": -9.506743,
+   "shift": "jour",
    "shift_label": ""
   }
  ],
  "center": [
-  30.3483,
-  -9.4919
+  30.3337,
+  -9.491
  ]
 }

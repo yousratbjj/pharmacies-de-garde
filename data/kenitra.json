@@ -1,26 +1,26 @@
 {
  "city": "kenitra",
  "label": "Kénitra",
- "date": "2026-10-28",
+ "date": "2026-10-29",
  "source": "sahha.ma",
  "source_url": "https://sahha.ma/pharmacie-de-garde/kenitra",
  "kind": "roster",
  "pharmacies": [
   {
-   "name": "Pharmacie Bassine",
-   "address": "995 hay Bir Rami Est Jnane 2, Kénitra",
-   "phone": "+212691820889",
-   "lat": 34.218565,
-   "lng": -6.625338,
+   "name": "Pharmacie le Moulin",
+   "address": "bd Bacha Abdelhamid El Alaoui rue 153 gpe 7",
+   "phone": "+212537386928",
+   "lat": 34.257607,
+   "lng": -6.560626,
    "shift": "jour",
    "shift_label": ""
   },
   {
-   "name": "Pharmacie Bismillah",
-   "address": "77 lotiss. Chaâbi Atlas 2, Kénitra",
-   "phone": "+212537383576",
-   "lat": 34.273941,
-   "lng": -6.597034,
+   "name": "Pharmacie Tahiri",
+   "address": "279 hay Bir Rami Ouest",
+   "phone": "+212537324114",
+   "lat": 34.256296,
+   "lng": -6.602768,
    "shift": "jour",
    "shift_label": ""
   },
@@ -28,8 +28,8 @@
    "name": "Pharmacie MEHDIA",
    "address": "شارع مولاي إسماعيل على بعد 300م من قصر مولاي إسماعيل قرب المدرسة الإبتدائية أحمد عثمان بن دلة الإدريسي الهاتف. 74 82 33 0537",
    "phone": "+212537338274",
-   "lat": 34.257394,
-   "lng": -6.590154,
+   "lat": 34.2648909,
+   "lng": -6.6520185,
    "shift": "jour",
    "shift_label": ""
   },
@@ -53,7 +53,7 @@
   }
  ],
  "center": [
-  34.2518,
-  -6.6248
+  34.2576,
+  -6.6254
  ]
 }

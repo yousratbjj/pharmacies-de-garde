@@ -1,7 +1,7 @@
 {
  "city": "inezgane",
  "label": "Inezgane",
- "date": "2026-10-28",
+ "date": "2026-10-29",
  "source": "sahha.ma",
  "source_url": "https://sahha.ma/pharmacie-de-garde/inezgane",
  "kind": "roster",
@@ -32,19 +32,10 @@
    "lng": -9.5351667,
    "shift": "jour",
    "shift_label": ""
-  },
-  {
-   "name": "Pharmacie Hagounia",
-   "address": "1 av Mokhtar Essoussi",
-   "phone": "+212528832161",
-   "lat": 30.3600667,
-   "lng": -9.5280833,
-   "shift": "nuit",
-   "shift_label": ""
   }
  ],
  "center": [
-  30.3197,
-  -9.5386
+  30.3062,
+  -9.542
  ]
 }

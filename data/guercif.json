@@ -1,32 +1,32 @@
 {
  "city": "guercif",
  "label": "Guercif",
- "date": "2026-10-28",
+ "date": "2026-10-29",
  "source": "sahha.ma",
  "source_url": "https://sahha.ma/pharmacie-de-garde/guercif",
  "kind": "roster",
  "pharmacies": [
   {
-   "name": "Pharmacie Mlellou",
-   "address": "1 hay Chwiber, Guercif",
-   "phone": "+212535676801",
-   "lat": 34.21696,
-   "lng": -3.3491,
+   "name": "Pharmacie Annarjis",
+   "address": "4 bd Tafilelt - Autre ville, Guercif",
+   "phone": "+212535200459",
+   "lat": 34.224328,
+   "lng": -3.343142,
    "shift": "jour",
    "shift_label": ""
   },
   {
-   "name": "Pharmacie Moulay Ahmed",
-   "address": "Route Saka, Guercif",
-   "phone": "+212535200573",
-   "lat": 34.231311,
-   "lng": -3.350973,
+   "name": "Pharmacie Nougd (Hamria AlJadida)",
+   "address": "36 bd. Abdelkrim El Khattabi hay Nougd, Guercif",
+   "phone": "+212535200115",
+   "lat": 34.232395,
+   "lng": -3.353883,
    "shift": "jour",
    "shift_label": ""
   }
  ],
  "center": [
-  34.2241,
-  -3.35
+  34.2284,
+  -3.3485
  ]
 }

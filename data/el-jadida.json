@@ -1,18 +1,81 @@
 {
  "city": "el-jadida",
  "label": "El Jadida",
- "date": "2026-10-28",
+ "date": "2026-10-29",
  "source": "sahha.ma",
  "source_url": "https://sahha.ma/pharmacie-de-garde/el-jadida",
  "kind": "roster",
  "pharmacies": [
+  {
+   "name": "Pharmacie Al Bayane",
+   "address": "1 lotiss. Hiba - Autre ville Ibrahim Al Khalil El jadida",
+   "phone": "+212523395960",
+   "lat": 33.231502,
+   "lng": -8.504781,
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie Amoury",
+   "address": "20 X rue M'barek Loughlimi Derb Ghalef",
+   "phone": "+212523342869",
+   "lat": 33.25467,
+   "lng": -8.506817,
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie de France",
+   "address": "13 rue France",
+   "phone": "+212523352275",
+   "lat": 33.2588,
+   "lng": -8.5089,
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie El Khair",
+   "address": "61 bd Doukkala lotiss. Mouilha",
+   "phone": "+212523390948",
+   "lat": 33.2509167,
+   "lng": -8.5209333,
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie ElMassira",
+   "address": "205 bd Mohammed V El jadida",
+   "phone": "+212523371099",
+   "lat": 33.2440575,
+   "lng": -8.4987398,
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie Ibrahim AlKhalil",
+   "address": "4 bd Khalil Jabrane résid. Reda rte Sidi Bouzid",
+   "phone": "+212523395464",
+   "lat": 33.234985,
+   "lng": -8.532288,
+   "shift": "jour",
+   "shift_label": ""
+  },
   {
    "name": "Pharmacie Izdihare",
    "address": "hay Ennajd , n°1, Riad Essalam, Res. Izdihare",
    "phone": "+212523392279",
    "lat": 33.229406,
    "lng": -8.512636,
-   "shift": "nuit",
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie les Parents",
+   "address": "bd Abdelhamid Bnou Badis ang. rue Brahim Roudani c.com. Acima B 3",
+   "phone": "+212523332187",
+   "lat": 33.24325,
+   "lng": -8.5125,
+   "shift": "jour",
    "shift_label": ""
   },
   {
@@ -21,12 +84,21 @@
    "phone": "+212523351235",
    "lat": 33.2498,
    "lng": -8.50005,
-   "shift": "nuit",
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie Achraf Al Idrissi",
+   "address": "bd Khalil Jabrane Diar Al Mansour imm. 8 GH 52 n°6 El jadida",
+   "phone": "+212523374920",
+   "lat": 33.2316326,
+   "lng": -8.5007116,
+   "shift": "jour",
    "shift_label": ""
   }
  ],
  "center": [
-  33.2396,
-  -8.5063
+  33.2429,
+  -8.5098
  ]
 }

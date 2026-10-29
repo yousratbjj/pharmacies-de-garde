@@ -1,50 +1,50 @@
 {
  "city": "tetouan",
  "label": "Tétouan",
- "date": "2026-10-28",
+ "date": "2026-10-29",
  "source": "sahha.ma",
  "source_url": "https://sahha.ma/pharmacie-de-garde/tetouan",
  "kind": "roster",
  "pharmacies": [
   {
-   "name": "PHARMACIE HÔPITAL DES SPÉCIALITÉS",
-   "address": "14 bd Abdelkhalek Torres Résid Chems Tetouan Martil Martil Tétouan Maroc",
-   "phone": "+212669812415",
-   "lat": 35.5817841,
-   "lng": -5.3335773,
-   "shift": "nuit",
+   "name": "Pharmacie Dairiya",
+   "address": "1 bd Méknes résid. La Perla, Tétouan",
+   "phone": "+212531085308",
+   "lat": 35.561467,
+   "lng": -5.369912,
+   "shift": "jour",
    "shift_label": ""
   },
   {
-   "name": "PHARMACIE JBEL DERSA",
-   "address": "1 rue Al Hizam Al Akhdar Jbel Dersa TETOUAN Martil Martil Tétouan Maroc",
-   "phone": "+212539702310",
-   "lat": 35.576683,
-   "lng": -5.373533,
-   "shift": "nuit",
+   "name": "Pharmacie Fadil",
+   "address": "K050 rue de Sebta km 5 n°13 Mallalienne Hajrat Laâroussa, Tétouan",
+   "phone": "+212539994311",
+   "lat": 35.6049,
+   "lng": -5.3355,
+   "shift": "jour",
    "shift_label": ""
   },
   {
-   "name": "Pharmacie Laamrani",
-   "address": "bd Slimane Ben Mahran rte Tanger, Tétouan",
+   "name": "LAAMRANI",
+   "address": "Av Soulaiman ben mahrane rte, Tangier",
    "phone": "+212539969058",
-   "lat": 35.562134,
-   "lng": -5.54641,
-   "shift": "nuit",
+   "lat": 35.5658319,
+   "lng": -5.4136333,
+   "shift": "jour",
    "shift_label": ""
   },
   {
-   "name": "Pharmacie Palestine",
-   "address": "25 av. des F.a.r., Tétouan",
+   "name": "PALESTINE",
+   "address": "Avenue des FAR",
    "phone": "+212539973845",
-   "lat": 35.578733,
-   "lng": -5.3561,
-   "shift": "nuit",
+   "lat": 35.5786714,
+   "lng": -5.3559354,
+   "shift": "jour",
    "shift_label": ""
   }
  ],
  "center": [
-  35.5748,
-  -5.4024
+  35.5777,
+  -5.3687
  ]
 }
