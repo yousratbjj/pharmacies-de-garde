@@ -1,23 +1,23 @@
 {
  "city": "oued-zem",
  "label": "Oued Zem",
- "date": "2026-10-26",
+ "date": "2026-10-30",
  "source": "sahha.ma",
  "source_url": "https://sahha.ma/pharmacie-de-garde/oued-zem",
  "kind": "roster",
  "pharmacies": [
   {
-   "name": "Pharmacie Populaire",
-   "address": "1 pl. Al Moukaouama - Autre ville, Oued Zem",
-   "phone": "+212523411080",
-   "lat": 32.859152,
-   "lng": -6.569846,
-   "shift": "nuit",
+   "name": "Pharmacie Badr",
+   "address": "942 Pl. du Vingt Août - Autre ville, Oued Zem",
+   "phone": "+212772621719",
+   "lat": 32.848409,
+   "lng": -6.579734,
+   "shift": "jour",
    "shift_label": ""
   }
  ],
  "center": [
-  32.8592,
-  -6.5698
+  32.8484,
+  -6.5797
  ]
 }
