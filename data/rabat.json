@@ -1,7 +1,7 @@
 {
  "city": "rabat",
  "label": "Rabat",
- "date": "2026-10-29",
+ "date": "2026-10-30",
  "source": "sahha.ma",
  "source_url": "https://sahha.ma/pharmacie-de-garde/rabat",
  "kind": "roster",
@@ -12,7 +12,7 @@
    "phone": "+212537293647",
    "lat": 33.9734497,
    "lng": -6.8875728,
-   "shift": "jour",
+   "shift": "nuit",
    "shift_label": ""
   },
   {
@@ -21,7 +21,7 @@
    "phone": "+212537759809",
    "lat": 33.9841919,
    "lng": -6.8199983,
-   "shift": "jour",
+   "shift": "nuit",
    "shift_label": ""
   },
   {
@@ -39,7 +39,7 @@
    "phone": "+212537725120",
    "lat": 34.0237279,
    "lng": -6.8253586,
-   "shift": "jour",
+   "shift": "nuit",
    "shift_label": ""
   },
   {
@@ -48,7 +48,7 @@
    "phone": "+212537295141",
    "lat": 33.9966923,
    "lng": -6.8683293,
-   "shift": "jour",
+   "shift": "nuit",
    "shift_label": ""
   },
   {
@@ -57,7 +57,7 @@
    "phone": "+212537734603",
    "lat": 34.017583,
    "lng": -6.852139,
-   "shift": "jour",
+   "shift": "nuit",
    "shift_label": ""
   },
   {
@@ -66,7 +66,7 @@
    "phone": "+212537778982",
    "lat": 34.001676,
    "lng": -6.848337,
-   "shift": "jour",
+   "shift": "nuit",
    "shift_label": ""
   },
   {
@@ -75,7 +75,7 @@
    "phone": "+212537712303",
    "lat": 33.962959,
    "lng": -6.860955,
-   "shift": "jour",
+   "shift": "nuit",
    "shift_label": ""
   },
   {
@@ -84,7 +84,7 @@
    "phone": "+212537792986",
    "lat": 33.9668763,
    "lng": -6.9059703,
-   "shift": "jour",
+   "shift": "",
    "shift_label": ""
   },
   {
@@ -93,7 +93,7 @@
    "phone": "+212537791179",
    "lat": 33.973167,
    "lng": -6.894667,
-   "shift": "jour",
+   "shift": "",
    "shift_label": ""
   }
  ],

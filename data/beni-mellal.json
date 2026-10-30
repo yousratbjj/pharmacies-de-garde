@@ -1,7 +1,7 @@
 {
  "city": "beni-mellal",
  "label": "Béni Mellal",
- "date": "2026-10-29",
+ "date": "2026-10-30",
  "source": "sahha.ma",
  "source_url": "https://sahha.ma/pharmacie-de-garde/beni-mellal",
  "kind": "roster",
@@ -12,7 +12,7 @@
    "phone": "+212523429891",
    "lat": 32.3284569,
    "lng": -6.3919359,
-   "shift": "jour",
+   "shift": "nuit",
    "shift_label": ""
   },
   {
@@ -21,7 +21,7 @@
    "phone": "+212523424041",
    "lat": 32.3332299,
    "lng": -6.3458368,
-   "shift": "jour",
+   "shift": "nuit",
    "shift_label": ""
   },
   {
@@ -30,7 +30,7 @@
    "phone": "+212523427293",
    "lat": 32.351966,
    "lng": -6.355689,
-   "shift": "jour",
+   "shift": "nuit",
    "shift_label": ""
   }
  ],

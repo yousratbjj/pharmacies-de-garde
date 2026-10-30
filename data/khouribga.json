@@ -1,7 +1,7 @@
 {
  "city": "khouribga",
  "label": "Khouribga",
- "date": "2026-10-29",
+ "date": "2026-10-30",
  "source": "sahha.ma",
  "source_url": "https://sahha.ma/pharmacie-de-garde/khouribga",
  "kind": "roster",
@@ -12,7 +12,7 @@
    "phone": "+212661902254",
    "lat": 32.874472,
    "lng": -6.929913,
-   "shift": "jour",
+   "shift": "",
    "shift_label": ""
   },
   {
@@ -21,7 +21,7 @@
    "phone": "+212523492424",
    "lat": 32.876411,
    "lng": -6.933732,
-   "shift": "jour",
+   "shift": "",
    "shift_label": ""
   },
   {
@@ -30,7 +30,7 @@
    "phone": "+212523494437",
    "lat": 32.88409,
    "lng": -6.911315,
-   "shift": "jour",
+   "shift": "",
    "shift_label": ""
   },
   {
@@ -39,7 +39,7 @@
    "phone": "+212523565111",
    "lat": 32.8879389,
    "lng": -6.9109222,
-   "shift": "jour",
+   "shift": "",
    "shift_label": ""
   }
  ],

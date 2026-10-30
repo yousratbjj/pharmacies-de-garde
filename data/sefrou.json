@@ -1,7 +1,7 @@
 {
  "city": "sefrou",
  "label": "Sefrou",
- "date": "2026-10-29",
+ "date": "2026-10-30",
  "source": "sahha.ma",
  "source_url": "https://sahha.ma/pharmacie-de-garde/sefrou",
  "kind": "roster",
@@ -12,7 +12,7 @@
    "phone": "+212535969207",
    "lat": 33.829993,
    "lng": -4.838255,
-   "shift": "jour",
+   "shift": "",
    "shift_label": ""
   },
   {
@@ -21,7 +21,7 @@
    "phone": "+212535660737",
    "lat": 33.82943,
    "lng": -4.8253,
-   "shift": "jour",
+   "shift": "",
    "shift_label": ""
   },
   {
@@ -30,7 +30,7 @@
    "phone": "+212535969784",
    "lat": 33.817726,
    "lng": -4.828977,
-   "shift": "jour",
+   "shift": "",
    "shift_label": ""
   }
  ],

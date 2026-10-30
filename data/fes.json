@@ -1,7 +1,7 @@
 {
  "city": "fes",
  "label": "Fès",
- "date": "2026-10-29",
+ "date": "2026-10-30",
  "source": "sahha.ma",
  "source_url": "https://sahha.ma/pharmacie-de-garde/fes",
  "kind": "roster",
@@ -12,7 +12,7 @@
    "phone": "+212535732870",
    "lat": 34.0332985,
    "lng": -5.0,
-   "shift": "jour",
+   "shift": "",
    "shift_label": ""
   },
   {
@@ -21,7 +21,7 @@
    "phone": "+212535654870",
    "lat": 34.030047,
    "lng": -5.014116,
-   "shift": "jour",
+   "shift": "nuit",
    "shift_label": ""
   },
   {
@@ -30,7 +30,7 @@
    "phone": "+212602908696",
    "lat": 33.966483,
    "lng": -5.029347,
-   "shift": "jour",
+   "shift": "nuit",
    "shift_label": ""
   },
   {
@@ -39,7 +39,7 @@
    "phone": "+212535731441",
    "lat": 34.01065,
    "lng": -4.983217,
-   "shift": "jour",
+   "shift": "nuit",
    "shift_label": ""
   },
   {
@@ -48,7 +48,7 @@
    "phone": "+212535728596",
    "lat": 34.02915,
    "lng": -5.03783,
-   "shift": "jour",
+   "shift": "nuit",
    "shift_label": ""
   },
   {
@@ -57,7 +57,7 @@
    "phone": "+212535711748",
    "lat": 34.054145,
    "lng": -4.959904,
-   "shift": "jour",
+   "shift": "nuit",
    "shift_label": ""
   },
   {
@@ -66,7 +66,7 @@
    "phone": "+212535756382",
    "lat": 34.06195,
    "lng": -5.0259,
-   "shift": "jour",
+   "shift": "nuit",
    "shift_label": ""
   },
   {
@@ -75,7 +75,7 @@
    "phone": "+212535605388",
    "lat": 34.0141662,
    "lng": -5.0067045,
-   "shift": "jour",
+   "shift": "",
    "shift_label": ""
   },
   {
@@ -84,7 +84,7 @@
    "phone": "+212535754923",
    "lat": 34.0568427,
    "lng": -5.0357091,
-   "shift": "jour",
+   "shift": "",
    "shift_label": ""
   },
   {
@@ -93,7 +93,7 @@
    "phone": "+212693877676",
    "lat": 34.030968,
    "lng": -5.064736,
-   "shift": "jour",
+   "shift": "",
    "shift_label": ""
   }
  ],

@@ -1,7 +1,7 @@
 {
  "city": "meknes",
  "label": "Meknès",
- "date": "2026-10-29",
+ "date": "2026-10-30",
  "source": "sahha.ma",
  "source_url": "https://sahha.ma/pharmacie-de-garde/meknes",
  "kind": "roster",
@@ -21,7 +21,7 @@
    "phone": "+212535502972",
    "lat": 33.8844602,
    "lng": -5.5058506,
-   "shift": "24h",
+   "shift": "jour",
    "shift_label": ""
   },
   {
@@ -30,7 +30,7 @@
    "phone": "+212535503087",
    "lat": 33.8949921,
    "lng": -5.501797,
-   "shift": "24h",
+   "shift": "jour",
    "shift_label": ""
   },
   {
@@ -48,7 +48,7 @@
    "phone": "+212535644273",
    "lat": 33.903717,
    "lng": -5.573917,
-   "shift": "24h",
+   "shift": "jour",
    "shift_label": ""
   },
   {
@@ -57,7 +57,7 @@
    "phone": "+212535403598",
    "lat": 33.8975448,
    "lng": -5.5516694,
-   "shift": "24h",
+   "shift": "jour",
    "shift_label": ""
   },
   {
@@ -66,7 +66,7 @@
    "phone": "+212535549152",
    "lat": 33.9187809,
    "lng": -5.4952159,
-   "shift": "24h",
+   "shift": "jour",
    "shift_label": ""
   },
   {
@@ -75,7 +75,7 @@
    "phone": "+212625094244",
    "lat": 33.8971861,
    "lng": -5.4708502,
-   "shift": "24h",
+   "shift": "jour",
    "shift_label": ""
   },
   {
@@ -84,7 +84,7 @@
    "phone": "+212535548090",
    "lat": 33.9208218,
    "lng": -5.4882235,
-   "shift": "24h",
+   "shift": "jour",
    "shift_label": ""
   },
   {
@@ -93,7 +93,7 @@
    "phone": "+212648569943",
    "lat": 33.90162,
    "lng": -5.596821,
-   "shift": "24h",
+   "shift": "jour",
    "shift_label": ""
   }
  ],

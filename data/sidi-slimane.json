@@ -1,7 +1,7 @@
 {
  "city": "sidi-slimane",
  "label": "Sidi Slimane",
- "date": "2026-10-29",
+ "date": "2026-10-30",
  "source": "sahha.ma",
  "source_url": "https://sahha.ma/pharmacie-de-garde/sidi-slimane",
  "kind": "roster",
@@ -12,7 +12,7 @@
    "phone": "+212537502513",
    "lat": 34.254361,
    "lng": -5.923949,
-   "shift": "jour",
+   "shift": "nuit",
    "shift_label": ""
   },
   {
@@ -21,7 +21,7 @@
    "phone": "+212537505768",
    "lat": 34.259251,
    "lng": -5.931036,
-   "shift": "jour",
+   "shift": "nuit",
    "shift_label": ""
   },
   {
@@ -30,7 +30,7 @@
    "phone": "+212537502900",
    "lat": 34.2622961,
    "lng": -5.9239749,
-   "shift": "jour",
+   "shift": "nuit",
    "shift_label": ""
   },
   {
@@ -39,7 +39,7 @@
    "phone": "+212537503034",
    "lat": 34.251813,
    "lng": -5.927786,
-   "shift": "jour",
+   "shift": "nuit",
    "shift_label": ""
   },
   {
@@ -48,7 +48,7 @@
    "phone": "+212669554771",
    "lat": 34.259878,
    "lng": -5.927253,
-   "shift": "jour",
+   "shift": "nuit",
    "shift_label": ""
   },
   {
@@ -57,7 +57,7 @@
    "phone": "+212537501965",
    "lat": 34.2522987,
    "lng": -5.9285332,
-   "shift": "jour",
+   "shift": "nuit",
    "shift_label": ""
   },
   {
@@ -66,7 +66,7 @@
    "phone": "+212537505871",
    "lat": 34.2590735,
    "lng": -5.9350268,
-   "shift": "jour",
+   "shift": "nuit",
    "shift_label": ""
   }
  ],

@@ -1,7 +1,7 @@
 {
  "city": "al-arrui",
  "label": "Al Arrui",
- "date": "2026-10-29",
+ "date": "2026-10-30",
  "source": "sahha.ma",
  "source_url": "https://sahha.ma/pharmacie-de-garde/al-arrui",
  "kind": "roster",
@@ -12,7 +12,7 @@
    "phone": "+212536361092",
    "lat": 35.008533,
    "lng": -3.011817,
-   "shift": "jour",
+   "shift": "nuit",
    "shift_label": ""
   }
  ],

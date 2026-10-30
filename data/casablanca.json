@@ -1,7 +1,7 @@
 {
  "city": "casablanca",
  "label": "Casablanca",
- "date": "2026-10-29",
+ "date": "2026-10-30",
  "source": "sahha.ma",
  "source_url": "https://sahha.ma/pharmacie-de-garde/casablanca",
  "kind": "roster",
@@ -12,7 +12,7 @@
    "phone": "+212522452521",
    "lat": 33.5869877,
    "lng": -7.6080889,
-   "shift": "jour",
+   "shift": "",
    "shift_label": ""
   },
   {
@@ -21,7 +21,7 @@
    "phone": "+212522638758",
    "lat": 33.5767534,
    "lng": -7.566273,
-   "shift": "jour",
+   "shift": "",
    "shift_label": ""
   },
   {
@@ -30,7 +30,7 @@
    "phone": "+212522628370",
    "lat": 33.590861,
    "lng": -7.5655648,
-   "shift": "jour",
+   "shift": "",
    "shift_label": ""
   },
   {
@@ -39,7 +39,7 @@
    "phone": "+212522356651",
    "lat": 33.6138139,
    "lng": -7.5291454,
-   "shift": "jour",
+   "shift": "",
    "shift_label": ""
   },
   {
@@ -48,7 +48,7 @@
    "phone": "+212522895606",
    "lat": 33.548103,
    "lng": -7.679309,
-   "shift": "jour",
+   "shift": "",
    "shift_label": ""
   },
   {
@@ -57,7 +57,7 @@
    "phone": "+212522636633",
    "lat": 33.587452,
    "lng": -7.555462,
-   "shift": "jour",
+   "shift": "",
    "shift_label": ""
   },
   {
@@ -66,7 +66,7 @@
    "phone": "+212522806497",
    "lat": 33.5694082,
    "lng": -7.5903644,
-   "shift": "jour",
+   "shift": "",
    "shift_label": ""
   },
   {
@@ -75,7 +75,7 @@
    "phone": "+212522523516",
    "lat": 33.5346563,
    "lng": -7.6060065,
-   "shift": "jour",
+   "shift": "",
    "shift_label": ""
   },
   {
@@ -84,7 +84,7 @@
    "phone": "+212522613026",
    "lat": 33.5885903,
    "lng": -7.5771714,
-   "shift": "jour",
+   "shift": "",
    "shift_label": ""
   },
   {
@@ -93,7 +93,7 @@
    "phone": "+212522767698",
    "lat": 33.5987497,
    "lng": -7.4806361,
-   "shift": "jour",
+   "shift": "",
    "shift_label": ""
   }
  ],

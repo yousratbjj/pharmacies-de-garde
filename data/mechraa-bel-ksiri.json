@@ -1,7 +1,7 @@
 {
  "city": "mechraa-bel-ksiri",
  "label": "Mechraâ Bel Ksiri",
- "date": "2026-10-29",
+ "date": "2026-10-30",
  "source": "sahha.ma",
  "source_url": "https://sahha.ma/pharmacie-de-garde/mechraa-bel-ksiri",
  "kind": "roster",
@@ -12,7 +12,7 @@
    "phone": "+212537905539",
    "lat": 34.576991,
    "lng": -5.961993,
-   "shift": "jour",
+   "shift": "nuit",
    "shift_label": ""
   }
  ],

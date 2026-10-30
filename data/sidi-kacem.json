@@ -1,7 +1,7 @@
 {
  "city": "sidi-kacem",
  "label": "Sidi Kacem",
- "date": "2026-10-29",
+ "date": "2026-10-30",
  "source": "sahha.ma",
  "source_url": "https://sahha.ma/pharmacie-de-garde/sidi-kacem",
  "kind": "roster",
@@ -12,7 +12,7 @@
    "phone": "+212690875123",
    "lat": 34.22318,
    "lng": -5.704959,
-   "shift": "jour",
+   "shift": "nuit",
    "shift_label": ""
   }
  ],

@@ -1,7 +1,7 @@
 {
  "city": "ouazzane",
  "label": "Ouezzane",
- "date": "2026-10-29",
+ "date": "2026-10-30",
  "source": "sahha.ma",
  "source_url": "https://sahha.ma/pharmacie-de-garde/ouazzane",
  "kind": "roster",
@@ -12,7 +12,7 @@
    "phone": "+212537907480",
    "lat": 34.797421,
    "lng": -5.586707,
-   "shift": "jour",
+   "shift": "nuit",
    "shift_label": ""
   }
  ],

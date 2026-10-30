@@ -1,7 +1,7 @@
 {
  "city": "ouarzazate",
  "label": "Ouarzazate",
- "date": "2026-10-29",
+ "date": "2026-10-30",
  "source": "sahha.ma",
  "source_url": "https://sahha.ma/pharmacie-de-garde/ouarzazate",
  "kind": "roster",
@@ -12,7 +12,7 @@
    "phone": "+212524888081",
    "lat": 30.92745,
    "lng": -6.9268333,
-   "shift": "jour",
+   "shift": "",
    "shift_label": ""
   },
   {
@@ -21,7 +21,7 @@
    "phone": "+212524887990",
    "lat": 30.92705,
    "lng": -6.9047,
-   "shift": "jour",
+   "shift": "",
    "shift_label": ""
   }
  ],
