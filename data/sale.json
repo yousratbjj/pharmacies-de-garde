@@ -7,11 +7,11 @@
  "kind": "roster",
  "pharmacies": [
   {
-   "name": "Pharmacie AL WASSAT",
-   "address": "N°1 Rue Tifelt Avenue Hassan II",
-   "phone": "+212530310030",
-   "lat": 34.035056,
-   "lng": -6.808528,
+   "name": "Pharmacie ACHOUHADAA",
+   "address": "425 Avenue achouhadaa Secteur 2",
+   "phone": "+212537811518",
+   "lat": 34.044899,
+   "lng": -6.8140202,
    "shift": "jour",
    "shift_label": ""
   },
@@ -25,29 +25,20 @@
    "shift_label": ""
   },
   {
+   "name": "Pharmacie CARREFOUR",
+   "address": "Centre commercial Carrefour Route de Kénitra",
+   "phone": "+212530167960",
+   "lat": 34.0589813,
+   "lng": -6.8020244,
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
    "name": "Pharmacie DAR AL BAHR",
    "address": "Imm 2 Mag N:C11 Res Dar Al Bahr Bloc H Mohit",
    "phone": "+212537888782",
    "lat": 34.087056,
    "lng": -6.785639,
-   "shift": "jour",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie DU PLATEAU",
-   "address": "6, Avenue Sakia Al Hamra",
-   "phone": "+212537781317",
-   "lat": 34.030639,
-   "lng": -6.809444,
-   "shift": "jour",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie ELIXIR",
-   "address": "Rési bayti 1 Imm (J) N°1 proximite station carburant Afriquia",
-   "phone": "+212537531304",
-   "lat": 33.9869735,
-   "lng": -6.7378151,
    "shift": "jour",
    "shift_label": ""
   },
@@ -68,10 +59,37 @@
    "lng": -6.7351017,
    "shift": "jour",
    "shift_label": ""
+  },
+  {
+   "name": "Pharmacie MERIEM",
+   "address": "90 rue sidi yahia Hay Inbiaat",
+   "phone": "+212537806007",
+   "lat": 34.044899,
+   "lng": -6.8140202,
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie OUM HANI",
+   "address": "N°45 Hors bas sebta grina (En face Lycée Abou Bakr el Kadiri) Route De Kenitra",
+   "phone": "+212537881352",
+   "lat": 34.045444,
+   "lng": -6.818417,
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie RIDA",
+   "address": "Avenue Lalla Amina (Prés de 2éme Arrondissement)",
+   "phone": "+212537863680",
+   "lat": 34.0381605,
+   "lng": -6.8079805,
+   "shift": "jour",
+   "shift_label": ""
   }
  ],
  "center": [
-  34.0291,
-  -6.7854
+  34.0426,
+  -6.7998
  ]
 }

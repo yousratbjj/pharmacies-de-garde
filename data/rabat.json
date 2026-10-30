@@ -43,6 +43,15 @@
    "shift_label": ""
   },
   {
+   "name": "Pharmacie EL KAMRA",
+   "address": "Bloc L N°187 El Kamra C.Y.M (En face Immeubles Touarga)",
+   "phone": "+212537295141",
+   "lat": 33.9966923,
+   "lng": -6.8683293,
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
    "name": "Pharmacie IBN HAYTHAM",
    "address": "119 Avenue de la résistance - Ocean",
    "phone": "+212537734603",
@@ -89,7 +98,7 @@
   }
  ],
  "center": [
-  33.9874,
-  -6.8635
+  33.9884,
+  -6.864
  ]
 }

@@ -7,6 +7,15 @@
  "kind": "roster",
  "pharmacies": [
   {
+   "name": "Pharmacie Abdelkarim Khattabi",
+   "address": "31 rue Chefchaouen - Autre ville derb 23, Meknès",
+   "phone": "+212640932359",
+   "lat": 33.893217,
+   "lng": -5.527629,
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
    "name": "PHARMACIE ACHOUHADA",
    "address": "hay Al Bassatine 7 Tranche 3 rte Bougaraa, Meknèsحي البساتين 7, قطاع 3 طريق بوجرا",
    "phone": "+212535502972",
@@ -22,6 +31,15 @@
    "lat": 33.8949921,
    "lng": -5.501797,
    "shift": "24h",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie Al Assil",
+   "address": "lotiss. El Assil - Autre ville Addoha Riad Toulal, Meknès",
+   "phone": "+212535556129",
+   "lat": 33.902195,
+   "lng": -5.600864,
+   "shift": "jour",
    "shift_label": ""
   },
   {
@@ -77,28 +95,10 @@
    "lng": -5.596821,
    "shift": "24h",
    "shift_label": ""
-  },
-  {
-   "name": "PHARMACIE BELLE VUE",
-   "address": "1 X rue Mansour Eddahbi, Meknès",
-   "phone": "+212664116149",
-   "lat": 33.9015116,
-   "lng": -5.5556718,
-   "shift": "24h",
-   "shift_label": ""
-  },
-  {
-   "name": "PHARMACIE BEN MOUSSA",
-   "address": "24 derb Ahl Souss hay Sultan Sidi Med Ben Abdellah Bab Kbich, Meknès",
-   "phone": "+212535552732",
-   "lat": 33.8615619,
-   "lng": -5.5511064,
-   "shift": "24h",
-   "shift_label": ""
   }
  ],
  "center": [
-  33.8982,
-  -5.5291
+  33.9015,
+  -5.5313
  ]
 }

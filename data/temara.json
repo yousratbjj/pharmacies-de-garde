@@ -12,16 +12,7 @@
    "phone": "+212663455044",
    "lat": 33.941539,
    "lng": -6.897608,
-   "shift": "jour",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie ANNAOURASSE",
-   "address": "Lotissement Al Hachimia II, N°226",
-   "phone": "+212537642975",
-   "lat": 33.9038688,
-   "lng": -6.9321027,
-   "shift": "jour",
+   "shift": "",
    "shift_label": ""
   },
   {
@@ -30,7 +21,7 @@
    "phone": "+212537606057",
    "lat": 33.928648,
    "lng": -6.895735,
-   "shift": "jour",
+   "shift": "nuit",
    "shift_label": ""
   },
   {
@@ -39,7 +30,7 @@
    "phone": "+212537561393",
    "lat": 33.9423669,
    "lng": -6.8862505,
-   "shift": "jour",
+   "shift": "",
    "shift_label": ""
   },
   {
@@ -48,16 +39,16 @@
    "phone": "+212537642705",
    "lat": 33.8996488,
    "lng": -6.9249648,
-   "shift": "jour",
+   "shift": "nuit",
    "shift_label": ""
   },
   {
-   "name": "Pharmacie LES ROCHES BLANCHES",
-   "address": "Av Moulay Abdellah, Temara plage (Casino)",
-   "phone": "+212537744707",
-   "lat": 33.9304396,
-   "lng": -6.9510769,
-   "shift": "jour",
+   "name": "Pharmacie ANNAOURASSE",
+   "address": "Lotissement Al Hachimia II, N°226",
+   "phone": "+212537642975",
+   "lat": 33.9038688,
+   "lng": -6.9321027,
+   "shift": "nuit",
    "shift_label": ""
   },
   {
@@ -66,7 +57,7 @@
    "phone": "+212537602705",
    "lat": 33.9242554,
    "lng": -6.8921914,
-   "shift": "jour",
+   "shift": "",
    "shift_label": ""
   },
   {
@@ -75,7 +66,7 @@
    "phone": "+212537622291",
    "lat": 33.895935,
    "lng": -6.935582,
-   "shift": "jour",
+   "shift": "nuit",
    "shift_label": ""
   },
   {
@@ -84,12 +75,21 @@
    "phone": "+212530463424",
    "lat": 33.901083,
    "lng": -6.910194,
-   "shift": "jour",
+   "shift": "",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie le Littoral",
+   "address": "2 bd Ibn Sina - Autre ville Lamnaceur II villa n°1, El Harhoura",
+   "phone": "+212537626425",
+   "lat": 33.929911,
+   "lng": -6.946577,
+   "shift": "nuit",
    "shift_label": ""
   }
  ],
  "center": [
   33.9186,
-  -6.914
+  -6.9135
  ]
 }
