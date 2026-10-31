@@ -1,7 +1,7 @@
 {
  "city": "berkane",
  "label": "Berkane",
- "date": "2026-10-30",
+ "date": "2026-10-31",
  "source": "sahha.ma",
  "source_url": "https://sahha.ma/pharmacie-de-garde/berkane",
  "kind": "roster",
@@ -12,7 +12,7 @@
    "phone": "+212536257992",
    "lat": 34.92807,
    "lng": -2.328734,
-   "shift": "jour",
+   "shift": "nuit",
    "shift_label": ""
   },
   {
@@ -21,7 +21,7 @@
    "phone": "+212536613631",
    "lat": 34.92195,
    "lng": -2.3243333,
-   "shift": "jour",
+   "shift": "nuit",
    "shift_label": ""
   }
  ],

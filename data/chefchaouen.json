@@ -1,7 +1,7 @@
 {
  "city": "chefchaouen",
  "label": "Chefchaouen",
- "date": "2026-10-30",
+ "date": "2026-10-31",
  "source": "sahha.ma",
  "source_url": "https://sahha.ma/pharmacie-de-garde/chefchaouen",
  "kind": "roster",
@@ -12,7 +12,7 @@
    "phone": "+212539883008",
    "lat": 35.167417,
    "lng": -5.268767,
-   "shift": "jour",
+   "shift": "",
    "shift_label": ""
   }
  ],

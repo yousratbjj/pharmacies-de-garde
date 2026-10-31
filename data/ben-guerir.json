@@ -1,7 +1,7 @@
 {
  "city": "ben-guerir",
  "label": "Ben Guérir",
- "date": "2026-10-30",
+ "date": "2026-10-31",
  "source": "sahha.ma",
  "source_url": "https://sahha.ma/pharmacie-de-garde/ben-guerir",
  "kind": "roster",
@@ -12,7 +12,7 @@
    "phone": "+212524317053",
    "lat": 32.2444,
    "lng": -7.956833,
-   "shift": "jour",
+   "shift": "",
    "shift_label": ""
   },
   {
@@ -21,7 +21,7 @@
    "phone": "+212669624782",
    "lat": 32.21355,
    "lng": -7.92432,
-   "shift": "jour",
+   "shift": "",
    "shift_label": ""
   }
  ],

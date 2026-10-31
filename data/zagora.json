@@ -1,23 +1,23 @@
 {
  "city": "zagora",
  "label": "Zagora",
- "date": "2026-10-30",
+ "date": "2026-10-31",
  "source": "sahha.ma",
  "source_url": "https://sahha.ma/pharmacie-de-garde/zagora",
  "kind": "roster",
  "pharmacies": [
   {
-   "name": "Pharmacie Yassine",
-   "address": "278 bd Mohammed V, Zagora",
-   "phone": "+212524848719",
-   "lat": 30.345233,
-   "lng": -5.838167,
-   "shift": "nuit",
+   "name": "Pharmacie Amzrou",
+   "address": "hay Amezrou, Zagora",
+   "phone": "+212524847490",
+   "lat": 30.324989,
+   "lng": -5.840628,
+   "shift": "jour",
    "shift_label": ""
   }
  ],
  "center": [
-  30.3452,
-  -5.8382
+  30.325,
+  -5.8406
  ]
 }
