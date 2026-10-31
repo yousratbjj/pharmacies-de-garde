@@ -1,23 +1,23 @@
 {
  "city": "boujad",
  "label": "Boujad",
- "date": "2026-10-30",
+ "date": "2026-10-31",
  "source": "sahha.ma",
  "source_url": "https://sahha.ma/pharmacie-de-garde/boujad",
  "kind": "roster",
  "pharmacies": [
   {
-   "name": "Pharmacie Chifa",
-   "address": "517 av. Hassan II hay ElMassira, Boujad",
-   "phone": "+212526550977",
-   "lat": 32.770782,
-   "lng": -6.381596,
-   "shift": "nuit",
+   "name": "Pharmacie Bd Hassan II",
+   "address": "37 X bd Hassan II, Boujad",
+   "phone": "+212523414141",
+   "lat": 32.770864,
+   "lng": -6.384475,
+   "shift": "jour",
    "shift_label": ""
   }
  ],
  "center": [
-  32.7708,
-  -6.3816
+  32.7709,
+  -6.3845
  ]
 }

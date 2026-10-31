@@ -1,32 +1,41 @@
 {
  "city": "errachidia",
  "label": "Errachidia",
- "date": "2026-10-28",
+ "date": "2026-10-31",
  "source": "sahha.ma",
  "source_url": "https://sahha.ma/pharmacie-de-garde/errachidia",
  "kind": "roster",
  "pharmacies": [
   {
-   "name": "Pharmacie La Nouvelle",
-   "address": "ouled Elhaj rue 37 n°28",
-   "phone": "+212535572075",
-   "lat": 31.9362539,
-   "lng": -4.4126848,
-   "shift": "nuit",
+   "name": "Pharmacie Al Fath",
+   "address": "91 bd Moulay Ali Cherif",
+   "phone": "+212535572038",
+   "lat": 31.9288682,
+   "lng": -4.4272996,
+   "shift": "jour",
    "shift_label": ""
   },
   {
-   "name": "Pharmacie Targa",
-   "address": "Targa Jdida rue 50 n°5",
-   "phone": "+212535571416",
-   "lat": 31.9307758,
-   "lng": -4.4257895,
-   "shift": "nuit",
+   "name": "Pharmacie Boutalamine",
+   "address": "20 bd Dakhla Boutalamine",
+   "phone": "+212535571368",
+   "lat": 31.9258347,
+   "lng": -4.4445295,
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie L'habitat",
+   "address": "rue Abdelkrim Khattabi N.H",
+   "phone": "+212535574285",
+   "lat": 31.928726,
+   "lng": -4.421084,
+   "shift": "jour",
    "shift_label": ""
   }
  ],
  "center": [
-  31.9335,
-  -4.4192
+  31.9278,
+  -4.431
  ]
 }
