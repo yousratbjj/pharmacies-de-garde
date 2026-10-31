@@ -7,17 +7,17 @@
  "kind": "roster",
  "pharmacies": [
   {
-   "name": "Pharmacie Achifa",
-   "address": "1 av. Abbas M'Saadi, Al Hoceima",
-   "phone": "+212539980655",
-   "lat": 35.247704,
-   "lng": -3.936112,
-   "shift": "nuit",
+   "name": "Pharmacie Azir",
+   "address": "161 rue Sidi Abid, Al Hoceima",
+   "phone": "+212539985388",
+   "lat": 35.2539,
+   "lng": -3.934717,
+   "shift": "jour",
    "shift_label": ""
   }
  ],
  "center": [
-  35.2477,
-  -3.9361
+  35.2539,
+  -3.9347
  ]
 }

@@ -8,47 +8,47 @@
  "pharmacies": [
   {
    "name": "Pharmacie Al Bayane",
-   "address": "1 lotiss. Hiba - Autre ville Ibrahim Al Khalil El jadida",
+   "address": "lotiss. Hiba sect Ibrahim Al Khalil",
    "phone": "+212523395960",
    "lat": 33.231502,
    "lng": -8.504781,
-   "shift": "",
+   "shift": "jour",
    "shift_label": ""
   },
   {
    "name": "Pharmacie Amoury",
-   "address": "20 X rue M'barek Loughlimi Derb Ghalef",
+   "address": "20 X rue M'barek Loughlimi Derb Ghalef El jadida",
    "phone": "+212523342869",
-   "lat": 33.25467,
-   "lng": -8.506817,
-   "shift": "",
+   "lat": 33.2539077,
+   "lng": -8.5190324,
+   "shift": "jour",
    "shift_label": ""
   },
   {
    "name": "Pharmacie de France",
-   "address": "13 rue France",
+   "address": "13 rue France El jadida",
    "phone": "+212523352275",
-   "lat": 33.2588,
-   "lng": -8.5089,
-   "shift": "",
+   "lat": 33.257751,
+   "lng": -8.5094255,
+   "shift": "jour",
    "shift_label": ""
   },
   {
    "name": "Pharmacie El Khair",
-   "address": "61 bd Doukkala lotiss. Mouilha",
+   "address": "61, bd Doukkala, lotiss. Mouilha El jadida",
    "phone": "+212523390948",
-   "lat": 33.2509167,
-   "lng": -8.5209333,
-   "shift": "",
+   "lat": 33.2541002,
+   "lng": -8.508,
+   "shift": "jour",
    "shift_label": ""
   },
   {
    "name": "Pharmacie ElMassira",
-   "address": "205 bd Mohammed V El jadida",
+   "address": "205 bd Mohammed V",
    "phone": "+212523371099",
-   "lat": 33.2440575,
-   "lng": -8.4987398,
-   "shift": "",
+   "lat": 33.24365,
+   "lng": -8.5154833,
+   "shift": "jour",
    "shift_label": ""
   },
   {
@@ -57,7 +57,7 @@
    "phone": "+212523395464",
    "lat": 33.234985,
    "lng": -8.532288,
-   "shift": "",
+   "shift": "jour",
    "shift_label": ""
   },
   {
@@ -66,25 +66,25 @@
    "phone": "+212523392279",
    "lat": 33.229406,
    "lng": -8.512636,
-   "shift": "",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie les Parents",
-   "address": "bd Abdelhamid Bnou Badis ang. rue Brahim Roudani c.com. Acima B 3",
-   "phone": "+212523332187",
-   "lat": 33.24325,
-   "lng": -8.5125,
-   "shift": "",
+   "shift": "jour",
    "shift_label": ""
   },
   {
    "name": "Pharmacie Oscar",
-   "address": "23 bd Mohammed VI",
+   "address": "23, Bd Mohamed VI",
    "phone": "+212523351235",
-   "lat": 33.2498,
-   "lng": -8.50005,
-   "shift": "",
+   "lat": 33.2497299,
+   "lng": -8.4995847,
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie Pierre Corail Hajar Almarjanne",
+   "address": "13 GH3 resid. Diar Almarjanne",
+   "phone": "+212523387278",
+   "lat": 33.22564,
+   "lng": -8.52649,
+   "shift": "jour",
    "shift_label": ""
   },
   {
@@ -93,12 +93,12 @@
    "phone": "+212523374920",
    "lat": 33.2316326,
    "lng": -8.5007116,
-   "shift": "",
+   "shift": "jour",
    "shift_label": ""
   }
  ],
  "center": [
-  33.2429,
-  -8.5098
+  33.2412,
+  -8.5128
  ]
 }

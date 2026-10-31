@@ -7,12 +7,21 @@
  "kind": "roster",
  "pharmacies": [
   {
+   "name": "AL OUSRA",
+   "address": "661 Hay M'hamid 2",
+   "phone": "+212524370846",
+   "lat": 31.5896333,
+   "lng": -8.03955,
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
    "name": "Azli",
    "address": "Qt. Azli, face ancienne Mosquée derrière usine Coca à côté des Im. Saâdienne ERAC",
    "phone": "+212524342513",
    "lat": 31.624113,
    "lng": -8.0533084,
-   "shift": "",
+   "shift": "jour",
    "shift_label": ""
   },
   {
@@ -21,16 +30,25 @@
    "phone": "+212688127171",
    "lat": 31.6710951,
    "lng": -8.0535777,
-   "shift": "",
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
+   "name": "MORAKAB SOUK LKHMISS",
+   "address": "1, Morakab Bab Lkhmiss ( à côté de Souk Lkhmiss)",
+   "phone": "+212524390738",
+   "lat": 31.641914,
+   "lng": -7.986273,
+   "shift": "jour",
    "shift_label": ""
   },
   {
    "name": "OUHOUD",
-   "address": "294, Lot. Masmoudi, avant l’école Ouhoud, route Sidi Dou Targa",
+   "address": "294, Lot. Masmoudi, avant l’école Ouhoud, route Sidi Dou Targa, Marrakech TARGA",
    "phone": "+212524344395",
-   "lat": 31.6524772,
-   "lng": -8.0507147,
-   "shift": "",
+   "lat": 31.5737218,
+   "lng": -8.0684727,
+   "shift": "jour",
    "shift_label": ""
   },
   {
@@ -39,7 +57,7 @@
    "phone": "+212524342210",
    "lat": 31.6250167,
    "lng": -8.05635,
-   "shift": "",
+   "shift": "jour",
    "shift_label": ""
   },
   {
@@ -48,7 +66,7 @@
    "phone": "+212524432183",
    "lat": 31.6335452,
    "lng": -8.0015688,
-   "shift": "",
+   "shift": "jour",
    "shift_label": ""
   },
   {
@@ -57,16 +75,7 @@
    "phone": "+212524292696",
    "lat": 31.6358539,
    "lng": -7.9766519,
-   "shift": "",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie AL OUSRA",
-   "address": "661 Hay M'hamid 2",
-   "phone": "+212524370846",
-   "lat": 31.5896333,
-   "lng": -8.03955,
-   "shift": "",
+   "shift": "jour",
    "shift_label": ""
   },
   {
@@ -75,30 +84,21 @@
    "phone": "+212524383038",
    "lat": 31.6198167,
    "lng": -7.9903667,
-   "shift": "",
+   "shift": "jour",
    "shift_label": ""
   },
   {
    "name": "Pharmacie Assounna",
    "address": "384, M'hamid C, près du café Al Boughaz en face du collège Tarek Ibn Ziad, Marrakech LAMHAMID",
    "phone": "+212524361622",
-   "lat": 31.592383,
-   "lng": -8.034717,
-   "shift": "",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie Avenue Hassan II",
-   "address": "Av. Hassan II à 600m de Gare du Train, entre Aswak Essalam Guéliz et la Maison Hyundai, Marrakech GRAND GUELIZ",
-   "phone": "+212524421317",
-   "lat": 31.6273896,
-   "lng": -8.0249061,
-   "shift": "",
+   "lat": 31.5924391,
+   "lng": -8.0347884,
+   "shift": "jour",
    "shift_label": ""
   }
  ],
  "center": [
-  31.6271,
-  -8.0282
+  31.6207,
+  -8.0261
  ]
 }

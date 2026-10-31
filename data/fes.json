@@ -12,61 +12,79 @@
    "phone": "+212535732870",
    "lat": 34.0332985,
    "lng": -5.0,
-   "shift": "",
+   "shift": "jour",
    "shift_label": ""
   },
   {
-   "name": "Pharmacie Bel Bacha",
-   "address": "11 X bd Bahnini route hay Ennakhil, Fès",
-   "phone": "+212535654870",
-   "lat": 34.030047,
-   "lng": -5.014116,
-   "shift": "nuit",
+   "name": "Pharmacie Bouchra",
+   "address": "rte Ain Chkef - Autre ville lot Jinane 1, Fès",
+   "phone": "+212535962961",
+   "lat": 34.005838,
+   "lng": -5.012601,
+   "shift": "jour",
    "shift_label": ""
   },
   {
-   "name": "Pharmacie Espace Vert",
-   "address": "3 Lotiss. Ain Chkef, Fès",
-   "phone": "+212602908696",
-   "lat": 33.966483,
-   "lng": -5.029347,
-   "shift": "nuit",
+   "name": "Pharmacie Chifa",
+   "address": "arrondissement ain chkef, douar lbsays",
+   "phone": "+212673718378",
+   "lat": 34.0407799,
+   "lng": -5.0141234,
+   "shift": "jour",
    "shift_label": ""
   },
   {
-   "name": "Pharmacie Ismailia",
-   "address": "10 rue Ismailia lot Lahlou Mont fleuri 1, Fès",
-   "phone": "+212535731441",
-   "lat": 34.01065,
-   "lng": -4.983217,
-   "shift": "nuit",
+   "name": "Pharmacie Dayaa",
+   "address": "lotiss. Dayaa rue 3 n°4 bis Ain Kadousse, Fès",
+   "phone": "+212535755039",
+   "lat": 34.062815,
+   "lng": -5.018212,
+   "shift": "jour",
    "shift_label": ""
   },
   {
-   "name": "Pharmacie Loubna",
-   "address": "10 hay Sahraoua lot Reda Merja, Fès",
-   "phone": "+212535728596",
-   "lat": 34.02915,
-   "lng": -5.03783,
-   "shift": "nuit",
+   "name": "Pharmacie Debbagh",
+   "address": "bd abou obeida ibnou al jarrah",
+   "phone": "+212535622381",
+   "lat": 34.0346985,
+   "lng": -5.0161901,
+   "shift": "jour",
    "shift_label": ""
   },
   {
    "name": "Pharmacie Mouene",
-   "address": "hay Msallah lotiss. Andalous, Fès",
+   "address": "hay msallah lotiss. andalous",
    "phone": "+212535711748",
-   "lat": 34.054145,
-   "lng": -4.959904,
-   "shift": "nuit",
+   "lat": 34.0541634,
+   "lng": -4.9609005,
+   "shift": "jour",
    "shift_label": ""
   },
   {
-   "name": "Pharmacie Zalagh",
-   "address": "498 lotiss. Al Hadika, Fès",
-   "phone": "+212535756382",
-   "lat": 34.06195,
-   "lng": -5.0259,
-   "shift": "nuit",
+   "name": "Pharmacie Sagha",
+   "address": "42 rue Sagha, Fès",
+   "phone": "+212535634042",
+   "lat": 34.065611,
+   "lng": -4.973645,
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie Saquia Alhamra",
+   "address": "hay El Qods 2 bloc 15 n°30 Erac Sidi Brahim, Fès",
+   "phone": "+212535644293",
+   "lat": 34.01827,
+   "lng": -4.972497,
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie Ville Nouvelle",
+   "address": "29 bd des F.a.r. pl. Al Massira Al Khadra v.n., Fès",
+   "phone": "+212535641966",
+   "lat": 34.0342,
+   "lng": -4.9979,
+   "shift": "jour",
    "shift_label": ""
   },
   {
@@ -75,30 +93,12 @@
    "phone": "+212535605388",
    "lat": 34.0141662,
    "lng": -5.0067045,
-   "shift": "",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie Al Boukhari",
-   "address": "n 27 rue youssef ibn tachfine. oued fès",
-   "phone": "+212535754923",
-   "lat": 34.0568427,
-   "lng": -5.0357091,
-   "shift": "",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie Al Firdaous - Ch",
-   "address": "n°4, lotiss. jawahir bensouda",
-   "phone": "+212693877676",
-   "lat": 34.030968,
-   "lng": -5.064736,
-   "shift": "",
+   "shift": "jour",
    "shift_label": ""
   }
  ],
  "center": [
-  34.0288,
-  -5.0157
+  34.0364,
+  -4.9973
  ]
 }

@@ -7,44 +7,44 @@
  "kind": "roster",
  "pharmacies": [
   {
-   "name": "Pharmacie Dairiya",
-   "address": "1 bd Méknes résid. La Perla, Tétouan",
+   "name": "Pharmacie 9 Avril",
+   "address": "70 av 9 Avril hay Al Matar, Tétouan",
+   "phone": "+212539993416",
+   "lat": 35.594367,
+   "lng": -5.336917,
+   "shift": "nuit",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie Faculté des Sciences",
+   "address": "227 av. Hajeb Mhanech II, Tétouan",
+   "phone": "+212539970020",
+   "lat": 35.564424,
+   "lng": -5.364522,
+   "shift": "nuit",
+   "shift_label": ""
+  },
+  {
+   "name": "DAIRIYA",
+   "address": "Av meknes Résidence labrak bloc b N 1",
    "phone": "+212531085308",
-   "lat": 35.561467,
-   "lng": -5.369912,
+   "lat": 35.5699374,
+   "lng": -5.371607,
    "shift": "nuit",
    "shift_label": ""
   },
   {
-   "name": "Pharmacie Fadil",
-   "address": "K050 rue de Sebta km 5 n°13 Mallalienne Hajrat Laâroussa, Tétouan",
+   "name": "FADIL",
+   "address": "N13, Route sebta Km 5",
    "phone": "+212539994311",
-   "lat": 35.6049,
-   "lng": -5.3355,
+   "lat": 35.6048499,
+   "lng": -5.3356337,
    "shift": "nuit",
-   "shift_label": ""
-  },
-  {
-   "name": "LAAMRANI",
-   "address": "Av Soulaiman ben mahrane rte, Tangier",
-   "phone": "+212539969058",
-   "lat": 35.5658319,
-   "lng": -5.4136333,
-   "shift": "",
-   "shift_label": ""
-  },
-  {
-   "name": "PALESTINE",
-   "address": "Avenue des FAR",
-   "phone": "+212539973845",
-   "lat": 35.5786714,
-   "lng": -5.3559354,
-   "shift": "",
    "shift_label": ""
   }
  ],
  "center": [
-  35.5777,
-  -5.3687
+  35.5834,
+  -5.3522
  ]
 }

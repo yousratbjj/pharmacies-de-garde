@@ -12,16 +12,16 @@
    "phone": "+212524666266",
    "lat": 32.3050675,
    "lng": -9.23368,
-   "shift": "",
+   "shift": "jour",
    "shift_label": ""
   },
   {
    "name": "Pharmacie Al Wiam",
-   "address": "Al Wiam II lot 58 rue 1 Azib Derai",
+   "address": "Al Wiam II lot 58 rue 1 Azib Derai Safi",
    "phone": "+212524621130",
-   "lat": 32.287107,
-   "lng": -9.215736,
-   "shift": "",
+   "lat": 32.2870983,
+   "lng": -9.2157686,
+   "shift": "jour",
    "shift_label": ""
   },
   {
@@ -30,7 +30,7 @@
    "phone": "+212524611066",
    "lat": 32.2953,
    "lng": -9.2321,
-   "shift": "",
+   "shift": "jour",
    "shift_label": ""
   },
   {
@@ -39,25 +39,25 @@
    "phone": "+212524611610",
    "lat": 32.2857361,
    "lng": -9.2390131,
-   "shift": "",
+   "shift": "jour",
    "shift_label": ""
   },
   {
    "name": "Pharmacie Mouatassim",
-   "address": "Rte diour Si Abbas douar deriouchat Safi",
+   "address": "Rte diour Si Abbas douar deriouchat",
    "phone": "+212600337586",
-   "lat": 32.256681,
-   "lng": -9.242866,
-   "shift": "",
+   "lat": 32.256694,
+   "lng": -9.248537,
+   "shift": "jour",
    "shift_label": ""
   },
   {
    "name": "Pharmacie Zamzam",
-   "address": "Lotiss. Zohour , Rte Sania",
+   "address": "Lotiss. Zohour rte Sania Safi",
    "phone": "+212524651551",
    "lat": 32.2718318,
    "lng": -9.2305076,
-   "shift": "",
+   "shift": "jour",
    "shift_label": ""
   },
   {
@@ -66,7 +66,7 @@
    "phone": "+212524651801",
    "lat": 32.26655,
    "lng": -9.24635,
-   "shift": "",
+   "shift": "jour",
    "shift_label": ""
   },
   {
@@ -75,21 +75,21 @@
    "phone": "+212524650367",
    "lat": 32.2644295,
    "lng": -9.23983,
-   "shift": "",
+   "shift": "jour",
    "shift_label": ""
   },
   {
    "name": "Pharmacie la Marine",
-   "address": "83, Bd Chakib Arssalane , Oued Elbacha",
+   "address": "83 bd Chakib Arssalane oued ElBacha Safi",
    "phone": "+212524630608",
    "lat": 32.3072904,
    "lng": -9.2378754,
-   "shift": "",
+   "shift": "jour",
    "shift_label": ""
   }
  ],
  "center": [
   32.2822,
-  -9.2353
+  -9.236
  ]
 }

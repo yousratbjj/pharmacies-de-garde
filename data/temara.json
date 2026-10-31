@@ -7,21 +7,21 @@
  "kind": "roster",
  "pharmacies": [
   {
+   "name": "Pharmacie AL FARABI",
+   "address": "عمارة 3 تجزئة المستقبل مسيرة 1 Imm 3 Lotissement Al Mostakbal - Massira 1",
+   "phone": "+212537605603",
+   "lat": 33.9365822,
+   "lng": -6.8982651,
+   "shift": "nuit",
+   "shift_label": ""
+  },
+  {
    "name": "Pharmacie AL MASJID",
    "address": "N° 276, Secteur 1 Ouled Mtaâ",
    "phone": "+212663455044",
    "lat": 33.941539,
    "lng": -6.897608,
    "shift": "",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie EL MASSIRA",
-   "address": "Sect3 N°336 (Prés de l'institut Najah)",
-   "phone": "+212537606057",
-   "lat": 33.928648,
-   "lng": -6.895735,
-   "shift": "nuit",
    "shift_label": ""
   },
   {
@@ -34,21 +34,12 @@
    "shift_label": ""
   },
   {
-   "name": "Pharmacie LA PAIX",
-   "address": "20, Avenue Tarek ibn Zyad",
-   "phone": "+212537642705",
-   "lat": 33.8996488,
-   "lng": -6.9249648,
-   "shift": "nuit",
-   "shift_label": ""
-  },
-  {
    "name": "Pharmacie ANNAOURASSE",
    "address": "Lotissement Al Hachimia II, N°226",
    "phone": "+212537642975",
    "lat": 33.9038688,
    "lng": -6.9321027,
-   "shift": "nuit",
+   "shift": "",
    "shift_label": ""
   },
   {
@@ -79,17 +70,17 @@
    "shift_label": ""
   },
   {
-   "name": "Pharmacie le Littoral",
-   "address": "2 bd Ibn Sina - Autre ville Lamnaceur II villa n°1, El Harhoura",
-   "phone": "+212537626425",
-   "lat": 33.929911,
-   "lng": -6.946577,
+   "name": "Pharmacie LA PAIX",
+   "address": "20, Avenue Tarek ibn Zyad",
+   "phone": "+212537642705",
+   "lat": 33.8996488,
+   "lng": -6.9249648,
    "shift": "nuit",
    "shift_label": ""
   }
  ],
  "center": [
-  33.9186,
-  -6.9135
+  33.9182,
+  -6.9096
  ]
 }

@@ -7,26 +7,26 @@
  "kind": "roster",
  "pharmacies": [
   {
-   "name": "Pharmacie Annarjis",
-   "address": "4 bd Tafilelt - Autre ville, Guercif",
-   "phone": "+212535200459",
-   "lat": 34.224328,
-   "lng": -3.343142,
-   "shift": "nuit",
-   "shift_label": ""
-  },
-  {
    "name": "Pharmacie Nougd (Hamria AlJadida)",
    "address": "36 bd. Abdelkrim El Khattabi hay Nougd, Guercif",
    "phone": "+212535200115",
    "lat": 34.232395,
    "lng": -3.353883,
-   "shift": "nuit",
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie Ouled Hamoussa",
+   "address": "bd Ibn Haytam rue 2 n°1, Guercif",
+   "phone": "+212535200954",
+   "lat": 34.2278,
+   "lng": -3.33766,
+   "shift": "jour",
    "shift_label": ""
   }
  ],
  "center": [
-  34.2284,
-  -3.3485
+  34.2301,
+  -3.3458
  ]
 }

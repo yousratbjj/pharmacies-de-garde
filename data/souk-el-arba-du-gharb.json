@@ -7,17 +7,17 @@
  "kind": "roster",
  "pharmacies": [
   {
-   "name": "Pharmacie Hind",
-   "address": "1114 hay Hind rue Abdelmajid Benchekroune, Souk El Arba du Gharb",
-   "phone": "+212537901600",
-   "lat": 34.681571,
-   "lng": -5.990255,
+   "name": "Pharmacie Hôpital",
+   "address": "37 av Mfadel Cherkaoui, Souk El Arba du Gharb",
+   "phone": "+212537902224",
+   "lat": 34.682466,
+   "lng": -6.001877,
    "shift": "nuit",
    "shift_label": ""
   }
  ],
  "center": [
-  34.6816,
-  -5.9903
+  34.6825,
+  -6.0019
  ]
 }

@@ -7,17 +7,17 @@
  "kind": "roster",
  "pharmacies": [
   {
-   "name": "Pharmacie El Malhi",
-   "address": "987 rue El Mangoub hay Takaddoum",
-   "phone": "+212536694610",
-   "lat": 34.3988673,
-   "lng": -2.9058624,
+   "name": "Pharmacie Lafdil",
+   "address": "521 rue Taounat hay Salam",
+   "phone": "+212536698485",
+   "lat": 34.4113486,
+   "lng": -2.9020215,
    "shift": "nuit",
    "shift_label": ""
   }
  ],
  "center": [
-  34.3989,
-  -2.9059
+  34.4113,
+  -2.902
  ]
 }

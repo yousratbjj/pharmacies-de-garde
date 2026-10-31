@@ -12,43 +12,79 @@
    "phone": "+212536524285",
    "lat": 34.7032127,
    "lng": -1.9213703,
-   "shift": "nuit",
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie Al Faraj",
+   "address": "3 hay Annasr rte Marhnia",
+   "phone": "+212536702828",
+   "lat": 34.68389,
+   "lng": -1.909775,
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie Amar Bolis",
+   "address": "Rte. de Taza Hay Ennahda B2 n°8",
+   "phone": "+212536518224",
+   "lat": 34.6809167,
+   "lng": -1.9531667,
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie du Stade Municipal",
+   "address": "rue de Casa place du Stade de Municipal imm. Habous",
+   "phone": "+212536696878",
+   "lat": 34.6857167,
+   "lng": -1.9069667,
+   "shift": "jour",
    "shift_label": ""
   },
   {
    "name": "Pharmacie ElAzzaoui",
-   "address": "Rue Kafr Qacem Lot El Qods N 10",
+   "address": "10 Kaffr Kacem ElQods",
    "phone": "+212536500620",
-   "lat": 34.657783,
-   "lng": -1.895867,
-   "shift": "nuit",
+   "lat": 34.6577833,
+   "lng": -1.8958667,
+   "shift": "jour",
    "shift_label": ""
   },
   {
    "name": "Pharmacie ElBaraka",
-   "address": "N 10 Boulevard Mohamed Bedrane Hay El Wahda Route De Taza",
+   "address": "10 bd. Mohamed Bedrane hay ElWahda",
    "phone": "+212536510673",
    "lat": 34.6756167,
    "lng": -1.9382333,
-   "shift": "nuit",
+   "shift": "jour",
    "shift_label": ""
   },
   {
-   "name": "Pharmacie Les Trois Fontaines",
-   "address": "15, bd Ferrane Ouled Aissa",
-   "phone": "+212536712122",
-   "lat": 34.6791979,
-   "lng": -1.9134852,
-   "shift": "nuit",
+   "name": "Pharmacie la Libérté",
+   "address": "169 hay Essalam rue A11. Aouinat Sarrak",
+   "phone": "+212536534682",
+   "lat": 34.6716833,
+   "lng": -1.9390833,
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie Salazar",
+   "address": "20 bd Hmidane ang. rue Fellah lot Badr",
+   "phone": "+212536542184",
+   "lat": 34.665725,
+   "lng": -1.912525,
+   "shift": "jour",
    "shift_label": ""
   },
   {
    "name": "Pharmacie Zenati Lazaret",
-   "address": "lotiss.Msirdi , Dhar Lamhala Lazaret",
+   "address": "lotiss.Msirdi Dhar Lamhala Lazaret",
    "phone": "+212536747552",
-   "lat": 34.6780661,
-   "lng": -1.8752953,
-   "shift": "nuit",
+   "lat": 34.67835,
+   "lng": -1.8754167,
+   "shift": "jour",
    "shift_label": ""
   },
   {
@@ -57,48 +93,12 @@
    "phone": "+212 536712122",
    "lat": 34.6792032,
    "lng": -1.9135081,
-   "shift": "",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie Benkhirane",
-   "address": "Lot Benkhirane C5 /48",
-   "phone": "+212536518154",
-   "lat": 34.656715,
-   "lng": -1.9337498,
-   "shift": "",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie Ihyae Chark",
-   "address": "lot Ihyae Chark Hay Agdal [+]حي أغدال2 طريق سيدي يحيى",
-   "phone": "+212536542116",
-   "lat": 34.681962,
-   "lng": -1.900155,
-   "shift": "",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie Moderne",
-   "address": "35, Rue De Marrakech",
-   "phone": "+212536682871",
-   "lat": 34.6817881,
-   "lng": -1.9119321,
-   "shift": "",
-   "shift_label": ""
-  },
-  {
-   "name": "PHARMACIE MOUSSAOUI",
-   "address": "Hay Al Hassani Annour Borj N°3سدرة بوعمود بين مدرسة مصطفى سكيكر ومدرسة إدريس الشرايبي",
-   "phone": "",
-   "lat": 34.7181658,
-   "lng": -1.8976851,
-   "shift": "",
+   "shift": "jour",
    "shift_label": ""
   }
  ],
  "center": [
-  34.6812,
-  -1.9101
+  34.6782,
+  -1.9166
  ]
 }

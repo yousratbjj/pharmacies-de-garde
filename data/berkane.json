@@ -7,26 +7,26 @@
  "kind": "roster",
  "pharmacies": [
   {
+   "name": "Pharmacie Al Farah",
+   "address": "5 bd Mohamed V hay Al Farah rte de Nador",
+   "phone": "+212536257992",
+   "lat": 34.92807,
+   "lng": -2.328734,
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
    "name": "Pharmacie Ibn Rochd",
    "address": "157 Rue Ibn Sina",
    "phone": "+212536613631",
    "lat": 34.92195,
    "lng": -2.3243333,
-   "shift": "nuit",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie Marché Couvert",
-   "address": "bd Mohammed V",
-   "phone": "+212536256268",
-   "lat": 34.9094541,
-   "lng": -2.3525037,
-   "shift": "nuit",
+   "shift": "jour",
    "shift_label": ""
   }
  ],
  "center": [
-  34.9157,
-  -2.3384
+  34.925,
+  -2.3265
  ]
 }

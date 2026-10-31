@@ -7,20 +7,20 @@
  "kind": "roster",
  "pharmacies": [
   {
-   "name": "Pharmacie le Moulin",
-   "address": "bd Bacha Abdelhamid El Alaoui rue 153 gpe 7",
-   "phone": "+212537386928",
-   "lat": 34.257607,
-   "lng": -6.560626,
+   "name": "Pharmacie AlAmana",
+   "address": "lotiss. El Wafa lot n° 1092",
+   "phone": "+212537384437",
+   "lat": 34.231119,
+   "lng": -6.550596,
    "shift": "jour",
    "shift_label": ""
   },
   {
-   "name": "Pharmacie Tahiri",
-   "address": "279 hay Bir Rami Ouest",
-   "phone": "+212537324114",
-   "lat": 34.256296,
-   "lng": -6.602768,
+   "name": "Pharmacie Rayane",
+   "address": "7 lotiss. Corsica",
+   "phone": "+212537352957",
+   "lat": 34.2707095,
+   "lng": -6.606695,
    "shift": "jour",
    "shift_label": ""
   },
@@ -30,7 +30,7 @@
    "phone": "+212537338274",
    "lat": 34.2648909,
    "lng": -6.6520185,
-   "shift": "nuit",
+   "shift": "jour",
    "shift_label": ""
   },
   {
@@ -39,7 +39,7 @@
    "phone": "+212537328632",
    "lat": 34.265064,
    "lng": -6.6474624,
-   "shift": "nuit",
+   "shift": "jour",
    "shift_label": ""
   },
   {
@@ -48,12 +48,12 @@
    "phone": "+212537317301",
    "lat": 34.2440841,
    "lng": -6.6640968,
-   "shift": "nuit",
+   "shift": "jour",
    "shift_label": ""
   }
  ],
  "center": [
-  34.2576,
-  -6.6254
+  34.2552,
+  -6.6242
  ]
 }

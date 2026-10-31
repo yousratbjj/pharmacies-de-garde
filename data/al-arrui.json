@@ -7,17 +7,17 @@
  "kind": "roster",
  "pharmacies": [
   {
-   "name": "Pharmacie Sinouh",
-   "address": "561 bd Hassan II, Al Arrui",
-   "phone": "+212536361092",
-   "lat": 35.008533,
-   "lng": -3.011817,
-   "shift": "nuit",
+   "name": "Pharmacie Badr",
+   "address": "423 bd. Hassan II, Al Arrui",
+   "phone": "+212536363888",
+   "lat": 35.012167,
+   "lng": -3.004,
+   "shift": "jour",
    "shift_label": ""
   }
  ],
  "center": [
-  35.0085,
-  -3.0118
+  35.0122,
+  -3.004
  ]
 }

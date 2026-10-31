@@ -7,26 +7,17 @@
  "kind": "roster",
  "pharmacies": [
   {
-   "name": "Pharmacie Meriem et Abdelkarim",
-   "address": "hay Al Omrane lot. n°25-98, Selouane",
-   "phone": "+212536358866",
-   "lat": 35.064739,
-   "lng": -2.918673,
-   "shift": "nuit",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie Taourirt Bousatta",
-   "address": "Taourirt Bousatta, Selouane",
-   "phone": "+212536609735",
-   "lat": 35.088742,
-   "lng": -2.939189,
+   "name": "Pharmacie El Chouhada",
+   "address": "hay ElJouhara n°73, Selouane",
+   "phone": "+212536609253",
+   "lat": 35.0652,
+   "lng": -2.926417,
    "shift": "nuit",
    "shift_label": ""
   }
  ],
  "center": [
-  35.0767,
-  -2.9289
+  35.0652,
+  -2.9264
  ]
 }

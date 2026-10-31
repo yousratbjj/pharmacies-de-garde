@@ -7,12 +7,12 @@
  "kind": "roster",
  "pharmacies": [
   {
-   "name": "Pharmacie Al Hikma",
-   "address": "294 bd. Mohammed V Jaadar",
-   "phone": "+212536353338",
-   "lat": 35.15457,
-   "lng": -2.97977,
-   "shift": "nuit",
+   "name": "Pharmacie Alikhlass",
+   "address": "route Zghanghan Ihddaden",
+   "phone": "+212536330508",
+   "lat": 35.1596333,
+   "lng": -2.9694667,
+   "shift": "jour",
    "shift_label": ""
   },
   {
@@ -21,30 +21,48 @@
    "phone": "+212536604408",
    "lat": 35.1751,
    "lng": -2.9223833,
-   "shift": "nuit",
+   "shift": "jour",
    "shift_label": ""
   },
   {
-   "name": "Pharmacie Boubnane",
-   "address": "hay Al Matar av. Imzoujana H lot Saada",
-   "phone": "+212536381213",
-   "lat": 35.16226,
-   "lng": -2.924926,
-   "shift": "nuit",
+   "name": "Pharmacie Arrid",
+   "address": "quartier Arrid sect. n°2",
+   "phone": "+212536334653",
+   "lat": 35.1553333,
+   "lng": -2.92305,
+   "shift": "jour",
    "shift_label": ""
   },
   {
-   "name": "Pharmacie Bouyzarzar",
-   "address": "commune Ihaddaden",
-   "phone": "+212536601192",
-   "lat": 35.163787,
-   "lng": -2.920697,
-   "shift": "nuit",
+   "name": "Pharmacie ElOum",
+   "address": "bd. Mohammed V Jaadar",
+   "phone": "+212536353864",
+   "lat": 35.1538,
+   "lng": -2.98865,
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie Imane Santé",
+   "address": "532 rue Pontoise",
+   "phone": "+212536383806",
+   "lat": 35.151088,
+   "lng": -2.908549,
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie Kachadiya",
+   "address": "Douar Kachadia",
+   "phone": "+212536609183",
+   "lat": 35.0971872,
+   "lng": -2.9409589,
+   "shift": "jour",
    "shift_label": ""
   }
  ],
  "center": [
-  35.1639,
-  -2.9369
+  35.1487,
+  -2.9422
  ]
 }

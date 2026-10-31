@@ -7,26 +7,26 @@
  "kind": "roster",
  "pharmacies": [
   {
-   "name": "Pharmacie Al Ichrak",
-   "address": "291 hay Al Ichrak lotiss. Amharef hay Hassani",
-   "phone": "+212535281372",
-   "lat": 34.218975,
-   "lng": -4.005745,
+   "name": "Pharmacie Essaâda",
+   "address": "hay Essaâda n°7-8-9",
+   "phone": "+212535283972",
+   "lat": 34.2139333,
+   "lng": -4.0008833,
    "shift": "nuit",
    "shift_label": ""
   },
   {
-   "name": "Pharmacie Al Mouaskar",
-   "address": "111 hay Chouhada",
-   "phone": "+212535281827",
-   "lat": 34.216055,
-   "lng": -4.020398,
+   "name": "Pharmacie Ourida",
+   "address": "111 Avenue Allal Ben Abdallah",
+   "phone": "+212535673819",
+   "lat": 34.2187167,
+   "lng": -4.0051333,
    "shift": "nuit",
    "shift_label": ""
   }
  ],
  "center": [
-  34.2175,
-  -4.0131
+  34.2163,
+  -4.003
  ]
 }

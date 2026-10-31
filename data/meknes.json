@@ -7,12 +7,12 @@
  "kind": "roster",
  "pharmacies": [
   {
-   "name": "Pharmacie Abdelkarim Khattabi",
-   "address": "31 rue Chefchaouen - Autre ville derb 23, Meknès",
-   "phone": "+212640932359",
-   "lat": 33.893217,
-   "lng": -5.527629,
-   "shift": "jour",
+   "name": "PHARMACIE ABDELKARIM EL KHATTABI",
+   "address": "31, Rue Chefchaouen, Derb 23",
+   "phone": "+212535548986",
+   "lat": 33.9252622,
+   "lng": -5.4938112,
+   "shift": "24h",
    "shift_label": ""
   },
   {
@@ -21,7 +21,16 @@
    "phone": "+212535502972",
    "lat": 33.8844602,
    "lng": -5.5058506,
-   "shift": "jour",
+   "shift": "24h",
+   "shift_label": ""
+  },
+  {
+   "name": "PHARMACIE ADDOHA",
+   "address": "241, lotiss. riad ouislane. route de fès a coté de alae eddine et station ziz",
+   "phone": "+212550041410",
+   "lat": 33.8983391,
+   "lng": -5.4739111,
+   "shift": "24h",
    "shift_label": ""
   },
   {
@@ -30,16 +39,16 @@
    "phone": "+212535503087",
    "lat": 33.8949921,
    "lng": -5.501797,
-   "shift": "jour",
+   "shift": "24h",
    "shift_label": ""
   },
   {
-   "name": "Pharmacie Al Assil",
+   "name": "PHARMACIE AL ASSIL",
    "address": "lotiss. El Assil - Autre ville Addoha Riad Toulal, Meknès",
    "phone": "+212535556129",
    "lat": 33.902195,
    "lng": -5.600864,
-   "shift": "jour",
+   "shift": "24h",
    "shift_label": ""
   },
   {
@@ -48,7 +57,7 @@
    "phone": "+212535644273",
    "lat": 33.903717,
    "lng": -5.573917,
-   "shift": "jour",
+   "shift": "24h",
    "shift_label": ""
   },
   {
@@ -57,7 +66,7 @@
    "phone": "+212535403598",
    "lat": 33.8975448,
    "lng": -5.5516694,
-   "shift": "jour",
+   "shift": "24h",
    "shift_label": ""
   },
   {
@@ -66,16 +75,16 @@
    "phone": "+212535549152",
    "lat": 33.9187809,
    "lng": -5.4952159,
-   "shift": "jour",
+   "shift": "24h",
    "shift_label": ""
   },
   {
-   "name": "PHARMACIE ARRAHMA",
-   "address": "86 lotiss. Riad Ouislane - Autre ville, Meknès",
-   "phone": "+212625094244",
-   "lat": 33.8971861,
-   "lng": -5.4708502,
-   "shift": "jour",
+   "name": "PHARMACIE AL MOUNTAZAH",
+   "address": "N 523 Lotissment Assalam tranch 2 mejjat",
+   "phone": "+212535471807",
+   "lat": 33.8470685,
+   "lng": -5.5645883,
+   "shift": "24h",
    "shift_label": ""
   },
   {
@@ -84,21 +93,12 @@
    "phone": "+212535548090",
    "lat": 33.9208218,
    "lng": -5.4882235,
-   "shift": "jour",
-   "shift_label": ""
-  },
-  {
-   "name": "PHARMACIE ASSAKINA 5",
-   "address": "2 hay Toulal - Autre ville imm E mag.20, Meknès",
-   "phone": "+212648569943",
-   "lat": 33.90162,
-   "lng": -5.596821,
-   "shift": "jour",
+   "shift": "24h",
    "shift_label": ""
   }
  ],
  "center": [
-  33.9015,
-  -5.5313
+  33.8993,
+  -5.525
  ]
 }

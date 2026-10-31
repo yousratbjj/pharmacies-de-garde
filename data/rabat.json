@@ -7,75 +7,75 @@
  "kind": "roster",
  "pharmacies": [
   {
+   "name": "LA GRANDE PHARMACIE",
+   "address": "Rue Abou Fariss Al Marini",
+   "phone": "+212537709148",
+   "lat": 34.016583,
+   "lng": -6.832,
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie BENJELLOUN",
+   "address": "3 Rue Zerhoune Souissi (Prés de l’école al Manbâa)",
+   "phone": "+212537636864",
+   "lat": 33.963984,
+   "lng": -6.837452,
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie DE L'OCEAN",
+   "address": "54 Av Abdelkrim Al Khatabi",
+   "phone": "+212537202176",
+   "lat": 34.02525,
+   "lng": -6.846444,
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie EL HANAE",
+   "address": "16 Rue Omar El Jadidi, Akkari",
+   "phone": "+212537761695",
+   "lat": 34.011056,
+   "lng": -6.853806,
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie GHARNATA",
+   "address": "812 amal 1 idafi - C.Y.M",
+   "phone": "+212537281207",
+   "lat": 33.983778,
+   "lng": -6.883528,
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie IBN YASSINE",
+   "address": "شارع عقبة ساحة ابن ياسين بالقرب من القاعة المغطاة ابن ياسين ومقهى الوزاني",
+   "phone": "+212537772743",
+   "lat": 34.005083,
+   "lng": -6.847556,
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie NADIA",
+   "address": "Av Sidi Med BenAbdellah Rue 7 Hay Ahbass - C.Y.M",
+   "phone": "+212537692923",
+   "lat": 34.0010364,
+   "lng": -6.8713021,
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
    "name": "Pharmacie AL AMANE",
    "address": "443 Bis Amal 5 Massira - Hay El Fath Lotissement Grini C.Y.M",
    "phone": "+212537293647",
    "lat": 33.9734497,
    "lng": -6.8875728,
-   "shift": "nuit",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie ALIOUA",
-   "address": "N°66 Groupe Marjane Av Haman El Fatouaki",
-   "phone": "+212537759809",
-   "lat": 33.9841919,
-   "lng": -6.8199983,
-   "shift": "nuit",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie AL MAJD",
-   "address": "Bloc D5 N°9 Av Al Ijtihad Kouas - C.Y.M",
-   "phone": "+212537799696",
-   "lat": 33.9833037,
-   "lng": -6.8766888,
    "shift": "jour",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie DU MAUSOLEE",
-   "address": "8 Rue Al Mouahidine angle Bd Alaouine Hassan",
-   "phone": "+212537725120",
-   "lat": 34.0237279,
-   "lng": -6.8253586,
-   "shift": "nuit",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie EL KAMRA",
-   "address": "Bloc L N°187 El Kamra C.Y.M (En face Immeubles Touarga)",
-   "phone": "+212537295141",
-   "lat": 33.9966923,
-   "lng": -6.8683293,
-   "shift": "nuit",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie IBN HAYTHAM",
-   "address": "119 Avenue de la résistance - Ocean",
-   "phone": "+212537734603",
-   "lat": 34.017583,
-   "lng": -6.852139,
-   "shift": "nuit",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie MODERNE",
-   "address": "Place Rabiaa al Adaouia (entre marché de l'Agdal et résidence Kays)",
-   "phone": "+212537778982",
-   "lat": 34.001676,
-   "lng": -6.848337,
-   "shift": "nuit",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie SALSABIL",
-   "address": "Rue rubus sect 3 (entre école Ryad el Maarrifa et mosquée Karrakchou)",
-   "phone": "+212537712303",
-   "lat": 33.962959,
-   "lng": -6.860955,
-   "shift": "nuit",
    "shift_label": ""
   },
   {
@@ -84,21 +84,21 @@
    "phone": "+212537792986",
    "lat": 33.9668763,
    "lng": -6.9059703,
-   "shift": "",
+   "shift": "jour",
    "shift_label": ""
   },
   {
-   "name": "Pharmacie AL KHAWARIZMI",
-   "address": "N°1180 Avenue El Menzeh Hay El Menzeh C.Y.M",
-   "phone": "+212537791179",
-   "lat": 33.973167,
-   "lng": -6.894667,
-   "shift": "",
+   "name": "Pharmacie ALIOUA",
+   "address": "N°66 Groupe Marjane Av Haman El Fatouaki",
+   "phone": "+212537759809",
+   "lat": 33.9841919,
+   "lng": -6.8199983,
+   "shift": "jour",
    "shift_label": ""
   }
  ],
  "center": [
-  33.9884,
-  -6.864
+  33.9931,
+  -6.8586
  ]
 }

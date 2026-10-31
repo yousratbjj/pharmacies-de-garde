@@ -7,17 +7,17 @@
  "kind": "roster",
  "pharmacies": [
   {
-   "name": "Pharmacie El Felline",
-   "address": "1006 lotiss. Dalia I - Autre ville, Tiflet",
-   "phone": "+212537510242",
-   "lat": 33.9039,
-   "lng": -6.33471,
+   "name": "Pharmacie Alqods",
+   "address": "248 lotiss. Warda, Tiflet",
+   "phone": "+212537511593",
+   "lat": 33.89207,
+   "lng": -6.32283,
    "shift": "nuit",
    "shift_label": ""
   }
  ],
  "center": [
-  33.9039,
-  -6.3347
+  33.8921,
+  -6.3228
  ]
 }

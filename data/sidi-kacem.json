@@ -7,17 +7,17 @@
  "kind": "roster",
  "pharmacies": [
   {
-   "name": "Pharmacie AlKhawarizmi",
-   "address": "Nouveau Quartier rue 20 n°2",
-   "phone": "+212690875123",
-   "lat": 34.22318,
-   "lng": -5.704959,
+   "name": "Pharmacie Chams",
+   "address": "hay El Yassmine bloc B n°312",
+   "phone": "+212537591919",
+   "lat": 34.227516,
+   "lng": -5.727896,
    "shift": "nuit",
    "shift_label": ""
   }
  ],
  "center": [
-  34.2232,
-  -5.705
+  34.2275,
+  -5.7279
  ]
 }

@@ -7,17 +7,17 @@
  "kind": "roster",
  "pharmacies": [
   {
-   "name": "Pharmacie AlMahatta",
-   "address": "34 X rue 16 Novembre (ex la Gare), Mechraa Bel Ksiri",
-   "phone": "+212537905539",
-   "lat": 34.576991,
-   "lng": -5.961993,
-   "shift": "nuit",
+   "name": "Pharmacie Bouitat",
+   "address": "7 lotiss. Bouitat, Mechraa Bel Ksiri",
+   "phone": "+212537438590",
+   "lat": 34.581275,
+   "lng": -5.950708,
+   "shift": "jour",
    "shift_label": ""
   }
  ],
  "center": [
-  34.577,
-  -5.962
+  34.5813,
+  -5.9507
  ]
 }

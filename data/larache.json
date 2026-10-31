@@ -7,17 +7,17 @@
  "kind": "roster",
  "pharmacies": [
   {
-   "name": "Pharmacie Ibn Sina",
-   "address": "299 lot. AlWafae",
-   "phone": "+212539500404",
-   "lat": 35.1752167,
-   "lng": -6.15275,
-   "shift": "nuit",
+   "name": "Pharmacie Nahda",
+   "address": "av Mehdi Ben Toumert",
+   "phone": "+212539521020",
+   "lat": 35.1806667,
+   "lng": -6.1536333,
+   "shift": "jour",
    "shift_label": ""
   }
  ],
  "center": [
-  35.1752,
-  -6.1528
+  35.1807,
+  -6.1536
  ]
 }

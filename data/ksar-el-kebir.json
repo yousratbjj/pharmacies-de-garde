@@ -7,17 +7,17 @@
  "kind": "roster",
  "pharmacies": [
   {
-   "name": "Pharmacie Al Madina (Mahaj Med 6)",
-   "address": "84 X hay Lalla Fatima Andaloussia",
-   "phone": "+212539903744",
-   "lat": 34.996868,
-   "lng": -5.886751,
-   "shift": "nuit",
+   "name": "Pharmacie Ouelad Hmayd",
+   "address": "rue de Brique Oulad Hmayd",
+   "phone": "+212539918465",
+   "lat": 35.02528,
+   "lng": -5.9111,
+   "shift": "jour",
    "shift_label": ""
   }
  ],
  "center": [
-  34.9969,
-  -5.8868
+  35.0253,
+  -5.9111
  ]
 }

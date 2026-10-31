@@ -16,6 +16,15 @@
    "shift_label": ""
   },
   {
+   "name": "Pharmacie Amine",
+   "address": "12 Av. Mohammed V rte Dar Belamri, Sidi Slimane",
+   "phone": "+212537502078",
+   "lat": 34.259166,
+   "lng": -5.929592,
+   "shift": "nuit",
+   "shift_label": ""
+  },
+  {
    "name": "PHARMACIE ARRAHMA",
    "address": "hay Ouled El Ghazi rue 10 n°244, Sidi Slimane",
    "phone": "+212537505768",
@@ -34,12 +43,12 @@
    "shift_label": ""
   },
   {
-   "name": "Pharmacie Chifaa",
-   "address": "hay Laymoune bloc 27 n°7, Sidi Slimane",
+   "name": "PHARMACIE CHIFAA",
+   "address": "hay Laymoune bloc 27 n°7 SIDI SLIMANE",
    "phone": "+212537503034",
    "lat": 34.251813,
    "lng": -5.927786,
-   "shift": "nuit",
+   "shift": "jour",
    "shift_label": ""
   },
   {
@@ -71,7 +80,7 @@
   }
  ],
  "center": [
-  34.257,
-  -5.9282
+  34.2573,
+  -5.9284
  ]
 }
