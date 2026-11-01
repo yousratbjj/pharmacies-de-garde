@@ -1,59 +1,32 @@
 {
  "city": "ait-melloul",
  "label": "Aït Melloul",
- "date": "2026-10-31",
+ "date": "2026-11-01",
  "source": "sahha.ma",
  "source_url": "https://sahha.ma/pharmacie-de-garde/ait-melloul",
  "kind": "roster",
  "pharmacies": [
   {
-   "name": "Grande Pharmacie Laarab",
-   "address": "92 douar Laarab bloc 2",
-   "phone": "+212528240763",
-   "lat": 30.362147,
-   "lng": -9.479289,
-   "shift": "jour",
+   "name": "Pharmacie Ait Oujrar (Al Amal)",
+   "address": "181 hay Al Amal Ait Oujrar",
+   "phone": "+212528244545",
+   "lat": 30.352463,
+   "lng": -9.4915143,
+   "shift": "nuit",
    "shift_label": ""
   },
   {
-   "name": "Pharmacie Aït Melloul",
-   "address": "1 bd AlMassira",
-   "phone": "+212528240731",
-   "lat": 30.3438667,
-   "lng": -9.5025,
-   "shift": "jour",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie alhouda",
-   "address": "rte Lkhmaiss koleaa",
-   "phone": "+212528310361",
-   "lat": 30.2962667,
-   "lng": -9.4676,
-   "shift": "jour",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie du Souk",
-   "address": "86 C lot. Argana",
-   "phone": "+212528241528",
-   "lat": 30.3255667,
-   "lng": -9.4969833,
-   "shift": "jour",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie Ouali",
-   "address": "154 Lotiss. Bermat Tamzart",
-   "phone": "+212528241726",
-   "lat": 30.347874,
-   "lng": -9.51877,
-   "shift": "jour",
+   "name": "Pharmacie AlMasjid",
+   "address": "Hay Argana bloc C n°12",
+   "phone": "+212528249632",
+   "lat": 30.3309667,
+   "lng": -9.4974167,
+   "shift": "nuit",
    "shift_label": ""
   }
  ],
  "center": [
-  30.3351,
-  -9.493
+  30.3417,
+  -9.4945
  ]
 }

@@ -1,7 +1,7 @@
 {
  "city": "nador",
  "label": "Nador",
- "date": "2026-10-31",
+ "date": "2026-11-01",
  "source": "sahha.ma",
  "source_url": "https://sahha.ma/pharmacie-de-garde/nador",
  "kind": "roster",
@@ -12,30 +12,21 @@
    "phone": "+212536604408",
    "lat": 35.1751,
    "lng": -2.9223833,
-   "shift": "jour",
+   "shift": "nuit",
    "shift_label": ""
   },
   {
-   "name": "Pharmacie Bouftil",
-   "address": "bd Venezuela hay Ouled Boutayeb",
+   "name": "PHARMACIE BOUFTIL",
+   "address": "24 bd Venezuela hay Ouled Boutayeb Appeler 05 36 33 •• •• Itinéraire Carte Partager Voir la fiche",
    "phone": "+212536333633",
    "lat": 35.1703,
    "lng": -2.95129,
-   "shift": "jour",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie Bouyzarzar",
-   "address": "commune Ihaddaden",
-   "phone": "+212536601192",
-   "lat": 35.163787,
-   "lng": -2.920697,
-   "shift": "jour",
+   "shift": "nuit",
    "shift_label": ""
   }
  ],
  "center": [
-  35.1697,
-  -2.9315
+  35.1727,
+  -2.9368
  ]
 }

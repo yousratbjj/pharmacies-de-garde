@@ -1,7 +1,7 @@
 {
  "city": "rabat",
  "label": "Rabat",
- "date": "2026-10-31",
+ "date": "2026-11-01",
  "source": "sahha.ma",
  "source_url": "https://sahha.ma/pharmacie-de-garde/rabat",
  "kind": "roster",
@@ -12,7 +12,7 @@
    "phone": "+212537293647",
    "lat": 33.9734497,
    "lng": -6.8875728,
-   "shift": "jour",
+   "shift": "24h",
    "shift_label": ""
   },
   {
@@ -21,7 +21,7 @@
    "phone": "+212537631690",
    "lat": 34.0083637,
    "lng": -6.8538748,
-   "shift": "jour",
+   "shift": "24h",
    "shift_label": ""
   },
   {
@@ -30,7 +30,7 @@
    "phone": "+212537721002",
    "lat": 34.02629,
    "lng": -6.840303,
-   "shift": "jour",
+   "shift": "nuit",
    "shift_label": ""
   },
   {
@@ -39,7 +39,7 @@
    "phone": "+212537759202",
    "lat": 33.9658245,
    "lng": -6.8580023,
-   "shift": "jour",
+   "shift": "24h",
    "shift_label": ""
   },
   {
@@ -48,16 +48,7 @@
    "phone": "+212537693388",
    "lat": 34.016667,
    "lng": -6.856583,
-   "shift": "jour",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie BEKKARI",
-   "address": "285 Rue Oulfa Bloc R Amal 3 - C.Y.M",
-   "phone": "+212537794184",
-   "lat": 33.9785,
-   "lng": -6.881972,
-   "shift": "jour",
+   "shift": "nuit",
    "shift_label": ""
   },
   {
@@ -66,25 +57,7 @@
    "phone": "+212537722650",
    "lat": 34.016361,
    "lng": -6.849972,
-   "shift": "jour",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie DE LA SANTE",
-   "address": "Avenue Goundafa Angle Rue 6 Youssoufia Tél / Fax: 0537 65 02 52",
-   "phone": "+212537650252",
-   "lat": 33.9944174,
-   "lng": -6.8156642,
-   "shift": "jour",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie HAY BOUHLAL",
-   "address": "43, Groupe Al Itihad Av Sidi Mohamed Ben Abdellah Hay Bouhlal - C.Y.M",
-   "phone": "+212537297717",
-   "lat": 33.993917,
-   "lng": -6.877417,
-   "shift": "jour",
+   "shift": "nuit",
    "shift_label": ""
   },
   {
@@ -93,12 +66,21 @@
    "phone": "+212537292000",
    "lat": 33.966278,
    "lng": -6.897361,
-   "shift": "jour",
+   "shift": "nuit",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie UNIVERSELLE",
+   "address": "1, Avenue Allal Ben Abdellah",
+   "phone": "+212808508679",
+   "lat": 34.021667,
+   "lng": -6.836556,
+   "shift": "nuit",
    "shift_label": ""
   }
  ],
  "center": [
-  33.994,
-  -6.8619
+  33.9994,
+  -6.86
  ]
 }

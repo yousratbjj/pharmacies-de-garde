@@ -1,104 +1,32 @@
 {
  "city": "tetouan",
  "label": "Tétouan",
- "date": "2026-10-31",
+ "date": "2026-11-01",
  "source": "sahha.ma",
  "source_url": "https://sahha.ma/pharmacie-de-garde/tetouan",
  "kind": "roster",
  "pharmacies": [
   {
-   "name": "Grande Pharmacie du Nord",
-   "address": "11 bd. Mohammed V",
-   "phone": "+212539962207",
-   "lat": 35.5699833,
-   "lng": -5.3714333,
-   "shift": "",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie AlAndalous",
-   "address": "av Tarifa rue A n°22 Touabel Soufla",
-   "phone": "+212539994947",
-   "lat": 35.5783667,
-   "lng": -5.35305,
-   "shift": "",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie Boujarah",
-   "address": "47 av. Hadj Med. Bennouna Boujarrah",
-   "phone": "+212539995010",
-   "lat": 35.5918,
-   "lng": -5.3529167,
-   "shift": "",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie destin",
-   "address": "56 av. AlMoatassim lot. Mribtou hôpital Espagnol",
-   "phone": "+212539710288",
-   "lat": 35.5753,
-   "lng": -5.3560667,
-   "shift": "",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie Ibn Rochd",
-   "address": "66 av. Abderrahim Bouabid lotiss. Wilaya",
+   "name": "PHARMACIE IBN ROCHD",
+   "address": "66 av. Abderrahim Bouabid lotiss. Wilaya Appeler 05 39 99 •• •• Itinéraire Carte Partager Voir la fiche",
    "phone": "+212539991026",
-   "lat": 35.5790333,
-   "lng": -5.4553333,
-   "shift": "",
+   "lat": 35.587425,
+   "lng": -5.3392942,
+   "shift": "nuit",
    "shift_label": ""
   },
   {
-   "name": "Pharmacie Jbel Dersa",
-   "address": "1 rue Al Hizam Al Akhdar Jbel Dersa",
-   "phone": "+212539702310",
-   "lat": 35.5766833,
-   "lng": -5.3735333,
-   "shift": "",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie la Santé Coelma",
-   "address": "2 Rte Bouira lot Bennouna La Rocade",
-   "phone": "+212539726752",
-   "lat": 35.564968,
-   "lng": -5.368203,
-   "shift": "",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie Sumud",
-   "address": "26 rte M'diq km 4 Mouil",
-   "phone": "+212539993135",
-   "lat": 35.563798,
-   "lng": -5.367407,
-   "shift": "",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie Tnana",
-   "address": "294 av. Hassan II",
+   "name": "PHARMACIE TNANA",
+   "address": "294 av. Hassan II Appeler 05 39 70 •• •• Itinéraire Carte Partager Voir la fiche",
    "phone": "+212539701711",
-   "lat": 35.5673167,
-   "lng": -5.3697833,
-   "shift": "",
-   "shift_label": ""
-  },
-  {
-   "name": "PHARMACIE 9 AVRIL",
-   "address": "9 Avril Ouvert · jusqu'à 9h Garde de nuit 70 av 9 Avril hay Al Matar Appeler 05 39 99 •• •• Itinéraire Carte Partager Voir la ficheرقم70 شارع 9 ابريل",
-   "phone": "+212539993416",
-   "lat": 35.594367,
-   "lng": -5.336917,
-   "shift": "",
+   "lat": 35.5683524,
+   "lng": -5.3750578,
+   "shift": "nuit",
    "shift_label": ""
   }
  ],
  "center": [
-  35.5762,
-  -5.3705
+  35.5779,
+  -5.3572
  ]
 }

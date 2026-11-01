@@ -1,90 +1,54 @@
 {
  "city": "marrakech",
  "label": "Marrakech",
- "date": "2026-10-31",
+ "date": "2026-11-01",
  "source": "sahha.ma",
  "source_url": "https://sahha.ma/pharmacie-de-garde/marrakech",
  "kind": "roster",
  "pharmacies": [
   {
-   "name": "Pharmacie Alirfane",
-   "address": "40 Hay Rouidat III, Marrakech",
-   "phone": "+212524308286",
-   "lat": 31.644722,
-   "lng": -8.00335,
-   "shift": "jour",
+   "name": "Pharmacie AL BOUSTANE",
+   "address": "10, Av. Allal Fassi op. Al Boustane à 150m du Service des Mines, en face du jardin direction Marjane, Marrakech DAOUDIAT",
+   "phone": "+212524304004",
+   "lat": 31.6625566,
+   "lng": -8.0077748,
+   "shift": "nuit",
    "shift_label": ""
   },
   {
-   "name": "Pharmacie Al Manal",
-   "address": "877 lotiss. Zerktouni (bouakkaz) M'hamid, Marrakech",
-   "phone": "+212524372708",
-   "lat": 31.5975,
-   "lng": -8.0208,
-   "shift": "jour",
+   "name": "Pharmacie AL MARIFA",
+   "address": "Im. Sana Bd. Prince My Abdellah (Ex. Bd. Safi) en face Association Alaouite de Protection des Aveugles , Marrakech GRAND GUELIZ",
+   "phone": "+212524447697",
+   "lat": 31.6475304,
+   "lng": -8.0125106,
+   "shift": "nuit",
    "shift_label": ""
   },
   {
-   "name": "Pharmacie AlWifak",
-   "address": "43 bd Errazi lotiss. AlBaraka, Marrakech",
-   "phone": "+212524303522",
-   "lat": 31.669626,
-   "lng": -8.006907,
-   "shift": "jour",
+   "name": "Pharmacie BAB ASFI",
+   "address": "400m après Lycée Azouzia et après le dernier Rond Point du grand Bd. qui se situe au milieu d'El Azzouzia, Marrakech SIDI GHANEM AZZOUZIA",
+   "phone": "+212524356635",
+   "lat": 31.6856594,
+   "lng": -8.0696062,
+   "shift": "nuit",
    "shift_label": ""
   },
   {
-   "name": "Pharmacie Assounna",
-   "address": "384, M'hamid C, près du café Al Boughaz en face du collège Tarek Ibn Ziad, Marrakech LAMHAMID",
-   "phone": "+212524361622",
-   "lat": 31.5924391,
-   "lng": -8.0347884,
-   "shift": "jour",
+   "name": "Pharmacie BELMEJDOUB",
+   "address": "1, Lot. Oasis Al Izdihar Rte de Safi de Mc Do, 2ème feu Rouge, à droite (Attijari Wafa Bank) à côté des Ecoles Illou et la nouvelle mosquée de jnane Awrad, Marrakech HAY AL IZDIHAR",
+   "phone": "+212524336677",
+   "lat": 31.6640113,
+   "lng": -8.0269719,
+   "shift": "nuit",
    "shift_label": ""
   },
   {
-   "name": "Pharmacie Bismi Allah",
-   "address": "266 z.i. Sidi Ghanem, Marrakech",
-   "phone": "+212524335749",
-   "lat": 31.673883,
-   "lng": -8.046367,
-   "shift": "jour",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie Borj Targa",
-   "address": "rte de Souihla Targa, Marrakech",
-   "phone": "+212524343460",
-   "lat": 31.652067,
-   "lng": -8.061817,
-   "shift": "jour",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie Derb Elgabs",
-   "address": "349 X Derb El Gabs Syba, Marrakech",
-   "phone": "+212524401125",
-   "lat": 31.61055,
-   "lng": -7.963583,
-   "shift": "jour",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie Douae",
-   "address": "397 Quartier Al Azzouzia, Marrakech",
-   "phone": "+212524356492",
-   "lat": 31.685868,
-   "lng": -8.073422,
-   "shift": "jour",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie Douar ElAskar",
-   "address": "hay El Hassani bloc 41 n°943, Marrakech",
-   "phone": "+212524340032",
-   "lat": 31.629767,
-   "lng": -8.048483,
-   "shift": "jour",
+   "name": "Pharmacie Douar Jdid",
+   "address": "986, Douar Dlam Route de l'ITA vers Douar Koucou Près de la Mosquée SI Ismaël SYBA , Marrakech SIDI YOUSSEF",
+   "phone": "+212527652210",
+   "lat": 31.597028,
+   "lng": -7.962058,
+   "shift": "nuit",
    "shift_label": ""
   },
   {
@@ -93,12 +57,48 @@
    "phone": "+212761621627",
    "lat": 31.655465,
    "lng": -8.081396,
-   "shift": "jour",
+   "shift": "nuit",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie HEALTH CROWN",
+   "address": "54, Lot. Tassila, à côté de la Mosquée Al Mustapha entre Aach Bellarj et l'Hôpital Mohamed VI, Marrakech DAOUDIAT",
+   "phone": "+212808513798",
+   "lat": 31.6703045,
+   "lng": -8.0004164,
+   "shift": "nuit",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie IMAM MOUSLIM",
+   "address": "381, Saada 6 près de l’école Imam Mouslim vers l'avenue menant à Maatallah, à côté de Hammam Nakhil, Marrakech LAMHAMID",
+   "phone": "+212524360061",
+   "lat": 31.5936895,
+   "lng": -8.046222,
+   "shift": "nuit",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie LA FAMILLE",
+   "address": "Fin Av. Tachfine Qt. Riad Al Menara (nouveau quartier), direction l'Aéroport à côté de la Mosquée Al Ghorfrane, Marrakech HAY HASSANI",
+   "phone": "+212524394920",
+   "lat": 31.613134,
+   "lng": -8.049369,
+   "shift": "nuit",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie Lakhili",
+   "address": "103, Lakhili à côté de Massi, Route de la forêt entre Souk R'bii et Atacadao Nakhil Sud, Marrakech NAKHIL SUD",
+   "phone": "+212701410241",
+   "lat": 31.625136,
+   "lng": -7.967032,
+   "shift": "nuit",
    "shift_label": ""
   }
  ],
  "center": [
-  31.6412,
-  -8.0341
+  31.6415,
+  -8.0223
  ]
 }

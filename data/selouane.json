@@ -1,7 +1,7 @@
 {
  "city": "selouane",
  "label": "Selouane",
- "date": "2026-10-31",
+ "date": "2026-11-01",
  "source": "sahha.ma",
  "source_url": "https://sahha.ma/pharmacie-de-garde/selouane",
  "kind": "roster",
@@ -12,7 +12,7 @@
    "phone": "+212654044591",
    "lat": 35.049209,
    "lng": -2.945882,
-   "shift": "jour",
+   "shift": "nuit",
    "shift_label": ""
   },
   {
@@ -21,7 +21,7 @@
    "phone": "+212536609047",
    "lat": 35.07494,
    "lng": -2.939456,
-   "shift": "jour",
+   "shift": "nuit",
    "shift_label": ""
   }
  ],

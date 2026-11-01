@@ -1,20 +1,11 @@
 {
  "city": "taourirt",
  "label": "Taourirt",
- "date": "2026-10-31",
+ "date": "2026-11-01",
  "source": "sahha.ma",
  "source_url": "https://sahha.ma/pharmacie-de-garde/taourirt",
  "kind": "roster",
  "pharmacies": [
-  {
-   "name": "Pharmacie Andalouss",
-   "address": "hay Mokhtar Soussi, Taourirt",
-   "phone": "+212536694130",
-   "lat": 34.405679,
-   "lng": -2.907478,
-   "shift": "nuit",
-   "shift_label": ""
-  },
   {
    "name": "PHARMACIE LAFDIL",
    "address": "521 rue Taounat hay Salam Appeler 05 36 69 •• •• Itinéraire Carte Partager Voir la fiche",
@@ -26,7 +17,7 @@
   }
  ],
  "center": [
-  34.4085,
-  -2.9047
+  34.4113,
+  -2.902
  ]
 }

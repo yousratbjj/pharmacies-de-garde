@@ -1,7 +1,7 @@
 {
  "city": "berkane",
  "label": "Berkane",
- "date": "2026-10-31",
+ "date": "2026-11-01",
  "source": "sahha.ma",
  "source_url": "https://sahha.ma/pharmacie-de-garde/berkane",
  "kind": "roster",
@@ -12,7 +12,7 @@
    "phone": "+212536257992",
    "lat": 34.92807,
    "lng": -2.328734,
-   "shift": "jour",
+   "shift": "nuit",
    "shift_label": ""
   },
   {
@@ -21,16 +21,7 @@
    "phone": "+212536617070",
    "lat": 34.9205,
    "lng": -2.3352,
-   "shift": "jour",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie de l'Hôpital",
-   "address": "91 bd. Sultan My Mhamed",
-   "phone": "+212536613990",
-   "lat": 34.9242667,
-   "lng": -2.3280167,
-   "shift": "jour",
+   "shift": "nuit",
    "shift_label": ""
   },
   {
@@ -39,7 +30,16 @@
    "phone": "+212536613631",
    "lat": 34.92195,
    "lng": -2.3243333,
-   "shift": "jour",
+   "shift": "nuit",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie de l'Hôpital",
+   "address": "91 bd. Sultan My Mhamed",
+   "phone": "+212536613990",
+   "lat": 34.9242667,
+   "lng": -2.3280167,
+   "shift": "nuit",
    "shift_label": ""
   }
  ],

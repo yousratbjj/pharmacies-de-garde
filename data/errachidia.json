@@ -1,27 +1,18 @@
 {
  "city": "errachidia",
  "label": "Errachidia",
- "date": "2026-10-31",
+ "date": "2026-11-01",
  "source": "sahha.ma",
  "source_url": "https://sahha.ma/pharmacie-de-garde/errachidia",
  "kind": "roster",
  "pharmacies": [
   {
-   "name": "Pharmacie Al Fath",
-   "address": "91 bd Moulay Ali Cherif",
-   "phone": "+212535572038",
-   "lat": 31.9288682,
-   "lng": -4.4272996,
-   "shift": "jour",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie Boutalamine",
-   "address": "20 bd Dakhla Boutalamine",
-   "phone": "+212535571368",
-   "lat": 31.9258347,
-   "lng": -4.4445295,
-   "shift": "jour",
+   "name": "Pharmacie La Cité Universitaire",
+   "address": "535 lot Mly Ali Chérif",
+   "phone": "+212535572057",
+   "lat": 31.9376507,
+   "lng": -4.4527873,
+   "shift": "nuit",
    "shift_label": ""
   },
   {
@@ -30,12 +21,12 @@
    "phone": "+212535574285",
    "lat": 31.928726,
    "lng": -4.421084,
-   "shift": "jour",
+   "shift": "nuit",
    "shift_label": ""
   }
  ],
  "center": [
-  31.9278,
-  -4.431
+  31.9332,
+  -4.4369
  ]
 }

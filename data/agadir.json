@@ -1,104 +1,104 @@
 {
  "city": "agadir",
  "label": "Agadir",
- "date": "2026-10-31",
+ "date": "2026-11-01",
  "source": "sahha.ma",
  "source_url": "https://sahha.ma/pharmacie-de-garde/agadir",
  "kind": "roster",
  "pharmacies": [
+  {
+   "name": "Al Kastalani",
+   "address": "Bloc 13 N 17 près D école Kastalani Ihchech",
+   "phone": "+212528224258",
+   "lat": 30.426235,
+   "lng": -9.5802757,
+   "shift": "nuit",
+   "shift_label": ""
+  },
+  {
+   "name": "Allal Fassi",
+   "address": "RUE ALLAL FASSI. N23 -ERAC-BOUARGANE",
+   "phone": "+212528229245",
+   "lat": 30.4219016,
+   "lng": -9.564506,
+   "shift": "nuit",
+   "shift_label": ""
+  },
+  {
+   "name": "AL QODS",
+   "address": "69 Bloc A5, Rue Imam Chafei 80000, Agadir",
+   "phone": "+212528238054",
+   "lat": 30.414,
+   "lng": -9.5552833,
+   "shift": "nuit",
+   "shift_label": ""
+  },
+  {
+   "name": "Jetsakan",
+   "address": "M-1.Im42.Jet Sakane Ben Sergaou",
+   "phone": "+212528322064",
+   "lat": 30.393001,
+   "lng": -9.5487767,
+   "shift": "nuit",
+   "shift_label": ""
+  },
   {
    "name": "Pharmacie Adam",
    "address": "701, z.i tilila, rue mekka",
    "phone": "+212528288080",
    "lat": 30.3965009,
    "lng": -9.5124727,
-   "shift": "jour",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie Al Hanane",
-   "address": "Ait Ouraht Anouar Souss villa Taddart",
-   "phone": "+212528848543",
-   "lat": 30.432596,
-   "lng": -9.582886,
-   "shift": "jour",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie Al Imam AlKastalani",
-   "address": "bd Abdallah Ben Yacine bloc 13 n° 17 cité Sidi Mohamed",
-   "phone": "+212528224258",
-   "lat": 30.4262833,
-   "lng": -9.5802333,
-   "shift": "jour",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie Al Yousr",
-   "address": "douar Tadadart",
-   "phone": "+212528205489",
-   "lat": 30.377759,
-   "lng": -9.514722,
-   "shift": "jour",
+   "shift": "nuit",
    "shift_label": ""
   },
   {
    "name": "Pharmacie Amsernat",
-   "address": "bd Deux Mars q. Amsernat",
+   "address": "Bd du 2 Mars prés du souk al had",
    "phone": "+212528239804",
-   "lat": 30.4152333,
-   "lng": -9.5787333,
-   "shift": "jour",
+   "lat": 30.415123,
+   "lng": -9.5786651,
+   "shift": "nuit",
    "shift_label": ""
   },
   {
-   "name": "Pharmacie Anbary",
-   "address": "bd Hassan II imm. Hasna",
-   "phone": "+212528845592",
-   "lat": 30.4235,
-   "lng": -9.6052333,
-   "shift": "jour",
+   "name": "Pharmacie Europa",
+   "address": "bd 20 Août. Hôtel Kenzi Europa",
+   "phone": "+212528824946",
+   "lat": 30.4168534,
+   "lng": -9.6028665,
+   "shift": "nuit",
    "shift_label": ""
   },
   {
-   "name": "Pharmacie Assafa",
-   "address": "a coté du café kenya",
-   "phone": "+212528224141",
-   "lat": 30.4324008,
-   "lng": -9.5554984,
-   "shift": "jour",
+   "name": "Pharmacie Kettane",
+   "address": "Résidence Al sabah N 567 hay Al Mohamadi",
+   "phone": "+212528230381",
+   "lat": 30.4346802,
+   "lng": -9.5669332,
+   "shift": "nuit",
    "shift_label": ""
   },
   {
-   "name": "Pharmacie Attawhid",
-   "address": "348 X hay Al Houda sect. E",
-   "phone": "+212528320002",
-   "lat": 30.3949167,
-   "lng": -9.5379,
-   "shift": "jour",
+   "name": "Pharmacie Nour AlFarah III",
+   "address": "454 AlFarah III",
+   "phone": "+212528291050",
+   "lat": 30.3973698,
+   "lng": -9.561587,
+   "shift": "nuit",
    "shift_label": ""
   },
   {
-   "name": "Pharmacie av. Allal Fassi",
-   "address": "23 bd Allal El Fassi Erac Bouargane",
-   "phone": "+212528229245",
-   "lat": 30.42185,
-   "lng": -9.5645333,
-   "shift": "jour",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie Boutasra",
-   "address": "394 j hay al wifaq ben sergao",
-   "phone": "+212528280079",
-   "lat": 30.395412,
-   "lng": -9.5737638,
-   "shift": "jour",
+   "name": "Pharmacie Tikida",
+   "address": "N 10. à linterieur de la résiddence Tikida cité El houda.",
+   "phone": "+212528320019",
+   "lat": 30.3991954,
+   "lng": -9.5434132,
+   "shift": "nuit",
    "shift_label": ""
   }
  ],
  "center": [
-  30.4116,
-  -9.5606
+  30.4115,
+  -9.5615
  ]
 }

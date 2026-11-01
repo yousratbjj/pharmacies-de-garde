@@ -1,7 +1,7 @@
 {
  "city": "fes",
  "label": "Fès",
- "date": "2026-10-31",
+ "date": "2026-11-01",
  "source": "sahha.ma",
  "source_url": "https://sahha.ma/pharmacie-de-garde/fes",
  "kind": "roster",
@@ -12,16 +12,25 @@
    "phone": "+212535605388",
    "lat": 34.0141662,
    "lng": -5.0067045,
-   "shift": "jour",
+   "shift": "24h",
    "shift_label": ""
   },
   {
    "name": "Pharmacie Al Jamila",
-   "address": "rte de Sefrou - Autre ville lotiss. Ghali 1 mag. n°38, Fès",
+   "address": "LOT GHALI, Magasin N 38, 1 Rte de Sefrou",
    "phone": "+212535767758",
-   "lat": 33.9904,
-   "lng": -4.97027,
-   "shift": "jour",
+   "lat": 33.9903905,
+   "lng": -4.9702622,
+   "shift": "24h",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie Assalama",
+   "address": "n°7. rue jordanie, ex-damas. hay la gare- a coté de l'institut quortoba et la salle du sport zgoud Fes",
+   "phone": "+212535621300",
+   "lat": 34.0101605,
+   "lng": -5.015906,
+   "shift": "24h",
    "shift_label": ""
   },
   {
@@ -30,75 +39,57 @@
    "phone": "+212535621300",
    "lat": 34.04525,
    "lng": -5.003267,
-   "shift": "jour",
+   "shift": "24h",
    "shift_label": ""
   },
   {
    "name": "Pharmacie Dayaa",
-   "address": "Lotiss. Dayaa , Rue 3 N4 Bis, Ain Kadousse",
+   "address": "numéro 11 ain kadous a cote mosquée dayaa",
    "phone": "+212535755039",
-   "lat": 34.0627771,
-   "lng": -5.0182028,
-   "shift": "jour",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie Debbagh",
-   "address": "bd abou obeida ibnou al jarrah",
-   "phone": "+212535622381",
-   "lat": 34.0346985,
-   "lng": -5.0161901,
-   "shift": "jour",
+   "lat": 34.0338126,
+   "lng": -5.0349768,
+   "shift": "24h",
    "shift_label": ""
   },
   {
    "name": "Pharmacie des F.a.r.",
-   "address": "rte de Meknès Dokkarat, Fès",
+   "address": "Rte De Meknès, Dokkarat",
    "phone": "+212535942250",
-   "lat": 34.040917,
-   "lng": -5.016467,
-   "shift": "jour",
+   "lat": 34.0408133,
+   "lng": -5.0165244,
+   "shift": "24h",
    "shift_label": ""
   },
   {
    "name": "Pharmacie Elanouar",
-   "address": "135 rue Al Fakharine, Fès",
+   "address": "N 135, Avenue Fakharine, Bab Ftouh",
    "phone": "+212535649077",
-   "lat": 34.063717,
-   "lng": -4.96645,
-   "shift": "jour",
+   "lat": 34.0638202,
+   "lng": -4.9664267,
+   "shift": "24h",
    "shift_label": ""
   },
   {
    "name": "Pharmacie El Awab",
-   "address": "douar Ouled Maalla Aandalous, Fès",
+   "address": "Oulad Maala Andalous. Ain Chkef",
    "phone": "+212709052737",
-   "lat": 34.0346534,
-   "lng": -5.0161926,
-   "shift": "jour",
+   "lat": 33.9407277,
+   "lng": -5.0309821,
+   "shift": "24h",
    "shift_label": ""
   },
   {
    "name": "Pharmacie Ibn Haytam",
-   "address": "104 bd Kairaouane Narjiss, Fès",
+   "address": "104, Bd Kairaouane, Narjiss",
    "phone": "+212535960412",
-   "lat": 34.0212,
-   "lng": -4.9828,
-   "shift": "jour",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie Jnane Al Bardai",
-   "address": "103 b hay Zouagha - Autre ville lot Al Bardai, Fès",
-   "phone": "+212624017322",
-   "lat": 34.012501,
-   "lng": -5.036794,
-   "shift": "jour",
+   "lat": 34.0212467,
+   "lng": -4.9828565,
+   "shift": "24h",
    "shift_label": ""
   }
  ],
  "center": [
-  34.032,
-  -5.0033
+  34.0178,
+  -5.0031
  ]
 }

@@ -1,29 +1,11 @@
 {
  "city": "taza",
  "label": "Taza",
- "date": "2026-10-31",
+ "date": "2026-11-01",
  "source": "sahha.ma",
  "source_url": "https://sahha.ma/pharmacie-de-garde/taza",
  "kind": "roster",
  "pharmacies": [
-  {
-   "name": "Pharmacie El Fath",
-   "address": "3 av. 11 Janvier hay Tennis, Taza",
-   "phone": "+212535672364",
-   "lat": 34.2308,
-   "lng": -4.01405,
-   "shift": "nuit",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie Omar Khayam",
-   "address": "17 rte Oujda lotiss. Konouz, Taza",
-   "phone": "+212703050712",
-   "lat": 34.228204,
-   "lng": -3.989741,
-   "shift": "nuit",
-   "shift_label": ""
-  },
   {
    "name": "PHARMACIE OURIDA",
    "address": "111 Avenue Allal Ben Abdallah Appeler 05 35 67 •• •• Itinéraire Carte Partager Voir la fiche",
@@ -35,7 +17,7 @@
   }
  ],
  "center": [
-  34.2259,
-  -4.0031
+  34.2187,
+  -4.0054
  ]
 }

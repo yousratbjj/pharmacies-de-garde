@@ -1,7 +1,7 @@
 {
  "city": "oujda",
  "label": "Oujda",
- "date": "2026-10-31",
+ "date": "2026-11-01",
  "source": "sahha.ma",
  "source_url": "https://sahha.ma/pharmacie-de-garde/oujda",
  "kind": "roster",
@@ -12,16 +12,7 @@
    "phone": "+212536702828",
    "lat": 34.68389,
    "lng": -1.909775,
-   "shift": "jour",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie Amar Bolis",
-   "address": "Rue taza quartier amar policier",
-   "phone": "+212536518224",
-   "lat": 34.6809167,
-   "lng": -1.9531667,
-   "shift": "jour",
+   "shift": "nuit",
    "shift_label": ""
   },
   {
@@ -30,7 +21,7 @@
    "phone": "+212536696878",
    "lat": 34.6857167,
    "lng": -1.9069667,
-   "shift": "jour",
+   "shift": "nuit",
    "shift_label": ""
   },
   {
@@ -39,57 +30,21 @@
    "phone": "+212536534682",
    "lat": 34.6641992,
    "lng": -1.9234314,
-   "shift": "jour",
+   "shift": "nuit",
    "shift_label": ""
   },
   {
-   "name": "Pharmacie Salazar",
-   "address": "20 bd Hmidane ang. rue Fellah lot Badr",
-   "phone": "+212536542184",
-   "lat": 34.665725,
-   "lng": -1.912525,
-   "shift": "jour",
-   "shift_label": ""
-  },
-  {
-   "name": "Assafae",
-   "address": "N 10, rue n 226 Hay Toba",
-   "phone": "+212536524285",
-   "lat": 34.7032127,
-   "lng": -1.9213703,
-   "shift": "jour",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie Benkhirane",
-   "address": "Lot Benkhirane C5 /48",
-   "phone": "+212536518154",
-   "lat": 34.656715,
-   "lng": -1.9337498,
-   "shift": "jour",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie ElAzzaoui",
-   "address": "10 Kaffr Kacem ElQods",
-   "phone": "+212536500620",
-   "lat": 34.6577833,
-   "lng": -1.8958667,
-   "shift": "jour",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie ElBaraka",
-   "address": "10 bd. Mohamed Bedrane hay ElWahda",
-   "phone": "+212536510673",
-   "lat": 34.6756167,
-   "lng": -1.9382333,
-   "shift": "jour",
+   "name": "Pharmacie Amar Bolis",
+   "address": "Rue taza quartier amar policier",
+   "phone": "+212536518224",
+   "lat": 34.6809167,
+   "lng": -1.9531667,
+   "shift": "nuit",
    "shift_label": ""
   }
  ],
  "center": [
-  34.6749,
-  -1.9217
+  34.6787,
+  -1.9233
  ]
 }

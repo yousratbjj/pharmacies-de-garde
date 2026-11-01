@@ -1,7 +1,7 @@
 {
  "city": "safi",
  "label": "Safi",
- "date": "2026-10-31",
+ "date": "2026-11-01",
  "source": "sahha.ma",
  "source_url": "https://sahha.ma/pharmacie-de-garde/safi",
  "kind": "roster",
@@ -12,34 +12,16 @@
    "phone": "+212524666266",
    "lat": 32.3050675,
    "lng": -9.23368,
-   "shift": "jour",
+   "shift": "nuit",
    "shift_label": ""
   },
   {
    "name": "Pharmacie Al Wiam",
-   "address": "Al Wiam II lot 58 rue 1 Azib Derai Safi",
+   "address": "Al Wiam II , Lot 58 Rue 1 Azib Derai",
    "phone": "+212524621130",
    "lat": 32.2870983,
    "lng": -9.2157686,
-   "shift": "jour",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie Hadmi",
-   "address": "1, lotiss. Bouzoubâa , q. Plateau Safi",
-   "phone": "+212524611066",
-   "lat": 32.3008151,
-   "lng": -9.2272033,
-   "shift": "jour",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie Mouatassim",
-   "address": "Rte diour Si Abbas douar deriouchat Safi",
-   "phone": "+212600337586",
-   "lat": 32.256681,
-   "lng": -9.242866,
-   "shift": "jour",
+   "shift": "nuit",
    "shift_label": ""
   },
   {
@@ -48,48 +30,12 @@
    "phone": "+212524651551",
    "lat": 32.2718318,
    "lng": -9.2305076,
-   "shift": "jour",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie Ezzaouia",
-   "address": "10 rue Caïd Sidi Ouassel SAFI",
-   "phone": "+212524651801",
-   "lat": 32.2664755,
-   "lng": -9.2464839,
-   "shift": "jour",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie Laarissa",
-   "address": "Quartier Laarissa , rue 22 n°15 Safi",
-   "phone": "+212524650367",
-   "lat": 32.2644295,
-   "lng": -9.23983,
-   "shift": "jour",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie la Marine",
-   "address": "83 bd Chakib Arssalane oued ElBacha Safi",
-   "phone": "+212524630608",
-   "lat": 32.3072904,
-   "lng": -9.2378754,
-   "shift": "jour",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie Mirabelle",
-   "address": "hay Anas rue 38 n°9, Safi",
-   "phone": "+212524611610",
-   "lat": 32.285736,
-   "lng": -9.239013,
-   "shift": "jour",
+   "shift": "nuit",
    "shift_label": ""
   }
  ],
  "center": [
-  32.2828,
-  -9.2348
+  32.288,
+  -9.2267
  ]
 }
