@@ -1,14 +1,14 @@
 {
  "city": "guelmim",
  "label": "Guelmim",
- "date": "2026-10-31",
+ "date": "2026-11-01",
  "source": "sahha.ma",
  "source_url": "https://sahha.ma/pharmacie-de-garde/guelmim",
  "kind": "roster",
  "pharmacies": [
   {
    "name": "Pharmacie Hôpital Régional",
-   "address": "hay Arrahma rte Sidi Ifni bloc 3",
+   "address": "hay Arrahma - Autre ville rte Sidi Ifni bloc 3, Guelmim",
    "phone": "+212808560362",
    "lat": 28.980857,
    "lng": -10.049272,
@@ -17,7 +17,7 @@
   },
   {
    "name": "Pharmacie Meryem - Ex Azza",
-   "address": "32 bd Hassan II",
+   "address": "32 bd Hassan II - Autre ville, Guelmim",
    "phone": "+212649941730",
    "lat": 28.991749,
    "lng": -10.066198,
