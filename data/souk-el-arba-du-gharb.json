@@ -7,17 +7,17 @@
  "kind": "roster",
  "pharmacies": [
   {
-   "name": "Pharmacie Hôpital",
-   "address": "37 av Mfadel Cherkaoui, Souk El Arba du Gharb",
-   "phone": "+212537902224",
-   "lat": 34.682466,
-   "lng": -6.001877,
+   "name": "Pharmacie Arrazi",
+   "address": "11 av Alaouyenne q. Bahia, Souk El Arba du Gharb",
+   "phone": "+212663615389",
+   "lat": 34.689664,
+   "lng": -6.007042,
    "shift": "nuit",
    "shift_label": ""
   }
  ],
  "center": [
-  34.6825,
-  -6.0019
+  34.6897,
+  -6.007
  ]
 }

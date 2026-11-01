@@ -7,17 +7,26 @@
  "kind": "roster",
  "pharmacies": [
   {
-   "name": "Pharmacie El Chouhada",
-   "address": "hay ElJouhara n°73, Selouane",
-   "phone": "+212536609253",
-   "lat": 35.0652,
-   "lng": -2.926417,
-   "shift": "nuit",
+   "name": "Pharmacie Al Bourj",
+   "address": "lotiss. Al Manar n° 111, Selouane",
+   "phone": "+212654044591",
+   "lat": 35.049209,
+   "lng": -2.945882,
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie Principale",
+   "address": "25 bd Mohammed V, Selouane",
+   "phone": "+212536609047",
+   "lat": 35.07494,
+   "lng": -2.939456,
+   "shift": "jour",
    "shift_label": ""
   }
  ],
  "center": [
-  35.0652,
-  -2.9264
+  35.0621,
+  -2.9427
  ]
 }

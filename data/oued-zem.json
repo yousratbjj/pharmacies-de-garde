@@ -8,11 +8,11 @@
  "pharmacies": [
   {
    "name": "Pharmacie Badr",
-   "address": "942 Pl. du Vingt Août - Autre ville, Oued Zem",
+   "address": "942 Pl. du Vingt Août",
    "phone": "+212772621719",
    "lat": 32.848409,
    "lng": -6.579734,
-   "shift": "nuit",
+   "shift": "jour",
    "shift_label": ""
   }
  ],

@@ -12,12 +12,21 @@
    "phone": "+212537907480",
    "lat": 34.797421,
    "lng": -5.586707,
-   "shift": "nuit",
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie Laadir",
+   "address": "2 bd Houmane El Fetouaki - Autre ville jardin Lalla Amina résid. Hallaoui, Ouazzane",
+   "phone": "+212537907470",
+   "lat": 34.796027,
+   "lng": -5.566569,
+   "shift": "jour",
    "shift_label": ""
   }
  ],
  "center": [
-  34.7974,
-  -5.5867
+  34.7967,
+  -5.5766
  ]
 }

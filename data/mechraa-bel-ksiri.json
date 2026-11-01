@@ -7,17 +7,17 @@
  "kind": "roster",
  "pharmacies": [
   {
-   "name": "Pharmacie Bouitat",
-   "address": "7 lotiss. Bouitat, Mechraa Bel Ksiri",
-   "phone": "+212537438590",
-   "lat": 34.581275,
-   "lng": -5.950708,
-   "shift": "nuit",
+   "name": "Pharmacie Assalam",
+   "address": "8 av. des F.a.r. lotiss. Al Massira, Mechraa Bel Ksiri",
+   "phone": "+212537906320",
+   "lat": 34.575207,
+   "lng": -5.964174,
+   "shift": "jour",
    "shift_label": ""
   }
  ],
  "center": [
-  34.5813,
-  -5.9507
+  34.5752,
+  -5.9642
  ]
 }

@@ -7,84 +7,30 @@
  "kind": "roster",
  "pharmacies": [
   {
-   "name": "AL OUSRA",
-   "address": "661 Hay M'hamid 2",
-   "phone": "+212524370846",
-   "lat": 31.5896333,
-   "lng": -8.03955,
-   "shift": "",
+   "name": "Pharmacie Alirfane",
+   "address": "40 Hay Rouidat III, Marrakech",
+   "phone": "+212524308286",
+   "lat": 31.644722,
+   "lng": -8.00335,
+   "shift": "jour",
    "shift_label": ""
   },
   {
-   "name": "Azli",
-   "address": "Qt. Azli, face ancienne Mosquée derrière usine Coca à côté des Im. Saâdienne ERAC",
-   "phone": "+212524342513",
-   "lat": 31.624113,
-   "lng": -8.0533084,
-   "shift": "",
+   "name": "Pharmacie Al Manal",
+   "address": "877 lotiss. Zerktouni (bouakkaz) M'hamid, Marrakech",
+   "phone": "+212524372708",
+   "lat": 31.5975,
+   "lng": -8.0208,
+   "shift": "jour",
    "shift_label": ""
   },
   {
-   "name": "BASSATINE TARGA",
-   "address": "Espaces Essaada, Op. Bassatine targa, près de l'Etablissement Targa Junior et le nouveau Rond Point de l'Azzouzia à gauche, Marrakech SIDI GHANEM AZZOUZIA",
-   "phone": "+212688127171",
-   "lat": 31.6710951,
-   "lng": -8.0535777,
-   "shift": "",
-   "shift_label": ""
-  },
-  {
-   "name": "MORAKAB SOUK LKHMISS",
-   "address": "1, Morakab Bab Lkhmiss ( à côté de Souk Lkhmiss)",
-   "phone": "+212524390738",
-   "lat": 31.641914,
-   "lng": -7.986273,
-   "shift": "",
-   "shift_label": ""
-  },
-  {
-   "name": "OUHOUD",
-   "address": "294, Lot. Masmoudi, avant l’école Ouhoud, route Sidi Dou Targa, Marrakech TARGA",
-   "phone": "+212524344395",
-   "lat": 31.5737218,
-   "lng": -8.0684727,
-   "shift": "",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie Adoha",
-   "address": "56 lotiss. Azli",
-   "phone": "+212524342210",
-   "lat": 31.6250167,
-   "lng": -8.05635,
-   "shift": "",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie Al Ahbass",
-   "address": "10, Imm. Habouss Bab Doukkala, Marrakech GRAND GUELIZ",
-   "phone": "+212524432183",
-   "lat": 31.6335452,
-   "lng": -8.0015688,
-   "shift": "",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie Al Kawtar",
-   "address": "C9, Lot. Kawtar El Fekhara Nakhil Sud à côté de la Mosquée Al Kawtar, Marrakech AÏN ITTI",
-   "phone": "+212524292696",
-   "lat": 31.6358539,
-   "lng": -7.9766519,
-   "shift": "",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie ARRAHMA",
-   "address": "8, Diour Saboun, à 300 m de Bab Taghzout vers Sakayat (Ch'reb ou Chouf), Marrakech MEDINA",
-   "phone": "+212524383038",
-   "lat": 31.6198167,
-   "lng": -7.9903667,
-   "shift": "",
+   "name": "Pharmacie AlWifak",
+   "address": "43 bd Errazi lotiss. AlBaraka, Marrakech",
+   "phone": "+212524303522",
+   "lat": 31.669626,
+   "lng": -8.006907,
+   "shift": "jour",
    "shift_label": ""
   },
   {
@@ -93,12 +39,66 @@
    "phone": "+212524361622",
    "lat": 31.5924391,
    "lng": -8.0347884,
-   "shift": "",
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie Bismi Allah",
+   "address": "266 z.i. Sidi Ghanem, Marrakech",
+   "phone": "+212524335749",
+   "lat": 31.673883,
+   "lng": -8.046367,
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie Borj Targa",
+   "address": "rte de Souihla Targa, Marrakech",
+   "phone": "+212524343460",
+   "lat": 31.652067,
+   "lng": -8.061817,
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie Derb Elgabs",
+   "address": "349 X Derb El Gabs Syba, Marrakech",
+   "phone": "+212524401125",
+   "lat": 31.61055,
+   "lng": -7.963583,
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie Douae",
+   "address": "397 Quartier Al Azzouzia, Marrakech",
+   "phone": "+212524356492",
+   "lat": 31.685868,
+   "lng": -8.073422,
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie Douar ElAskar",
+   "address": "hay El Hassani bloc 41 n°943, Marrakech",
+   "phone": "+212524340032",
+   "lat": 31.629767,
+   "lng": -8.048483,
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie El Khirani",
+   "address": "Abwab Marrakech Doha 4, du côté de Hammam Zerktouni 2 et en face du Lycée Fatima Marnissi, Marrakech HAY HASSANI",
+   "phone": "+212761621627",
+   "lat": 31.655465,
+   "lng": -8.081396,
+   "shift": "jour",
    "shift_label": ""
   }
  ],
  "center": [
-  31.6207,
-  -8.0261
+  31.6412,
+  -8.0341
  ]
 }

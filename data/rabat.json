@@ -7,98 +7,98 @@
  "kind": "roster",
  "pharmacies": [
   {
-   "name": "LA GRANDE PHARMACIE",
-   "address": "Rue Abou Fariss Al Marini",
-   "phone": "+212537709148",
-   "lat": 34.016583,
-   "lng": -6.832,
-   "shift": "nuit",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie BENJELLOUN",
-   "address": "3 Rue Zerhoune Souissi (Prés de l’école al Manbâa)",
-   "phone": "+212537636864",
-   "lat": 33.963984,
-   "lng": -6.837452,
-   "shift": "nuit",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie DE L'OCEAN",
-   "address": "54 Av Abdelkrim Al Khatabi",
-   "phone": "+212537202176",
-   "lat": 34.02525,
-   "lng": -6.846444,
-   "shift": "nuit",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie EL HANAE",
-   "address": "16 Rue Omar El Jadidi, Akkari",
-   "phone": "+212537761695",
-   "lat": 34.011056,
-   "lng": -6.853806,
-   "shift": "jour",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie GHARNATA",
-   "address": "812 amal 1 idafi - C.Y.M",
-   "phone": "+212537281207",
-   "lat": 33.983778,
-   "lng": -6.883528,
-   "shift": "jour",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie IBN YASSINE",
-   "address": "شارع عقبة ساحة ابن ياسين بالقرب من القاعة المغطاة ابن ياسين ومقهى الوزاني",
-   "phone": "+212537772743",
-   "lat": 34.005083,
-   "lng": -6.847556,
-   "shift": "nuit",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie NADIA",
-   "address": "Av Sidi Med BenAbdellah Rue 7 Hay Ahbass - C.Y.M",
-   "phone": "+212537692923",
-   "lat": 34.0010364,
-   "lng": -6.8713021,
-   "shift": "nuit",
-   "shift_label": ""
-  },
-  {
    "name": "Pharmacie AL AMANE",
    "address": "443 Bis Amal 5 Massira - Hay El Fath Lotissement Grini C.Y.M",
    "phone": "+212537293647",
    "lat": 33.9734497,
    "lng": -6.8875728,
-   "shift": "",
+   "shift": "jour",
    "shift_label": ""
   },
   {
-   "name": "Pharmacie AL IGHATA",
-   "address": "1,imm 42 cité al mountazah Hay el fath C.Y.M",
-   "phone": "+212537792986",
-   "lat": 33.9668763,
-   "lng": -6.9059703,
-   "shift": "",
+   "name": "Pharmacie AL FATIH",
+   "address": "121, Av Med Belhassan el ouazzani Groupe al araar Bloc 4",
+   "phone": "+212537631690",
+   "lat": 34.0083637,
+   "lng": -6.8538748,
+   "shift": "jour",
    "shift_label": ""
   },
   {
-   "name": "Pharmacie ALIOUA",
-   "address": "N°66 Groupe Marjane Av Haman El Fatouaki",
-   "phone": "+212537759809",
-   "lat": 33.9841919,
-   "lng": -6.8199983,
-   "shift": "nuit",
+   "name": "Pharmacie AL JAZAA",
+   "address": "75 -77 Avenue Mohammed V Al Jazaa RABAT MEDINA",
+   "phone": "+212537721002",
+   "lat": 34.02629,
+   "lng": -6.840303,
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie AL MELIA",
+   "address": "Avenue Dr Abdelkrim El Khatib (Ex: Av Al Melia)",
+   "phone": "+212537759202",
+   "lat": 33.9658245,
+   "lng": -6.8580023,
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie AYA",
+   "address": "Dr. Nawfal LAHLOU Rue El Hachmi el Mestari (Douwar al askar)",
+   "phone": "+212537693388",
+   "lat": 34.016667,
+   "lng": -6.856583,
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie BEKKARI",
+   "address": "285 Rue Oulfa Bloc R Amal 3 - C.Y.M",
+   "phone": "+212537794184",
+   "lat": 33.9785,
+   "lng": -6.881972,
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie BELMAHI",
+   "address": "1, Rue Tonkin (Av Madagascar) Prés l'école ANDRE MALRAUX et Marché Diour Jamaa",
+   "phone": "+212537722650",
+   "lat": 34.016361,
+   "lng": -6.849972,
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie DE LA SANTE",
+   "address": "Avenue Goundafa Angle Rue 6 Youssoufia Tél / Fax: 0537 65 02 52",
+   "phone": "+212537650252",
+   "lat": 33.9944174,
+   "lng": -6.8156642,
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie HAY BOUHLAL",
+   "address": "43, Groupe Al Itihad Av Sidi Mohamed Ben Abdellah Hay Bouhlal - C.Y.M",
+   "phone": "+212537297717",
+   "lat": 33.993917,
+   "lng": -6.877417,
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie MIMOSAS",
+   "address": "Magasin 15 Imm 8 Rés.mimosas Hay Elfath C.Y.M (A Côté Aswak Salam Hay Elfath)",
+   "phone": "+212537292000",
+   "lat": 33.966278,
+   "lng": -6.897361,
+   "shift": "jour",
    "shift_label": ""
   }
  ],
  "center": [
-  33.9931,
-  -6.8586
+  33.994,
+  -6.8619
  ]
 }

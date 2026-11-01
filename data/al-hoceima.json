@@ -7,17 +7,17 @@
  "kind": "roster",
  "pharmacies": [
   {
-   "name": "Pharmacie Azir",
-   "address": "161 rue Sidi Abid, Al Hoceima",
-   "phone": "+212539985388",
-   "lat": 35.2539,
-   "lng": -3.934717,
-   "shift": "nuit",
+   "name": "Pharmacie Abdelkerim El Khattabi",
+   "address": "61 av Bir Anzarane, Al Hoceima",
+   "phone": "+212539982270",
+   "lat": 35.244433,
+   "lng": -3.918783,
+   "shift": "jour",
    "shift_label": ""
   }
  ],
  "center": [
-  35.2539,
-  -3.9347
+  35.2444,
+  -3.9188
  ]
 }

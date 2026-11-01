@@ -7,17 +7,17 @@
  "kind": "roster",
  "pharmacies": [
   {
-   "name": "Pharmacie Chams",
-   "address": "hay El Yassmine bloc B n°312",
-   "phone": "+212537591919",
-   "lat": 34.227516,
-   "lng": -5.727896,
+   "name": "Pharmacie Belmejdoub",
+   "address": "Nouveau quartier rue 26 ang. rue 4",
+   "phone": "+212537590066",
+   "lat": 34.224267,
+   "lng": -5.710884,
    "shift": "nuit",
    "shift_label": ""
   }
  ],
  "center": [
-  34.2275,
-  -5.7279
+  34.2243,
+  -5.7109
  ]
 }

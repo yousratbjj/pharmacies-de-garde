@@ -7,6 +7,15 @@
  "kind": "roster",
  "pharmacies": [
   {
+   "name": "Pharmacie Nait El Kadi",
+   "address": "Av. 14 bloc 7 rue 10, Tikiouine",
+   "phone": "+212667183097",
+   "lat": 30.37296,
+   "lng": -9.49635,
+   "shift": "nuit",
+   "shift_label": ""
+  },
+  {
    "name": "Pharmacie Tikiouine",
    "address": "hay Ighious bloc 3 av. 07, Tikiouine",
    "phone": "+212528290940",
@@ -17,7 +26,7 @@
   }
  ],
  "center": [
-  30.3753,
-  -9.5035
+  30.3741,
+  -9.4999
  ]
 }

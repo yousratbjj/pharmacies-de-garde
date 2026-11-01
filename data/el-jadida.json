@@ -7,12 +7,21 @@
  "kind": "roster",
  "pharmacies": [
   {
+   "name": "IZDIHAR",
+   "address": "1 .HAY ENNAJD.RIAD ESSALAM .RES IZDIHAREرقم1 حي النجد .رياض السلام.إقامة إزدهار",
+   "phone": "+212523392279",
+   "lat": 33.2292485,
+   "lng": -8.5125414,
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
    "name": "Pharmacie Al Bayane",
-   "address": "lotiss. Hiba sect Ibrahim Al Khalil",
+   "address": "1 lotiss. Hiba - Autre ville Ibrahim Al Khalil El jadida",
    "phone": "+212523395960",
    "lat": 33.231502,
    "lng": -8.504781,
-   "shift": "",
+   "shift": "jour",
    "shift_label": ""
   },
   {
@@ -21,7 +30,7 @@
    "phone": "+212523342869",
    "lat": 33.2539077,
    "lng": -8.5190324,
-   "shift": "",
+   "shift": "jour",
    "shift_label": ""
   },
   {
@@ -30,7 +39,7 @@
    "phone": "+212523352275",
    "lat": 33.257751,
    "lng": -8.5094255,
-   "shift": "",
+   "shift": "jour",
    "shift_label": ""
   },
   {
@@ -39,34 +48,25 @@
    "phone": "+212523390948",
    "lat": 33.2541002,
    "lng": -8.508,
-   "shift": "",
+   "shift": "jour",
    "shift_label": ""
   },
   {
    "name": "Pharmacie ElMassira",
-   "address": "205 bd Mohammed V",
+   "address": "205 bd Mohammed V El jadida",
    "phone": "+212523371099",
-   "lat": 33.24365,
-   "lng": -8.5154833,
-   "shift": "",
+   "lat": 33.2440575,
+   "lng": -8.4987398,
+   "shift": "jour",
    "shift_label": ""
   },
   {
    "name": "Pharmacie Ibrahim AlKhalil",
-   "address": "4 bd Khalil Jabrane résid. Reda rte Sidi Bouzid",
+   "address": "4, bd Khalil Jabrane, résid. Reda, rte Sidi Bouzid El jadida",
    "phone": "+212523395464",
-   "lat": 33.234985,
-   "lng": -8.532288,
-   "shift": "",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie Izdihare",
-   "address": "hay Ennajd , n°1, Riad Essalam, Res. Izdihare",
-   "phone": "+212523392279",
-   "lat": 33.229406,
-   "lng": -8.512636,
-   "shift": "",
+   "lat": 33.2349418,
+   "lng": -8.5325947,
+   "shift": "jour",
    "shift_label": ""
   },
   {
@@ -75,16 +75,7 @@
    "phone": "+212523351235",
    "lat": 33.2497299,
    "lng": -8.4995847,
-   "shift": "",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie Pierre Corail Hajar Almarjanne",
-   "address": "13 GH3 resid. Diar Almarjanne",
-   "phone": "+212523387278",
-   "lat": 33.22564,
-   "lng": -8.52649,
-   "shift": "",
+   "shift": "jour",
    "shift_label": ""
   },
   {
@@ -93,12 +84,21 @@
    "phone": "+212523374920",
    "lat": 33.2316326,
    "lng": -8.5007116,
-   "shift": "",
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie Amwaj",
+   "address": "53 lot Oussama 1 El Harraz El jadida",
+   "phone": "+212523800493",
+   "lat": 33.2466866,
+   "lng": -8.53426,
+   "shift": "jour",
    "shift_label": ""
   }
  ],
  "center": [
-  33.2412,
-  -8.5128
+  33.2434,
+  -8.512
  ]
 }

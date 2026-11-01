@@ -7,30 +7,21 @@
  "kind": "roster",
  "pharmacies": [
   {
-   "name": "Assafae",
-   "address": "N 10, rue n 226 Hay Toba",
-   "phone": "+212536524285",
-   "lat": 34.7032127,
-   "lng": -1.9213703,
-   "shift": "nuit",
-   "shift_label": ""
-  },
-  {
    "name": "Pharmacie Al Faraj",
-   "address": "3 hay Annasr rte Marhnia",
+   "address": "Près du centre de réadaptation Professionnelle Hay annasr N 2 Route Marjane",
    "phone": "+212536702828",
    "lat": 34.68389,
    "lng": -1.909775,
-   "shift": "nuit",
+   "shift": "jour",
    "shift_label": ""
   },
   {
    "name": "Pharmacie Amar Bolis",
-   "address": "Rte. de Taza Hay Ennahda B2 n°8",
+   "address": "Rue taza quartier amar policier",
    "phone": "+212536518224",
    "lat": 34.6809167,
    "lng": -1.9531667,
-   "shift": "nuit",
+   "shift": "jour",
    "shift_label": ""
   },
   {
@@ -39,34 +30,16 @@
    "phone": "+212536696878",
    "lat": 34.6857167,
    "lng": -1.9069667,
-   "shift": "nuit",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie ElAzzaoui",
-   "address": "10 Kaffr Kacem ElQods",
-   "phone": "+212536500620",
-   "lat": 34.6577833,
-   "lng": -1.8958667,
-   "shift": "nuit",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie ElBaraka",
-   "address": "10 bd. Mohamed Bedrane hay ElWahda",
-   "phone": "+212536510673",
-   "lat": 34.6756167,
-   "lng": -1.9382333,
-   "shift": "nuit",
+   "shift": "jour",
    "shift_label": ""
   },
   {
    "name": "Pharmacie la Libérté",
-   "address": "169 hay Essalam rue A11. Aouinat Sarrak",
+   "address": "169, hay essalam, rue a11. aouinat sarrak",
    "phone": "+212536534682",
-   "lat": 34.6716833,
-   "lng": -1.9390833,
-   "shift": "nuit",
+   "lat": 34.6641992,
+   "lng": -1.9234314,
+   "shift": "jour",
    "shift_label": ""
   },
   {
@@ -75,30 +48,48 @@
    "phone": "+212536542184",
    "lat": 34.665725,
    "lng": -1.912525,
-   "shift": "nuit",
+   "shift": "jour",
    "shift_label": ""
   },
   {
-   "name": "Pharmacie Zenati Lazaret",
-   "address": "lotiss.Msirdi Dhar Lamhala Lazaret",
-   "phone": "+212536747552",
-   "lat": 34.67835,
-   "lng": -1.8754167,
-   "shift": "nuit",
+   "name": "Assafae",
+   "address": "N 10, rue n 226 Hay Toba",
+   "phone": "+212536524285",
+   "lat": 34.7032127,
+   "lng": -1.9213703,
+   "shift": "jour",
    "shift_label": ""
   },
   {
-   "name": "LES 3 FONTAINES",
-   "address": "15, bd Ferrane Ouled Aissaرقم 15 شارع فران ولاد عيسى",
-   "phone": "+212 536712122",
-   "lat": 34.6792032,
-   "lng": -1.9135081,
-   "shift": "",
+   "name": "Pharmacie Benkhirane",
+   "address": "Lot Benkhirane C5 /48",
+   "phone": "+212536518154",
+   "lat": 34.656715,
+   "lng": -1.9337498,
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie ElAzzaoui",
+   "address": "10 Kaffr Kacem ElQods",
+   "phone": "+212536500620",
+   "lat": 34.6577833,
+   "lng": -1.8958667,
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie ElBaraka",
+   "address": "10 bd. Mohamed Bedrane hay ElWahda",
+   "phone": "+212536510673",
+   "lat": 34.6756167,
+   "lng": -1.9382333,
+   "shift": "jour",
    "shift_label": ""
   }
  ],
  "center": [
-  34.6782,
-  -1.9166
+  34.6749,
+  -1.9217
  ]
 }

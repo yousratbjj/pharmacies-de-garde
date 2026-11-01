@@ -7,17 +7,17 @@
  "kind": "roster",
  "pharmacies": [
   {
-   "name": "Pharmacie Badr",
-   "address": "423 bd. Hassan II, Al Arrui",
-   "phone": "+212536363888",
-   "lat": 35.012167,
-   "lng": -3.004,
-   "shift": "nuit",
+   "name": "Pharmacie Aberkani",
+   "address": "bd. Sakia Hamra, Al Arrui",
+   "phone": "+212536361477",
+   "lat": 35.011067,
+   "lng": -3.010233,
+   "shift": "jour",
    "shift_label": ""
   }
  ],
  "center": [
-  35.0122,
-  -3.004
+  35.0111,
+  -3.0102
  ]
 }

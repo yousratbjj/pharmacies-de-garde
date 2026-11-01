@@ -12,7 +12,16 @@
    "phone": "+212535969207",
    "lat": 33.829993,
    "lng": -4.838255,
-   "shift": "",
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie du Stade",
+   "address": "72 Lotissement Ben Hamza Massy",
+   "phone": "+212535662572",
+   "lat": 33.8225333,
+   "lng": -4.8330167,
+   "shift": "jour",
    "shift_label": ""
   },
   {
@@ -21,7 +30,16 @@
    "phone": "+212535660737",
    "lat": 33.82943,
    "lng": -4.8253,
-   "shift": "",
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie les Cérises",
+   "address": "140 Ibnou Zaidoun Habouna",
+   "phone": "+212535683583",
+   "lat": 33.82639,
+   "lng": -4.83121,
+   "shift": "jour",
    "shift_label": ""
   },
   {
@@ -30,12 +48,12 @@
    "phone": "+212535969784",
    "lat": 33.817726,
    "lng": -4.828977,
-   "shift": "",
+   "shift": "jour",
    "shift_label": ""
   }
  ],
  "center": [
-  33.8257,
-  -4.8308
+  33.8252,
+  -4.8314
  ]
 }

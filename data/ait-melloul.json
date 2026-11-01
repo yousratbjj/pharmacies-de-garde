@@ -7,12 +7,21 @@
  "kind": "roster",
  "pharmacies": [
   {
-   "name": "Pharmacie Al Hayat",
-   "address": "Hay Chouhada bloc 2 n°329",
-   "phone": "+212528247852",
-   "lat": 30.3418667,
-   "lng": -9.4867833,
-   "shift": "",
+   "name": "Grande Pharmacie Laarab",
+   "address": "92 douar Laarab bloc 2",
+   "phone": "+212528240763",
+   "lat": 30.362147,
+   "lng": -9.479289,
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie Aït Melloul",
+   "address": "1 bd AlMassira",
+   "phone": "+212528240731",
+   "lat": 30.3438667,
+   "lng": -9.5025,
+   "shift": "jour",
    "shift_label": ""
   },
   {
@@ -21,39 +30,30 @@
    "phone": "+212528310361",
    "lat": 30.2962667,
    "lng": -9.4676,
-   "shift": "",
+   "shift": "jour",
    "shift_label": ""
   },
   {
-   "name": "Pharmacie Essounni",
-   "address": "Hay ElMassira bloc C 119 Chouhada",
-   "phone": "+212528242800",
-   "lat": 30.34475,
-   "lng": -9.4871833,
-   "shift": "",
+   "name": "Pharmacie du Souk",
+   "address": "86 C lot. Argana",
+   "phone": "+212528241528",
+   "lat": 30.3255667,
+   "lng": -9.4969833,
+   "shift": "jour",
    "shift_label": ""
   },
   {
-   "name": "Pharmacie Hassania",
-   "address": "hay M'Barek Omar bloc 3 n°301",
-   "phone": "+212528246917",
-   "lat": 30.3459167,
-   "lng": -9.5069333,
-   "shift": "",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie Mazine",
-   "address": "2 lotiss. Nassim II hay Al Fath",
-   "phone": "+212528242437",
-   "lat": 30.339682,
-   "lng": -9.506743,
-   "shift": "",
+   "name": "Pharmacie Ouali",
+   "address": "154 Lotiss. Bermat Tamzart",
+   "phone": "+212528241726",
+   "lat": 30.347874,
+   "lng": -9.51877,
+   "shift": "jour",
    "shift_label": ""
   }
  ],
  "center": [
-  30.3337,
-  -9.491
+  30.3351,
+  -9.493
  ]
 }

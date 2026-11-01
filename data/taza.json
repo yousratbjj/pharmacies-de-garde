@@ -7,26 +7,35 @@
  "kind": "roster",
  "pharmacies": [
   {
-   "name": "Pharmacie Essaâda",
-   "address": "hay Essaâda n°7-8-9",
-   "phone": "+212535283972",
-   "lat": 34.2139333,
-   "lng": -4.0008833,
+   "name": "Pharmacie El Fath",
+   "address": "3 av. 11 Janvier hay Tennis, Taza",
+   "phone": "+212535672364",
+   "lat": 34.2308,
+   "lng": -4.01405,
    "shift": "nuit",
    "shift_label": ""
   },
   {
-   "name": "Pharmacie Ourida",
-   "address": "111 Avenue Allal Ben Abdallah",
+   "name": "Pharmacie Omar Khayam",
+   "address": "17 rte Oujda lotiss. Konouz, Taza",
+   "phone": "+212703050712",
+   "lat": 34.228204,
+   "lng": -3.989741,
+   "shift": "nuit",
+   "shift_label": ""
+  },
+  {
+   "name": "PHARMACIE OURIDA",
+   "address": "111 Avenue Allal Ben Abdallah Appeler 05 35 67 •• •• Itinéraire Carte Partager Voir la fiche",
    "phone": "+212535673819",
-   "lat": 34.2187167,
-   "lng": -4.0051333,
+   "lat": 34.2187315,
+   "lng": -4.0053679,
    "shift": "nuit",
    "shift_label": ""
   }
  ],
  "center": [
-  34.2163,
-  -4.003
+  34.2259,
+  -4.0031
  ]
 }

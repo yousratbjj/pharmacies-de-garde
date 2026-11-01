@@ -16,7 +16,7 @@
    "shift_label": ""
   },
   {
-   "name": "Pharmacie Amine",
+   "name": "PHARMACIE AMINE",
    "address": "12 Av. Mohammed V rte Dar Belamri, Sidi Slimane",
    "phone": "+212537502078",
    "lat": 34.259166,
@@ -48,7 +48,7 @@
    "phone": "+212537503034",
    "lat": 34.251813,
    "lng": -5.927786,
-   "shift": "jour",
+   "shift": "nuit",
    "shift_label": ""
   },
   {
@@ -61,6 +61,24 @@
    "shift_label": ""
   },
   {
+   "name": "Pharmacie Laghlalta",
+   "address": "douar Lharati, Sidi Slimane",
+   "phone": "+212537504409",
+   "lat": 34.250112,
+   "lng": -5.944446,
+   "shift": "nuit",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie la Résistance",
+   "address": "2 av la Résistance, Sidi Slimane",
+   "phone": "+212537503558",
+   "lat": 34.2675,
+   "lng": -5.919917,
+   "shift": "nuit",
+   "shift_label": ""
+  },
+  {
    "name": "PHARMACIE LES ORANGERS",
    "address": "12 av Mohammed V Ghoumareyene, Sidi Slimane",
    "phone": "+212537501965",
@@ -68,19 +86,10 @@
    "lng": -5.9285332,
    "shift": "nuit",
    "shift_label": ""
-  },
-  {
-   "name": "PHARMACIE OULED EL GHAZI",
-   "address": "10, av Zerktouni , lot. Lemhamed Sidi slimane",
-   "phone": "+212537505871",
-   "lat": 34.2590735,
-   "lng": -5.9350268,
-   "shift": "nuit",
-   "shift_label": ""
   }
  ],
  "center": [
-  34.2573,
-  -5.9284
+  34.2574,
+  -5.9285
  ]
 }

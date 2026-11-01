@@ -7,17 +7,26 @@
  "kind": "roster",
  "pharmacies": [
   {
-   "name": "Pharmacie Alqods",
-   "address": "248 lotiss. Warda, Tiflet",
-   "phone": "+212537511593",
-   "lat": 33.89207,
-   "lng": -6.32283,
+   "name": "Pharmacie Oued Dahab",
+   "address": "hay ElJadid bloc 11, Tiflet",
+   "phone": "+212537511879",
+   "lat": 33.88813,
+   "lng": -6.31528,
+   "shift": "nuit",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie Zahrae",
+   "address": "lotiss. Errachad bloc 10 n°26, Tiflet",
+   "phone": "+212537515177",
+   "lat": 33.89809,
+   "lng": -6.32576,
    "shift": "nuit",
    "shift_label": ""
   }
  ],
  "center": [
-  33.8921,
-  -6.3228
+  33.8931,
+  -6.3205
  ]
 }

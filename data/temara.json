@@ -7,12 +7,84 @@
  "kind": "roster",
  "pharmacies": [
   {
+   "name": "LA GRANDE PHARMACIE DE TAMESNA",
+   "address": "172, Marina d'or (à côté de jouteya Tamesna)",
+   "phone": "+212537013065",
+   "lat": 33.838833,
+   "lng": -6.924722,
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie ABI HORAIRA",
+   "address": "15 Av du Caire Lot. Abi Horaira, Oued Addahab",
+   "phone": "+212537641458",
+   "lat": 33.91065,
+   "lng": -6.915833,
+   "shift": "nuit",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie AL FAJR",
+   "address": "Avenue My Ali Cherif",
+   "phone": "+212537601592",
+   "lat": 33.927267,
+   "lng": -6.896883,
+   "shift": "nuit",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie AMINA",
+   "address": "45 masrour 2 - Temara",
+   "phone": "+212537610939",
+   "lat": 33.9135056,
+   "lng": -6.9283946,
+   "shift": "nuit",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie CHATEA",
+   "address": "N°39 residence chatea bethoven harhoura",
+   "phone": "+212537744975",
+   "lat": 33.922049,
+   "lng": -6.961363,
+   "shift": "24h",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie ESSALAMA",
+   "address": "2 Avenue Mohamed 5 A Côte de Masjid Ennour et du lycée Al Ghazali",
+   "phone": "+212537747662",
+   "lat": 33.920775,
+   "lng": -6.916837,
+   "shift": "nuit",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie FATINE",
+   "address": "863 Av Moulay Ali Cherif Hay Al Maghreb Al Arabi Massira 2",
+   "phone": "+212537602705",
+   "lat": 33.9242554,
+   "lng": -6.8921914,
+   "shift": "nuit",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie L`OLIVIER",
+   "address": "صيدلية الزيتونة 236,Sect. N°3 . Lot. Oulad Mtaâ",
+   "phone": "+212537608801",
+   "lat": 33.940722,
+   "lng": -6.893167,
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
    "name": "Pharmacie AL FARABI",
    "address": "عمارة 3 تجزئة المستقبل مسيرة 1 Imm 3 Lotissement Al Mostakbal - Massira 1",
    "phone": "+212537605603",
    "lat": 33.9365822,
    "lng": -6.8982651,
-   "shift": "nuit",
+   "shift": "",
    "shift_label": ""
   },
   {
@@ -23,64 +95,10 @@
    "lng": -6.897608,
    "shift": "",
    "shift_label": ""
-  },
-  {
-   "name": "Pharmacie ERRAHA",
-   "address": "Rue daj guich oudaya Prés du centre dentaire Kobry",
-   "phone": "+212537561393",
-   "lat": 33.9423669,
-   "lng": -6.8862505,
-   "shift": "",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie ANNAOURASSE",
-   "address": "Lotissement Al Hachimia II, N°226",
-   "phone": "+212537642975",
-   "lat": 33.9038688,
-   "lng": -6.9321027,
-   "shift": "",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie FATINE",
-   "address": "863 Av Moulay Ali Cherif Hay Al Maghreb Al Arabi Massira 2",
-   "phone": "+212537602705",
-   "lat": 33.9242554,
-   "lng": -6.8921914,
-   "shift": "",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie Hind",
-   "address": "241 rue Othman Ibn Madhoun, Témara",
-   "phone": "+212537622291",
-   "lat": 33.895935,
-   "lng": -6.935582,
-   "shift": "nuit",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie JNANE EL FOUARATE",
-   "address": "Alintissar N49, El Fouarate",
-   "phone": "+212530463424",
-   "lat": 33.901083,
-   "lng": -6.910194,
-   "shift": "",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie LA PAIX",
-   "address": "20, Avenue Tarek ibn Zyad",
-   "phone": "+212537642705",
-   "lat": 33.8996488,
-   "lng": -6.9249648,
-   "shift": "nuit",
-   "shift_label": ""
   }
  ],
  "center": [
-  33.9182,
-  -6.9096
+  33.9176,
+  -6.9125
  ]
 }

@@ -52,6 +52,24 @@
    "shift_label": ""
   },
   {
+   "name": "PHARMACIE AL HIKMA",
+   "address": "63, Rue Nador, Hay Salam, Ouislane",
+   "phone": "+212535548835",
+   "lat": 33.9125645,
+   "lng": -5.483482,
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
+   "name": "PHARMACIE AL IKHLASSE",
+   "address": "27, Hay Al Bassatine, Lotiss. Laaraichi 6",
+   "phone": "+212535502981",
+   "lat": 33.8902766,
+   "lng": -5.4985199,
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
    "name": "PHARMACIE AL INAYA",
    "address": "hay Oujah Arous rue 16 n°333, Meknès",
    "phone": "+212535644273",
@@ -77,28 +95,10 @@
    "lng": -5.4952159,
    "shift": "jour",
    "shift_label": ""
-  },
-  {
-   "name": "PHARMACIE AL MOUNTAZAH",
-   "address": "N 523 Lotissment Assalam tranch 2 mejjat",
-   "phone": "+212535471807",
-   "lat": 33.8470685,
-   "lng": -5.5645883,
-   "shift": "jour",
-   "shift_label": ""
-  },
-  {
-   "name": "PHARMACIE ARZ DE L’ATLAS",
-   "address": "12 rue Taza - Autre ville, Meknès",
-   "phone": "+212535548090",
-   "lat": 33.9208218,
-   "lng": -5.4882235,
-   "shift": "jour",
-   "shift_label": ""
   }
  ],
  "center": [
-  33.8993,
-  -5.525
+  33.9028,
+  -5.5179
  ]
 }

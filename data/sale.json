@@ -7,89 +7,71 @@
  "kind": "roster",
  "pharmacies": [
   {
+   "name": "Pharmacie ALHAMD",
+   "address": "366, Rue Yasmine, Sect.A Hay Rahma",
+   "phone": "+212537871067",
+   "lat": 34.064083,
+   "lng": -6.786611,
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie AL HANANE",
+   "address": "Imm 2 Résidence Idriss II - Bettana",
+   "phone": "+212537801585",
+   "lat": 34.030889,
+   "lng": -6.799,
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie Baassine",
+   "address": "3 lotiss zahrat Attakwa Gh 4 Mag C4-18, Salé",
+   "phone": "+212537823731",
+   "lat": 34.056108,
+   "lng": -6.77489,
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie L'HONNEUR",
+   "address": "Résidence Al Amine Immeuble 10 Local B4 Sala Al Jadida",
+   "phone": "+212537533928",
+   "lat": 34.0019026,
+   "lng": -6.7478607,
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie NOUR SALE ex: HIMMICH",
+   "address": "Lot. Salima 2 Imm. 13 Mag. 1 Route de Kénitra",
+   "phone": "+212537880717",
+   "lat": 34.051503,
+   "lng": -6.8129508,
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie ZAHRAOUI",
+   "address": "Projet haddiqa Secteur al qods N 144 LAAYAYDA",
+   "phone": "+212530135079",
+   "lat": 34.06033,
+   "lng": -6.763849,
+   "shift": "24h",
+   "shift_label": ""
+  },
+  {
    "name": "Pharmacie ABDEDINE",
    "address": "101, Bd Al Massira AlKhadra, Bettana (Prés Mosquée Palestine Et Café LA GRUTA)",
    "phone": "+212537845138",
    "lat": 34.086566,
    "lng": -6.781806,
-   "shift": "nuit",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie AL MAÂRID",
-   "address": "Avenue My Abdellah Centre commercial AL MAÂRID Etage I",
-   "phone": "+212537534950",
-   "lat": 33.999806,
-   "lng": -6.7455,
-   "shift": "nuit",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie AL MOUAHAD",
-   "address": "9, Av El Mehdi Ibn Toumert Hay El Mouahidine",
-   "phone": "+212537860968",
-   "lat": 34.040667,
-   "lng": -6.803583,
-   "shift": "nuit",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie AMZAR",
-   "address": "الجزارة،حي بوشوك رقم1 طريق القنيطرة سلا قرب مدرسة الشرطة و مدرسة المعارف",
-   "phone": "+212537822542",
-   "lat": 34.0835776,
-   "lng": -6.7793434,
-   "shift": "nuit",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie AZ-ZAHRA",
-   "address": "Rue Oued Erromane Hay Al Inbiat",
-   "phone": "+212537807100",
-   "lat": 34.051861,
-   "lng": -6.778778,
-   "shift": "nuit",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie DARSHABAB",
-   "address": "شارع بوسكورة بويبلان حي وادي الذهب لعيايدة Av. bouskoura bouiblane ,Hay oued dahab laayayda",
-   "phone": "+212537874444",
-   "lat": 34.044889,
-   "lng": -6.814017,
-   "shift": "nuit",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie EL FILALI",
-   "address": "30 Lotissement Jouhari, Hors Bab Sebta, Route kenitra EST وراء المدرسة العليا للتكنولوجيا",
-   "phone": "+212537782388",
-   "lat": 34.0509148,
-   "lng": -6.8101611,
-   "shift": "nuit",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie HAY KARIMA",
-   "address": "46 avenue Med V Hay Karima",
-   "phone": "+212537855058",
-   "lat": 34.044899,
-   "lng": -6.8140202,
-   "shift": "nuit",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie NAHDA",
-   "address": "807, Av Andalouss, Secteur 3 Hay Salam",
-   "phone": "+212537800435",
-   "lat": 34.038167,
-   "lng": -6.786778,
-   "shift": "nuit",
+   "shift": "jour",
    "shift_label": ""
   }
  ],
  "center": [
-  34.049,
-  -6.7904
+  34.0502,
+  -6.781
  ]
 }

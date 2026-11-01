@@ -7,17 +7,26 @@
  "kind": "roster",
  "pharmacies": [
   {
-   "name": "Pharmacie Bel Hassan Louazani",
-   "address": "129 hay Riad",
-   "phone": "+212537556662",
-   "lat": 33.837085,
-   "lng": -6.08778,
-   "shift": "nuit",
+   "name": "Pharmacie Cadi Ayad",
+   "address": "rue Oued Sebou hay Zahra",
+   "phone": "+212537551055",
+   "lat": 33.8113609,
+   "lng": -6.075124,
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie Maamora",
+   "address": "14 av. Abderrahmane Zemmouri hay Maâmoura",
+   "phone": "+212537556559",
+   "lat": 33.8341741,
+   "lng": -6.071503,
+   "shift": "jour",
    "shift_label": ""
   }
  ],
  "center": [
-  33.8371,
-  -6.0878
+  33.8228,
+  -6.0733
  ]
 }
