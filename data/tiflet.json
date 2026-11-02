@@ -1,32 +1,23 @@
 {
  "city": "tiflet",
  "label": "Tiflet",
- "date": "2026-11-01",
+ "date": "2026-11-02",
  "source": "sahha.ma",
  "source_url": "https://sahha.ma/pharmacie-de-garde/tiflet",
  "kind": "roster",
  "pharmacies": [
   {
-   "name": "Pharmacie Oued Dahab",
-   "address": "hay ElJadid bloc 11, Tiflet",
-   "phone": "+212537511879",
-   "lat": 33.88813,
-   "lng": -6.31528,
-   "shift": "nuit",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie Zahrae",
-   "address": "lotiss. Errachad bloc 10 n°26, Tiflet",
-   "phone": "+212537515177",
-   "lat": 33.89809,
-   "lng": -6.32576,
+   "name": "Pharmacie Omar",
+   "address": "hay Racha bd. 30 n°1174, Tiflet",
+   "phone": "+212537515723",
+   "lat": 33.89798,
+   "lng": -6.32742,
    "shift": "nuit",
    "shift_label": ""
   }
  ],
  "center": [
-  33.8931,
-  -6.3205
+  33.898,
+  -6.3274
  ]
 }

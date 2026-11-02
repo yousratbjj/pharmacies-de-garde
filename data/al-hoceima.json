@@ -1,23 +1,23 @@
 {
  "city": "al-hoceima",
  "label": "Al Hoceïma",
- "date": "2026-11-01",
+ "date": "2026-11-02",
  "source": "sahha.ma",
  "source_url": "https://sahha.ma/pharmacie-de-garde/al-hoceima",
  "kind": "roster",
  "pharmacies": [
   {
-   "name": "Pharmacie Cala Bonita",
-   "address": "28 hay Cala Bonita résid. Firadaous, Al Hoceima",
-   "phone": "+212539985864",
-   "lat": 35.234263,
-   "lng": -3.92711,
+   "name": "Pharmacie Al Hoceima",
+   "address": "97 bd. Tarik Ibn Ziad, Al Hoceima",
+   "phone": "+212539841596",
+   "lat": 35.2498,
+   "lng": -3.9364,
    "shift": "jour",
    "shift_label": ""
   }
  ],
  "center": [
-  35.2343,
-  -3.9271
+  35.2498,
+  -3.9364
  ]
 }
