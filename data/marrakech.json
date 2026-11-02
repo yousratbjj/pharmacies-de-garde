@@ -10,26 +10,62 @@
    "name": "Pharmacie AL BOUSTANE",
    "address": "10, Av. Allal Fassi op. Al Boustane à 150m du Service des Mines, en face du jardin direction Marjane, Marrakech DAOUDIAT",
    "phone": "+212524304004",
-   "lat": 31.6625566,
-   "lng": -8.0077748,
+   "lat": 31.662194,
+   "lng": -8.007765,
    "shift": "nuit",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie AL MANAL",
+   "address": "877, Bouakkaz derrière station Afriquia à côté de Boulangerie Ezzarktouni et près de l’Aéroport, Marrakech LAMHAMID",
+   "phone": "+212524372708",
+   "lat": 31.597509,
+   "lng": -8.020794,
+   "shift": "jour",
    "shift_label": ""
   },
   {
    "name": "Pharmacie AL MARIFA",
    "address": "Im. Sana Bd. Prince My Abdellah (Ex. Bd. Safi) en face Association Alaouite de Protection des Aveugles , Marrakech GRAND GUELIZ",
    "phone": "+212524447697",
-   "lat": 31.6475304,
-   "lng": -8.0125106,
+   "lat": 31.647651,
+   "lng": -8.012402,
    "shift": "nuit",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie AL WED",
+   "address": "5, Im. B2 Résidence Assafa, Bd. Al Mouqawama , Marrakech GRAND GUELIZ",
+   "phone": "+212524432433",
+   "lat": 31.630349,
+   "lng": -8.0265595,
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie AL WIFAK",
+   "address": "43, Lakssour Lot. El Baraka Av. Razi près de la mosquée Lakssour, Rte de Casa, Marrakech DAOUDIAT",
+   "phone": "+212524303522",
+   "lat": 31.669611,
+   "lng": -8.006769,
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie ASSOUNNA",
+   "address": "384, M'hamid C, près du café Al Boughaz en face du collège Tarek Ibn Ziad, Marrakech LAMHAMID",
+   "phone": "+212524361622",
+   "lat": 31.5924391,
+   "lng": -8.0347884,
+   "shift": "jour",
    "shift_label": ""
   },
   {
    "name": "Pharmacie BAB ASFI",
    "address": "400m après Lycée Azouzia et après le dernier Rond Point du grand Bd. qui se situe au milieu d'El Azzouzia, Marrakech SIDI GHANEM AZZOUZIA",
    "phone": "+212524356635",
-   "lat": 31.6856594,
-   "lng": -8.0696062,
+   "lat": 31.685659,
+   "lng": -8.069606,
    "shift": "nuit",
    "shift_label": ""
   },
@@ -43,62 +79,26 @@
    "shift_label": ""
   },
   {
-   "name": "Pharmacie Douar Jdid",
-   "address": "986, Douar Dlam Route de l'ITA vers Douar Koucou Près de la Mosquée SI Ismaël SYBA , Marrakech SIDI YOUSSEF",
-   "phone": "+212527652210",
-   "lat": 31.597028,
-   "lng": -7.962058,
-   "shift": "nuit",
+   "name": "Pharmacie BORJ TARGA",
+   "address": "Route de Targa, Centre Commercial Borj Targa, en face de la Direction des Impôts Targa et en face de l’Établissement Excel Targa, Marrakech TARGA",
+   "phone": "+212524343460",
+   "lat": 31.651993,
+   "lng": -8.061757,
+   "shift": "jour",
    "shift_label": ""
   },
   {
-   "name": "Pharmacie El Khirani",
-   "address": "Abwab Marrakech Doha 4, du côté de Hammam Zerktouni 2 et en face du Lycée Fatima Marnissi, Marrakech HAY HASSANI",
-   "phone": "+212761621627",
-   "lat": 31.655465,
-   "lng": -8.081396,
-   "shift": "nuit",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie HEALTH CROWN",
-   "address": "54, Lot. Tassila, à côté de la Mosquée Al Mustapha entre Aach Bellarj et l'Hôpital Mohamed VI, Marrakech DAOUDIAT",
-   "phone": "+212808513798",
-   "lat": 31.6703045,
-   "lng": -8.0004164,
-   "shift": "nuit",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie IMAM MOUSLIM",
-   "address": "381, Saada 6 près de l’école Imam Mouslim vers l'avenue menant à Maatallah, à côté de Hammam Nakhil, Marrakech LAMHAMID",
-   "phone": "+212524360061",
-   "lat": 31.5936895,
-   "lng": -8.046222,
-   "shift": "nuit",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie LA FAMILLE",
-   "address": "Fin Av. Tachfine Qt. Riad Al Menara (nouveau quartier), direction l'Aéroport à côté de la Mosquée Al Ghorfrane, Marrakech HAY HASSANI",
-   "phone": "+212524394920",
-   "lat": 31.613134,
-   "lng": -8.049369,
-   "shift": "nuit",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie Lakhili",
-   "address": "103, Lakhili à côté de Massi, Route de la forêt entre Souk R'bii et Atacadao Nakhil Sud, Marrakech NAKHIL SUD",
-   "phone": "+212701410241",
-   "lat": 31.625136,
-   "lng": -7.967032,
-   "shift": "nuit",
+   "name": "Pharmacie DERB EL GABS",
+   "address": "394 Bis, au centre de Derb El Gabs à côté de Souk Boulerbah SYBA, Marrakech SIDI YOUSSEF",
+   "phone": "+212524401125",
+   "lat": 31.610239,
+   "lng": -7.963566,
+   "shift": "jour",
    "shift_label": ""
   }
  ],
  "center": [
-  31.6415,
-  -8.0223
+  31.6412,
+  -8.0231
  ]
 }

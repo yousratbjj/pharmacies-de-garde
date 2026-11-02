@@ -8,20 +8,20 @@
  "pharmacies": [
   {
    "name": "Pharmacie Cadi Ayad",
-   "address": "rue Oued Sebou hay Zahra",
+   "address": "rue Oued Sebou hay Zahra, Khémisset",
    "phone": "+212537551055",
-   "lat": 33.8113609,
+   "lat": 33.811361,
    "lng": -6.075124,
-   "shift": "nuit",
+   "shift": "jour",
    "shift_label": ""
   },
   {
    "name": "Pharmacie Maamora",
-   "address": "14 av. Abderrahmane Zemmouri hay Maâmoura",
+   "address": "14 av. Abderrahmane Zemmouri hay Maâmoura, Khémisset",
    "phone": "+212537556559",
-   "lat": 33.8341741,
+   "lat": 33.834174,
    "lng": -6.071503,
-   "shift": "nuit",
+   "shift": "jour",
    "shift_label": ""
   }
  ],

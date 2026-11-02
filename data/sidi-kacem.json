@@ -7,17 +7,17 @@
  "kind": "roster",
  "pharmacies": [
   {
-   "name": "Pharmacie Belmejdoub",
-   "address": "Nouveau quartier rue 26 ang. rue 4",
-   "phone": "+212537590066",
-   "lat": 34.224267,
-   "lng": -5.710884,
-   "shift": "nuit",
+   "name": "Pharmacie L'Madani",
+   "address": "25 hay Slaoui bloc Fadl Allah, Sidi Kacem",
+   "phone": "+212537593434",
+   "lat": 34.2303689,
+   "lng": -5.7271158,
+   "shift": "jour",
    "shift_label": ""
   }
  ],
  "center": [
-  34.2243,
-  -5.7109
+  34.2304,
+  -5.7271
  ]
 }

@@ -8,19 +8,19 @@
  "pharmacies": [
   {
    "name": "Pharmacie Ait Oujrar (Al Amal)",
-   "address": "181 hay Al Amal Ait Oujrar",
+   "address": "181 hay Al Amal Ait Oujrar, Aït Melloul",
    "phone": "+212528244545",
    "lat": 30.352463,
-   "lng": -9.4915143,
+   "lng": -9.491514,
    "shift": "nuit",
    "shift_label": ""
   },
   {
    "name": "Pharmacie AlMasjid",
-   "address": "Hay Argana bloc C n°12",
+   "address": "Hay Argana bloc C n°12, Aït Melloul",
    "phone": "+212528249632",
-   "lat": 30.3309667,
-   "lng": -9.4974167,
+   "lat": 30.330967,
+   "lng": -9.497417,
    "shift": "nuit",
    "shift_label": ""
   }

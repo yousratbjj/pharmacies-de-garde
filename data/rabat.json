@@ -7,6 +7,15 @@
  "kind": "roster",
  "pharmacies": [
   {
+   "name": "Pharmacie Alam",
+   "address": "33 avenue Oqbah, Rabat",
+   "phone": "+212537775269",
+   "lat": 34.008335,
+   "lng": -6.84474,
+   "shift": "24h",
+   "shift_label": ""
+  },
+  {
    "name": "Pharmacie AL AMANE",
    "address": "443 Bis Amal 5 Massira - Hay El Fath Lotissement Grini C.Y.M",
    "phone": "+212537293647",
@@ -16,8 +25,8 @@
    "shift_label": ""
   },
   {
-   "name": "Pharmacie AL FATIH",
-   "address": "121, Av Med Belhassan el ouazzani Groupe al araar Bloc 4",
+   "name": "PHARMACIE AL FATIH",
+   "address": "121, Av Med Belhassan el ouazzani, Groupe al araar Bloc 4",
    "phone": "+212537631690",
    "lat": 34.0083637,
    "lng": -6.8538748,
@@ -25,20 +34,20 @@
    "shift_label": ""
   },
   {
-   "name": "Pharmacie AL JAZAA",
-   "address": "75 -77 Avenue Mohammed V Al Jazaa RABAT MEDINA",
+   "name": "Pharmacie Aljazaâ (Gzaa)",
+   "address": "75 avenue Mohammed V, Rabat",
    "phone": "+212537721002",
    "lat": 34.02629,
    "lng": -6.840303,
-   "shift": "nuit",
+   "shift": "jour",
    "shift_label": ""
   },
   {
-   "name": "Pharmacie AL MELIA",
-   "address": "Avenue Dr Abdelkrim El Khatib (Ex: Av Al Melia)",
+   "name": "Pharmacie Al Melia",
+   "address": "12 avenue Almelia Souissi, Rabat",
    "phone": "+212537759202",
-   "lat": 33.9658245,
-   "lng": -6.8580023,
+   "lat": 33.966083,
+   "lng": -6.858427,
    "shift": "24h",
    "shift_label": ""
   },
@@ -48,39 +57,48 @@
    "phone": "+212537693388",
    "lat": 34.016667,
    "lng": -6.856583,
-   "shift": "nuit",
+   "shift": "jour",
    "shift_label": ""
   },
   {
-   "name": "Pharmacie BELMAHI",
-   "address": "1, Rue Tonkin (Av Madagascar) Prés l'école ANDRE MALRAUX et Marché Diour Jamaa",
+   "name": "PHARMACIE BEKKARI",
+   "address": "285 Rue Oulfa Bloc R Amal 3 - C.Y.M",
+   "phone": "+212537794184",
+   "lat": 33.9782991,
+   "lng": -6.8824849,
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie Belmahi",
+   "address": "1 rue du Tonkin diour Jamaâ, Rabat",
    "phone": "+212537722650",
-   "lat": 34.016361,
-   "lng": -6.849972,
-   "shift": "nuit",
+   "lat": 34.016363,
+   "lng": -6.850163,
+   "shift": "jour",
    "shift_label": ""
   },
   {
-   "name": "Pharmacie MIMOSAS",
-   "address": "Magasin 15 Imm 8 Rés.mimosas Hay Elfath C.Y.M (A Côté Aswak Salam Hay Elfath)",
-   "phone": "+212537292000",
-   "lat": 33.966278,
-   "lng": -6.897361,
-   "shift": "nuit",
+   "name": "PHARMACIE DE LA SANTE",
+   "address": "Takadoum & Souissi, Rabat",
+   "phone": "+212537650252",
+   "lat": 33.9944174,
+   "lng": -6.8156642,
+   "shift": "24h",
    "shift_label": ""
   },
   {
-   "name": "Pharmacie UNIVERSELLE",
-   "address": "1, Avenue Allal Ben Abdellah",
-   "phone": "+212808508679",
-   "lat": 34.021667,
-   "lng": -6.836556,
-   "shift": "nuit",
+   "name": "PHARMACIE HAY BOUHLAL",
+   "address": "43, Groupe Al Itihad Av Sidi Mohamed Ben Abdellah, Hay Bouhlal - C.Y.M",
+   "phone": "+212537297717",
+   "lat": 33.9938377,
+   "lng": -6.8773448,
+   "shift": "jour",
    "shift_label": ""
   }
  ],
  "center": [
-  33.9994,
-  -6.86
+  33.9982,
+  -6.8567
  ]
 }

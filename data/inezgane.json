@@ -8,25 +8,16 @@
  "pharmacies": [
   {
    "name": "Pharmacie AlMassira",
-   "address": "95 av. Mohammed V",
+   "address": "95 av. Mohammed V, Inezgane",
    "phone": "+212528834420",
    "lat": 30.3551,
-   "lng": -9.5334667,
-   "shift": "nuit",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie Hagounia",
-   "address": "1 av Mokhtar Essoussi",
-   "phone": "+212528832161",
-   "lat": 30.3600667,
-   "lng": -9.5280833,
+   "lng": -9.533467,
    "shift": "nuit",
    "shift_label": ""
   }
  ],
  "center": [
-  30.3576,
-  -9.5308
+  30.3551,
+  -9.5335
  ]
 }

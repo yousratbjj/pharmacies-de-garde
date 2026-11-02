@@ -12,7 +12,7 @@
    "phone": "+212522602324",
    "lat": 33.6193056,
    "lng": -7.4935046,
-   "shift": "nuit",
+   "shift": "jour",
    "shift_label": ""
   },
   {
@@ -21,75 +21,84 @@
    "phone": "+212522748014",
    "lat": 33.5880115,
    "lng": -7.5062409,
-   "shift": "nuit",
+   "shift": "jour",
    "shift_label": ""
   },
   {
-   "name": "Pharmacie Dawdia",
-   "address": "hay El Wifak 1 rue 13 n°85 Oulfa Casablanca",
-   "phone": "+212522901424",
-   "lat": 33.5553578,
-   "lng": -7.6899021,
-   "shift": "nuit",
+   "name": "Pharmacie Adil",
+   "address": "hay Mohammadi ElMassira imm.71 n°3, Casablanca",
+   "phone": "+212522638758",
+   "lat": 33.576848,
+   "lng": -7.566214,
+   "shift": "jour",
    "shift_label": ""
   },
   {
-   "name": "Pharmacie Dennay",
-   "address": "hay Sidi Moumen Dyar Essaâda mag. n°1 et 3, Casablanca",
-   "phone": "+212522709079",
-   "lat": 33.5852927,
-   "lng": -7.5206458,
-   "shift": "nuit",
+   "name": "Pharmacie Afak",
+   "address": "hay Mohammadi bloc 22 rue 6 n°74, Casablanca",
+   "phone": "+212522628370",
+   "lat": 33.590917,
+   "lng": -7.565774,
+   "shift": "jour",
    "shift_label": ""
   },
   {
-   "name": "Pharmacie des Acacias",
-   "address": "76, BD. DE GERGOVIE (MOHAMED BEN MEKKI)",
-   "phone": "+212522248181",
-   "lat": 33.5998209,
-   "lng": -7.5777588,
-   "shift": "nuit",
+   "name": "Pharmacie AlAtfal",
+   "address": "31 lotiss. Moulay Thami bd HH 24, Casablanca",
+   "phone": "+212522910598",
+   "lat": 33.552655,
+   "lng": -7.689762,
+   "shift": "jour",
    "shift_label": ""
   },
   {
-   "name": "Pharmacie ElHarti",
-   "address": "775 avenue du Cdt Driss Lharti - ex A, Casablanca",
-   "phone": "+212522371737",
-   "lat": 33.5586,
-   "lng": -7.55609,
-   "shift": "nuit",
+   "name": "Pharmacie Al Basmala",
+   "address": "bd Chefchaouni résid. Atlantique El Gantour, Casablanca",
+   "phone": "+212522356651",
+   "lat": 33.6117,
+   "lng": -7.53087,
+   "shift": "jour",
    "shift_label": ""
   },
   {
-   "name": "Pharmacie Faris El Baida",
-   "address": "928 route de Médiouna, Casablanca",
-   "phone": "+212522289090",
-   "lat": 33.552497,
-   "lng": -7.590131,
-   "shift": "nuit",
+   "name": "Pharmacie AlKaria",
+   "address": "hay Sidi Moumen Jdid grp.2 rue 8 n°56, Casablanca",
+   "phone": "+212522727040",
+   "lat": 33.578292,
+   "lng": -7.548224,
+   "shift": "jour",
    "shift_label": ""
   },
   {
-   "name": "Pharmacie Gare de l'oasis",
-   "address": "152 X route de l' Oasis, Casablanca",
-   "phone": "+212522990284",
-   "lat": 33.5552277,
-   "lng": -7.6316208,
-   "shift": "nuit",
+   "name": "Pharmacie AlMotahida",
+   "address": "hay El Oulfa lot. Sidi Abderrhman rue 36 n°31, Casablanca",
+   "phone": "+212522895606",
+   "lat": 33.548103,
+   "lng": -7.679309,
+   "shift": "jour",
    "shift_label": ""
   },
   {
-   "name": "Pharmacie Missimi",
-   "address": "Rue 24, n 1, Angle Rue 12, Cité Missimi, Quartier Hay Hassani,",
-   "phone": "+212522900529",
-   "lat": 33.5635194,
-   "lng": -7.6744739,
-   "shift": "nuit",
+   "name": "Pharmacie AlWissal",
+   "address": "rue Mostachfa Mohammed V projet Hassan II bloc 2 n°18, Casablanca",
+   "phone": "+212522636633",
+   "lat": 33.587452,
+   "lng": -7.555462,
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie Bensaid",
+   "address": "hay Amal III (Sidi Bernoussi) rue 13 n°34, Casablanca",
+   "phone": "+212522741463",
+   "lat": 33.604212,
+   "lng": -7.51709,
+   "shift": "jour",
    "shift_label": ""
   }
  ],
  "center": [
-  33.5753,
-  -7.5823
+  33.5857,
+  -7.5652
  ]
 }

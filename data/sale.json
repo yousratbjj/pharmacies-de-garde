@@ -7,38 +7,56 @@
  "kind": "roster",
  "pharmacies": [
   {
-   "name": "Pharmacie ALHAMD",
-   "address": "366, Rue Yasmine, Sect.A Hay Rahma",
+   "name": "Pharmacie AlHamd",
+   "address": "hay Errahma sect. A n°366 rue Yasmine, Salé",
    "phone": "+212537871067",
-   "lat": 34.064083,
-   "lng": -6.786611,
+   "lat": 34.064152,
+   "lng": -6.786371,
    "shift": "24h",
    "shift_label": ""
   },
   {
-   "name": "Pharmacie BAASSINE",
-   "address": "Lot azzahra 1 Attakwa gh4 Imm3 Bouchouk",
-   "phone": "+212661406943",
+   "name": "PHARMACIE AL HANANE",
+   "address": "Imm 2 Résidence Idriss II - Bettana",
+   "phone": "+212537801585",
+   "lat": 34.030889,
+   "lng": -6.799,
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie Baassine",
+   "address": "3 lotiss zahrat Attakwa Gh 4 Mag C4-18, Salé",
+   "phone": "+212537823731",
    "lat": 34.056108,
    "lng": -6.77489,
-   "shift": "nuit",
+   "shift": "jour",
    "shift_label": ""
   },
   {
    "name": "Pharmacie L'HONNEUR",
-   "address": "Résidence Al Amine Immeuble 10 Local B4 Sala Al Jadida",
+   "address": "Sala El Jadida, Salé",
    "phone": "+212537533928",
    "lat": 34.0019026,
    "lng": -6.7478607,
-   "shift": "nuit",
+   "shift": "jour",
    "shift_label": ""
   },
   {
-   "name": "Pharmacie NOUR SALE ex: HIMMICH",
+   "name": "PHARMACIE NOUR SALE EX: HIMMICH",
    "address": "Lot. Salima 2 Imm. 13 Mag. 1 Route de Kénitra",
    "phone": "+212537880717",
    "lat": 34.051503,
    "lng": -6.8129508,
+   "shift": "24h",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie Zahraoui",
+   "address": "projet Addoha sect. Al Quods n°144, Salé",
+   "phone": "+212530135079",
+   "lat": 34.06033,
+   "lng": -6.763849,
    "shift": "24h",
    "shift_label": ""
   },
@@ -48,21 +66,12 @@
    "phone": "+212537845138",
    "lat": 34.086566,
    "lng": -6.781806,
-   "shift": "nuit",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie Aicha",
-   "address": "lotiss. Said Hajji hay Chmaou n°1817, Salé",
-   "phone": "+212537878079",
-   "lat": 34.074079,
-   "lng": -6.786371,
-   "shift": "nuit",
+   "shift": "jour",
    "shift_label": ""
   }
  ],
  "center": [
-  34.0557,
-  -6.7817
+  34.0502,
+  -6.781
  ]
 }

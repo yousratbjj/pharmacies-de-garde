@@ -7,26 +7,26 @@
  "kind": "roster",
  "pharmacies": [
   {
-   "name": "Grande Pharmacie du Rif",
-   "address": "60 av Abdelmoumen Ben Ali, Guercif",
-   "phone": "+212535200441",
-   "lat": 34.226917,
-   "lng": -3.344933,
-   "shift": "nuit",
+   "name": "Pharmacie Houara",
+   "address": "218 bd. My Youssef rte Oujda, Guercif",
+   "phone": "+212535200694",
+   "lat": 34.230283,
+   "lng": -3.342167,
+   "shift": "jour",
    "shift_label": ""
   },
   {
-   "name": "Pharmacie Labiad",
-   "address": "85 bd Abdelkrim Khattabi - Autre ville hay Annajd, Guercif",
-   "phone": "+212535203897",
-   "lat": 34.234,
-   "lng": -3.35017,
-   "shift": "nuit",
+   "name": "Pharmacie Nougd (Hamria AlJadida)",
+   "address": "36 bd. Abdelkrim El Khattabi hay Nougd, Guercif",
+   "phone": "+212535200115",
+   "lat": 34.232395,
+   "lng": -3.353883,
+   "shift": "jour",
    "shift_label": ""
   }
  ],
  "center": [
-  34.2305,
-  -3.3476
+  34.2313,
+  -3.348
  ]
 }

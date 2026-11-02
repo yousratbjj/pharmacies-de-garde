@@ -8,11 +8,11 @@
  "pharmacies": [
   {
    "name": "Pharmacie Masjid Essaada",
-   "address": "Ahadaf rue 15 n°578",
+   "address": "Ahadaf rue 15 n°578, Azrou",
    "phone": "+212535564141",
-   "lat": 33.4380833,
+   "lat": 33.438083,
    "lng": -5.2269,
-   "shift": "nuit",
+   "shift": "jour",
    "shift_label": ""
   }
  ],

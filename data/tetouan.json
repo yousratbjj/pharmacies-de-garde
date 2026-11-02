@@ -7,26 +7,26 @@
  "kind": "roster",
  "pharmacies": [
   {
-   "name": "PHARMACIE IBN ROCHD",
-   "address": "66 av. Abderrahim Bouabid lotiss. Wilaya Appeler 05 39 99 •• •• Itinéraire Carte Partager Voir la fiche",
-   "phone": "+212539991026",
-   "lat": 35.587425,
-   "lng": -5.3392942,
+   "name": "Pharmacie ElFeddane",
+   "address": "2 bd. Mohammed V, Tétouan",
+   "phone": "+212539967461",
+   "lat": 35.5701,
+   "lng": -5.369517,
    "shift": "nuit",
    "shift_label": ""
   },
   {
-   "name": "PHARMACIE TNANA",
-   "address": "294 av. Hassan II Appeler 05 39 70 •• •• Itinéraire Carte Partager Voir la fiche",
-   "phone": "+212539701711",
-   "lat": 35.5683524,
-   "lng": -5.3750578,
+   "name": "Pharmacie Wilaya Center",
+   "address": "5 rue Caire - Autre ville imm Nouria, Tétouan",
+   "phone": "+212808519468",
+   "lat": 35.587288,
+   "lng": -5.341887,
    "shift": "nuit",
    "shift_label": ""
   }
  ],
  "center": [
-  35.5779,
-  -5.3572
+  35.5787,
+  -5.3557
  ]
 }

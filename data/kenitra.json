@@ -8,47 +8,47 @@
  "pharmacies": [
   {
    "name": "Pharmacie El Felline",
-   "address": "736 hay Bir Rami LOT; Jnane 4",
+   "address": "736 hay Bir Rami - Autre ville LOT; Jnane 4, Kénitra",
    "phone": "+212638814867",
    "lat": 34.234656,
    "lng": -6.60806,
-   "shift": "nuit",
+   "shift": "jour",
    "shift_label": ""
   },
   {
    "name": "Pharmacie El Mssalla",
-   "address": "hay Saknia mag.1 imm.14 allée du parc",
+   "address": "hay Saknia mag.1 imm.14 allée du parc, Kénitra",
    "phone": "+212661097124",
    "lat": 34.251819,
    "lng": -6.54552,
-   "shift": "nuit",
+   "shift": "jour",
    "shift_label": ""
   },
   {
    "name": "Pharmacie Mohammed",
-   "address": "2 rue Ibn Benna mosquée Lalla Khadija",
+   "address": "2 rue Ibn Benna mosquée Lalla Khadija, Kénitra",
    "phone": "+212537373573",
    "lat": 34.254089,
-   "lng": -6.5841322,
-   "shift": "nuit",
+   "lng": -6.584132,
+   "shift": "jour",
    "shift_label": ""
   },
   {
    "name": "Pharmacie Sidi Larbi Boujemaâ",
-   "address": "272 bd Mohammed V",
+   "address": "272 bd Mohammed V, Kénitra",
    "phone": "+212537364898",
-   "lat": 34.2632576,
-   "lng": -6.5742073,
-   "shift": "nuit",
+   "lat": 34.263258,
+   "lng": -6.574207,
+   "shift": "jour",
    "shift_label": ""
   },
   {
    "name": "Pharmacie Tolbix",
-   "address": "hay Ouled Oujih lot.154 bloc F/D 2",
+   "address": "hay Ouled Oujih lot.154 bloc F/D 2, Kénitra",
    "phone": "+212537352241",
-   "lat": 34.2606724,
-   "lng": -6.6150877,
-   "shift": "nuit",
+   "lat": 34.260672,
+   "lng": -6.615088,
+   "shift": "jour",
    "shift_label": ""
   },
   {
@@ -57,16 +57,7 @@
    "phone": "+212537338274",
    "lat": 34.2648909,
    "lng": -6.6520185,
-   "shift": "nuit",
-   "shift_label": ""
-  },
-  {
-   "name": "PHARMACIE RAYANE",
-   "address": "7 lotiss. Corsica · Ouled Oujih Appeler 05 37 35 •• •• Itinéraire Carte Partager Voir la ficheرقم 7، تجزئة كورسيكا",
-   "phone": "+212537352957",
-   "lat": 34.2706575,
-   "lng": -6.6065653,
-   "shift": "nuit",
+   "shift": "jour",
    "shift_label": ""
   },
   {
@@ -75,12 +66,21 @@
    "phone": "+212537328632",
    "lat": 34.265064,
    "lng": -6.6474624,
-   "shift": "nuit",
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie SIHAM ALLIANCE",
+   "address": "اليانس دارنا الشطر 2 وراء المركز التجاري (مهدية مول) ي عند نهاية الطريق الؤدي من الملعب البلدي الجديد إلى مكتب البيع للإقامات الجديدة شرقاوي الهاتف. 01 73 31 0537",
+   "phone": "+212537317301",
+   "lat": 34.2440841,
+   "lng": -6.6640968,
+   "shift": "jour",
    "shift_label": ""
   }
  ],
  "center": [
-  34.2581,
-  -6.6041
+  34.2548,
+  -6.6113
  ]
 }

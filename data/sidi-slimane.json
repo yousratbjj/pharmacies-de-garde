@@ -7,26 +7,35 @@
  "kind": "roster",
  "pharmacies": [
   {
-   "name": "PHARMACIE LAGHLALTA",
+   "name": "Pharmacie Laghlalta",
    "address": "douar Lharati, Sidi Slimane",
    "phone": "+212537504409",
    "lat": 34.250112,
    "lng": -5.944446,
-   "shift": "nuit",
+   "shift": "jour",
    "shift_label": ""
   },
   {
-   "name": "PHARMACIE LES ORANGERS",
-   "address": "12 av Mohammed V Ghoumareyene, Sidi Slimane",
-   "phone": "+212537501965",
-   "lat": 34.2522987,
-   "lng": -5.9285332,
-   "shift": "nuit",
+   "name": "Pharmacie la Résistance",
+   "address": "2 av la Résistance, Sidi Slimane",
+   "phone": "+212537503558",
+   "lat": 34.2675,
+   "lng": -5.919917,
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
+   "name": "PHARMACIE ELHAY ELJADID",
+   "address": "av Zerktouni hay ElJadid, Sidi Slimane",
+   "phone": "+212537500650",
+   "lat": 34.2622961,
+   "lng": -5.9239749,
+   "shift": "jour",
    "shift_label": ""
   }
  ],
  "center": [
-  34.2512,
-  -5.9365
+  34.26,
+  -5.9294
  ]
 }

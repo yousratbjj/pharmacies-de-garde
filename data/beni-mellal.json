@@ -8,29 +8,29 @@
  "pharmacies": [
   {
    "name": "Pharmacie Amine",
-   "address": "ouled Attou",
+   "address": "ouled Attou, Beni Mellal",
    "phone": "+212523429891",
-   "lat": 32.3284569,
-   "lng": -6.3919359,
-   "shift": "nuit",
+   "lat": 32.328457,
+   "lng": -6.391936,
+   "shift": "jour",
    "shift_label": ""
   },
   {
    "name": "Pharmacie Dar Dbagh",
-   "address": "107 bd Nouakchot rue 10 q. dar Dbagh",
+   "address": "107 bd Nouakchot rue 10 q. dar Dbagh, Beni Mellal",
    "phone": "+212523424041",
-   "lat": 32.3332299,
-   "lng": -6.3458368,
-   "shift": "nuit",
+   "lat": 32.33323,
+   "lng": -6.345837,
+   "shift": "jour",
    "shift_label": ""
   },
   {
    "name": "Pharmacie Laila Santé",
-   "address": "13 bd Baghdad Kssar Ghzafat",
+   "address": "13 bd Baghdad - Autre ville Kssar Ghzafat, Beni Mellal",
    "phone": "+212523427293",
    "lat": 32.351966,
    "lng": -6.355689,
-   "shift": "nuit",
+   "shift": "jour",
    "shift_label": ""
   }
  ],

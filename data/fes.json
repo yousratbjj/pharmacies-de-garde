@@ -17,10 +17,10 @@
   },
   {
    "name": "Pharmacie Al Jamila",
-   "address": "LOT GHALI, Magasin N 38, 1 Rte de Sefrou",
+   "address": "rte de Sefrou - Autre ville lotiss. Ghali 1 mag. n°38, Fès",
    "phone": "+212535767758",
-   "lat": 33.9903905,
-   "lng": -4.9702622,
+   "lat": 33.9904,
+   "lng": -4.97027,
    "shift": "24h",
    "shift_label": ""
   },
@@ -44,52 +44,61 @@
   },
   {
    "name": "Pharmacie Dayaa",
-   "address": "numéro 11 ain kadous a cote mosquée dayaa",
+   "address": "lotiss. Dayaa rue 3 n°4 bis Ain Kadousse, Fès",
    "phone": "+212535755039",
-   "lat": 34.0338126,
-   "lng": -5.0349768,
+   "lat": 34.062815,
+   "lng": -5.018212,
    "shift": "24h",
    "shift_label": ""
   },
   {
+   "name": "Pharmacie Debbagh",
+   "address": "bd abou obeida ibnou al jarrah",
+   "phone": "+212535622381",
+   "lat": 34.0346985,
+   "lng": -5.0161901,
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
    "name": "Pharmacie des F.a.r.",
-   "address": "Rte De Meknès, Dokkarat",
+   "address": "rte de Meknès Dokkarat, Fès",
    "phone": "+212535942250",
-   "lat": 34.0408133,
-   "lng": -5.0165244,
+   "lat": 34.040917,
+   "lng": -5.016467,
    "shift": "24h",
    "shift_label": ""
   },
   {
    "name": "Pharmacie Elanouar",
-   "address": "N 135, Avenue Fakharine, Bab Ftouh",
+   "address": "135 rue Al Fakharine, Fès",
    "phone": "+212535649077",
-   "lat": 34.0638202,
-   "lng": -4.9664267,
+   "lat": 34.063717,
+   "lng": -4.96645,
    "shift": "24h",
    "shift_label": ""
   },
   {
    "name": "Pharmacie El Awab",
-   "address": "Oulad Maala Andalous. Ain Chkef",
+   "address": "douar Ouled Maalla Aandalous, Fès",
    "phone": "+212709052737",
-   "lat": 33.9407277,
-   "lng": -5.0309821,
+   "lat": 34.0346534,
+   "lng": -5.0161926,
    "shift": "24h",
    "shift_label": ""
   },
   {
    "name": "Pharmacie Ibn Haytam",
-   "address": "104, Bd Kairaouane, Narjiss",
+   "address": "104 bd Kairaouane Narjiss, Fès",
    "phone": "+212535960412",
-   "lat": 34.0212467,
-   "lng": -4.9828565,
+   "lat": 34.0212,
+   "lng": -4.9828,
    "shift": "24h",
    "shift_label": ""
   }
  ],
  "center": [
-  34.0178,
-  -5.0031
+  34.0318,
+  -5.0012
  ]
 }

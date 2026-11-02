@@ -8,20 +8,20 @@
  "pharmacies": [
   {
    "name": "Pharmacie Abouab Ksar El Kébir",
-   "address": "ouled Hmaid",
+   "address": "ouled Hmaid, Ksar El Kébir",
    "phone": "+212684466730",
    "lat": 35.003505,
    "lng": -5.915323,
-   "shift": "nuit",
+   "shift": "jour",
    "shift_label": ""
   },
   {
    "name": "Pharmacie Bab ElOued",
-   "address": "25 rte. de Rabat",
+   "address": "25 rte. de Rabat, Ksar El Kébir",
    "phone": "+212539904800",
-   "lat": 34.9887667,
-   "lng": -5.9080167,
-   "shift": "nuit",
+   "lat": 34.988767,
+   "lng": -5.908017,
+   "shift": "jour",
    "shift_label": ""
   }
  ],

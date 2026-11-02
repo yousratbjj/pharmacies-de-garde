@@ -8,11 +8,11 @@
  "pharmacies": [
   {
    "name": "Pharmacie AlMahatta",
-   "address": "254 av Hassan II",
+   "address": "254 av Hassan II, Nador",
    "phone": "+212536604408",
    "lat": 35.1751,
-   "lng": -2.9223833,
-   "shift": "nuit",
+   "lng": -2.922383,
+   "shift": "jour",
    "shift_label": ""
   },
   {
@@ -21,7 +21,7 @@
    "phone": "+212536333633",
    "lat": 35.1703,
    "lng": -2.95129,
-   "shift": "nuit",
+   "shift": "jour",
    "shift_label": ""
   }
  ],

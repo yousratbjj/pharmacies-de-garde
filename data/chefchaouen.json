@@ -12,21 +12,12 @@
    "phone": "+212539883264",
    "lat": 35.1767,
    "lng": -5.273167,
-   "shift": "jour",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie ElHafa",
-   "address": "15 av. Mohamed. V, Chefchaouen",
-   "phone": "+212539883008",
-   "lat": 35.167417,
-   "lng": -5.268767,
-   "shift": "jour",
+   "shift": "nuit",
    "shift_label": ""
   }
  ],
  "center": [
-  35.1721,
-  -5.271
+  35.1767,
+  -5.2732
  ]
 }

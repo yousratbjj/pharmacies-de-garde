@@ -8,20 +8,20 @@
  "pharmacies": [
   {
    "name": "Pharmacie du Stade",
-   "address": "72 Lotissement Ben Hamza Massy",
+   "address": "72 Lotissement Ben Hamza Massy, Séfrou",
    "phone": "+212535662572",
-   "lat": 33.8225333,
-   "lng": -4.8330167,
-   "shift": "nuit",
+   "lat": 33.822533,
+   "lng": -4.833017,
+   "shift": "jour",
    "shift_label": ""
   },
   {
    "name": "Pharmacie les Cérises",
-   "address": "140 Ibnou Zaidoun Habouna",
+   "address": "140 Ibnou Zaidoun Habouna, Séfrou",
    "phone": "+212535683583",
    "lat": 33.82639,
    "lng": -4.83121,
-   "shift": "nuit",
+   "shift": "jour",
    "shift_label": ""
   }
  ],

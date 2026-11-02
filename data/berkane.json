@@ -8,38 +8,38 @@
  "pharmacies": [
   {
    "name": "Pharmacie Al Farah",
-   "address": "5 bd Mohamed V hay Al Farah rte de Nador",
+   "address": "5 bd Mohamed V hay Al Farah rte de Nador, Berkane",
    "phone": "+212536257992",
    "lat": 34.92807,
    "lng": -2.328734,
-   "shift": "nuit",
+   "shift": "jour",
    "shift_label": ""
   },
   {
    "name": "Pharmacie Al Moumene",
-   "address": "81 rue Tétouan hay Hamza",
+   "address": "81 rue Tétouan hay Hamza, Berkane",
    "phone": "+212536617070",
    "lat": 34.9205,
    "lng": -2.3352,
-   "shift": "nuit",
+   "shift": "jour",
    "shift_label": ""
   },
   {
    "name": "Pharmacie Ibn Rochd",
-   "address": "157 Rue Ibn Sina",
+   "address": "157 Rue Ibn Sina, Berkane",
    "phone": "+212536613631",
    "lat": 34.92195,
-   "lng": -2.3243333,
-   "shift": "nuit",
+   "lng": -2.324333,
+   "shift": "jour",
    "shift_label": ""
   },
   {
    "name": "Pharmacie de l'Hôpital",
-   "address": "91 bd. Sultan My Mhamed",
+   "address": "91 bd. Sultan My Mhamed, Berkane",
    "phone": "+212536613990",
-   "lat": 34.9242667,
-   "lng": -2.3280167,
-   "shift": "nuit",
+   "lat": 34.924267,
+   "lng": -2.328017,
+   "shift": "jour",
    "shift_label": ""
   }
  ],

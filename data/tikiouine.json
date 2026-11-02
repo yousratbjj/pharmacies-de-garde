@@ -14,19 +14,10 @@
    "lng": -9.49635,
    "shift": "nuit",
    "shift_label": ""
-  },
-  {
-   "name": "Pharmacie Tikiouine",
-   "address": "hay Ighious bloc 3 av. 07, Tikiouine",
-   "phone": "+212528290940",
-   "lat": 30.375333,
-   "lng": -9.5035,
-   "shift": "nuit",
-   "shift_label": ""
   }
  ],
  "center": [
-  30.3741,
-  -9.4999
+  30.373,
+  -9.4963
  ]
 }

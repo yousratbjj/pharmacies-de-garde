@@ -7,29 +7,56 @@
  "kind": "roster",
  "pharmacies": [
   {
-   "name": "Pharmacie AMINA",
-   "address": "45 masrour 2 - Temara",
-   "phone": "+212537610939",
-   "lat": 33.9135056,
-   "lng": -6.9283946,
+   "name": "Pharmacie Abi Horaira",
+   "address": "15 av. du Caire lotiss. Abi Horaira Fath ElKheir, Témara",
+   "phone": "+212537641458",
+   "lat": 33.91065,
+   "lng": -6.915833,
    "shift": "nuit",
    "shift_label": ""
   },
   {
-   "name": "Pharmacie CHATEA",
-   "address": "N°39 residence chatea bethoven harhoura",
-   "phone": "+212537744975",
-   "lat": 33.9209668,
-   "lng": -6.9620737,
-   "shift": "24h",
+   "name": "Pharmacie Al Fajr",
+   "address": "622 av. Moulay Ali Cherif Massira I, Témara",
+   "phone": "+212537601592",
+   "lat": 33.927267,
+   "lng": -6.896883,
+   "shift": "nuit",
    "shift_label": ""
   },
   {
-   "name": "Pharmacie FATINE",
-   "address": "863 Av Moulay Ali Cherif Hay Al Maghreb Al Arabi Massira 2",
+   "name": "Pharmacie Amina",
+   "address": "45 Mansour II, Témara",
+   "phone": "+212537610939",
+   "lat": 33.913567,
+   "lng": -6.9284,
+   "shift": "nuit",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie Chatea",
+   "address": "39 lot Beethoven résid. Chatea, El Harhoura",
+   "phone": "+212537744975",
+   "lat": 33.922049,
+   "lng": -6.961363,
+   "shift": "nuit",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie Essalama",
+   "address": "2 bd. Mohammed V hay Lazrak, Témara",
+   "phone": "+212537747662",
+   "lat": 33.920775,
+   "lng": -6.916837,
+   "shift": "nuit",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie Fatine",
+   "address": "863 Av. Moulay Ali Chrif hay Almaghreb Arabie Massira II, Témara",
    "phone": "+212537602705",
-   "lat": 33.9242554,
-   "lng": -6.8921914,
+   "lat": 33.924133,
+   "lng": -6.892233,
    "shift": "nuit",
    "shift_label": ""
   },
@@ -45,7 +72,7 @@
   {
    "name": "Pharmacie Marimane",
    "address": "5439 lot. ElWifak, Témara",
-   "phone": "",
+   "phone": "+212537645645",
    "lat": 33.918163,
    "lng": -6.936247,
    "shift": "nuit",
@@ -53,7 +80,7 @@
   }
  ],
  "center": [
-  33.9146,
-  -6.9309
+  33.9166,
+  -6.9229
  ]
 }

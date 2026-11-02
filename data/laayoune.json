@@ -8,38 +8,38 @@
  "pharmacies": [
   {
    "name": "Pharmacie Anas Bnou Malek",
-   "address": "lotiss. Issam et Sofia Ihchicha",
+   "address": "lotiss. Issam et Sofia Ihchicha, Laâyoune",
    "phone": "+212528990093",
    "lat": 27.13344,
    "lng": -13.18529,
-   "shift": "nuit",
+   "shift": "jour",
    "shift_label": ""
   },
   {
    "name": "Pharmacie Avenue Habouha",
-   "address": "rue Omar Ibn El Ass hay Al Moustakbal",
+   "address": "rue Omar Ibn El Ass hay Al Moustakbal, Laâyoune",
    "phone": "+212663153319",
    "lat": 27.151389,
    "lng": -13.188744,
-   "shift": "nuit",
+   "shift": "jour",
    "shift_label": ""
   },
   {
    "name": "Pharmacie Moulay Rachid",
-   "address": "hay Moulay Rachid Lirac",
+   "address": "hay Moulay Rachid - Autre ville Lirac, Laâyoune",
    "phone": "+212528890378",
    "lat": 27.148811,
    "lng": -13.186976,
-   "shift": "nuit",
+   "shift": "jour",
    "shift_label": ""
   },
   {
    "name": "Pharmacie Nizar",
-   "address": "81 av Oum Saad",
+   "address": "81 av Oum Saad, Laâyoune",
    "phone": "+212528982225",
-   "lat": 27.1511667,
-   "lng": -13.2021333,
-   "shift": "nuit",
+   "lat": 27.151167,
+   "lng": -13.202133,
+   "shift": "jour",
    "shift_label": ""
   }
  ],

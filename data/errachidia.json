@@ -8,16 +8,16 @@
  "pharmacies": [
   {
    "name": "Pharmacie La Cité Universitaire",
-   "address": "535 lot Mly Ali Chérif",
+   "address": "535 lot Mly Ali Chérif, Errachidia",
    "phone": "+212535572057",
-   "lat": 31.9376507,
-   "lng": -4.4527873,
+   "lat": 31.937651,
+   "lng": -4.452787,
    "shift": "nuit",
    "shift_label": ""
   },
   {
    "name": "Pharmacie L'habitat",
-   "address": "rue Abdelkrim Khattabi N.H",
+   "address": "rue Abdelkrim Khattabi N.H, Errachidia",
    "phone": "+212535574285",
    "lat": 31.928726,
    "lng": -4.421084,

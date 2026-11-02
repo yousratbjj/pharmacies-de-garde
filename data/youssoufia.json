@@ -8,16 +8,16 @@
  "pharmacies": [
   {
    "name": "Pharmacie El Khiria",
-   "address": "25 rue Meknés cité Hassani",
+   "address": "25 rue Meknés cité Hassani, Youssoufia",
    "phone": "+212524648216",
-   "lat": 32.2445167,
-   "lng": -8.5281833,
+   "lat": 32.244517,
+   "lng": -8.528183,
    "shift": "nuit",
    "shift_label": ""
   },
   {
    "name": "Pharmacie Zineb",
-   "address": "342 lotiss. Agendis",
+   "address": "342 lotiss. Agendis, Youssoufia",
    "phone": "+212524645909",
    "lat": 32.26022,
    "lng": -8.52348,

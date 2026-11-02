@@ -7,21 +7,21 @@
  "kind": "roster",
  "pharmacies": [
   {
-   "name": "Pharmacie Al Course",
-   "address": "hay Course rue 2 n°23",
-   "phone": "+212535588558",
-   "lat": 32.9357718,
-   "lng": -5.6696504,
-   "shift": "nuit",
-   "shift_label": ""
-  },
-  {
    "name": "Pharmacie Oum El Qora",
-   "address": "Lotissement El Abdellaoui rte. de Meknés n°31 bis",
+   "address": "Lotissement El Abdellaoui rte. de Meknés n°31 bis, Khénifra",
    "phone": "+212535384143",
    "lat": 32.94885,
    "lng": -5.6635,
-   "shift": "nuit",
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie Al Course",
+   "address": "hay Course rue 2 n°23, Khénifra",
+   "phone": "+212535588558",
+   "lat": 32.9357718,
+   "lng": -5.6696504,
+   "shift": "jour",
    "shift_label": ""
   }
  ],

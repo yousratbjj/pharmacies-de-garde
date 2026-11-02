@@ -7,17 +7,26 @@
  "kind": "roster",
  "pharmacies": [
   {
+   "name": "Pharmacie La Victoire",
+   "address": "bd Abderrahim Bouabid hay El Amal lot 197, Khouribga",
+   "phone": "+212523497467",
+   "lat": 32.890717,
+   "lng": -6.933986,
+   "shift": "nuit",
+   "shift_label": ""
+  },
+  {
    "name": "Pharmacie Tawfiq",
-   "address": "251 Ancienne Médina du Séchage",
+   "address": "251 Ancienne Médina du Séchage, Khouribga",
    "phone": "+212521130339",
-   "lat": 32.8809464,
-   "lng": -6.8961939,
+   "lat": 32.880946,
+   "lng": -6.896194,
    "shift": "nuit",
    "shift_label": ""
   }
  ],
  "center": [
-  32.8809,
-  -6.8962
+  32.8858,
+  -6.9151
  ]
 }

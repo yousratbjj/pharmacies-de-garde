@@ -8,10 +8,10 @@
  "pharmacies": [
   {
    "name": "Pharmacie Al Hizame",
-   "address": "77 av. My Abdellah",
+   "address": "77 av. My Abdellah, Ouarzazate",
    "phone": "+212524888081",
    "lat": 30.92745,
-   "lng": -6.9268333,
+   "lng": -6.926833,
    "shift": "nuit",
    "shift_label": ""
   }

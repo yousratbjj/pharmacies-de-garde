@@ -8,20 +8,20 @@
  "pharmacies": [
   {
    "name": "Pharmacie Arrazak",
-   "address": "33 rte de Rabat lot. Ain Atti",
+   "address": "33 rte de Rabat - Autre ville lot. Ain Atti, Larache",
    "phone": "+212808576458",
    "lat": 35.174531,
    "lng": -6.153996,
-   "shift": "nuit",
+   "shift": "jour",
    "shift_label": ""
   },
   {
    "name": "Pharmacie des F.a.r",
-   "address": "106 bd des Far",
+   "address": "106 bd des Far, Larache",
    "phone": "+212539501818",
-   "lat": 35.1828833,
-   "lng": -6.1570167,
-   "shift": "nuit",
+   "lat": 35.182883,
+   "lng": -6.157017,
+   "shift": "jour",
    "shift_label": ""
   }
  ],

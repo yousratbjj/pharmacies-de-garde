@@ -16,8 +16,17 @@
    "shift_label": ""
   },
   {
+   "name": "Pharmacie Izdihare",
+   "address": "hay Ennajd n°1 Riad Essalam Res. Izdihare, El Jadida",
+   "phone": "+212523392279",
+   "lat": 33.229406,
+   "lng": -8.512636,
+   "shift": "nuit",
+   "shift_label": ""
+  },
+  {
    "name": "Pharmacie Oscar",
-   "address": "23 bd Mohammed VI",
+   "address": "23 bd Mohammed VI, El Jadida",
    "phone": "+212523351235",
    "lat": 33.2498,
    "lng": -8.50005,
@@ -26,7 +35,7 @@
   }
  ],
  "center": [
-  33.2395,
-  -8.5063
+  33.2362,
+  -8.5084
  ]
 }
