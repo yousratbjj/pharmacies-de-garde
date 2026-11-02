@@ -1,41 +1,23 @@
 {
  "city": "sidi-slimane",
  "label": "Sidi Slimane",
- "date": "2026-11-01",
+ "date": "2026-11-02",
  "source": "sahha.ma",
  "source_url": "https://sahha.ma/pharmacie-de-garde/sidi-slimane",
  "kind": "roster",
  "pharmacies": [
   {
-   "name": "Pharmacie Laghlalta",
-   "address": "douar Lharati, Sidi Slimane",
-   "phone": "+212537504409",
-   "lat": 34.250112,
-   "lng": -5.944446,
-   "shift": "jour",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie la Résistance",
-   "address": "2 av la Résistance, Sidi Slimane",
-   "phone": "+212537503558",
-   "lat": 34.2675,
-   "lng": -5.919917,
-   "shift": "jour",
-   "shift_label": ""
-  },
-  {
-   "name": "PHARMACIE ELHAY ELJADID",
-   "address": "av Zerktouni hay ElJadid, Sidi Slimane",
-   "phone": "+212537500650",
-   "lat": 34.2622961,
-   "lng": -5.9239749,
+   "name": "Pharmacie Debbarh",
+   "address": "hay Agdal n° 3, Sidi Slimane",
+   "phone": "+212537500688",
+   "lat": 34.257403,
+   "lng": -5.910089,
    "shift": "jour",
    "shift_label": ""
   }
  ],
  "center": [
-  34.26,
-  -5.9294
+  34.2574,
+  -5.9101
  ]
 }

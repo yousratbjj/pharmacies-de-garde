@@ -1,50 +1,59 @@
 {
  "city": "safi",
  "label": "Safi",
- "date": "2026-11-01",
+ "date": "2026-11-02",
  "source": "sahha.ma",
  "source_url": "https://sahha.ma/pharmacie-de-garde/safi",
  "kind": "roster",
  "pharmacies": [
   {
-   "name": "Biada",
-   "address": "14, Rue Takabrout , Azib Zemouri",
+   "name": "AL WIAM",
+   "address": "Al Wiam II , Lot 58 Rue 1 Azib Deraiالوئام 2, تجزئة 58 زنقة 1عزيب الدراي",
+   "phone": "+212524621130",
+   "lat": 32.2870983,
+   "lng": -9.2157686,
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
+   "name": "BIADA",
+   "address": "14, Rue Takabrout , Azib Zemouriرقم 14,زنقةتقبروت,عزيب زموري",
    "phone": "+212524666266",
    "lat": 32.3050675,
    "lng": -9.23368,
-   "shift": "nuit",
+   "shift": "jour",
    "shift_label": ""
   },
   {
-   "name": "Pharmacie Al Wiam",
-   "address": "Al Wiam II lot 58 rue 1 Azib Derai, Safi",
-   "phone": "+212524621130",
-   "lat": 32.287107,
-   "lng": -9.215736,
-   "shift": "nuit",
+   "name": "Pharmacie Arrahma",
+   "address": "Quartier Aviation Bloc 13 n°38, Safi",
+   "phone": "+212524650609",
+   "lat": 32.269517,
+   "lng": -9.235933,
+   "shift": "jour",
    "shift_label": ""
   },
   {
-   "name": "Pharmacie Berrais Biada",
-   "address": "14 rue Takabrout Azib Zemouri, Safi",
-   "phone": "+212524666266",
-   "lat": 32.292317,
-   "lng": -9.241283,
-   "shift": "nuit",
+   "name": "Pharmacie ElHouda",
+   "address": "2 rue Bordeaux quartier l'hopital, Safi",
+   "phone": "+212524622317",
+   "lat": 32.287033,
+   "lng": -9.235767,
+   "shift": "jour",
    "shift_label": ""
   },
   {
-   "name": "Pharmacie Zamzam",
-   "address": "Lotiss. Zohour rte Sania, Safi",
+   "name": "ZAMZAM",
+   "address": "Lotiss. Zohour , Rte Saniaتجزئة الزهور،طريق السانية",
    "phone": "+212524651551",
-   "lat": 32.27191,
-   "lng": -9.23044,
-   "shift": "nuit",
+   "lat": 32.2718318,
+   "lng": -9.2305076,
+   "shift": "jour",
    "shift_label": ""
   }
  ],
  "center": [
-  32.2891,
+  32.2841,
   -9.2303
  ]
 }

@@ -1,32 +1,32 @@
 {
  "city": "selouane",
  "label": "Selouane",
- "date": "2026-11-01",
+ "date": "2026-11-02",
  "source": "sahha.ma",
  "source_url": "https://sahha.ma/pharmacie-de-garde/selouane",
  "kind": "roster",
  "pharmacies": [
   {
-   "name": "Pharmacie Al Bourj",
-   "address": "lotiss. Al Manar n° 111, Selouane",
-   "phone": "+212654044591",
-   "lat": 35.049209,
-   "lng": -2.945882,
-   "shift": "nuit",
+   "name": "Pharmacie Imam Malek",
+   "address": "lotiss Al Omrane, Selouane",
+   "phone": "+212536359092",
+   "lat": 35.069016,
+   "lng": -2.928277,
+   "shift": "jour",
    "shift_label": ""
   },
   {
-   "name": "Pharmacie Principale",
-   "address": "25 bd Mohammed V, Selouane",
-   "phone": "+212536609047",
+   "name": "Pharmacie Manco",
+   "address": "bd Mohammed V, Selouane",
+   "phone": "+212611162101",
    "lat": 35.07494,
    "lng": -2.939456,
-   "shift": "nuit",
+   "shift": "jour",
    "shift_label": ""
   }
  ],
  "center": [
-  35.0621,
-  -2.9427
+  35.072,
+  -2.9339
  ]
 }

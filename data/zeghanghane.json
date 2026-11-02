@@ -1,32 +1,23 @@
 {
  "city": "zeghanghane",
  "label": "Zeghanghane",
- "date": "2026-11-01",
+ "date": "2026-11-02",
  "source": "sahha.ma",
  "source_url": "https://sahha.ma/pharmacie-de-garde/zeghanghane",
  "kind": "roster",
  "pharmacies": [
   {
-   "name": "Pharmacie Al Yasmine",
-   "address": "32 rue Al Qods lotiss. Al Yasmine, Zghanghan",
-   "phone": "+212536352020",
-   "lat": 35.15585,
-   "lng": -3.006233,
-   "shift": "",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie Le Prince",
-   "address": "bd Mohammed V Jouhara Soufla, Zghanghan",
-   "phone": "+212536351717",
-   "lat": 35.153767,
-   "lng": -2.959283,
-   "shift": "",
+   "name": "Pharmacie Moussaoui",
+   "address": "157 rue de Tétouan, Zghanghan",
+   "phone": "+212536353244",
+   "lat": 35.153067,
+   "lng": -3.002883,
+   "shift": "jour",
    "shift_label": ""
   }
  ],
  "center": [
-  35.1548,
-  -2.9828
+  35.1531,
+  -3.0029
  ]
 }

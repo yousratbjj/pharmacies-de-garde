@@ -1,50 +1,41 @@
 {
  "city": "berkane",
  "label": "Berkane",
- "date": "2026-11-01",
+ "date": "2026-11-02",
  "source": "sahha.ma",
  "source_url": "https://sahha.ma/pharmacie-de-garde/berkane",
  "kind": "roster",
  "pharmacies": [
   {
-   "name": "Pharmacie Al Farah",
-   "address": "5 bd Mohamed V hay Al Farah rte de Nador, Berkane",
-   "phone": "+212536257992",
-   "lat": 34.92807,
-   "lng": -2.328734,
+   "name": "Pharmacie Ghazouani",
+   "address": "37 bd Hassan II douar Bouayad rte d'Alkim M'Gaad Ras, Berkane",
+   "phone": "+212536256482",
+   "lat": 34.920469,
+   "lng": -2.327188,
    "shift": "jour",
    "shift_label": ""
   },
   {
-   "name": "Pharmacie Al Moumene",
-   "address": "81 rue Tétouan hay Hamza, Berkane",
-   "phone": "+212536617070",
-   "lat": 34.9205,
-   "lng": -2.3352,
+   "name": "Pharmacie la Victoire",
+   "address": "7 bd. AlWifak hay Salem, Berkane",
+   "phone": "+212536616162",
+   "lat": 34.928633,
+   "lng": -2.3188,
    "shift": "jour",
    "shift_label": ""
   },
   {
-   "name": "Pharmacie Ibn Rochd",
-   "address": "157 Rue Ibn Sina, Berkane",
-   "phone": "+212536613631",
-   "lat": 34.92195,
-   "lng": -2.324333,
-   "shift": "jour",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie de l'Hôpital",
-   "address": "91 bd. Sultan My Mhamed, Berkane",
-   "phone": "+212536613990",
-   "lat": 34.924267,
-   "lng": -2.328017,
+   "name": "Pharmacie Moulouya",
+   "address": "13 rue El Atlas hay Saâda, Berkane",
+   "phone": "+212536231667",
+   "lat": 34.928583,
+   "lng": -2.338933,
    "shift": "jour",
    "shift_label": ""
   }
  ],
  "center": [
-  34.9237,
-  -2.3291
+  34.9259,
+  -2.3283
  ]
 }

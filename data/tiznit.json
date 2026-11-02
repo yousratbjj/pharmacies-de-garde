@@ -1,23 +1,32 @@
 {
  "city": "tiznit",
  "label": "Tiznit",
- "date": "2026-11-01",
+ "date": "2026-11-02",
  "source": "sahha.ma",
  "source_url": "https://sahha.ma/pharmacie-de-garde/tiznit",
  "kind": "roster",
  "pharmacies": [
   {
-   "name": "Pharmacie Nassiri",
-   "address": "1 bd. Med V ElYoussoufia Afrag, Tiznit",
-   "phone": "+212528600721",
-   "lat": 29.692267,
-   "lng": -9.729833,
-   "shift": "nuit",
+   "name": "Pharmacie Ben Omar",
+   "address": "30 lotiss. Tasskoult av Mly Hassan Ben Youssef Afrag, Tiznit",
+   "phone": "+212528600814",
+   "lat": 29.689017,
+   "lng": -9.737917,
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie La Santé",
+   "address": "67 bloc B hay ElMassira, Tiznit",
+   "phone": "+212528602526",
+   "lat": 29.6996,
+   "lng": -9.743017,
+   "shift": "jour",
    "shift_label": ""
   }
  ],
  "center": [
-  29.6923,
-  -9.7298
+  29.6943,
+  -9.7405
  ]
 }

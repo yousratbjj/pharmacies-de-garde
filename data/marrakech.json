@@ -1,18 +1,18 @@
 {
  "city": "marrakech",
  "label": "Marrakech",
- "date": "2026-11-01",
+ "date": "2026-11-02",
  "source": "sahha.ma",
  "source_url": "https://sahha.ma/pharmacie-de-garde/marrakech",
  "kind": "roster",
  "pharmacies": [
   {
-   "name": "Pharmacie AL BOUSTANE",
-   "address": "10, Av. Allal Fassi op. Al Boustane à 150m du Service des Mines, en face du jardin direction Marjane, Marrakech DAOUDIAT",
-   "phone": "+212524304004",
-   "lat": 31.662194,
-   "lng": -8.007765,
-   "shift": "nuit",
+   "name": "Pharmacie AL IRFANE",
+   "address": "40, Rouidate 3, derrière la Fac de la Langue Arabe, près de l'Institut Ibn Khaldoune et l'Ecole Al Irfane, Marrakech DAOUDIAT",
+   "phone": "+212524308286",
+   "lat": 31.64472,
+   "lng": -8.003268,
+   "shift": "jour",
    "shift_label": ""
   },
   {
@@ -22,15 +22,6 @@
    "lat": 31.597509,
    "lng": -8.020794,
    "shift": "jour",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie AL MARIFA",
-   "address": "Im. Sana Bd. Prince My Abdellah (Ex. Bd. Safi) en face Association Alaouite de Protection des Aveugles , Marrakech GRAND GUELIZ",
-   "phone": "+212524447697",
-   "lat": 31.647651,
-   "lng": -8.012402,
-   "shift": "nuit",
    "shift_label": ""
   },
   {
@@ -61,21 +52,12 @@
    "shift_label": ""
   },
   {
-   "name": "Pharmacie BAB ASFI",
-   "address": "400m après Lycée Azouzia et après le dernier Rond Point du grand Bd. qui se situe au milieu d'El Azzouzia, Marrakech SIDI GHANEM AZZOUZIA",
-   "phone": "+212524356635",
-   "lat": 31.685659,
-   "lng": -8.069606,
-   "shift": "nuit",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie BELMEJDOUB",
-   "address": "1, Lot. Oasis Al Izdihar Rte de Safi de Mc Do, 2ème feu Rouge, à droite (Attijari Wafa Bank) à côté des Ecoles Illou et la nouvelle mosquée de jnane Awrad, Marrakech HAY AL IZDIHAR",
-   "phone": "+212524336677",
-   "lat": 31.6640113,
-   "lng": -8.0269719,
-   "shift": "nuit",
+   "name": "Pharmacie BISMI ALLAH",
+   "address": "de Mc Do rte de Safi après le pont 2ème feu rouge à gauche tournez à droite à côté Arrond. Sidi Ghanem , Marrakech SIDI GHANEM AZZOUZIA",
+   "phone": "+212525035819",
+   "lat": 31.674437,
+   "lng": -8.046941,
+   "shift": "jour",
    "shift_label": ""
   },
   {
@@ -95,10 +77,28 @@
    "lng": -7.963566,
    "shift": "jour",
    "shift_label": ""
+  },
+  {
+   "name": "Pharmacie DOUAE",
+   "address": "397, Lot. Azzouzia, l'entrée en face du marché à côté de la nouvelle Gare Routière, Route Agadir, Marrakech SIDI GHANEM AZZOUZIA",
+   "phone": "+212524356492",
+   "lat": 31.685872,
+   "lng": -8.073285,
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie DOUAR EL ASKAR",
+   "address": "943, Bloc 41 Hay Hassani, en face lycée Ibn Toumert et à côté de l'ancien 8ème Arrond., Marrakech HAY HASSANI",
+   "phone": "+212524340032",
+   "lat": 31.629736,
+   "lng": -8.048389,
+   "shift": "jour",
+   "shift_label": ""
   }
  ],
  "center": [
-  31.6412,
-  -8.0231
+  31.6387,
+  -8.0286
  ]
 }

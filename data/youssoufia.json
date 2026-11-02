@@ -1,32 +1,32 @@
 {
  "city": "youssoufia",
  "label": "Youssoufia",
- "date": "2026-11-01",
+ "date": "2026-11-02",
  "source": "sahha.ma",
  "source_url": "https://sahha.ma/pharmacie-de-garde/youssoufia",
  "kind": "roster",
  "pharmacies": [
   {
-   "name": "Pharmacie El Khiria",
-   "address": "25 rue Meknés cité Hassani, Youssoufia",
-   "phone": "+212524648216",
-   "lat": 32.244517,
-   "lng": -8.528183,
-   "shift": "nuit",
+   "name": "Pharmacie de l'Hôpital",
+   "address": "25 q. Manar rue n°9, Youssoufia",
+   "phone": "+212524646108",
+   "lat": 32.23918,
+   "lng": -8.519199,
+   "shift": "jour",
    "shift_label": ""
   },
   {
-   "name": "Pharmacie Zineb",
-   "address": "342 lotiss. Agendis, Youssoufia",
-   "phone": "+212524645909",
-   "lat": 32.26022,
-   "lng": -8.52348,
-   "shift": "nuit",
+   "name": "Pharmacie Erreteb",
+   "address": "hay Nahda - Autre ville rue 7 n°3, Youssoufia",
+   "phone": "+212617564964",
+   "lat": 32.24316,
+   "lng": -8.54634,
+   "shift": "jour",
    "shift_label": ""
   }
  ],
  "center": [
-  32.2524,
-  -8.5258
+  32.2412,
+  -8.5328
  ]
 }

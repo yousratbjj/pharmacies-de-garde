@@ -1,86 +1,68 @@
 {
  "city": "temara",
  "label": "Témara",
- "date": "2026-11-01",
+ "date": "2026-11-02",
  "source": "sahha.ma",
  "source_url": "https://sahha.ma/pharmacie-de-garde/temara",
  "kind": "roster",
  "pharmacies": [
   {
-   "name": "Pharmacie Abi Horaira",
-   "address": "15 av. du Caire lotiss. Abi Horaira Fath ElKheir, Témara",
-   "phone": "+212537641458",
-   "lat": 33.91065,
-   "lng": -6.915833,
-   "shift": "nuit",
+   "name": "Pharmacie Abouab Alwifak",
+   "address": "lot. Alwifak sect. 3212 Erac, Témara",
+   "phone": "+212537643080",
+   "lat": 33.926847,
+   "lng": -6.929552,
+   "shift": "jour",
    "shift_label": ""
   },
   {
-   "name": "Pharmacie Al Fajr",
-   "address": "622 av. Moulay Ali Cherif Massira I, Témara",
-   "phone": "+212537601592",
-   "lat": 33.927267,
-   "lng": -6.896883,
-   "shift": "nuit",
+   "name": "Pharmacie Al Fath",
+   "address": "30 hay El Fath - Autre ville, El Harhoura",
+   "phone": "+212530302120",
+   "lat": 33.964848,
+   "lng": -6.903909,
+   "shift": "jour",
    "shift_label": ""
   },
   {
-   "name": "Pharmacie Amina",
-   "address": "45 Mansour II, Témara",
-   "phone": "+212537610939",
-   "lat": 33.913567,
-   "lng": -6.9284,
-   "shift": "nuit",
+   "name": "Pharmacie de la famille",
+   "address": "16 av. Tarik Ibn Ziyad Massira II, Témara",
+   "phone": "+212537600690",
+   "lat": 33.9265,
+   "lng": -6.89365,
+   "shift": "jour",
    "shift_label": ""
   },
   {
-   "name": "Pharmacie Chatea",
-   "address": "39 lot Beethoven résid. Chatea, El Harhoura",
+   "name": "PHARMACIE L`OLIVIER",
+   "address": ", صيدلية الزيتونة, 236,Sect. N°3 . Lot. Oulad Mtaâ",
+   "phone": "+212537608801",
+   "lat": 33.940722,
+   "lng": -6.893167,
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie AL ZAHRAWI",
+   "address": "Tamesna, Témara",
+   "phone": "+212537415672",
+   "lat": 33.827578,
+   "lng": -6.935881,
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
+   "name": "PHARMACIE CHATEA",
+   "address": "N°39 residence chatea bethoven harhoura",
    "phone": "+212537744975",
-   "lat": 33.922049,
-   "lng": -6.961363,
-   "shift": "nuit",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie Essalama",
-   "address": "2 bd. Mohammed V hay Lazrak, Témara",
-   "phone": "+212537747662",
-   "lat": 33.920775,
-   "lng": -6.916837,
-   "shift": "nuit",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie Fatine",
-   "address": "863 Av. Moulay Ali Chrif hay Almaghreb Arabie Massira II, Témara",
-   "phone": "+212537602705",
-   "lat": 33.924133,
-   "lng": -6.892233,
-   "shift": "nuit",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie Hind",
-   "address": "241 rue Othman Ibn Madhoun, Témara",
-   "phone": "+212537622291",
-   "lat": 33.895935,
-   "lng": -6.935582,
-   "shift": "nuit",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie Marimane",
-   "address": "5439 lot. ElWifak, Témara",
-   "phone": "+212537645645",
-   "lat": 33.918163,
-   "lng": -6.936247,
-   "shift": "nuit",
+   "lat": 33.9209668,
+   "lng": -6.9620737,
+   "shift": "jour",
    "shift_label": ""
   }
  ],
  "center": [
-  33.9166,
-  -6.9229
+  33.9179,
+  -6.9197
  ]
 }

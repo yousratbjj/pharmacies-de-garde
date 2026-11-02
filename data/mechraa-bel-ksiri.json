@@ -1,23 +1,23 @@
 {
  "city": "mechraa-bel-ksiri",
  "label": "Mechraâ Bel Ksiri",
- "date": "2026-11-01",
+ "date": "2026-11-02",
  "source": "sahha.ma",
  "source_url": "https://sahha.ma/pharmacie-de-garde/mechraa-bel-ksiri",
  "kind": "roster",
  "pharmacies": [
   {
-   "name": "Pharmacie Assalam",
-   "address": "8 av. des F.a.r. lotiss. Al Massira, Mechraa Bel Ksiri",
-   "phone": "+212537906320",
-   "lat": 34.575207,
-   "lng": -5.964174,
+   "name": "Pharmacie ElKaoutar",
+   "address": "19 av Moulay Driss, Mechraa Bel Ksiri",
+   "phone": "+212604163122",
+   "lat": 34.577787,
+   "lng": -5.949141,
    "shift": "jour",
    "shift_label": ""
   }
  ],
  "center": [
-  34.5752,
-  -5.9642
+  34.5778,
+  -5.9491
  ]
 }

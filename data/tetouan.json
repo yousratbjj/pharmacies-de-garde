@@ -1,32 +1,59 @@
 {
  "city": "tetouan",
  "label": "Tétouan",
- "date": "2026-11-01",
+ "date": "2026-11-02",
  "source": "sahha.ma",
  "source_url": "https://sahha.ma/pharmacie-de-garde/tetouan",
  "kind": "roster",
  "pharmacies": [
   {
-   "name": "Pharmacie ElFeddane",
-   "address": "2 bd. Mohammed V, Tétouan",
+   "name": "ELFEDDANE",
+   "address": "Boulevard Mohammed V.N 2شارع محمد الخامس رقم 2",
    "phone": "+212539967461",
-   "lat": 35.5701,
-   "lng": -5.369517,
-   "shift": "nuit",
+   "lat": 35.5700872,
+   "lng": -5.3695628,
+   "shift": "jour",
    "shift_label": ""
   },
   {
-   "name": "Pharmacie Wilaya Center",
-   "address": "5 rue Caire - Autre ville imm Nouria, Tétouan",
-   "phone": "+212808519468",
-   "lat": 35.587288,
-   "lng": -5.341887,
-   "shift": "nuit",
+   "name": "PHARMACIE BOUJARAH",
+   "address": "47 av. Hadj Med. Bennouna Boujarrah Appeler 05 39 99 •• •• Itinéraire Carte Partager Voir la ficheرقم 47.شارع الحاج محمد بنونة .بوجراح",
+   "phone": "+212539995010",
+   "lat": 35.582919,
+   "lng": -5.359217,
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
+   "name": "PHARMACIE DESTIN",
+   "address": "56 av. AlMoatassim lot. Mribtou hôpital Espagnol Appeler 05 39 71 •• •• Itinéraire Carte Partager Voir la fiche",
+   "phone": "+212539710288",
+   "lat": 35.5717763,
+   "lng": -5.3914322,
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
+   "name": "PHARMACIE ELFEDDANE",
+   "address": "2 bd. Mohammed V Appeler 05 39 96 •• •• Itinéraire Carte Partager Voir la ficheشارع محمد الخامس رقم 2",
+   "phone": "+212539967461",
+   "lat": 35.5700872,
+   "lng": -5.3695628,
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
+   "name": "PHARMACIE JBEL DERSA",
+   "address": "1 rue Al Hizam Al Akhdar Jbel Dersa Appeler 05 39 70 •• •• Itinéraire Carte Partager Voir la ficheطريق الحزام الأخضر رقم 1",
+   "phone": "+212539702310",
+   "lat": 35.576683,
+   "lng": -5.373533,
+   "shift": "jour",
    "shift_label": ""
   }
  ],
  "center": [
-  35.5787,
-  -5.3557
+  35.5743,
+  -5.3727
  ]
 }

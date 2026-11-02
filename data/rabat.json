@@ -1,104 +1,86 @@
 {
  "city": "rabat",
  "label": "Rabat",
- "date": "2026-11-01",
+ "date": "2026-11-02",
  "source": "sahha.ma",
  "source_url": "https://sahha.ma/pharmacie-de-garde/rabat",
  "kind": "roster",
  "pharmacies": [
   {
-   "name": "Pharmacie Alam",
-   "address": "33 avenue Oqbah, Rabat",
-   "phone": "+212537775269",
-   "lat": 34.008335,
-   "lng": -6.84474,
-   "shift": "24h",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie AL AMANE",
-   "address": "443 Bis Amal 5 Massira - Hay El Fath Lotissement Grini C.Y.M",
-   "phone": "+212537293647",
-   "lat": 33.9734497,
-   "lng": -6.8875728,
-   "shift": "24h",
-   "shift_label": ""
-  },
-  {
-   "name": "PHARMACIE AL FATIH",
-   "address": "121, Av Med Belhassan el ouazzani, Groupe al araar Bloc 4",
-   "phone": "+212537631690",
-   "lat": 34.0083637,
-   "lng": -6.8538748,
-   "shift": "24h",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie Aljazaâ (Gzaa)",
-   "address": "75 avenue Mohammed V, Rabat",
-   "phone": "+212537721002",
-   "lat": 34.02629,
-   "lng": -6.840303,
+   "name": "Pharmacie Abi Hourayra",
+   "address": "73 lotissement Haj Slimane J3 C.y.m., Rabat",
+   "phone": "+212537795072",
+   "lat": 33.988238,
+   "lng": -6.882603,
    "shift": "jour",
    "shift_label": ""
   },
   {
-   "name": "Pharmacie Al Melia",
-   "address": "12 avenue Almelia Souissi, Rabat",
-   "phone": "+212537759202",
-   "lat": 33.966083,
-   "lng": -6.858427,
-   "shift": "24h",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie AYA",
-   "address": "Dr. Nawfal LAHLOU Rue El Hachmi el Mestari (Douwar al askar)",
-   "phone": "+212537693388",
-   "lat": 34.016667,
-   "lng": -6.856583,
+   "name": "Pharmacie de Kebibat",
+   "address": "7 rue Omar Slaoui, Rabat",
+   "phone": "+212537690507",
+   "lat": 34.013128,
+   "lng": -6.855597,
    "shift": "jour",
    "shift_label": ""
   },
   {
-   "name": "PHARMACIE BEKKARI",
-   "address": "285 Rue Oulfa Bloc R Amal 3 - C.Y.M",
-   "phone": "+212537794184",
-   "lat": 33.9782991,
-   "lng": -6.8824849,
+   "name": "Pharmacie de l'étoile",
+   "address": "4 rue Al Amir Abdelkader, Rabat",
+   "phone": "+212537671414",
+   "lat": 34.000031,
+   "lng": -6.856848,
    "shift": "jour",
    "shift_label": ""
   },
   {
-   "name": "Pharmacie Belmahi",
-   "address": "1 rue du Tonkin diour Jamaâ, Rabat",
-   "phone": "+212537722650",
-   "lat": 34.016363,
-   "lng": -6.850163,
+   "name": "Pharmacie les Almohades",
+   "address": "5 rue de Zagora, Rabat",
+   "phone": "+212537707001",
+   "lat": 34.021231,
+   "lng": -6.824786,
    "shift": "jour",
    "shift_label": ""
   },
   {
-   "name": "PHARMACIE DE LA SANTE",
-   "address": "Takadoum & Souissi, Rabat",
-   "phone": "+212537650252",
-   "lat": 33.9944174,
-   "lng": -6.8156642,
-   "shift": "24h",
+   "name": "Pharmacie Relais des Médecins",
+   "address": "Hay Ryad résid. Ryad Al Andalous Préstigia Al Ambraa 4, Rabat",
+   "phone": "+212537570106",
+   "lat": 33.995316,
+   "lng": -6.850462,
+   "shift": "jour",
    "shift_label": ""
   },
   {
-   "name": "PHARMACIE HAY BOUHLAL",
-   "address": "43, Groupe Al Itihad Av Sidi Mohamed Ben Abdellah, Hay Bouhlal - C.Y.M",
-   "phone": "+212537297717",
-   "lat": 33.9938377,
-   "lng": -6.8773448,
+   "name": "Pharmacie Talha",
+   "address": "K059 avenue Imam Malik - ex Zaers km 5.9 4 rue Beni Meskine, Rabat",
+   "phone": "+212537657634",
+   "lat": 33.952545,
+   "lng": -6.82949,
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie Yacoub El Mansour",
+   "address": "6 avenue Al Majd Massira V imm.2 mag.4, Rabat",
+   "phone": "+212537294841",
+   "lat": 33.99072,
+   "lng": -6.870218,
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie El Atlas",
+   "address": "204 avenue Sidi Mohamed Ben Abdallah sect. C cym., Rabat",
+   "phone": "+212537692359",
+   "lat": 34.012138,
+   "lng": -6.858053,
    "shift": "jour",
    "shift_label": ""
   }
  ],
  "center": [
-  33.9982,
-  -6.8567
+  33.9967,
+  -6.8535
  ]
 }

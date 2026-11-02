@@ -1,14 +1,14 @@
 {
  "city": "kenitra",
  "label": "Kénitra",
- "date": "2026-11-01",
+ "date": "2026-11-02",
  "source": "sahha.ma",
  "source_url": "https://sahha.ma/pharmacie-de-garde/kenitra",
  "kind": "roster",
  "pharmacies": [
   {
-   "name": "Pharmacie El Felline",
-   "address": "736 hay Bir Rami - Autre ville LOT; Jnane 4, Kénitra",
+   "name": "PHARMACIE EL FELLINE",
+   "address": "736 hay Bir Rami - Autre ville LOT; Jnane 4 · Bir Rami Appeler 06 38 81 •• •• Itinéraire Carte Partager Voir la ficheرقم 344، حي بير رامي، جنان 4",
    "phone": "+212638814867",
    "lat": 34.234656,
    "lng": -6.60806,
@@ -16,71 +16,35 @@
    "shift_label": ""
   },
   {
-   "name": "Pharmacie El Mssalla",
-   "address": "hay Saknia mag.1 imm.14 allée du parc, Kénitra",
-   "phone": "+212661097124",
-   "lat": 34.251819,
-   "lng": -6.54552,
+   "name": "PHARMACIE MOHAMMED",
+   "address": "2 rue Ibn Benna mosquée Lalla Khadija · Ville Nouvelle Appeler 05 37 37 •• •• Itinéraire Carte Partager Voir la ficheشارع ابن البنا",
+   "phone": "+212661906890",
+   "lat": 34.2541012,
+   "lng": -6.5840229,
    "shift": "jour",
    "shift_label": ""
   },
   {
-   "name": "Pharmacie Mohammed",
-   "address": "2 rue Ibn Benna mosquée Lalla Khadija, Kénitra",
-   "phone": "+212537373573",
-   "lat": 34.254089,
-   "lng": -6.584132,
-   "shift": "jour",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie Sidi Larbi Boujemaâ",
-   "address": "272 bd Mohammed V, Kénitra",
+   "name": "PHARMACIE SIDI LARBI BOUJEMAÂ",
+   "address": "272 bd Mohammed V · Medina Appeler 05 37 36 •• •• Itinéraire Carte Partager Voir la fiche272 شارع محمد الخامس",
    "phone": "+212537364898",
-   "lat": 34.263258,
-   "lng": -6.574207,
+   "lat": 34.2631994,
+   "lng": -6.5741981,
    "shift": "jour",
    "shift_label": ""
   },
   {
-   "name": "Pharmacie Tolbix",
-   "address": "hay Ouled Oujih lot.154 bloc F/D 2, Kénitra",
+   "name": "PHARMACIE TOLBIX",
+   "address": "24 hay Ouled Oujih lot.154 bloc F/D 2 · Ouled Oujih Appeler 05 37 35 •• •• Itinéraire Carte Partager Voir la ficheحي أولاد أوجيه، تجزئة 154، بلوك F/D 2",
    "phone": "+212537352241",
    "lat": 34.260672,
    "lng": -6.615088,
    "shift": "jour",
    "shift_label": ""
-  },
-  {
-   "name": "Pharmacie MEHDIA",
-   "address": "شارع مولاي إسماعيل على بعد 300م من قصر مولاي إسماعيل قرب المدرسة الإبتدائية أحمد عثمان بن دلة الإدريسي الهاتف. 74 82 33 0537",
-   "phone": "+212537338274",
-   "lat": 34.2648909,
-   "lng": -6.6520185,
-   "shift": "jour",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie SIDI EL GHAZI",
-   "address": "رقم 623 قرب منطقة الأمن الوطني RAK القصبة. وراء وكالة الهاتف. 32 86 32 0537",
-   "phone": "+212537328632",
-   "lat": 34.265064,
-   "lng": -6.6474624,
-   "shift": "jour",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie SIHAM ALLIANCE",
-   "address": "اليانس دارنا الشطر 2 وراء المركز التجاري (مهدية مول) ي عند نهاية الطريق الؤدي من الملعب البلدي الجديد إلى مكتب البيع للإقامات الجديدة شرقاوي الهاتف. 01 73 31 0537",
-   "phone": "+212537317301",
-   "lat": 34.2440841,
-   "lng": -6.6640968,
-   "shift": "jour",
-   "shift_label": ""
   }
  ],
  "center": [
-  34.2548,
-  -6.6113
+  34.2532,
+  -6.5953
  ]
 }

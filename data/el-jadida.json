@@ -1,41 +1,104 @@
 {
  "city": "el-jadida",
  "label": "El Jadida",
- "date": "2026-11-01",
+ "date": "2026-11-02",
  "source": "sahha.ma",
  "source_url": "https://sahha.ma/pharmacie-de-garde/el-jadida",
  "kind": "roster",
  "pharmacies": [
   {
-   "name": "IZDIHAR",
-   "address": "1 .HAY ENNAJD.RIAD ESSALAM .RES IZDIHAREرقم1 حي النجد .رياض السلام.إقامة إزدهار",
-   "phone": "+212523392279",
-   "lat": 33.2292485,
-   "lng": -8.5125414,
-   "shift": "nuit",
+   "name": "Pharmacie Al Bayane",
+   "address": "1 lotiss. Hiba - Autre ville Ibrahim Al Khalil El jadida",
+   "phone": "+212523395960",
+   "lat": 33.231502,
+   "lng": -8.504781,
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie Amoury",
+   "address": "20 X rue M'barek Loughlimi Derb Ghalef El jadida",
+   "phone": "+212523342869",
+   "lat": 33.2539077,
+   "lng": -8.5190324,
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie de France",
+   "address": "13 rue France El jadida",
+   "phone": "+212523352275",
+   "lat": 33.257751,
+   "lng": -8.5094255,
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie de la Clinique",
+   "address": "rte Sidi Bouzid lotiss. Bendagha El jadida",
+   "phone": "+212523391870",
+   "lat": 33.2458299,
+   "lng": -8.5191962,
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie El Khair",
+   "address": "61, bd Doukkala, lotiss. Mouilha El jadida",
+   "phone": "+212523390948",
+   "lat": 33.2541002,
+   "lng": -8.508,
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie ElMassira",
+   "address": "205 bd Mohammed V El jadida",
+   "phone": "+212523371099",
+   "lat": 33.2440575,
+   "lng": -8.4987398,
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie Ibrahim AlKhalil",
+   "address": "4, bd Khalil Jabrane, résid. Reda, rte Sidi Bouzid El jadida",
+   "phone": "+212523395464",
+   "lat": 33.2349418,
+   "lng": -8.5325947,
+   "shift": "jour",
    "shift_label": ""
   },
   {
    "name": "Pharmacie Izdihare",
-   "address": "hay Ennajd n°1 Riad Essalam Res. Izdihare, El Jadida",
+   "address": "1 .HAY ENNAJD.RIAD ESSALAM .RES IZDIHARE",
    "phone": "+212523392279",
-   "lat": 33.229406,
-   "lng": -8.512636,
-   "shift": "nuit",
+   "lat": 33.2292986,
+   "lng": -8.5126436,
+   "shift": "jour",
    "shift_label": ""
   },
   {
-   "name": "Pharmacie Oscar",
-   "address": "23 bd Mohammed VI, El Jadida",
-   "phone": "+212523351235",
-   "lat": 33.2498,
-   "lng": -8.50005,
-   "shift": "nuit",
+   "name": "Pharmacie Kouassem",
+   "address": "rond-point Hassan II El Jadida",
+   "phone": "+212540030711",
+   "lat": 33.235744,
+   "lng": -8.4775944,
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie La Pleiade",
+   "address": "lotiss. Firdaouss lot. n°1 hay Al Matar El jadida",
+   "phone": "+212523355364",
+   "lat": 33.2313641,
+   "lng": -8.5190089,
+   "shift": "jour",
    "shift_label": ""
   }
  ],
  "center": [
-  33.2362,
-  -8.5084
+  33.2418,
+  -8.5101
  ]
 }

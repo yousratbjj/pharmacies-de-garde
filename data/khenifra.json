@@ -1,32 +1,32 @@
 {
  "city": "khenifra",
  "label": "Khénifra",
- "date": "2026-11-01",
+ "date": "2026-11-02",
  "source": "sahha.ma",
  "source_url": "https://sahha.ma/pharmacie-de-garde/khenifra",
  "kind": "roster",
  "pharmacies": [
   {
-   "name": "Pharmacie Oum El Qora",
-   "address": "Lotissement El Abdellaoui rte. de Meknés n°31 bis, Khénifra",
-   "phone": "+212535384143",
-   "lat": 32.94885,
-   "lng": -5.6635,
+   "name": "Pharmacie Jabbour",
+   "address": "17 bd Massira Khadra, Khénifra",
+   "phone": "+212535588847",
+   "lat": 32.937983,
+   "lng": -5.6634,
    "shift": "jour",
    "shift_label": ""
   },
   {
-   "name": "Pharmacie Al Course",
-   "address": "hay Course rue 2 n°23, Khénifra",
-   "phone": "+212535588558",
-   "lat": 32.9357718,
-   "lng": -5.6696504,
+   "name": "Pharmacie Touhami",
+   "address": "33 quartier Ikhamen, Khénifra",
+   "phone": "+212535587800",
+   "lat": 32.948617,
+   "lng": -5.665033,
    "shift": "jour",
    "shift_label": ""
   }
  ],
  "center": [
-  32.9423,
-  -5.6666
+  32.9433,
+  -5.6642
  ]
 }

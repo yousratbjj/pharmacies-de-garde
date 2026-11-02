@@ -1,32 +1,23 @@
 {
  "city": "ouazzane",
  "label": "Ouezzane",
- "date": "2026-11-01",
+ "date": "2026-11-02",
  "source": "sahha.ma",
  "source_url": "https://sahha.ma/pharmacie-de-garde/ouazzane",
  "kind": "roster",
  "pharmacies": [
   {
-   "name": "Pharmacie Bousswalef",
-   "address": "bd El Houria - Autre ville q. Agadir, Ouazzane",
-   "phone": "+212537907480",
-   "lat": 34.797421,
-   "lng": -5.586707,
-   "shift": "jour",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie Laadir",
-   "address": "2 bd Houmane El Fetouaki - Autre ville jardin Lalla Amina résid. Hallaoui, Ouazzane",
-   "phone": "+212537907470",
-   "lat": 34.796027,
-   "lng": -5.566569,
+   "name": "Pharmacie Pasteur",
+   "address": "place de l'indépendance, Ouazzane",
+   "phone": "+212633094141",
+   "lat": 34.80564,
+   "lng": -5.57136,
    "shift": "jour",
    "shift_label": ""
   }
  ],
  "center": [
-  34.7967,
-  -5.5766
+  34.8056,
+  -5.5714
  ]
 }

@@ -1,86 +1,95 @@
 {
  "city": "meknes",
  "label": "Meknès",
- "date": "2026-11-01",
+ "date": "2026-11-02",
  "source": "sahha.ma",
  "source_url": "https://sahha.ma/pharmacie-de-garde/meknes",
  "kind": "roster",
  "pharmacies": [
   {
-   "name": "Pharmacie Addoha",
-   "address": "241 lotiss. Riad Ouislane - Autre ville, Meknès",
-   "phone": "+212550041410",
-   "lat": 33.898468,
-   "lng": -5.473927,
+   "name": "Pharmacie Andalousie",
+   "address": "4871, lot Erac Badr , Oujah Arouss",
+   "phone": "+212535557909",
+   "lat": 33.9039513,
+   "lng": -5.5738025,
+   "shift": "24h",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie Bahri",
+   "address": "Meknès",
+   "phone": "+212535554120",
+   "lat": 33.894118,
+   "lng": -5.544786,
    "shift": "jour",
    "shift_label": ""
   },
   {
-   "name": "Pharmacie Al Madina",
-   "address": "92 lotiss. Al Ouahba, Meknès",
-   "phone": "+212535549152",
-   "lat": 33.918801,
-   "lng": -5.49518,
+   "name": "Pharmacie Chaâb",
+   "address": "lotiss. Kortoba , sect. 4 n°29",
+   "phone": "+212535469887",
+   "lat": 33.860943,
+   "lng": -5.545232,
    "shift": "jour",
    "shift_label": ""
   },
   {
-   "name": "Pharmacie Avenue Sekka",
-   "address": "41 rue Sekka Ain Bidrou Borj My. Omar, Meknès",
-   "phone": "+212535524848",
-   "lat": 33.907467,
-   "lng": -5.529488,
+   "name": "Pharmacie Louali",
+   "address": "hay Essalam I",
+   "phone": "+212535535044",
+   "lat": 33.8932158,
+   "lng": -5.5799516,
+   "shift": "24h",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie Pharmassal",
+   "address": "Meknès",
+   "phone": "+212535469668",
+   "lat": 33.898209,
+   "lng": -5.5950056,
+   "shift": "24h",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie Radi",
+   "address": "Meknès",
+   "phone": "+212535504715",
+   "lat": 33.89203,
+   "lng": -5.504557,
+   "shift": "24h",
+   "shift_label": ""
+  },
+  {
+   "name": "PHARMACIE ABDELKARIM EL KHATTABI",
+   "address": "31, Rue Chefchaouen, Derb 23رقم 31 .زنقة شفشاون, درب 23",
+   "phone": "+212535548986",
+   "lat": 33.9252622,
+   "lng": -5.4938112,
+   "shift": "24h",
+   "shift_label": ""
+  },
+  {
+   "name": "PHARMACIE ABDELKARIM KHATTABI",
+   "address": "31 rue Chefchaouen - Autre ville derb 23, Meknès",
+   "phone": "+212535548986",
+   "lat": 33.9252622,
+   "lng": -5.4938112,
    "shift": "jour",
    "shift_label": ""
   },
   {
-   "name": "Pharmacie Bounoua",
-   "address": "3 rue Bir Anzarane Rte ElHajeb, Meknès",
-   "phone": "+212535521809",
-   "lat": 33.876183,
-   "lng": -5.5482,
-   "shift": "jour",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie Chrachar",
-   "address": "rue Mly. Slama Ben Zidane , Zitoune",
-   "phone": "+212535539279",
-   "lat": 33.863237,
-   "lng": -5.548731,
-   "shift": "jour",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie Elfath",
-   "address": "26, Rue Sekkakine 50000",
-   "phone": "+212535531780",
-   "lat": 33.8932,
-   "lng": -5.567083,
-   "shift": "jour",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie Jameaa Essoussi",
-   "address": "Hay Naim II , R90",
-   "phone": "+212535539903",
-   "lat": 33.8801,
-   "lng": -5.5769,
-   "shift": "jour",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie La Famille",
-   "address": "rue 3 n°17 Baramila , sidi Bouzekri",
-   "phone": "+212535450143",
-   "lat": 33.857499,
-   "lng": -5.543178,
-   "shift": "jour",
+   "name": "PHARMACIE ACHOUHADA",
+   "address": "hay Al Bassatine 7 Tranche 3 rte Bougaraa, Meknèsحي البساتين 7, قطاع 3 طريق بوجراحي البساتين 7, قطاع 3 طريق بوجراحي البساتين 7, قطاع 3 طريق بوجرا",
+   "phone": "+212535502972",
+   "lat": 33.8844602,
+   "lng": -5.5058506,
+   "shift": "24h",
    "shift_label": ""
   }
  ],
  "center": [
-  33.8869,
-  -5.5353
+  33.8975,
+  -5.5374
  ]
 }

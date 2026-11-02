@@ -1,23 +1,23 @@
 {
  "city": "oued-zem",
  "label": "Oued Zem",
- "date": "2026-11-01",
+ "date": "2026-11-02",
  "source": "sahha.ma",
  "source_url": "https://sahha.ma/pharmacie-de-garde/oued-zem",
  "kind": "roster",
  "pharmacies": [
   {
-   "name": "Pharmacie Badr",
-   "address": "942 Pl. du Vingt Août - Autre ville, Oued Zem",
-   "phone": "+212772621719",
-   "lat": 32.848409,
-   "lng": -6.579734,
+   "name": "Pharmacie Mekka",
+   "address": "7 Rue 3 Dar Daou, Oued Zem",
+   "phone": "+212523521533",
+   "lat": 32.875246,
+   "lng": -6.57017,
    "shift": "jour",
    "shift_label": ""
   }
  ],
  "center": [
-  32.8484,
-  -6.5797
+  32.8752,
+  -6.5702
  ]
 }

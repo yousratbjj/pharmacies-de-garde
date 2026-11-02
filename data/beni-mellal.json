@@ -1,41 +1,68 @@
 {
  "city": "beni-mellal",
  "label": "Béni Mellal",
- "date": "2026-11-01",
+ "date": "2026-11-02",
  "source": "sahha.ma",
  "source_url": "https://sahha.ma/pharmacie-de-garde/beni-mellal",
  "kind": "roster",
  "pharmacies": [
   {
-   "name": "Pharmacie Amine",
-   "address": "ouled Attou, Beni Mellal",
-   "phone": "+212523429891",
-   "lat": 32.328457,
-   "lng": -6.391936,
+   "name": "Pharmacie Beni Day",
+   "address": "326 av. Hassan II, Beni Mellal",
+   "phone": "+212523420749",
+   "lat": 32.337583,
+   "lng": -6.366467,
    "shift": "jour",
    "shift_label": ""
   },
   {
-   "name": "Pharmacie Dar Dbagh",
-   "address": "107 bd Nouakchot rue 10 q. dar Dbagh, Beni Mellal",
+   "name": "PHARMACIE DAR DBAGH",
+   "address": "107 bd Nouakchot rue 10 q. dar Dbagh Appeler 05 23 42 •• •• Itinéraire Carte Partager Voir la fiche107، زنقة 10، شارع نواكشوط. حي دار الدباغ",
    "phone": "+212523424041",
-   "lat": 32.33323,
-   "lng": -6.345837,
+   "lat": 32.3323781,
+   "lng": -6.343164,
    "shift": "jour",
    "shift_label": ""
   },
   {
-   "name": "Pharmacie Laila Santé",
-   "address": "13 bd Baghdad - Autre ville Kssar Ghzafat, Beni Mellal",
-   "phone": "+212523427293",
-   "lat": 32.351966,
-   "lng": -6.355689,
+   "name": "Pharmacie Ghanem",
+   "address": "av. Baghdad Kasr Ghozafat N°468 470, Beni Mellal",
+   "phone": "+212523489604",
+   "lat": 32.349048,
+   "lng": -6.355128,
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
+   "name": "PHARMACIE LAILA SANTÉ",
+   "address": "13 bd Baghdad - Autre ville Kssar Ghzafat Appeler 05 23 42 •• •• Itinéraire Carte Partager Voir la ficheقصر الغزافات، 13 شارع بغداد",
+   "phone": "+212523485574",
+   "lat": 32.3517771,
+   "lng": -6.3556121,
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie Rachdaoui",
+   "address": "quartier Al Atlas, Beni Mellal",
+   "phone": "+212523489915",
+   "lat": 32.347776,
+   "lng": -6.34795,
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie Tahri",
+   "address": "61 lotiss. Lakbir lot Erraed, Beni Mellal",
+   "phone": "+212523427729",
+   "lat": 32.32322,
+   "lng": -6.37128,
    "shift": "jour",
    "shift_label": ""
   }
  ],
  "center": [
-  32.3379,
-  -6.3645
+  32.3403,
+  -6.3566
  ]
 }

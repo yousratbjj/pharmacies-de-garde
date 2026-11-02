@@ -1,23 +1,23 @@
 {
  "city": "al-arrui",
  "label": "Al Arrui",
- "date": "2026-11-01",
+ "date": "2026-11-02",
  "source": "sahha.ma",
  "source_url": "https://sahha.ma/pharmacie-de-garde/al-arrui",
  "kind": "roster",
  "pharmacies": [
   {
-   "name": "Pharmacie Aberkani",
-   "address": "bd. Sakia Hamra, Al Arrui",
-   "phone": "+212536361477",
-   "lat": 35.011067,
-   "lng": -3.010233,
-   "shift": "nuit",
+   "name": "Pharmacie Idrissi",
+   "address": "48 av. des f.a.r., Al Arrui",
+   "phone": "+212536362378",
+   "lat": 35.012233,
+   "lng": -3.007567,
+   "shift": "jour",
    "shift_label": ""
   }
  ],
  "center": [
-  35.0111,
-  -3.0102
+  35.0122,
+  -3.0076
  ]
 }

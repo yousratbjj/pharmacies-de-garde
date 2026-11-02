@@ -1,23 +1,23 @@
 {
  "city": "chefchaouen",
  "label": "Chefchaouen",
- "date": "2026-11-01",
+ "date": "2026-11-02",
  "source": "sahha.ma",
  "source_url": "https://sahha.ma/pharmacie-de-garde/chefchaouen",
  "kind": "roster",
  "pharmacies": [
   {
-   "name": "Pharmacie Centrale",
-   "address": "bd Sidi Abd AlHamid Route Atil Asmae, Chefchaouen",
-   "phone": "+212539883264",
-   "lat": 35.1767,
-   "lng": -5.273167,
-   "shift": "nuit",
+   "name": "Pharmacie AlAndalous",
+   "address": "10 rue sidi Allal El Hadj, Chefchaouen",
+   "phone": "+212539883855",
+   "lat": 35.165566,
+   "lng": -5.265993,
+   "shift": "jour",
    "shift_label": ""
   }
  ],
  "center": [
-  35.1767,
-  -5.2732
+  35.1656,
+  -5.266
  ]
 }

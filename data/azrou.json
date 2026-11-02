@@ -1,23 +1,23 @@
 {
  "city": "azrou",
  "label": "Azrou",
- "date": "2026-11-01",
+ "date": "2026-11-02",
  "source": "sahha.ma",
  "source_url": "https://sahha.ma/pharmacie-de-garde/azrou",
  "kind": "roster",
  "pharmacies": [
   {
-   "name": "Pharmacie Masjid Essaada",
-   "address": "Ahadaf rue 15 n°578, Azrou",
-   "phone": "+212535564141",
-   "lat": 33.438083,
-   "lng": -5.2269,
+   "name": "Pharmacie Takouine",
+   "address": "Atlas II n°122 Ahadaf, Azrou",
+   "phone": "+212535564333",
+   "lat": 33.451833,
+   "lng": -5.229167,
    "shift": "jour",
    "shift_label": ""
   }
  ],
  "center": [
-  33.4381,
-  -5.2269
+  33.4518,
+  -5.2292
  ]
 }

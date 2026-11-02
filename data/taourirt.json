@@ -1,23 +1,23 @@
 {
  "city": "taourirt",
  "label": "Taourirt",
- "date": "2026-11-01",
+ "date": "2026-11-02",
  "source": "sahha.ma",
  "source_url": "https://sahha.ma/pharmacie-de-garde/taourirt",
  "kind": "roster",
  "pharmacies": [
   {
-   "name": "Pharmacie AlHikma",
-   "address": "20 hay Chouhada, Taourirt",
-   "phone": "+212536695681",
-   "lat": 34.4051,
-   "lng": -2.8931,
-   "shift": "nuit",
+   "name": "Pharmacie Al Fath",
+   "address": "203 lotiss. My Ali Chrif, Taourirt",
+   "phone": "+212534556744",
+   "lat": 34.403205,
+   "lng": -2.892516,
+   "shift": "jour",
    "shift_label": ""
   }
  ],
  "center": [
-  34.4051,
-  -2.8931
+  34.4032,
+  -2.8925
  ]
 }

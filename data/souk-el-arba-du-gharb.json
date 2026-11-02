@@ -1,23 +1,23 @@
 {
  "city": "souk-el-arba-du-gharb",
  "label": "Souk El Arba du Gharb",
- "date": "2026-11-01",
+ "date": "2026-11-02",
  "source": "sahha.ma",
  "source_url": "https://sahha.ma/pharmacie-de-garde/souk-el-arba-du-gharb",
  "kind": "roster",
  "pharmacies": [
   {
-   "name": "Pharmacie Arrazi",
-   "address": "11 av Alaouyenne q. Bahia, Souk El Arba du Gharb",
-   "phone": "+212663615389",
-   "lat": 34.689664,
-   "lng": -6.007042,
+   "name": "Pharmacie Ahad (Ouhoud)",
+   "address": "1 hay Badr - Autre ville grpe B, Souk El Arba du Gharb",
+   "phone": "+212537902424",
+   "lat": 34.677838,
+   "lng": -6.013845,
    "shift": "jour",
    "shift_label": ""
   }
  ],
  "center": [
-  34.6897,
-  -6.007
+  34.6778,
+  -6.0138
  ]
 }

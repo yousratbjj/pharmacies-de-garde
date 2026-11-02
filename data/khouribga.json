@@ -1,32 +1,50 @@
 {
  "city": "khouribga",
  "label": "Khouribga",
- "date": "2026-11-01",
+ "date": "2026-11-02",
  "source": "sahha.ma",
  "source_url": "https://sahha.ma/pharmacie-de-garde/khouribga",
  "kind": "roster",
  "pharmacies": [
   {
-   "name": "Pharmacie La Victoire",
-   "address": "bd Abderrahim Bouabid hay El Amal lot 197, Khouribga",
-   "phone": "+212523497467",
-   "lat": 32.890717,
-   "lng": -6.933986,
-   "shift": "nuit",
+   "name": "Pharmacie AlMarjane",
+   "address": "43 X nouveaux logements O.c.p., Khouribga",
+   "phone": "+212523495122",
+   "lat": 32.873879,
+   "lng": -6.901254,
+   "shift": "jour",
    "shift_label": ""
   },
   {
-   "name": "Pharmacie Tawfiq",
-   "address": "251 Ancienne Médina du Séchage, Khouribga",
-   "phone": "+212521130339",
-   "lat": 32.880946,
-   "lng": -6.896194,
-   "shift": "nuit",
+   "name": "Pharmacie ElImane",
+   "address": "15 lotiss. Aya bd Mohammed VI, Khouribga",
+   "phone": "+212523563737",
+   "lat": 32.89347,
+   "lng": -6.94164,
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie Irfane",
+   "address": "Rte Al Khatawate lotiss Al Hamraa n°12, Khouribga",
+   "phone": "+212540007324",
+   "lat": 32.884311,
+   "lng": -6.920099,
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie La Résistance",
+   "address": "184 bd de la Résistance, Khouribga",
+   "phone": "+212523498923",
+   "lat": 32.892142,
+   "lng": -6.920261,
+   "shift": "jour",
    "shift_label": ""
   }
  ],
  "center": [
-  32.8858,
-  -6.9151
+  32.886,
+  -6.9208
  ]
 }

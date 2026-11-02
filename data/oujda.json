@@ -1,7 +1,7 @@
 {
  "city": "oujda",
  "label": "Oujda",
- "date": "2026-11-01",
+ "date": "2026-11-02",
  "source": "sahha.ma",
  "source_url": "https://sahha.ma/pharmacie-de-garde/oujda",
  "kind": "roster",
@@ -12,6 +12,24 @@
    "phone": "+212536702828",
    "lat": 34.68389,
    "lng": -1.909775,
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie AlIrchad",
+   "address": "37 bd. Al Houria hay AlHikma, Oujda",
+   "phone": "+212536502459",
+   "lat": 34.65665,
+   "lng": -1.9037,
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie AlKaoutar",
+   "address": "Douar Drafif imm. Kaoutar n°296, Oujda",
+   "phone": "+212536518984",
+   "lat": 34.685916,
+   "lng": -1.956153,
    "shift": "jour",
    "shift_label": ""
   },
@@ -34,11 +52,29 @@
    "shift_label": ""
   },
   {
+   "name": "Pharmacie Ouasrhir",
+   "address": "98 rue Alaounia lotiss. Msaad et Laamri, Oujda",
+   "phone": "+212536748986",
+   "lat": 34.69115,
+   "lng": -1.888,
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
    "name": "Pharmacie Salazar",
    "address": "20 bd Hmidane ang. rue Fellah lot Badr, Oujda",
    "phone": "+212536542184",
    "lat": 34.665725,
    "lng": -1.912525,
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie Zohir",
+   "address": "rue d'Oran ang. rue d'Alger, Oujda",
+   "phone": "+212536682725",
+   "lat": 34.685783,
+   "lng": -1.901133,
    "shift": "jour",
    "shift_label": ""
   },
@@ -53,7 +89,7 @@
   }
  ],
  "center": [
-  34.6776,
-  -1.9243
+  34.6786,
+  -1.9189
  ]
 }

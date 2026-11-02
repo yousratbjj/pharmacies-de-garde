@@ -1,32 +1,23 @@
 {
  "city": "larache",
  "label": "Larache",
- "date": "2026-11-01",
+ "date": "2026-11-02",
  "source": "sahha.ma",
  "source_url": "https://sahha.ma/pharmacie-de-garde/larache",
  "kind": "roster",
  "pharmacies": [
   {
-   "name": "Pharmacie Arrazak",
-   "address": "33 rte de Rabat - Autre ville lot. Ain Atti, Larache",
-   "phone": "+212808576458",
-   "lat": 35.174531,
-   "lng": -6.153996,
-   "shift": "jour",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie des F.a.r",
-   "address": "106 bd des Far, Larache",
-   "phone": "+212539501818",
-   "lat": 35.182883,
-   "lng": -6.157017,
+   "name": "Pharmacie AlMahkama",
+   "address": "20 bd. Ifriquia, Larache",
+   "phone": "+212539913193",
+   "lat": 35.189867,
+   "lng": -6.149583,
    "shift": "jour",
    "shift_label": ""
   }
  ],
  "center": [
-  35.1787,
-  -6.1555
+  35.1899,
+  -6.1496
  ]
 }

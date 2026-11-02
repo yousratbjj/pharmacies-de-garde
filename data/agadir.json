@@ -1,65 +1,11 @@
 {
  "city": "agadir",
  "label": "Agadir",
- "date": "2026-11-01",
+ "date": "2026-11-02",
  "source": "sahha.ma",
  "source_url": "https://sahha.ma/pharmacie-de-garde/agadir",
  "kind": "roster",
  "pharmacies": [
-  {
-   "name": "Al Kastalani",
-   "address": "Bloc 13 N 17 près D école Kastalani Ihchech",
-   "phone": "+212528224258",
-   "lat": 30.426235,
-   "lng": -9.5802757,
-   "shift": "jour",
-   "shift_label": ""
-  },
-  {
-   "name": "Allal Fassi",
-   "address": "RUE ALLAL FASSI. N23 -ERAC-BOUARGANE",
-   "phone": "+212528229245",
-   "lat": 30.4219016,
-   "lng": -9.564506,
-   "shift": "jour",
-   "shift_label": ""
-  },
-  {
-   "name": "AL QODS",
-   "address": "69 Bloc A5, Rue Imam Chafei 80000, Agadir",
-   "phone": "+212528238054",
-   "lat": 30.414,
-   "lng": -9.5552833,
-   "shift": "jour",
-   "shift_label": ""
-  },
-  {
-   "name": "Jetsakan",
-   "address": "M-1.Im42.Jet Sakane Ben Sergaou",
-   "phone": "+212528322064",
-   "lat": 30.393001,
-   "lng": -9.5487767,
-   "shift": "jour",
-   "shift_label": ""
-  },
-  {
-   "name": "Nour Al Farah 3",
-   "address": "454 Al Farah 3, Ben Sergao",
-   "phone": "+212528291050",
-   "lat": 30.4009907,
-   "lng": -9.5620131,
-   "shift": "jour",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie Adam",
-   "address": "701, z.i tilila, rue mekka",
-   "phone": "+212528288080",
-   "lat": 30.3965009,
-   "lng": -9.5124727,
-   "shift": "jour",
-   "shift_label": ""
-  },
   {
    "name": "Pharmacie Agdal",
    "address": "z.i Tilila rue Ghaza imm. Agdal n°47, Agadir",
@@ -95,10 +41,64 @@
    "lng": -9.564533,
    "shift": "jour",
    "shift_label": ""
+  },
+  {
+   "name": "Pharmacie El Qods",
+   "address": "69 rue Imam Chafii bloc A5, Agadir",
+   "phone": "+212540011928",
+   "lat": 30.414,
+   "lng": -9.555283,
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie Europa",
+   "address": "bd Vignt Août Hôtel Kenzi Europa, Agadir",
+   "phone": "+212528824946",
+   "lat": 30.417115,
+   "lng": -9.602875,
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie Jet Sakane",
+   "address": "Hay Bensergao Jet Sakane M1 imm. n°42 Salam Houda, Agadir",
+   "phone": "+212528322064",
+   "lat": 30.399139,
+   "lng": -9.552138,
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie Kettane",
+   "address": "hay Mohammadi résid. Assabah, Agadir",
+   "phone": "+212528230381",
+   "lat": 30.435615,
+   "lng": -9.565831,
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie Tikida",
+   "address": "hay Al Houda imm. Tikida n°10, Agadir",
+   "phone": "+212528320019",
+   "lat": 30.399252,
+   "lng": -9.543377,
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie Amine",
+   "address": "489 Hay Taddart - Autre ville Anza, Agadir",
+   "phone": "+212528204920",
+   "lat": 30.447836,
+   "lng": -9.656279,
+   "shift": "jour",
+   "shift_label": ""
   }
  ],
  "center": [
-  30.4117,
-  -9.5566
+  30.4178,
+  -9.5718
  ]
 }

@@ -1,32 +1,68 @@
 {
  "city": "sale",
  "label": "Salé",
- "date": "2026-11-01",
+ "date": "2026-11-02",
  "source": "sahha.ma",
  "source_url": "https://sahha.ma/pharmacie-de-garde/sale",
  "kind": "roster",
  "pharmacies": [
   {
-   "name": "Pharmacie AlHamd",
-   "address": "hay Errahma sect. A n°366 rue Yasmine, Salé",
-   "phone": "+212537871067",
-   "lat": 34.064152,
-   "lng": -6.786371,
-   "shift": "24h",
-   "shift_label": ""
-  },
-  {
-   "name": "PHARMACIE AL HANANE",
-   "address": "Imm 2 Résidence Idriss II - Bettana",
-   "phone": "+212537801585",
-   "lat": 34.030889,
-   "lng": -6.799,
+   "name": "Pharmacie Dar El Yousr",
+   "address": "hay Sidi Mohamed Ben Abdellah lotiss.1038, Salé",
+   "phone": "+212537870184",
+   "lat": 34.075959,
+   "lng": -6.763553,
    "shift": "jour",
    "shift_label": ""
   },
   {
-   "name": "Pharmacie Baassine",
-   "address": "3 lotiss zahrat Attakwa Gh 4 Mag C4-18, Salé",
+   "name": "Pharmacie Elkhemis",
+   "address": "37 bd Ben Guerrir Bettana, Salé",
+   "phone": "+212537809821",
+   "lat": 34.031833,
+   "lng": -6.803622,
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie Pasteur",
+   "address": "bd Mohammed V résid. AlBouchra imm. B mag. 8, Salé",
+   "phone": "+212537855141",
+   "lat": 34.048068,
+   "lng": -6.800758,
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie AlAyadia",
+   "address": "26 Saniat El Moussaoui hors bab Chaâfa, Salé",
+   "phone": "+212537782130",
+   "lat": 34.043992,
+   "lng": -6.825306,
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie Alfadila",
+   "address": "hay Errahma sect. B n°9, Salé",
+   "phone": "+212537874595",
+   "lat": 34.061024,
+   "lng": -6.79564,
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
+   "name": "PHARMACIE ALHAMD",
+   "address": "rue yasmine, sect.a hay rahma - · Hay arrahma Appeler 05 37 87 •• •• Itinéraire Carte Partager Voir la fiche",
+   "phone": "+212537871067",
+   "lat": 34.249231,
+   "lng": -6.6144744,
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
+   "name": "PHARMACIE BAASSINE",
+   "address": "lot zahrat attakwa gh4 imm3 · Al Mo Appeler 06 61 40 •• •• Itinéraire Carte Partager Voir la fiche",
    "phone": "+212537823731",
    "lat": 34.056108,
    "lng": -6.77489,
@@ -34,44 +70,17 @@
    "shift_label": ""
   },
   {
-   "name": "Pharmacie L'HONNEUR",
-   "address": "Sala El Jadida, Salé",
-   "phone": "+212537533928",
-   "lat": 34.0019026,
-   "lng": -6.7478607,
-   "shift": "jour",
-   "shift_label": ""
-  },
-  {
-   "name": "PHARMACIE NOUR SALE EX: HIMMICH",
-   "address": "Lot. Salima 2 Imm. 13 Mag. 1 Route de Kénitra",
-   "phone": "+212537880717",
-   "lat": 34.051503,
-   "lng": -6.8129508,
-   "shift": "24h",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie Zahraoui",
-   "address": "projet Addoha sect. Al Quods n°144, Salé",
-   "phone": "+212530135079",
-   "lat": 34.06033,
-   "lng": -6.763849,
-   "shift": "24h",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie ABDEDINE",
-   "address": "101, Bd Al Massira AlKhadra, Bettana (Prés Mosquée Palestine Et Café LA GRUTA)",
-   "phone": "+212537845138",
-   "lat": 34.086566,
-   "lng": -6.781806,
+   "name": "Pharmacie Dahab",
+   "address": "47 bd Six Novembre hay Hourya Tabriquet, Salé",
+   "phone": "+212537851291",
+   "lat": 34.048433,
+   "lng": -6.805617,
    "shift": "jour",
    "shift_label": ""
   }
  ],
  "center": [
-  34.0502,
-  -6.781
+  34.0768,
+  -6.773
  ]
 }

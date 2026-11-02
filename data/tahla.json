@@ -1,23 +1,23 @@
 {
  "city": "tahla",
  "label": "Tahla",
- "date": "2026-11-01",
+ "date": "2026-11-02",
  "source": "sahha.ma",
  "source_url": "https://sahha.ma/pharmacie-de-garde/tahla",
  "kind": "roster",
  "pharmacies": [
   {
-   "name": "Pharmacie Chifaa",
-   "address": "77 bd Annasr, Tahla",
-   "phone": "+212535679689",
-   "lat": 34.051102,
-   "lng": -4.424827,
-   "shift": "nuit",
+   "name": "Pharmacie Bnisraj",
+   "address": "av La Résistance, Tahla",
+   "phone": "+212535678833",
+   "lat": 34.050103,
+   "lng": -4.420028,
+   "shift": "jour",
    "shift_label": ""
   }
  ],
  "center": [
-  34.0511,
-  -4.4248
+  34.0501,
+  -4.42
  ]
 }

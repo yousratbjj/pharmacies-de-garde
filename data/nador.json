@@ -1,11 +1,29 @@
 {
  "city": "nador",
  "label": "Nador",
- "date": "2026-11-01",
+ "date": "2026-11-02",
  "source": "sahha.ma",
  "source_url": "https://sahha.ma/pharmacie-de-garde/nador",
  "kind": "roster",
  "pharmacies": [
+  {
+   "name": "Pharmacie Afra",
+   "address": "96 av Mly. Rachid Jaadar, Nador",
+   "phone": "+212536350808",
+   "lat": 35.178594,
+   "lng": -2.925437,
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie Al Kadaoui",
+   "address": "K050 Rte de Zegangan km 5 Ihdadden, Nador",
+   "phone": "+212536351995",
+   "lat": 35.174677,
+   "lng": -2.923315,
+   "shift": "jour",
+   "shift_label": ""
+  },
   {
    "name": "Pharmacie AlMahatta",
    "address": "254 av Hassan II, Nador",
@@ -16,8 +34,8 @@
    "shift_label": ""
   },
   {
-   "name": "PHARMACIE BOUFTIL",
-   "address": "24 bd Venezuela hay Ouled Boutayeb Appeler 05 36 33 •• •• Itinéraire Carte Partager Voir la fiche",
+   "name": "Pharmacie Bouftil",
+   "address": "bd Venezuela hay Ouled Boutayeb, Nador",
    "phone": "+212536333633",
    "lat": 35.1703,
    "lng": -2.95129,
@@ -26,7 +44,7 @@
   }
  ],
  "center": [
-  35.1727,
-  -2.9368
+  35.1747,
+  -2.9306
  ]
 }
