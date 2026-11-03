@@ -1,23 +1,95 @@
 {
  "city": "sidi-slimane",
  "label": "Sidi Slimane",
- "date": "2026-11-02",
+ "date": "2026-11-03",
  "source": "sahha.ma",
  "source_url": "https://sahha.ma/pharmacie-de-garde/sidi-slimane",
  "kind": "roster",
  "pharmacies": [
   {
-   "name": "Pharmacie Debbarh",
-   "address": "hay Agdal n° 3, Sidi Slimane",
+   "name": "PHARMACIE AMINE",
+   "address": "12 Av. Mohammed V rte Dar Belamri, Sidi Slimane",
+   "phone": "+212537502078",
+   "lat": 34.2591665,
+   "lng": -5.9295916,
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
+   "name": "PHARMACIE ARRAHMA",
+   "address": "hay Ouled El Ghazi rue 10 n°244, Sidi Slimane",
+   "phone": "+212537505768",
+   "lat": 34.259251,
+   "lng": -5.931036,
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
+   "name": "PHARMACIE BIR ANZARANE",
+   "address": "63 bd. Bir Anzarane, Sidi Slimane",
+   "phone": "+212537502900",
+   "lat": 34.2622961,
+   "lng": -5.9239749,
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
+   "name": "PHARMACIE BISMILLAH",
+   "address": "3 lotiss. Agdal SIDI SLIMANE",
    "phone": "+212537500688",
-   "lat": 34.257403,
-   "lng": -5.910089,
-   "shift": "nuit",
+   "lat": 34.2601287,
+   "lng": -5.9146206,
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
+   "name": "PHARMACIE CHIFAA",
+   "address": "hay Laymoune bloc 27 n°7 SIDI SLIMANE",
+   "phone": "+212523298434",
+   "lat": 34.251813,
+   "lng": -5.927786,
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
+   "name": "PHARMACIE INTERNATIONALE",
+   "address": "Coomplexe medicale, Sidi Slimane",
+   "phone": "+212669554771",
+   "lat": 34.259878,
+   "lng": -5.927253,
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
+   "name": "PHARMACIE NASSIM EL KHAIR",
+   "address": "bd Hassan II - Autre ville, Sidi Slimane",
+   "phone": "+212643633358",
+   "lat": 34.259878,
+   "lng": -5.927253,
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
+   "name": "PHARMACIE OULED EL GHAZI",
+   "address": "10, av Zerktouni , lot. Lemhamed Sidi slimane",
+   "phone": "+212537505871",
+   "lat": 34.2590735,
+   "lng": -5.9350268,
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie Yassine",
+   "address": "av la Resistance ouled Malek, Sidi Slimane",
+   "phone": "+212676306817",
+   "lat": 34.268686,
+   "lng": -5.933615,
+   "shift": "jour",
    "shift_label": ""
   }
  ],
  "center": [
-  34.2574,
-  -5.9101
+  34.26,
+  -5.9278
  ]
 }

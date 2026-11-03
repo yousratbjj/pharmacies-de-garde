@@ -1,7 +1,7 @@
 {
  "city": "ben-guerir",
  "label": "Ben Guérir",
- "date": "2026-11-02",
+ "date": "2026-11-03",
  "source": "sahha.ma",
  "source_url": "https://sahha.ma/pharmacie-de-garde/ben-guerir",
  "kind": "roster",
@@ -23,19 +23,10 @@
    "lng": -7.945041,
    "shift": "jour",
    "shift_label": ""
-  },
-  {
-   "name": "Pharmacie Hay Moulay Rachid",
-   "address": "63 hay Moulay Rachid - Autre ville, Ben Guerir",
-   "phone": "+212524317117",
-   "lat": 32.214542,
-   "lng": -7.927694,
-   "shift": "jour",
-   "shift_label": ""
   }
  ],
  "center": [
-  32.23,
-  -7.9421
+  32.2377,
+  -7.9493
  ]
 }

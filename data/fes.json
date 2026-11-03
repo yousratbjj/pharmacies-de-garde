@@ -1,11 +1,65 @@
 {
  "city": "fes",
  "label": "Fès",
- "date": "2026-11-02",
+ "date": "2026-11-03",
  "source": "sahha.ma",
  "source_url": "https://sahha.ma/pharmacie-de-garde/fes",
  "kind": "roster",
  "pharmacies": [
+  {
+   "name": "Pharmacie Ahayan",
+   "address": "27 lot. les Jardins Oued Fès, Fès",
+   "phone": "+212535700013",
+   "lat": 34.052195,
+   "lng": -5.0252563,
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie AlOumma",
+   "address": "B hay Zouagha Oulia bloc D n°61 rte Bensouda, Fès",
+   "phone": "+212535600426",
+   "lat": 33.988117,
+   "lng": -5.035817,
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie Conseil",
+   "address": "86 bd Moulay Rachid rte de Seffrou, Fès",
+   "phone": "+212535619162",
+   "lat": 34.013117,
+   "lng": -4.981983,
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie Jnan Fès",
+   "address": "15 rue Ibn Batouta, Fès",
+   "phone": "+212535653950",
+   "lat": 34.030333,
+   "lng": -5.005167,
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie Manabie Ain Chkef",
+   "address": "lotiss. Jinane 2 Ain Chkef, Fès",
+   "phone": "+212676761179",
+   "lat": 33.950088,
+   "lng": -5.035514,
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie Mounad",
+   "address": "hay Sehb El Ward rue 1 n°17 bis blad Raiss, Fès",
+   "phone": "+212535763503",
+   "lat": 34.055796,
+   "lng": -4.954794,
+   "shift": "jour",
+   "shift_label": ""
+  },
   {
    "name": "Pharmacie Azzaytoune",
    "address": "K070 rte Ras El Ma Bensouda lotiss. Azzaytoune km. 7 n°8, Fès",
@@ -14,55 +68,10 @@
    "lng": -5.044407,
    "shift": "jour",
    "shift_label": ""
-  },
-  {
-   "name": "Pharmacie Benjelloun",
-   "address": "hay Tarik 2 lotiss. Krikach n°24, Fès",
-   "phone": "+212535610967",
-   "lat": 34.027033,
-   "lng": -5.021917,
-   "shift": "jour",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie Jinane Ain Chkef",
-   "address": "194 lotiss.Jinane, Fès",
-   "phone": "+212535967050",
-   "lat": 33.960716,
-   "lng": -5.024751,
-   "shift": "jour",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie Tadlaoui",
-   "address": "85 lotiss. Oued Fès - Autre ville, Fès",
-   "phone": "+212532909966",
-   "lat": 34.05409,
-   "lng": -5.018374,
-   "shift": "jour",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie Mly M'Barek",
-   "address": "hay Ain Nokbi blad Sfira bloc 16 rue 13, Fès",
-   "phone": "+212535630787",
-   "lat": 34.06375,
-   "lng": -4.955583,
-   "shift": "jour",
-   "shift_label": ""
-  },
-  {
-   "name": "PHARMACIE MOULAY MBAREK",
-   "address": "Non spécifiée",
-   "phone": "",
-   "lat": 34.0639385,
-   "lng": -4.9543363,
-   "shift": "jour",
-   "shift_label": ""
   }
  ],
  "center": [
-  34.0345,
-  -5.0032
+  34.0182,
+  -5.0118
  ]
 }

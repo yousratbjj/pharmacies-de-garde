@@ -1,32 +1,50 @@
 {
  "city": "taza",
  "label": "Taza",
- "date": "2026-11-02",
+ "date": "2026-11-03",
  "source": "sahha.ma",
  "source_url": "https://sahha.ma/pharmacie-de-garde/taza",
  "kind": "roster",
  "pharmacies": [
   {
-   "name": "Pharmacie Friouato",
-   "address": "hay ElMassoudia villa n°3 mosquée Badr, Taza",
-   "phone": "+212535285766",
-   "lat": 34.211117,
-   "lng": -4.007617,
-   "shift": "nuit",
+   "name": "Pharmacie Annahda",
+   "address": "Cité An-Nahda bloc \"A\" n°5, Taza",
+   "phone": "+212535673256",
+   "lat": 34.229733,
+   "lng": -4.02195,
+   "shift": "jour",
    "shift_label": ""
   },
   {
-   "name": "Pharmacie Ibn Rochd",
-   "address": "85 rue Sultan Abou Elhassan, Taza",
+   "name": "Pharmacie Bin Jradi",
+   "address": "26 rue Hassan Ben Hamouch Zekriti, Taza",
+   "phone": "+212535281306",
+   "lat": 34.225667,
+   "lng": -4.0111,
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
+   "name": "PHARMACIE FRIOUATO",
+   "address": "24 hay ElMassoudia villa n°3 mosquée Badr Appeler 05 35 28 •• •• Itinéraire Carte Partager Voir la fiche",
+   "phone": "+212535285766",
+   "lat": 34.211,
+   "lng": -4.0075421,
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
+   "name": "PHARMACIE IBN ROCHD",
+   "address": "85 rue Sultan Abou Elhassan · Taza Appeler 05 35 67 •• •• Itinéraire Carte Partager Voir la fiche",
    "phone": "+212535672133",
-   "lat": 34.224,
-   "lng": -4.007133,
-   "shift": "nuit",
+   "lat": 34.2238369,
+   "lng": -4.0072176,
+   "shift": "jour",
    "shift_label": ""
   }
  ],
  "center": [
-  34.2176,
-  -4.0074
+  34.2226,
+  -4.012
  ]
 }

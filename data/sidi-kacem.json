@@ -1,23 +1,23 @@
 {
  "city": "sidi-kacem",
  "label": "Sidi Kacem",
- "date": "2026-11-02",
+ "date": "2026-11-03",
  "source": "sahha.ma",
  "source_url": "https://sahha.ma/pharmacie-de-garde/sidi-kacem",
  "kind": "roster",
  "pharmacies": [
   {
-   "name": "Pharmacie Lemnie",
-   "address": "hay Lmers rue 46 n°54 bis, Sidi Kacem",
-   "phone": "+212537593590",
-   "lat": 34.217194,
-   "lng": -5.710431,
-   "shift": "nuit",
+   "name": "Pharmacie Allaymoune",
+   "address": "hay Yasmine bloc C n°471, Sidi Kacem",
+   "phone": "+212537590334",
+   "lat": 34.227418,
+   "lng": -5.728199,
+   "shift": "jour",
    "shift_label": ""
   }
  ],
  "center": [
-  34.2172,
-  -5.7104
+  34.2274,
+  -5.7282
  ]
 }

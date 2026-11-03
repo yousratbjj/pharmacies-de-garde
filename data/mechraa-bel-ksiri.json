@@ -1,23 +1,23 @@
 {
  "city": "mechraa-bel-ksiri",
  "label": "Mechraâ Bel Ksiri",
- "date": "2026-11-02",
+ "date": "2026-11-03",
  "source": "sahha.ma",
  "source_url": "https://sahha.ma/pharmacie-de-garde/mechraa-bel-ksiri",
  "kind": "roster",
  "pharmacies": [
   {
-   "name": "Pharmacie ElKaoutar",
-   "address": "19 av Moulay Driss, Mechraa Bel Ksiri",
-   "phone": "+212604163122",
-   "lat": 34.577787,
-   "lng": -5.949141,
-   "shift": "nuit",
+   "name": "Pharmacie Al Hikma",
+   "address": "170 q. Bouitat, Mechraa Bel Ksiri",
+   "phone": "+212537906464",
+   "lat": 34.581474,
+   "lng": -5.943569,
+   "shift": "jour",
    "shift_label": ""
   }
  ],
  "center": [
-  34.5778,
-  -5.9491
+  34.5815,
+  -5.9436
  ]
 }

@@ -1,50 +1,50 @@
 {
  "city": "nador",
  "label": "Nador",
- "date": "2026-11-02",
+ "date": "2026-11-03",
  "source": "sahha.ma",
  "source_url": "https://sahha.ma/pharmacie-de-garde/nador",
  "kind": "roster",
  "pharmacies": [
-  {
-   "name": "Pharmacie Afra",
-   "address": "96 av Mly. Rachid Jaadar, Nador",
-   "phone": "+212536350808",
-   "lat": 35.178594,
-   "lng": -2.925437,
-   "shift": "nuit",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie Al Kadaoui",
-   "address": "K050 Rte de Zegangan km 5 Ihdadden, Nador",
-   "phone": "+212536351995",
-   "lat": 35.174677,
-   "lng": -2.923315,
-   "shift": "nuit",
-   "shift_label": ""
-  },
   {
    "name": "Pharmacie AlMahatta",
    "address": "254 av Hassan II, Nador",
    "phone": "+212536604408",
    "lat": 35.1751,
    "lng": -2.922383,
-   "shift": "nuit",
+   "shift": "jour",
    "shift_label": ""
   },
   {
-   "name": "Pharmacie Bouftil",
-   "address": "bd Venezuela hay Ouled Boutayeb, Nador",
+   "name": "PHARMACIE AFRA",
+   "address": "96 av Mly. Rachid Jaadar · Jaadar Appeler 05 36 35 •• •• Itinéraire Carte Partager Voir la fiche",
+   "phone": "+212536350808",
+   "lat": 35.1781403,
+   "lng": -2.9251391,
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
+   "name": "PHARMACIE BOUFTIL",
+   "address": "24 bd Venezuela hay Ouled Boutayeb Appeler 05 36 33 •• •• Itinéraire Carte Partager Voir la fiche",
    "phone": "+212536333633",
    "lat": 35.1703,
    "lng": -2.95129,
-   "shift": "nuit",
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie Dar El Makhzen",
+   "address": "Douar Bouyzarzaren, Nador",
+   "phone": "+212536330361",
+   "lat": 35.162917,
+   "lng": -2.969766,
+   "shift": "jour",
    "shift_label": ""
   }
  ],
  "center": [
-  35.1747,
-  -2.9306
+  35.1716,
+  -2.9421
  ]
 }

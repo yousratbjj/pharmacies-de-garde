@@ -1,7 +1,7 @@
 {
  "city": "beni-mellal",
  "label": "Béni Mellal",
- "date": "2026-11-02",
+ "date": "2026-11-03",
  "source": "sahha.ma",
  "source_url": "https://sahha.ma/pharmacie-de-garde/beni-mellal",
  "kind": "roster",
@@ -41,28 +41,10 @@
    "lng": -6.37128,
    "shift": "jour",
    "shift_label": ""
-  },
-  {
-   "name": "PHARMACIE DAR DBAGH",
-   "address": "107 bd Nouakchot rue 10 q. dar Dbagh Appeler 05 23 42 •• •• Itinéraire Carte Partager Voir la fiche107، زنقة 10، شارع نواكشوط. حي دار الدباغ",
-   "phone": "+212523424041",
-   "lat": 32.3323781,
-   "lng": -6.343164,
-   "shift": "jour",
-   "shift_label": ""
-  },
-  {
-   "name": "PHARMACIE LAILA SANTÉ",
-   "address": "13 bd Baghdad - Autre ville Kssar Ghzafat Appeler 05 23 42 •• •• Itinéraire Carte Partager Voir la ficheقصر الغزافات، 13 شارع بغداد",
-   "phone": "+212523485574",
-   "lat": 32.3517771,
-   "lng": -6.3556121,
-   "shift": "jour",
-   "shift_label": ""
   }
  ],
  "center": [
-  32.3403,
-  -6.3566
+  32.3394,
+  -6.3602
  ]
 }

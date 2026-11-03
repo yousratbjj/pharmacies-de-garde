@@ -1,23 +1,23 @@
 {
  "city": "al-arrui",
  "label": "Al Arrui",
- "date": "2026-11-02",
+ "date": "2026-11-03",
  "source": "sahha.ma",
  "source_url": "https://sahha.ma/pharmacie-de-garde/al-arrui",
  "kind": "roster",
  "pharmacies": [
   {
-   "name": "Pharmacie Idrissi",
-   "address": "48 av. des f.a.r., Al Arrui",
-   "phone": "+212536362378",
-   "lat": 35.012233,
-   "lng": -3.007567,
+   "name": "Pharmacie Achifae",
+   "address": "275 av. Hassan II, Al Arrui",
+   "phone": "+212536362672",
+   "lat": 35.011433,
+   "lng": -3.00695,
    "shift": "jour",
    "shift_label": ""
   }
  ],
  "center": [
-  35.0122,
-  -3.0076
+  35.0114,
+  -3.0069
  ]
 }

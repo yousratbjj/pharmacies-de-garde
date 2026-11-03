@@ -1,68 +1,50 @@
 {
  "city": "kenitra",
  "label": "Kénitra",
- "date": "2026-11-02",
+ "date": "2026-11-03",
  "source": "sahha.ma",
  "source_url": "https://sahha.ma/pharmacie-de-garde/kenitra",
  "kind": "roster",
  "pharmacies": [
   {
-   "name": "Pharmacie AlMaghrib (du Maroc)",
-   "address": "hay Al Fath n°1, Kénitra",
+   "name": "PHARMACIE ALMAGHRIB DU MAROC",
+   "address": "24 hay Al Fath n°1 · Saknia Appeler 05 37 38 •• •• Itinéraire Carte Partager Voir la fiche",
    "phone": "+212537381525",
-   "lat": 34.250401,
-   "lng": -6.553284,
+   "lat": 34.2540503,
+   "lng": -6.5890166,
    "shift": "jour",
    "shift_label": ""
   },
   {
-   "name": "Pharmacie Farazdaq",
-   "address": "hay Ouled Oujih bloc I n°171, Kénitra",
+   "name": "PHARMACIE FARAZDAQ",
+   "address": "24 hay Ouled Oujih bloc I n°171 · Oulad Oujih Appeler 05 37 35 •• •• Itinéraire Carte Partager Voir la ficheرقم 171، بلوك 1 أولاد أوجيه، 14080",
    "phone": "+212537351211",
-   "lat": 34.256562,
-   "lng": -6.622413,
+   "lat": 34.2566894,
+   "lng": -6.6222064,
    "shift": "jour",
    "shift_label": ""
   },
   {
-   "name": "PHARMACIE EL FELLINE",
-   "address": "736 hay Bir Rami - Autre ville LOT; Jnane 4 · Bir Rami Appeler 06 38 81 •• •• Itinéraire Carte Partager Voir la ficheرقم 344، حي بير رامي، جنان 4",
-   "phone": "+212638814867",
-   "lat": 34.234656,
-   "lng": -6.60806,
+   "name": "Pharmacie Hay Meriem",
+   "address": "411 hay Lalla Meriem, Kénitra",
+   "phone": "+212537392442",
+   "lat": 34.257555,
+   "lng": -6.549934,
    "shift": "jour",
    "shift_label": ""
   },
   {
-   "name": "PHARMACIE MOHAMMED",
-   "address": "2 rue Ibn Benna mosquée Lalla Khadija · Ville Nouvelle Appeler 05 37 37 •• •• Itinéraire Carte Partager Voir la ficheشارع ابن البنا",
-   "phone": "+212661906890",
-   "lat": 34.2541012,
-   "lng": -6.5840229,
-   "shift": "jour",
-   "shift_label": ""
-  },
-  {
-   "name": "PHARMACIE SIDI LARBI BOUJEMAÂ",
-   "address": "272 bd Mohammed V · Medina Appeler 05 37 36 •• •• Itinéraire Carte Partager Voir la fiche272 شارع محمد الخامس",
-   "phone": "+212537364898",
-   "lat": 34.2631994,
-   "lng": -6.5741981,
-   "shift": "jour",
-   "shift_label": ""
-  },
-  {
-   "name": "PHARMACIE TOLBIX",
-   "address": "24 hay Ouled Oujih lot.154 bloc F/D 2 · Ouled Oujih Appeler 05 37 35 •• •• Itinéraire Carte Partager Voir la ficheحي أولاد أوجيه، تجزئة 154، بلوك F/D 2",
-   "phone": "+212537352241",
-   "lat": 34.260672,
-   "lng": -6.615088,
+   "name": "Pharmacie Sanae",
+   "address": "hay El Haouzia lot 178 Bloc L, Kénitra",
+   "phone": "+212537355655",
+   "lat": 34.270876,
+   "lng": -6.615404,
    "shift": "jour",
    "shift_label": ""
   }
  ],
  "center": [
-  34.2533,
-  -6.5928
+  34.2598,
+  -6.5941
  ]
 }

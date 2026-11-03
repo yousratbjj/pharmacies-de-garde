@@ -1,7 +1,7 @@
 {
  "city": "biougra",
  "label": "Biougra",
- "date": "2026-11-02",
+ "date": "2026-11-03",
  "source": "sahha.ma",
  "source_url": "https://sahha.ma/pharmacie-de-garde/biougra",
  "kind": "roster",
@@ -16,15 +16,6 @@
    "shift_label": ""
   },
   {
-   "name": "Pharmacie Jnane Essaada Biougra",
-   "address": "Rte Lekhmiss lot Essaada, Biougra",
-   "phone": "+212528819293",
-   "lat": 30.222452,
-   "lng": -9.373426,
-   "shift": "jour",
-   "shift_label": ""
-  },
-  {
    "name": "Pharmacie l'Antidot",
    "address": "rue Joulan - Autre ville, Biougra",
    "phone": "+212808657739",
@@ -32,19 +23,10 @@
    "lng": -9.381083,
    "shift": "jour",
    "shift_label": ""
-  },
-  {
-   "name": "Pharmacie Oued Essafa",
-   "address": "10 rte de Biougra hay Oued Essafa, Biougra",
-   "phone": "+212528819477",
-   "lat": 30.220658,
-   "lng": -9.372859,
-   "shift": "jour",
-   "shift_label": ""
   }
  ],
  "center": [
-  30.2185,
-  -9.372
+  30.2155,
+  -9.3709
  ]
 }

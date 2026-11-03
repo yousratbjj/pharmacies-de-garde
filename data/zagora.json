@@ -1,23 +1,23 @@
 {
  "city": "zagora",
  "label": "Zagora",
- "date": "2026-11-02",
+ "date": "2026-11-03",
  "source": "sahha.ma",
  "source_url": "https://sahha.ma/pharmacie-de-garde/zagora",
  "kind": "roster",
  "pharmacies": [
   {
-   "name": "Pharmacie Zagora",
-   "address": "bd Mohammed V, Zagora",
-   "phone": "+212524847195",
-   "lat": 30.327867,
-   "lng": -5.83855,
-   "shift": "nuit",
+   "name": "Pharmacie Amzrou",
+   "address": "hay Amezrou, Zagora",
+   "phone": "+212524847490",
+   "lat": 30.324989,
+   "lng": -5.840628,
+   "shift": "jour",
    "shift_label": ""
   }
  ],
  "center": [
-  30.3279,
-  -5.8385
+  30.325,
+  -5.8406
  ]
 }

@@ -1,23 +1,23 @@
 {
  "city": "boujad",
  "label": "Boujad",
- "date": "2026-11-02",
+ "date": "2026-11-03",
  "source": "sahha.ma",
  "source_url": "https://sahha.ma/pharmacie-de-garde/boujad",
  "kind": "roster",
  "pharmacies": [
   {
-   "name": "Pharmacie Hamdi",
-   "address": "97 av. ElMoujahidine, Boujad",
-   "phone": "+212523412472",
-   "lat": 32.776025,
-   "lng": -6.389589,
+   "name": "Pharmacie Sabihi",
+   "address": "Boujad, Boujad",
+   "phone": "+212660566185",
+   "lat": 32.769785,
+   "lng": -6.394983,
    "shift": "jour",
    "shift_label": ""
   }
  ],
  "center": [
-  32.776,
-  -6.3896
+  32.7698,
+  -6.395
  ]
 }

@@ -1,23 +1,23 @@
 {
  "city": "souk-el-arba-du-gharb",
  "label": "Souk El Arba du Gharb",
- "date": "2026-11-02",
+ "date": "2026-11-03",
  "source": "sahha.ma",
  "source_url": "https://sahha.ma/pharmacie-de-garde/souk-el-arba-du-gharb",
  "kind": "roster",
  "pharmacies": [
   {
-   "name": "Pharmacie Ahad (Ouhoud)",
-   "address": "1 hay Badr - Autre ville grpe B, Souk El Arba du Gharb",
-   "phone": "+212537902424",
-   "lat": 34.677838,
-   "lng": -6.013845,
-   "shift": "nuit",
+   "name": "Pharmacie Ouled Ben Sbaa",
+   "address": "Rte Ouled Ziar hay ouled ben Sbaa, Souk El Arba du Gharb",
+   "phone": "+212575780263",
+   "lat": 34.687364,
+   "lng": -5.976058,
+   "shift": "jour",
    "shift_label": ""
   }
  ],
  "center": [
-  34.6778,
-  -6.0138
+  34.6874,
+  -5.9761
  ]
 }

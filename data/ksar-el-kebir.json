@@ -1,23 +1,23 @@
 {
  "city": "ksar-el-kebir",
  "label": "Ksar El Kebir",
- "date": "2026-11-02",
+ "date": "2026-11-03",
  "source": "sahha.ma",
  "source_url": "https://sahha.ma/pharmacie-de-garde/ksar-el-kebir",
  "kind": "roster",
  "pharmacies": [
   {
-   "name": "Pharmacie Bab ElOued",
-   "address": "25 rte. de Rabat, Ksar El Kébir",
-   "phone": "+212539904800",
-   "lat": 34.988767,
-   "lng": -5.908017,
+   "name": "Pharmacie Mansour Eddahbi",
+   "address": "hay Sidi Redwan Derb 1 n°3, Ksar El Kébir",
+   "phone": "+212539906852",
+   "lat": 35.002545,
+   "lng": -5.903442,
    "shift": "jour",
    "shift_label": ""
   }
  ],
  "center": [
-  34.9888,
-  -5.908
+  35.0025,
+  -5.9034
  ]
 }

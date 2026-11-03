@@ -1,27 +1,18 @@
 {
  "city": "oujda",
  "label": "Oujda",
- "date": "2026-11-02",
+ "date": "2026-11-03",
  "source": "sahha.ma",
  "source_url": "https://sahha.ma/pharmacie-de-garde/oujda",
  "kind": "roster",
  "pharmacies": [
-  {
-   "name": "Pharmacie Al Faraj",
-   "address": "3 hay Annasr rte Marhnia, Oujda",
-   "phone": "+212536702828",
-   "lat": 34.68389,
-   "lng": -1.909775,
-   "shift": "nuit",
-   "shift_label": ""
-  },
   {
    "name": "Pharmacie AlIrchad",
    "address": "37 bd. Al Houria hay AlHikma, Oujda",
    "phone": "+212536502459",
    "lat": 34.65665,
    "lng": -1.9037,
-   "shift": "nuit",
+   "shift": "jour",
    "shift_label": ""
   },
   {
@@ -30,25 +21,7 @@
    "phone": "+212536518984",
    "lat": 34.685916,
    "lng": -1.956153,
-   "shift": "nuit",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie du Stade Municipal",
-   "address": "rue de Casa place du Stade de Municipal imm. Habous, Oujda",
-   "phone": "+212536696878",
-   "lat": 34.685717,
-   "lng": -1.906967,
-   "shift": "nuit",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie la Libérté",
-   "address": "169 hay Essalam rue A11. Aouinat Sarrak, Oujda",
-   "phone": "+212536534682",
-   "lat": 34.671683,
-   "lng": -1.939083,
-   "shift": "nuit",
+   "shift": "jour",
    "shift_label": ""
   },
   {
@@ -57,16 +30,16 @@
    "phone": "+212536748986",
    "lat": 34.69115,
    "lng": -1.888,
-   "shift": "nuit",
+   "shift": "jour",
    "shift_label": ""
   },
   {
-   "name": "Pharmacie Salazar",
-   "address": "20 bd Hmidane ang. rue Fellah lot Badr, Oujda",
-   "phone": "+212536542184",
-   "lat": 34.665725,
-   "lng": -1.912525,
-   "shift": "nuit",
+   "name": "Pharmacie Zaoui",
+   "address": "rte de Taza - Autre ville lotissement Al Aoudi, Oujda",
+   "phone": "+212530283565",
+   "lat": 34.6577959,
+   "lng": -1.895875,
+   "shift": "jour",
    "shift_label": ""
   },
   {
@@ -75,21 +48,12 @@
    "phone": "+212536682725",
    "lat": 34.685783,
    "lng": -1.901133,
-   "shift": "nuit",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie Amar Bolis",
-   "address": "Rte. de Taza Hay Ennahda B2 n°8, Oujda",
-   "phone": "+212536518224",
-   "lat": 34.680917,
-   "lng": -1.953167,
-   "shift": "nuit",
+   "shift": "jour",
    "shift_label": ""
   }
  ],
  "center": [
-  34.6786,
-  -1.9189
+  34.6755,
+  -1.909
  ]
 }
