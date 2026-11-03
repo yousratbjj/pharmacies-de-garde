@@ -12,7 +12,7 @@
    "phone": "+212536702828",
    "lat": 34.68389,
    "lng": -1.909775,
-   "shift": "jour",
+   "shift": "nuit",
    "shift_label": ""
   },
   {
@@ -21,7 +21,7 @@
    "phone": "+212536502459",
    "lat": 34.65665,
    "lng": -1.9037,
-   "shift": "jour",
+   "shift": "nuit",
    "shift_label": ""
   },
   {
@@ -30,7 +30,7 @@
    "phone": "+212536518984",
    "lat": 34.685916,
    "lng": -1.956153,
-   "shift": "jour",
+   "shift": "nuit",
    "shift_label": ""
   },
   {
@@ -39,7 +39,7 @@
    "phone": "+212536696878",
    "lat": 34.685717,
    "lng": -1.906967,
-   "shift": "jour",
+   "shift": "nuit",
    "shift_label": ""
   },
   {
@@ -48,7 +48,7 @@
    "phone": "+212536534682",
    "lat": 34.671683,
    "lng": -1.939083,
-   "shift": "jour",
+   "shift": "nuit",
    "shift_label": ""
   },
   {
@@ -57,7 +57,7 @@
    "phone": "+212536748986",
    "lat": 34.69115,
    "lng": -1.888,
-   "shift": "jour",
+   "shift": "nuit",
    "shift_label": ""
   },
   {
@@ -66,7 +66,7 @@
    "phone": "+212536542184",
    "lat": 34.665725,
    "lng": -1.912525,
-   "shift": "jour",
+   "shift": "nuit",
    "shift_label": ""
   },
   {
@@ -75,7 +75,7 @@
    "phone": "+212536682725",
    "lat": 34.685783,
    "lng": -1.901133,
-   "shift": "jour",
+   "shift": "nuit",
    "shift_label": ""
   },
   {
@@ -84,7 +84,7 @@
    "phone": "+212536518224",
    "lat": 34.680917,
    "lng": -1.953167,
-   "shift": "jour",
+   "shift": "nuit",
    "shift_label": ""
   }
  ],

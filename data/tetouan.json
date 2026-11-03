@@ -7,53 +7,26 @@
  "kind": "roster",
  "pharmacies": [
   {
-   "name": "ELFEDDANE",
-   "address": "Boulevard Mohammed V.N 2شارع محمد الخامس رقم 2",
-   "phone": "+212539967461",
-   "lat": 35.5700872,
-   "lng": -5.3695628,
-   "shift": "jour",
+   "name": "Pharmacie Lawada",
+   "address": "29 av. khalid Bnou Loualid, Tétouan",
+   "phone": "+212539700496",
+   "lat": 35.572867,
+   "lng": -5.3826,
+   "shift": "nuit",
    "shift_label": ""
   },
   {
-   "name": "PHARMACIE BOUJARAH",
-   "address": "47 av. Hadj Med. Bennouna Boujarrah Appeler 05 39 99 •• •• Itinéraire Carte Partager Voir la ficheرقم 47.شارع الحاج محمد بنونة .بوجراح",
-   "phone": "+212539995010",
-   "lat": 35.582919,
-   "lng": -5.359217,
-   "shift": "jour",
-   "shift_label": ""
-  },
-  {
-   "name": "PHARMACIE DESTIN",
-   "address": "56 av. AlMoatassim lot. Mribtou hôpital Espagnol Appeler 05 39 71 •• •• Itinéraire Carte Partager Voir la fiche",
-   "phone": "+212539710288",
-   "lat": 35.5717763,
-   "lng": -5.3914322,
-   "shift": "jour",
-   "shift_label": ""
-  },
-  {
-   "name": "PHARMACIE ELFEDDANE",
-   "address": "2 bd. Mohammed V Appeler 05 39 96 •• •• Itinéraire Carte Partager Voir la ficheشارع محمد الخامس رقم 2",
-   "phone": "+212539967461",
-   "lat": 35.5700872,
-   "lng": -5.3695628,
-   "shift": "jour",
-   "shift_label": ""
-  },
-  {
-   "name": "PHARMACIE JBEL DERSA",
-   "address": "1 rue Al Hizam Al Akhdar Jbel Dersa Appeler 05 39 70 •• •• Itinéraire Carte Partager Voir la ficheطريق الحزام الأخضر رقم 1",
-   "phone": "+212539702310",
-   "lat": 35.576683,
-   "lng": -5.373533,
-   "shift": "jour",
+   "name": "Pharmacie Mall Tétouan",
+   "address": "13 bd Joulane - Autre ville hay Al Matar, Tétouan",
+   "phone": "+212660959297",
+   "lat": 35.586621,
+   "lng": -5.33548,
+   "shift": "nuit",
    "shift_label": ""
   }
  ],
  "center": [
-  35.5743,
-  -5.3727
+  35.5797,
+  -5.359
  ]
 }

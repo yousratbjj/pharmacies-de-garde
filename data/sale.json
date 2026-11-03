@@ -12,7 +12,7 @@
    "phone": "+212537870184",
    "lat": 34.075959,
    "lng": -6.763553,
-   "shift": "jour",
+   "shift": "nuit",
    "shift_label": ""
   },
   {
@@ -21,7 +21,7 @@
    "phone": "+212537809821",
    "lat": 34.031833,
    "lng": -6.803622,
-   "shift": "jour",
+   "shift": "nuit",
    "shift_label": ""
   },
   {
@@ -30,7 +30,16 @@
    "phone": "+212537855141",
    "lat": 34.048068,
    "lng": -6.800758,
-   "shift": "jour",
+   "shift": "nuit",
+   "shift_label": ""
+  },
+  {
+   "name": "PHARMACIE SID EL GHOUTI",
+   "address": "711 rue ourika hay salam (derrière la poste hay salam) · Hay Essalam Appeler 05 37 81 •• •• Itinéraire Carte Partager Voir la fiche",
+   "phone": "+212537814970",
+   "lat": 34.0405849,
+   "lng": -6.7940908,
+   "shift": "nuit",
    "shift_label": ""
   },
   {
@@ -39,7 +48,7 @@
    "phone": "+212537782130",
    "lat": 34.043992,
    "lng": -6.825306,
-   "shift": "jour",
+   "shift": "nuit",
    "shift_label": ""
   },
   {
@@ -48,7 +57,7 @@
    "phone": "+212537874595",
    "lat": 34.061024,
    "lng": -6.79564,
-   "shift": "jour",
+   "shift": "nuit",
    "shift_label": ""
   },
   {
@@ -57,16 +66,7 @@
    "phone": "+212537871067",
    "lat": 34.249231,
    "lng": -6.6144744,
-   "shift": "jour",
-   "shift_label": ""
-  },
-  {
-   "name": "PHARMACIE BAASSINE",
-   "address": "lot zahrat attakwa gh4 imm3 · Al Mo Appeler 06 61 40 •• •• Itinéraire Carte Partager Voir la fiche",
-   "phone": "+212537823731",
-   "lat": 34.056108,
-   "lng": -6.77489,
-   "shift": "jour",
+   "shift": "nuit",
    "shift_label": ""
   },
   {
@@ -75,12 +75,12 @@
    "phone": "+212537851291",
    "lat": 34.048433,
    "lng": -6.805617,
-   "shift": "jour",
+   "shift": "nuit",
    "shift_label": ""
   }
  ],
  "center": [
-  34.0768,
-  -6.773
+  34.0749,
+  -6.7754
  ]
 }

@@ -7,44 +7,26 @@
  "kind": "roster",
  "pharmacies": [
   {
-   "name": "Pharmacie de Sefrou",
-   "address": "Boulevard Mohammed V, Séfrou",
-   "phone": "+212535660268",
-   "lat": 33.825817,
-   "lng": -4.838217,
-   "shift": "jour",
+   "name": "Pharmacie Fadil",
+   "address": "648 rue Aghaliba, Séfrou",
+   "phone": "+212535661818",
+   "lat": 33.8315,
+   "lng": -4.830333,
+   "shift": "nuit",
    "shift_label": ""
   },
   {
-   "name": "Pharmacie Imane",
-   "address": "rte El Menzel n°82/1 lotiss. El Hachmia bloc 6, Séfrou",
-   "phone": "+212532021550",
-   "lat": 33.82543,
-   "lng": -4.818019,
-   "shift": "jour",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie Setti Massaouda",
-   "address": "134 bd Moulay Ismail, Séfrou",
-   "phone": "+212535660672",
-   "lat": 33.831279,
-   "lng": -4.834921,
-   "shift": "jour",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie Zine El Abidine",
-   "address": "lotiss. Atlas Ben Seffar, Séfrou",
-   "phone": "+212535969632",
-   "lat": 33.83405,
-   "lng": -4.81895,
-   "shift": "jour",
+   "name": "Pharmacie Principale Ain Cheggag",
+   "address": "centre Ain Cheggag, Séfrou",
+   "phone": "+212535665118",
+   "lat": 33.884887,
+   "lng": -5.039679,
+   "shift": "nuit",
    "shift_label": ""
   }
  ],
  "center": [
-  33.8291,
-  -4.8275
+  33.8582,
+  -4.935
  ]
 }

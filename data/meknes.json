@@ -12,7 +12,7 @@
    "phone": "+212535557909",
    "lat": 33.9039513,
    "lng": -5.5738025,
-   "shift": "24h",
+   "shift": "jour",
    "shift_label": ""
   },
   {
@@ -21,7 +21,7 @@
    "phone": "+212535554120",
    "lat": 33.894118,
    "lng": -5.544786,
-   "shift": "jour",
+   "shift": "nuit",
    "shift_label": ""
   },
   {
@@ -37,9 +37,9 @@
    "name": "Pharmacie Louali",
    "address": "hay Essalam I",
    "phone": "+212535535044",
-   "lat": 33.8932158,
-   "lng": -5.5799516,
-   "shift": "24h",
+   "lat": 33.8932248,
+   "lng": -5.5798638,
+   "shift": "jour",
    "shift_label": ""
   },
   {
@@ -48,7 +48,7 @@
    "phone": "+212535469668",
    "lat": 33.898209,
    "lng": -5.5950056,
-   "shift": "24h",
+   "shift": "jour",
    "shift_label": ""
   },
   {
@@ -57,21 +57,21 @@
    "phone": "+212535504715",
    "lat": 33.89203,
    "lng": -5.504557,
-   "shift": "24h",
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie Riad Anassi",
+   "address": "520 bd Zitoune lot. Riad Al Ismailia mag .1, Meknès",
+   "phone": "+212535469992",
+   "lat": 33.85884,
+   "lng": -5.56417,
+   "shift": "jour",
    "shift_label": ""
   },
   {
    "name": "PHARMACIE ABDELKARIM EL KHATTABI",
-   "address": "31, Rue Chefchaouen, Derb 23رقم 31 .زنقة شفشاون, درب 23",
-   "phone": "+212535548986",
-   "lat": 33.9252622,
-   "lng": -5.4938112,
-   "shift": "24h",
-   "shift_label": ""
-  },
-  {
-   "name": "PHARMACIE ABDELKARIM KHATTABI",
-   "address": "31 rue Chefchaouen - Autre ville derb 23, Meknès",
+   "address": "31, Rue Chefchaouen, Derb 23رقم 31 .زنقة شفشاون, درب 23رقم 31 .زنقة شفشاون, درب 23",
    "phone": "+212535548986",
    "lat": 33.9252622,
    "lng": -5.4938112,
@@ -80,16 +80,16 @@
   },
   {
    "name": "PHARMACIE ACHOUHADA",
-   "address": "hay Al Bassatine 7 Tranche 3 rte Bougaraa, Meknèsحي البساتين 7, قطاع 3 طريق بوجراحي البساتين 7, قطاع 3 طريق بوجراحي البساتين 7, قطاع 3 طريق بوجرا",
+   "address": "hay Al Bassatine 7 Tranche 3 rte Bougaraa, Meknèsحي البساتين 7, قطاع 3 طريق بوجراحي البساتين 7, قطاع 3 طريق بوجراحي البساتين 7, قطاع 3 طريق بوجراحي البساتين 7, قطاع 3 طريق بوجرا",
    "phone": "+212535502972",
    "lat": 33.8844602,
    "lng": -5.5058506,
-   "shift": "24h",
+   "shift": "jour",
    "shift_label": ""
   }
  ],
  "center": [
-  33.8975,
-  -5.5374
+  33.8901,
+  -5.5452
  ]
 }

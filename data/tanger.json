@@ -43,25 +43,13 @@
    "shift_label": "Garde 24h de 02 novembre 13:00 à 16:00 et de 20:00 à 09:00 du lendemain"
   },
   {
-   "name": "SOUSSIA",
-   "name_ar": "صيدلية سوسية",
-   "address": "Route Rahrah, Complexe Chorouk 4 Imm. Dina, Mesnana, 90000 TANGER - Maroc",
-   "address_ar": "طريق مسنانة الجديدة،  قرب مجمع أبضالص القواسم - طنجة",
-   "phone": "+212 05 39 31 47 60",
-   "lat": 35.7617716,
-   "lng": -5.8536866,
-   "slug": "soussia",
-   "shift": "nuit",
-   "shift_label": "Garde 24h de 02 novembre 13:00 à 16:00 et de 20:00 à 09:00 du lendemain"
-  },
-  {
    "name": "AL BORAQ",
    "name_ar": "صيدلية البراق",
    "address": "Avenue l&#039;abatoire, route de Tchitara, près l&#039;usine Essordi, 90000 TANGER - Maroc",
    "address_ar": "شارع لاباطوار (طريق تشطارة ) حي الشرف معمل الصوردي",
    "phone": "+212 05 39 32 27 24",
-   "lat": 35.7633388,
-   "lng": -5.8694892,
+   "lat": 35.7666755,
+   "lng": -5.7865089,
    "slug": "al-boraq",
    "shift": "nuit",
    "shift_label": "Garde 24h de 02 novembre 13:00 à 16:00 et de 20:00 à 09:00 du lendemain"
@@ -101,10 +89,22 @@
    "slug": "111",
    "shift": "nuit",
    "shift_label": "Garde 24h de 02 novembre 13:00 à 16:00 et de 20:00 à 09:00 du lendemain"
+  },
+  {
+   "name": "Quartier Soussi",
+   "name_ar": "صيدلية حومة السوسي",
+   "address": "268, RDC, Lotissement Andalous, Derrière le Complexe Aïcha, Al-Hana 3, Aouama, 90000 TANGER - Maroc",
+   "address_ar": "حومة السوسي، تجزئة الأندلس، خلف مجمع عائشة، الهناء 3، العوامة",
+   "phone": "+212 05 31 36 16 90",
+   "lat": 35.7291845,
+   "lng": -5.8096635,
+   "slug": "quartier-soussi",
+   "shift": "nuit",
+   "shift_label": "Garde 24h de 02 novembre 13:00 à 16:00 et de 20:00 à 09:00 du lendemain"
   }
  ],
  "center": [
-  35.7522,
-  -5.8219
+  35.7485,
+  -5.806
  ]
 }

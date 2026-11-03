@@ -7,89 +7,35 @@
  "kind": "roster",
  "pharmacies": [
   {
-   "name": "Pharmacie Medmad",
-   "address": "Route Kalaat Sraghna, Après Centre Dialyse, Et Près De L'autoécole Laabdi Hay Ryad",
-   "phone": "+212706820376",
-   "lat": 32.2269589,
-   "lng": -7.9395052,
-   "shift": "",
+   "name": "Pharmacie Attassamoh",
+   "address": "74 lotiss. Attassamoh, Ben Guerir",
+   "phone": "+212678474779",
+   "lat": 32.22723,
+   "lng": -7.95358,
+   "shift": "jour",
    "shift_label": ""
   },
   {
-   "name": "Grande Pharmacie (Al Koubra)",
-   "address": "38 Douar Jdid",
-   "phone": "+212524323613",
-   "lat": 32.2466372,
-   "lng": -7.9550449,
-   "shift": "",
+   "name": "Pharmacie Hay Al Majd",
+   "address": "275 hay Al Majd, Ben Guerir",
+   "phone": "+212525068676",
+   "lat": 32.248173,
+   "lng": -7.945041,
+   "shift": "jour",
    "shift_label": ""
   },
   {
-   "name": "Pharmacie Abouab El Kheir",
-   "address": "Pharmacie Abouab El Kheir",
-   "phone": "+212708869166",
-   "lat": 32.236672,
-   "lng": -7.9465736,
-   "shift": "",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie Achifa",
-   "address": "Pharmacie Achifa",
-   "phone": "+212524318932",
-   "lat": 32.2389984,
-   "lng": -7.9581299,
-   "shift": "",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie Al Fadl",
-   "address": "6 pl. Abdelkrim Khattabi - Autre ville, Ben Guerir",
-   "phone": "+212524323030",
-   "lat": 32.231906,
-   "lng": -7.947567,
-   "shift": "",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie Al Falah",
-   "address": "2 Hay Al Majd Lotiss. Al Fadl",
-   "phone": "+212772295366",
-   "lat": 32.2308606,
-   "lng": -7.9817397,
-   "shift": "",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie Al Farabi",
-   "address": "Pharmacie Al Farabi",
-   "phone": "+212525031883",
-   "lat": 32.2412633,
-   "lng": -7.9510633,
-   "shift": "",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie Al Hayat",
-   "address": "Pharmacie Al Hayat",
-   "phone": "+212524323476",
-   "lat": 32.2243777,
-   "lng": -7.9539106,
-   "shift": "",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie Al Hilal",
-   "address": "Pharmacie Al Hilal",
-   "phone": "+212643457440",
-   "lat": 32.2314617,
-   "lng": -7.938936,
-   "shift": "",
+   "name": "Pharmacie Hay Moulay Rachid",
+   "address": "63 hay Moulay Rachid - Autre ville, Ben Guerir",
+   "phone": "+212524317117",
+   "lat": 32.214542,
+   "lng": -7.927694,
+   "shift": "jour",
    "shift_label": ""
   }
  ],
  "center": [
-  32.2343,
-  -7.9525
+  32.23,
+  -7.9421
  ]
 }

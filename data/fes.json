@@ -7,20 +7,47 @@
  "kind": "roster",
  "pharmacies": [
   {
-   "name": "PHARMACIE AL WASSILA",
-   "address": "Non spécifiée",
-   "phone": "+212 5 35 61 96 16",
-   "lat": 34.0063267,
-   "lng": -4.9737192,
+   "name": "Pharmacie Azzaytoune",
+   "address": "K070 rte Ras El Ma Bensouda lotiss. Azzaytoune km. 7 n°8, Fès",
+   "phone": "+212535726898",
+   "lat": 34.037498,
+   "lng": -5.044407,
    "shift": "jour",
    "shift_label": ""
   },
   {
-   "name": "PHARMACIE BENJELLOUN",
-   "address": "Non spécifiée",
-   "phone": "+212 5 35 61 09 67",
-   "lat": 34.0268021,
-   "lng": -5.0219356,
+   "name": "Pharmacie Benjelloun",
+   "address": "hay Tarik 2 lotiss. Krikach n°24, Fès",
+   "phone": "+212535610967",
+   "lat": 34.027033,
+   "lng": -5.021917,
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie Jinane Ain Chkef",
+   "address": "194 lotiss.Jinane, Fès",
+   "phone": "+212535967050",
+   "lat": 33.960716,
+   "lng": -5.024751,
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie Tadlaoui",
+   "address": "85 lotiss. Oued Fès - Autre ville, Fès",
+   "phone": "+212532909966",
+   "lat": 34.05409,
+   "lng": -5.018374,
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie Mly M'Barek",
+   "address": "hay Ain Nokbi blad Sfira bloc 16 rue 13, Fès",
+   "phone": "+212535630787",
+   "lat": 34.06375,
+   "lng": -4.955583,
    "shift": "jour",
    "shift_label": ""
   },
@@ -32,19 +59,10 @@
    "lng": -4.9543363,
    "shift": "jour",
    "shift_label": ""
-  },
-  {
-   "name": "PHARMACIE TADLAOUI",
-   "address": "Non spécifiée",
-   "phone": "+212532909966",
-   "lat": 34.0541841,
-   "lng": -5.0183917,
-   "shift": "jour",
-   "shift_label": ""
   }
  ],
  "center": [
-  34.0378,
-  -4.9921
+  34.0345,
+  -5.0032
  ]
 }

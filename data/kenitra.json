@@ -7,6 +7,24 @@
  "kind": "roster",
  "pharmacies": [
   {
+   "name": "Pharmacie AlMaghrib (du Maroc)",
+   "address": "hay Al Fath n°1, Kénitra",
+   "phone": "+212537381525",
+   "lat": 34.250401,
+   "lng": -6.553284,
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie Farazdaq",
+   "address": "hay Ouled Oujih bloc I n°171, Kénitra",
+   "phone": "+212537351211",
+   "lat": 34.256562,
+   "lng": -6.622413,
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
    "name": "PHARMACIE EL FELLINE",
    "address": "736 hay Bir Rami - Autre ville LOT; Jnane 4 · Bir Rami Appeler 06 38 81 •• •• Itinéraire Carte Partager Voir la ficheرقم 344، حي بير رامي، جنان 4",
    "phone": "+212638814867",
@@ -44,7 +62,7 @@
   }
  ],
  "center": [
-  34.2532,
-  -6.5953
+  34.2533,
+  -6.5928
  ]
 }
