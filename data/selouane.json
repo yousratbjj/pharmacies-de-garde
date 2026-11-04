@@ -1,32 +1,32 @@
 {
  "city": "selouane",
  "label": "Selouane",
- "date": "2026-11-03",
+ "date": "2026-11-04",
  "source": "sahha.ma",
  "source_url": "https://sahha.ma/pharmacie-de-garde/selouane",
  "kind": "roster",
  "pharmacies": [
   {
-   "name": "Pharmacie El Ayadi",
-   "address": "lot Al Omrane, Selouane",
-   "phone": "+212536359091",
-   "lat": 35.070629,
-   "lng": -2.923369,
-   "shift": "nuit",
+   "name": "Pharmacie Abderrahmane",
+   "address": "Rte Zaio, Selouane",
+   "phone": "+212652678895",
+   "lat": 35.071491,
+   "lng": -2.939954,
+   "shift": "jour",
    "shift_label": ""
   },
   {
-   "name": "Pharmacie Essalah",
-   "address": "rue Chefchaouen hay Ennasr, Selouane",
-   "phone": "+212536358089",
-   "lat": 35.073624,
-   "lng": -2.943201,
-   "shift": "nuit",
+   "name": "Pharmacie El Krakri",
+   "address": "hay Al Wifaq - Autre ville, Selouane",
+   "phone": "+212536359471",
+   "lat": 35.077489,
+   "lng": -2.940661,
+   "shift": "jour",
    "shift_label": ""
   }
  ],
  "center": [
-  35.0721,
-  -2.9333
+  35.0745,
+  -2.9403
  ]
 }

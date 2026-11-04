@@ -1,7 +1,7 @@
 {
  "city": "agadir",
  "label": "Agadir",
- "date": "2026-11-03",
+ "date": "2026-11-04",
  "source": "sahha.ma",
  "source_url": "https://sahha.ma/pharmacie-de-garde/agadir",
  "kind": "roster",
@@ -25,11 +25,29 @@
    "shift_label": ""
   },
   {
+   "name": "Pharmacie Amine",
+   "address": "489 Hay Taddart - Autre ville Anza, Agadir",
+   "phone": "+212528204920",
+   "lat": 30.447836,
+   "lng": -9.656279,
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
    "name": "Pharmacie Amsernat",
    "address": "bd Deux Mars q. Amsernat, Agadir",
    "phone": "+212528239804",
    "lat": 30.415233,
    "lng": -9.578733,
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie Assoul",
+   "address": "128 lot El Hassania bloc A Anza, Agadir",
+   "phone": "+212528214671",
+   "lat": 30.458221,
+   "lng": -9.659932,
    "shift": "jour",
    "shift_label": ""
   },
@@ -77,28 +95,10 @@
    "lng": -9.565831,
    "shift": "jour",
    "shift_label": ""
-  },
-  {
-   "name": "Pharmacie Tikida",
-   "address": "hay Al Houda imm. Tikida n°10, Agadir",
-   "phone": "+212528320019",
-   "lat": 30.399252,
-   "lng": -9.543377,
-   "shift": "jour",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie Amine",
-   "address": "489 Hay Taddart - Autre ville Anza, Agadir",
-   "phone": "+212528204920",
-   "lat": 30.447836,
-   "lng": -9.656279,
-   "shift": "jour",
-   "shift_label": ""
   }
  ],
  "center": [
-  30.4178,
-  -9.5718
+  30.4237,
+  -9.5835
  ]
 }

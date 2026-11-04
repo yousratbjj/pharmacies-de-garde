@@ -1,23 +1,32 @@
 {
  "city": "ouarzazate",
  "label": "Ouarzazate",
- "date": "2026-11-03",
+ "date": "2026-11-04",
  "source": "sahha.ma",
  "source_url": "https://sahha.ma/pharmacie-de-garde/ouarzazate",
  "kind": "roster",
  "pharmacies": [
   {
-   "name": "Pharmacie Al Hizame",
-   "address": "77 av. My Abdellah, Ouarzazate",
-   "phone": "+212524888081",
-   "lat": 30.92745,
-   "lng": -6.926833,
-   "shift": "nuit",
+   "name": "Pharmacie centrale",
+   "address": "33 bd Mohammed V, Ouarzazate",
+   "phone": "+212524882601",
+   "lat": 30.920216,
+   "lng": -6.916322,
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie la Palmeraie",
+   "address": "hay Sidi Daoud n°28, Ouarzazate",
+   "phone": "+212524883234",
+   "lat": 30.923117,
+   "lng": -6.8946,
+   "shift": "jour",
    "shift_label": ""
   }
  ],
  "center": [
-  30.9275,
-  -6.9268
+  30.9217,
+  -6.9055
  ]
 }

@@ -1,7 +1,7 @@
 {
  "city": "nador",
  "label": "Nador",
- "date": "2026-11-03",
+ "date": "2026-11-04",
  "source": "sahha.ma",
  "source_url": "https://sahha.ma/pharmacie-de-garde/nador",
  "kind": "roster",
@@ -16,35 +16,35 @@
    "shift_label": ""
   },
   {
-   "name": "PHARMACIE AFRA",
-   "address": "96 av Mly. Rachid Jaadar · Jaadar Appeler 05 36 35 •• •• Itinéraire Carte Partager Voir la fiche",
-   "phone": "+212536350808",
-   "lat": 35.1783432,
-   "lng": -2.9248347,
+   "name": "Pharmacie Al Masjid",
+   "address": "bd Mohammed V, Nador",
+   "phone": "+212536350148",
+   "lat": 35.177383,
+   "lng": -2.925266,
    "shift": "jour",
    "shift_label": ""
   },
   {
-   "name": "PHARMACIE BOUFTIL",
-   "address": "24 bd Venezuela hay Ouled Boutayeb Appeler 05 36 33 •• •• Itinéraire Carte Partager Voir la fiche",
-   "phone": "+212536333633",
-   "lat": 35.1703,
-   "lng": -2.95129,
+   "name": "Pharmacie Mariam",
+   "address": "Ihaddaden, Nador",
+   "phone": "+212536351403",
+   "lat": 35.162974,
+   "lng": -2.975704,
    "shift": "jour",
    "shift_label": ""
   },
   {
-   "name": "Pharmacie Dar El Makhzen",
-   "address": "Douar Bouyzarzaren, Nador",
-   "phone": "+212536330361",
-   "lat": 35.162917,
-   "lng": -2.969766,
+   "name": "Pharmacie Taha Houssein",
+   "address": "av Prince Héritier Sidi Mohamed, Nador",
+   "phone": "+212536350017",
+   "lat": 35.157033,
+   "lng": -2.985917,
    "shift": "jour",
    "shift_label": ""
   }
  ],
  "center": [
-  35.1717,
-  -2.9421
+  35.1681,
+  -2.9523
  ]
 }

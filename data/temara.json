@@ -1,54 +1,72 @@
 {
  "city": "temara",
  "label": "Témara",
- "date": "2026-11-03",
+ "date": "2026-11-04",
  "source": "sahha.ma",
  "source_url": "https://sahha.ma/pharmacie-de-garde/temara",
  "kind": "roster",
  "pharmacies": [
   {
-   "name": "Pharmacie Fidaa",
-   "address": "lot. Riad II imm. 13 mag. n°23 Wifaq, Témara",
+   "name": "Pharmacie Al Ihssane",
+   "address": "1992 rue Al Imam Al Chattebi hay ElMassira I, Témara",
+   "phone": "+212537608599",
+   "lat": 33.930348,
+   "lng": -6.893321,
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
+   "name": "PHARMACIE AL ZAHRAWI",
+   "address": "avenue mohamed v · Tamesna Appeler 05 37 41 •• •• Itinéraire Carte Partager Voir la fiche",
+   "phone": "+212537415672",
+   "lat": 33.827578,
+   "lng": -6.935881,
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie Essaada",
+   "address": "lotiss. Laayoune C. Com.Avenue Mohamed VI, El Harhoura",
+   "phone": "+212537640764",
+   "lat": 33.92819,
+   "lng": -6.939505,
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
+   "name": "PHARMACIE L OLIVIER",
+   "address": "lot. oulad mtaâ · Oulad Mtaa Appeler 05 37 60 •• •• Itinéraire Carte Partager Voir la fiche",
+   "phone": "+212537608801",
+   "lat": 33.940722,
+   "lng": -6.893167,
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie Mouram",
+   "address": "bd Tarik Bnou Ziad résid. Jennane Témara ilot 2 imm. 6 mag. 48, Témara",
+   "phone": "+212537408618",
+   "lat": 33.910946,
+   "lng": -6.905366,
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
+   "name": "PHARMACIE RIM",
+   "address": "496 Guich Oudayas (En Face BIM et à 150M, de la mosquée belbachir et attijariwafa bank)",
+   "phone": "+212537561813",
+   "lat": 33.940889,
+   "lng": -6.888611,
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
+   "name": "PHARMACIE FIDAA",
+   "address": "bd gaza. résidence riad ii · Al Wifaq Appeler 05 37 61 •• •• Itinéraire Carte Partager Voir la fiche",
    "phone": "+212537610163",
-   "lat": 33.926349,
-   "lng": -6.936896,
-   "shift": "nuit",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie Principale -Ex Guyville",
-   "address": "222 bd Moulay Abdallah résid. Monique Guy Ville, El Harhoura",
-   "phone": "+212537627568",
-   "lat": 33.936857,
-   "lng": -6.945715,
-   "shift": "nuit",
-   "shift_label": ""
-  },
-  {
-   "name": "PHARMACIE ABOUAB AL WIFAQ",
-   "address": "3212 lot wifak erac - · Centre Appeler 05 37 64 •• •• Itinéraire Carte Partager Voir la fiche",
-   "phone": "+212537643080",
-   "lat": 33.9268188,
-   "lng": -6.9289498,
-   "shift": "nuit",
-   "shift_label": ""
-  },
-  {
-   "name": "PHARMACIE DE LA FAMILLE",
-   "address": "av. Tarik Ibn Ziyad , Massira II · Al Massira Appeler 05 37 60 •• •• Itinéraire Carte Partager Voir la fiche",
-   "phone": "+212537600690",
-   "lat": 33.9264648,
-   "lng": -6.893479,
-   "shift": "nuit",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie du Jasmin",
-   "address": "3290 rue Melilia hay ElMaghreb AlArabi Massira II, Témara",
-   "phone": "+212537605555",
-   "lat": 33.918893,
-   "lng": -6.892576,
-   "shift": "nuit",
+   "lat": 33.9269181,
+   "lng": -6.9373517,
+   "shift": "jour",
    "shift_label": ""
   },
   {
@@ -57,12 +75,12 @@
    "phone": "+212537622291",
    "lat": 33.895935,
    "lng": -6.935582,
-   "shift": "nuit",
+   "shift": "jour",
    "shift_label": ""
   }
  ],
  "center": [
-  33.9219,
-  -6.9222
+  33.9127,
+  -6.9161
  ]
 }

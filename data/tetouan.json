@@ -1,32 +1,32 @@
 {
  "city": "tetouan",
  "label": "Tétouan",
- "date": "2026-11-03",
+ "date": "2026-11-04",
  "source": "sahha.ma",
  "source_url": "https://sahha.ma/pharmacie-de-garde/tetouan",
  "kind": "roster",
  "pharmacies": [
   {
-   "name": "Pharmacie Bab Nouader",
-   "address": "13 av. laayoune, Tétouan",
+   "name": "PHARMACIE BAB NOUADER",
+   "address": "13 av. laayoune Appeler 05 39 70 •• •• Itinéraire Carte Partager Voir la fiche",
    "phone": "+212539700195",
-   "lat": 35.573167,
-   "lng": -5.374979,
-   "shift": "nuit",
+   "lat": 35.5730764,
+   "lng": -5.3749794,
+   "shift": "jour",
    "shift_label": ""
   },
   {
-   "name": "Pharmacie Laamrani",
-   "address": "bd Slimane Ben Mahran rte Tanger, Tétouan",
+   "name": "PHARMACIE LAAMRANI",
+   "address": "bd Slimane Ben Mahran rte Tanger Appeler 05 39 96 •• •• Itinéraire Carte Partager Voir la fiche",
    "phone": "+212539969058",
-   "lat": 35.562134,
-   "lng": -5.54641,
-   "shift": "nuit",
+   "lat": 35.5658737,
+   "lng": -5.4136724,
+   "shift": "jour",
    "shift_label": ""
   }
  ],
  "center": [
-  35.5677,
-  -5.4607
+  35.5695,
+  -5.3943
  ]
 }

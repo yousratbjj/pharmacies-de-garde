@@ -1,23 +1,23 @@
 {
  "city": "souk-el-arba-du-gharb",
  "label": "Souk El Arba du Gharb",
- "date": "2026-11-03",
+ "date": "2026-11-04",
  "source": "sahha.ma",
  "source_url": "https://sahha.ma/pharmacie-de-garde/souk-el-arba-du-gharb",
  "kind": "roster",
  "pharmacies": [
   {
-   "name": "Pharmacie Ouled Ben Sbaa",
-   "address": "Rte Ouled Ziar hay ouled ben Sbaa, Souk El Arba du Gharb",
-   "phone": "+212575780263",
-   "lat": 34.687364,
-   "lng": -5.976058,
-   "shift": "nuit",
+   "name": "Pharmacie Pam",
+   "address": "hay Jadid n°477, Souk El Arba du Gharb",
+   "phone": "+212537900164",
+   "lat": 34.67984,
+   "lng": -6.004829,
+   "shift": "jour",
    "shift_label": ""
   }
  ],
  "center": [
-  34.6874,
-  -5.9761
+  34.6798,
+  -6.0048
  ]
 }

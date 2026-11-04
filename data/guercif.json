@@ -1,32 +1,32 @@
 {
  "city": "guercif",
  "label": "Guercif",
- "date": "2026-11-03",
+ "date": "2026-11-04",
  "source": "sahha.ma",
  "source_url": "https://sahha.ma/pharmacie-de-garde/guercif",
  "kind": "roster",
  "pharmacies": [
   {
-   "name": "Pharmacie Alfassi Senhaji",
-   "address": "lotissement Wiam n°10, Guercif",
-   "phone": "+212535202022",
-   "lat": 34.225576,
-   "lng": -3.352345,
+   "name": "Pharmacie Abdelkarim Khattabi",
+   "address": "bd Abdelkrim Kattabi - Autre ville, Guercif",
+   "phone": "+212535676876",
+   "lat": 34.23277,
+   "lng": -3.35143,
    "shift": "jour",
    "shift_label": ""
   },
   {
-   "name": "Pharmacie Tarik",
-   "address": "89 bd Mohammed V, Guercif",
-   "phone": "+212535676160",
-   "lat": 34.225183,
-   "lng": -3.348,
+   "name": "Pharmacie Idrissi",
+   "address": "Lotissement Omrane, Guercif",
+   "phone": "+212535202442",
+   "lat": 34.21662,
+   "lng": -3.35986,
    "shift": "jour",
    "shift_label": ""
   }
  ],
  "center": [
-  34.2254,
-  -3.3502
+  34.2247,
+  -3.3556
  ]
 }

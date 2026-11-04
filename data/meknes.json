@@ -1,95 +1,86 @@
 {
  "city": "meknes",
  "label": "Meknès",
- "date": "2026-11-03",
+ "date": "2026-11-04",
  "source": "sahha.ma",
  "source_url": "https://sahha.ma/pharmacie-de-garde/meknes",
  "kind": "roster",
  "pharmacies": [
   {
-   "name": "Pharmacie Andalousie",
-   "address": "4871, lot Erac Badr , Oujah Arouss",
-   "phone": "+212535557909",
-   "lat": 33.9039513,
-   "lng": -5.5738025,
+   "name": "Pharmacie Al Mansouri",
+   "address": "Lotiss. Al Mansour , imm. D34, n°1/2",
+   "phone": "+212535467579",
+   "lat": 33.877,
+   "lng": -5.587033,
    "shift": "jour",
    "shift_label": ""
   },
   {
-   "name": "Pharmacie Béni M'hamed",
-   "address": "132, lotiss. Chaouri , Béni M'hamed",
-   "phone": "+212535550549",
-   "lat": 33.88255,
-   "lng": -5.563622,
+   "name": "Pharmacie Balsam",
+   "address": "Hay Al Amal , sidi Bouzekri rue 1",
+   "phone": "+212535450489",
+   "lat": 33.854517,
+   "lng": -5.527833,
    "shift": "jour",
    "shift_label": ""
   },
   {
-   "name": "Pharmacie Kasbat",
-   "address": "25, av. Lalla Khadra , kasbat",
-   "phone": "+212535533999",
-   "lat": 33.882772,
-   "lng": -5.54659,
+   "name": "Pharmacie Faris",
+   "address": "30, Lot. Faris , Sidi Said",
+   "phone": "+212535451168",
+   "lat": 33.893807,
+   "lng": -5.577896,
    "shift": "jour",
    "shift_label": ""
   },
   {
-   "name": "Pharmacie La Baraka",
-   "address": "188, Marjane 4 , sidi Bouzekri",
-   "phone": "+212535550907",
-   "lat": 33.857687,
-   "lng": -5.5355748,
+   "name": "Pharmacie Centrale Toulal",
+   "address": "rte de Meknès - Autre ville, Meknès",
+   "phone": "+212535557576",
+   "lat": 33.8752581,
+   "lng": -5.606887,
    "shift": "jour",
    "shift_label": ""
   },
   {
-   "name": "Pharmacie Lakbibat",
-   "address": "8 rue Keifa, Meknès",
-   "phone": "+212535520123",
-   "lat": 33.8984131,
-   "lng": -5.5321582,
+   "name": "Pharmacie de la Santé",
+   "address": "60 bd Allal Ben Abdallah, Meknès",
+   "phone": "+212535521045",
+   "lat": 33.896683,
+   "lng": -5.54565,
    "shift": "jour",
    "shift_label": ""
   },
   {
-   "name": "Pharmacie Louali",
-   "address": "hay Essalam I",
-   "phone": "+212535535044",
-   "lat": 33.8932158,
-   "lng": -5.5799516,
+   "name": "Pharmacie In Yansorkom Allah",
+   "address": "35 lotiss. Al Bassatine, Meknès",
+   "phone": "+212535502246",
+   "lat": 33.893433,
+   "lng": -5.503917,
    "shift": "jour",
    "shift_label": ""
   },
   {
-   "name": "Pharmacie Narjiss Naim",
-   "address": "Meknès",
-   "phone": "+212535467812",
-   "lat": 33.851935,
-   "lng": -5.557667,
+   "name": "Pharmacie Jibraltar",
+   "address": "138 rue Casablanca hay Al Izdihar Ouislane, Meknès",
+   "phone": "+212535548697",
+   "lat": 33.909809,
+   "lng": -5.488329,
    "shift": "jour",
    "shift_label": ""
   },
   {
-   "name": "Pharmacie Pharmassal",
-   "address": "Meknès",
-   "phone": "+212535469668",
-   "lat": 33.898209,
-   "lng": -5.5950056,
-   "shift": "jour",
-   "shift_label": ""
-  },
-  {
-   "name": "PHARMACIE ABDELKARIM EL KHATTABI",
-   "address": "31, Rue Chefchaouen, Derb 23رقم 31 .زنقة شفشاون, درب 23رقم 31 .زنقة شفشاون, درب 23رقم 31 .زنقة شفشاون, درب 23",
-   "phone": "+212535548986",
-   "lat": 33.9252622,
-   "lng": -5.4938112,
+   "name": "Pharmacie Masjid Al Anouar",
+   "address": "5 bd Khalid Bnou Loualid - Autre ville, Meknès",
+   "phone": "+212669038904",
+   "lat": 33.906827,
+   "lng": -5.548051,
    "shift": "jour",
    "shift_label": ""
   }
  ],
  "center": [
-  33.8882,
-  -5.5531
+  33.8884,
+  -5.5482
  ]
 }

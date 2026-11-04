@@ -1,95 +1,86 @@
 {
  "city": "sidi-slimane",
  "label": "Sidi Slimane",
- "date": "2026-11-03",
+ "date": "2026-11-04",
  "source": "sahha.ma",
  "source_url": "https://sahha.ma/pharmacie-de-garde/sidi-slimane",
  "kind": "roster",
  "pharmacies": [
   {
-   "name": "PHARMACIE AMINE",
-   "address": "12 Av. Mohammed V rte Dar Belamri, Sidi Slimane",
-   "phone": "+212537502078",
-   "lat": 34.2591665,
-   "lng": -5.9295916,
-   "shift": "nuit",
-   "shift_label": ""
-  },
-  {
-   "name": "PHARMACIE ARRAHMA",
-   "address": "hay Ouled El Ghazi rue 10 n°244, Sidi Slimane",
-   "phone": "+212537505768",
-   "lat": 34.259251,
-   "lng": -5.931036,
-   "shift": "nuit",
-   "shift_label": ""
-  },
-  {
-   "name": "PHARMACIE BIR ANZARANE",
-   "address": "63 bd. Bir Anzarane, Sidi Slimane",
-   "phone": "+212537502900",
-   "lat": 34.2622961,
-   "lng": -5.9239749,
-   "shift": "nuit",
-   "shift_label": ""
-  },
-  {
-   "name": "PHARMACIE BISMILLAH",
-   "address": "3 lotiss. Agdal SIDI SLIMANE",
-   "phone": "+212537500688",
-   "lat": 34.2601287,
-   "lng": -5.9146206,
+   "name": "PHARMACIE AL MASJID",
+   "address": "hay Salam bloc 17 n°23, Sidi Slimane",
+   "phone": "+212537502513",
+   "lat": 34.2543743,
+   "lng": -5.9239537,
    "shift": "jour",
    "shift_label": ""
   },
   {
-   "name": "PHARMACIE CHIFAA",
-   "address": "hay Laymoune bloc 27 n°7 SIDI SLIMANE",
-   "phone": "+212523298434",
-   "lat": 34.251813,
-   "lng": -5.927786,
-   "shift": "nuit",
+   "name": "PHARMACIE AL MASSIRA",
+   "address": "hay Essalam bloc 5 n°10, Sidi Slimane",
+   "phone": "+212537503542",
+   "lat": 34.228695,
+   "lng": -6.054667,
+   "shift": "jour",
    "shift_label": ""
   },
   {
-   "name": "PHARMACIE INTERNATIONALE",
-   "address": "Coomplexe medicale, Sidi Slimane",
-   "phone": "+212669554771",
-   "lat": 34.259878,
-   "lng": -5.927253,
-   "shift": "nuit",
+   "name": "PHARMACIE ELHAY ELJADID",
+   "address": "av Zerktouni hay ElJadid, Sidi Slimane",
+   "phone": "+212537500650",
+   "lat": 34.2622961,
+   "lng": -5.9239749,
+   "shift": "jour",
    "shift_label": ""
   },
   {
-   "name": "PHARMACIE NASSIM EL KHAIR",
-   "address": "bd Hassan II - Autre ville, Sidi Slimane",
-   "phone": "+212643633358",
-   "lat": 34.259878,
-   "lng": -5.927253,
-   "shift": "nuit",
+   "name": "Pharmacie Ghoumaryenne",
+   "address": "28 av. Mohammed V q. Ghoummaryenne n°177, Sidi Slimane",
+   "phone": "+212537502040",
+   "lat": 34.256175,
+   "lng": -5.932583,
+   "shift": "jour",
    "shift_label": ""
   },
   {
-   "name": "PHARMACIE OULED EL GHAZI",
-   "address": "10, av Zerktouni , lot. Lemhamed Sidi slimane",
-   "phone": "+212537505871",
-   "lat": 34.2590735,
-   "lng": -5.9350268,
-   "shift": "nuit",
+   "name": "PHARMACIE LAGHLALTA",
+   "address": "douar Lharati, Sidi Slimane",
+   "phone": "+212537504409",
+   "lat": 34.2503205,
+   "lng": -5.9442736,
+   "shift": "jour",
    "shift_label": ""
   },
   {
-   "name": "Pharmacie Yassine",
+   "name": "PHARMACIE LA RÉSISTANCE",
+   "address": "2 av la Résistance, Sidi Slimane",
+   "phone": "+212537503558",
+   "lat": 34.2675,
+   "lng": -5.919917,
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
+   "name": "PHARMACIE LES ORANGERS",
+   "address": "12 av Mohammed V Ghoumareyene, Sidi Slimane",
+   "phone": "+212537501965",
+   "lat": 34.2522987,
+   "lng": -5.9285332,
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
+   "name": "PHARMACIE YASSINE",
    "address": "av la Resistance ouled Malek, Sidi Slimane",
    "phone": "+212676306817",
    "lat": 34.268686,
    "lng": -5.933615,
-   "shift": "nuit",
+   "shift": "jour",
    "shift_label": ""
   }
  ],
  "center": [
-  34.26,
-  -5.9278
+  34.255,
+  -5.9452
  ]
 }

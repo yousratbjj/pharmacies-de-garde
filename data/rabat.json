@@ -1,86 +1,95 @@
 {
  "city": "rabat",
  "label": "Rabat",
- "date": "2026-11-03",
+ "date": "2026-11-04",
  "source": "sahha.ma",
  "source_url": "https://sahha.ma/pharmacie-de-garde/rabat",
  "kind": "roster",
  "pharmacies": [
   {
-   "name": "Pharmacie Abdelkrim ElKhattabi",
-   "address": "272 avenue Abdelkrim Al Khattabi Océan, Rabat",
-   "phone": "+212537203881",
-   "lat": 34.021414,
-   "lng": -6.853152,
+   "name": "Pharmacie AlBouchra",
+   "address": "avenue Al Majd Amal 2 (c.y.m.) bloc B n°511, Rabat",
+   "phone": "+212537794344",
+   "lat": 33.979113,
+   "lng": -6.879453,
    "shift": "jour",
    "shift_label": ""
   },
   {
-   "name": "Pharmacie AlImam Malik",
-   "address": "douar Haj Kacem bloc Ai n°36 C.y.m., Rabat",
-   "phone": "+212537295428",
-   "lat": 33.992237,
-   "lng": -6.874647,
+   "name": "Pharmacie Al Khair",
+   "address": "49 avenue Sidi Mohamed Ben Abdallah (c.y.m), Rabat",
+   "phone": "+212537695243",
+   "lat": 34.012138,
+   "lng": -6.858053,
    "shift": "jour",
    "shift_label": ""
   },
   {
-   "name": "Pharmacie Anasse",
-   "address": "avenue Hassan II résid. Ifrane mag. D3, Rabat",
-   "phone": "+212537298899",
-   "lat": 33.998472,
-   "lng": -6.861219,
+   "name": "Pharmacie Ambassador",
+   "address": "bd Aïn Khalouya rte de Zaers km 5 3, Rabat",
+   "phone": "+212537751565",
+   "lat": 33.960183,
+   "lng": -6.818721,
    "shift": "jour",
    "shift_label": ""
   },
   {
-   "name": "Pharmacie Carrousel",
-   "address": "avenue Yacoub El Mansour - Rabat, Rabat",
-   "phone": "+212537799364",
-   "lat": 34.0218454,
-   "lng": -6.8408929,
+   "name": "PHARMACIE HAY EL FATH",
+   "address": "Yacoub El Mansour, Rabat",
+   "phone": "+212703010203",
+   "lat": 33.964806,
+   "lng": -6.903833,
    "shift": "jour",
    "shift_label": ""
   },
   {
-   "name": "Pharmacie de La Capitale",
-   "address": "15 rue Moulay Abd Al Aziz, Rabat",
-   "phone": "+212530427737",
-   "lat": 34.014102,
-   "lng": -6.83172,
+   "name": "Pharmacie Karioune",
+   "address": "163 rue de Karioum Akkari, Rabat",
+   "phone": "+212537231383",
+   "lat": 34.012152,
+   "lng": -6.862542,
    "shift": "jour",
    "shift_label": ""
   },
   {
-   "name": "Pharmacie Mazhar",
-   "address": "127 avenue Al Majd Amal 3 cym., Rabat",
-   "phone": "+212537794666",
-   "lat": 33.975317,
-   "lng": -6.882433,
+   "name": "Pharmacie Mosquée Karrakchou",
+   "address": "rue Al Amir Sidi Mohamed Souissi, Rabat",
+   "phone": "+212537759515",
+   "lat": 33.970959,
+   "lng": -6.841165,
    "shift": "jour",
    "shift_label": ""
   },
   {
-   "name": "Pharmacie Pharma Square",
-   "address": "Hay Ryad c. commercial Ryad Rocade urbain, Rabat",
-   "phone": "+212537910223",
-   "lat": 33.954533,
-   "lng": -6.848983,
+   "name": "Pharmacie Renaissance",
+   "address": "356 avenue Mohammed V, Rabat",
+   "phone": "+212537722422",
+   "lat": 34.026325,
+   "lng": -6.840395,
    "shift": "jour",
    "shift_label": ""
   },
   {
-   "name": "Pharmacie Rachad Takaddoum",
-   "address": "quartier Takadoum grp. Marjan bloc 10 n°58, Rabat",
-   "phone": "+212537634293",
-   "lat": 33.982519,
-   "lng": -6.821599,
+   "name": "Pharmacie AlAlfiya",
+   "address": "15 avenue de Michlifen, Rabat",
+   "phone": "+212537673796",
+   "lat": 33.995093,
+   "lng": -6.850927,
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie Kasry",
+   "address": "90 quartier Amal 5 cpt. Massira C.y.m., Rabat",
+   "phone": "+212537799690",
+   "lat": 33.968772,
+   "lng": -6.893334,
    "shift": "jour",
    "shift_label": ""
   }
  ],
  "center": [
-  33.9951,
-  -6.8518
+  33.9877,
+  -6.8609
  ]
 }

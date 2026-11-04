@@ -1,41 +1,41 @@
 {
  "city": "kenitra",
  "label": "Kénitra",
- "date": "2026-11-03",
+ "date": "2026-11-04",
  "source": "sahha.ma",
  "source_url": "https://sahha.ma/pharmacie-de-garde/kenitra",
  "kind": "roster",
  "pharmacies": [
   {
-   "name": "Pharmacie Hay Meriem",
-   "address": "411 hay Lalla Meriem, Kénitra",
-   "phone": "+212537392442",
-   "lat": 34.257555,
-   "lng": -6.549934,
+   "name": "Pharmacie Ourida",
+   "address": "lotiss. Ourida lot n°91, Kénitra",
+   "phone": "+212537383467",
+   "lat": 34.260854,
+   "lng": -6.552252,
    "shift": "jour",
    "shift_label": ""
   },
   {
-   "name": "Pharmacie Sanae",
-   "address": "hay El Haouzia lot 178 Bloc L, Kénitra",
+   "name": "PHARMACIE SANAE",
+   "address": "24 hay El Haouzia lot 178 Bloc L · Oulad Oujih Appeler 05 37 35 •• •• Itinéraire Carte Partager Voir la fiche",
    "phone": "+212537355655",
-   "lat": 34.270876,
-   "lng": -6.615404,
+   "lat": 34.2666685,
+   "lng": -6.6210258,
    "shift": "jour",
    "shift_label": ""
   },
   {
-   "name": "PHARMACIE FARAZDAQ",
-   "address": "24 hay Ouled Oujih bloc I n°171 · Oulad Oujih Appeler 05 37 35 •• •• Itinéraire Carte Partager Voir la ficheرقم 171، بلوك 1 أولاد أوجيه، 14080",
-   "phone": "+212 5 37 35 12 11",
-   "lat": 34.256768,
-   "lng": -6.6221521,
+   "name": "Pharmacie Saoumaa",
+   "address": "5 hay Bir Rami Résidence hamza rue 2, Kénitra",
+   "phone": "+212 537 357540",
+   "lat": 34.250905,
+   "lng": -6.608948,
    "shift": "jour",
    "shift_label": ""
   }
  ],
  "center": [
-  34.2617,
-  -6.5958
+  34.2595,
+  -6.5941
  ]
 }

@@ -1,41 +1,50 @@
 {
  "city": "taza",
  "label": "Taza",
- "date": "2026-11-03",
+ "date": "2026-11-04",
  "source": "sahha.ma",
  "source_url": "https://sahha.ma/pharmacie-de-garde/taza",
  "kind": "roster",
  "pharmacies": [
   {
-   "name": "Pharmacie Annahda",
-   "address": "Cité An-Nahda bloc \"A\" n°5, Taza",
+   "name": "Pharmacie Al Malha",
+   "address": "17 derb Al Malha - Autre ville, Taza",
+   "phone": "+212535282293",
+   "lat": 34.238072,
+   "lng": -4.026507,
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
+   "name": "PHARMACIE ANNAHDA",
+   "address": "bloc \"A\" n°5 Appeler 05 35 67 •• •• Itinéraire Carte Partager Voir la fiche",
    "phone": "+212535673256",
    "lat": 34.229733,
    "lng": -4.02195,
-   "shift": "nuit",
+   "shift": "jour",
    "shift_label": ""
   },
   {
-   "name": "Pharmacie Bin Jradi",
-   "address": "26 rue Hassan Ben Hamouch Zekriti, Taza",
+   "name": "PHARMACIE BIN JRADI",
+   "address": "26 rue Hassan Ben Hamouch Zekriti Appeler 05 35 28 •• •• Itinéraire Carte Partager Voir la fiche",
    "phone": "+212535281306",
    "lat": 34.225667,
    "lng": -4.0111,
-   "shift": "nuit",
+   "shift": "jour",
    "shift_label": ""
   },
   {
-   "name": "PHARMACIE FRIOUATO",
-   "address": "24 hay ElMassoudia villa n°3 mosquée Badr Appeler 05 35 28 •• •• Itinéraire Carte Partager Voir la fiche",
-   "phone": "+212535285766",
-   "lat": 34.2109737,
-   "lng": -4.0075349,
-   "shift": "nuit",
+   "name": "Pharmacie Ibn Haitem",
+   "address": "171 bd. Hassan II Bin Jradi, Taza",
+   "phone": "+212535672065",
+   "lat": 34.22815,
+   "lng": -4.005483,
+   "shift": "jour",
    "shift_label": ""
   }
  ],
  "center": [
-  34.2221,
-  -4.0135
+  34.2304,
+  -4.0163
  ]
 }

@@ -1,23 +1,23 @@
 {
  "city": "sidi-kacem",
  "label": "Sidi Kacem",
- "date": "2026-11-03",
+ "date": "2026-11-04",
  "source": "sahha.ma",
  "source_url": "https://sahha.ma/pharmacie-de-garde/sidi-kacem",
  "kind": "roster",
  "pharmacies": [
   {
-   "name": "Pharmacie Allaymoune",
-   "address": "hay Yasmine bloc C n°471, Sidi Kacem",
-   "phone": "+212537590334",
-   "lat": 34.227418,
-   "lng": -5.728199,
-   "shift": "nuit",
+   "name": "Pharmacie Jaouhara",
+   "address": "535 lotiss. Jaouhara, Sidi Kacem",
+   "phone": "+212537596928",
+   "lat": 34.233523,
+   "lng": -5.730717,
+   "shift": "jour",
    "shift_label": ""
   }
  ],
  "center": [
-  34.2274,
-  -5.7282
+  34.2335,
+  -5.7307
  ]
 }

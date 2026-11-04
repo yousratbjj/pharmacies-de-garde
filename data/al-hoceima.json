@@ -1,23 +1,23 @@
 {
  "city": "al-hoceima",
  "label": "Al Hoceïma",
- "date": "2026-11-03",
+ "date": "2026-11-04",
  "source": "sahha.ma",
  "source_url": "https://sahha.ma/pharmacie-de-garde/al-hoceima",
  "kind": "roster",
  "pharmacies": [
   {
-   "name": "Pharmacie Khalid Ibn Alwalid",
-   "address": "17 av. Hajarat Nekour, Al Hoceima",
-   "phone": "+212539840863",
-   "lat": 35.241533,
-   "lng": -3.931983,
+   "name": "Pharmacie Al Qods",
+   "address": "24 bd El Qods rte Sidi Mansour, Al Hoceima",
+   "phone": "+212539840669",
+   "lat": 35.237455,
+   "lng": -3.93936,
    "shift": "jour",
    "shift_label": ""
   }
  ],
  "center": [
-  35.2415,
-  -3.932
+  35.2375,
+  -3.9394
  ]
 }

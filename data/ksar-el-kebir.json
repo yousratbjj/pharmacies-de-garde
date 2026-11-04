@@ -1,23 +1,23 @@
 {
  "city": "ksar-el-kebir",
  "label": "Ksar El Kebir",
- "date": "2026-11-03",
+ "date": "2026-11-04",
  "source": "sahha.ma",
  "source_url": "https://sahha.ma/pharmacie-de-garde/ksar-el-kebir",
  "kind": "roster",
  "pharmacies": [
   {
-   "name": "Pharmacie Mansour Eddahbi",
-   "address": "hay Sidi Redwan Derb 1 n°3, Ksar El Kébir",
-   "phone": "+212539906852",
-   "lat": 35.002545,
-   "lng": -5.903442,
+   "name": "Pharmacie Al Fath",
+   "address": "Lotissement Hamza Dar Dokan, Ksar El Kébir",
+   "phone": "+212539905582",
+   "lat": 35.002165,
+   "lng": -5.903592,
    "shift": "jour",
    "shift_label": ""
   }
  ],
  "center": [
-  35.0025,
-  -5.9034
+  35.0022,
+  -5.9036
  ]
 }

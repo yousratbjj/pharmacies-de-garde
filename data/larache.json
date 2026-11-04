@@ -1,23 +1,23 @@
 {
  "city": "larache",
  "label": "Larache",
- "date": "2026-11-03",
+ "date": "2026-11-04",
  "source": "sahha.ma",
  "source_url": "https://sahha.ma/pharmacie-de-garde/larache",
  "kind": "roster",
  "pharmacies": [
   {
-   "name": "PHARMACIE ALMAHKAMA",
-   "address": "20 bd. Ifriquia Appeler 05 39 91 •• •• Itinéraire Carte Partager Voir la fiche",
-   "phone": "+212539913193",
-   "lat": 35.1897964,
-   "lng": -6.1496786,
+   "name": "Pharmacie hay Nejma",
+   "address": "96 lotiss. Kenza - Autre ville q. Nejma, Larache",
+   "phone": "+212531020482",
+   "lat": 35.170957,
+   "lng": -6.152866,
    "shift": "jour",
    "shift_label": ""
   },
   {
-   "name": "Pharmacie Lixus",
-   "address": "112 bd. Hassan II, Larache",
+   "name": "PHARMACIE LIXUS",
+   "address": "112 bd. Hassan II Appeler 05 39 91 •• •• Itinéraire Carte Partager Voir la fiche",
    "phone": "+212539914020",
    "lat": 35.19275,
    "lng": -6.151317,
@@ -26,7 +26,7 @@
   }
  ],
  "center": [
-  35.1913,
-  -6.1505
+  35.1819,
+  -6.1521
  ]
 }
