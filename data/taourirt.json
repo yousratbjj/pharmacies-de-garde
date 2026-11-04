@@ -1,23 +1,23 @@
 {
  "city": "taourirt",
  "label": "Taourirt",
- "date": "2026-11-03",
+ "date": "2026-11-04",
  "source": "sahha.ma",
  "source_url": "https://sahha.ma/pharmacie-de-garde/taourirt",
  "kind": "roster",
  "pharmacies": [
   {
-   "name": "PHARMACIE AL FATH",
-   "address": "203 lotiss. My Ali Chrif Appeler 05 34 55 •• •• Itinéraire Carte Partager Voir la fiche",
-   "phone": "+212534556744",
-   "lat": 34.403205,
-   "lng": -2.892516,
+   "name": "Pharmacie Assad",
+   "address": "808 hay El Louissi lot El Massira, Taourirt",
+   "phone": "+212536699114",
+   "lat": 34.400468,
+   "lng": -2.885426,
    "shift": "jour",
    "shift_label": ""
   }
  ],
  "center": [
-  34.4032,
-  -2.8925
+  34.4005,
+  -2.8854
  ]
 }
