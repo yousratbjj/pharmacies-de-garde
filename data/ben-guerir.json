@@ -7,26 +7,17 @@
  "kind": "roster",
  "pharmacies": [
   {
-   "name": "Pharmacie Attassamoh",
-   "address": "74 lotiss. Attassamoh, Ben Guerir",
-   "phone": "+212678474779",
-   "lat": 32.22723,
-   "lng": -7.95358,
-   "shift": "jour",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie Hay Al Majd",
-   "address": "275 hay Al Majd, Ben Guerir",
-   "phone": "+212525068676",
-   "lat": 32.248173,
-   "lng": -7.945041,
-   "shift": "jour",
+   "name": "Pharmacie Hay Riad",
+   "address": "168 hay Riad - Autre ville, Ben Guerir",
+   "phone": "+212524316501",
+   "lat": 32.231355,
+   "lng": -7.945891,
+   "shift": "nuit",
    "shift_label": ""
   }
  ],
  "center": [
-  32.2377,
-  -7.9493
+  32.2314,
+  -7.9459
  ]
 }

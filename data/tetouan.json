@@ -7,26 +7,26 @@
  "kind": "roster",
  "pharmacies": [
   {
-   "name": "PHARMACIE LAWADA",
-   "address": "29 av. khalid Bnou Loualid Appeler 05 39 70 •• •• Itinéraire Carte Partager Voir la ficheرقم29 شارع خالد إبن الوليد",
-   "phone": "+212539700496",
-   "lat": 35.5723952,
-   "lng": -5.3829565,
-   "shift": "jour",
+   "name": "Pharmacie Bab Nouader",
+   "address": "13 av. laayoune, Tétouan",
+   "phone": "+212539700195",
+   "lat": 35.573167,
+   "lng": -5.374979,
+   "shift": "nuit",
    "shift_label": ""
   },
   {
-   "name": "PHARMACIE MALL TÉTOUAN",
-   "address": "13 bd Joulane - Autre ville hay Al Matar Appeler 06 60 95 •• •• Itinéraire Carte Partager Voir la ficheحي المطار -13 شارع الجولان",
-   "phone": "+212660959297",
-   "lat": 35.5865423,
-   "lng": -5.3354714,
-   "shift": "jour",
+   "name": "Pharmacie Laamrani",
+   "address": "bd Slimane Ben Mahran rte Tanger, Tétouan",
+   "phone": "+212539969058",
+   "lat": 35.562134,
+   "lng": -5.54641,
+   "shift": "nuit",
    "shift_label": ""
   }
  ],
  "center": [
-  35.5795,
-  -5.3592
+  35.5677,
+  -5.4607
  ]
 }

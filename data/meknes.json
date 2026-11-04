@@ -7,15 +7,6 @@
  "kind": "roster",
  "pharmacies": [
   {
-   "name": "Pharmacie Al Wahda",
-   "address": "hay Ouislane lot El Wahda n°692, Meknès",
-   "phone": "+212535549442",
-   "lat": 33.920017,
-   "lng": -5.492417,
-   "shift": "24h",
-   "shift_label": ""
-  },
-  {
    "name": "Pharmacie Andalousie",
    "address": "4871, lot Erac Badr , Oujah Arouss",
    "phone": "+212535557909",
@@ -52,6 +43,15 @@
    "shift_label": ""
   },
   {
+   "name": "Pharmacie Lakbibat",
+   "address": "8 rue Keifa, Meknès",
+   "phone": "+212535520123",
+   "lat": 33.8984131,
+   "lng": -5.5321582,
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
    "name": "Pharmacie Louali",
    "address": "hay Essalam I",
    "phone": "+212535535044",
@@ -80,7 +80,7 @@
   },
   {
    "name": "PHARMACIE ABDELKARIM EL KHATTABI",
-   "address": "31, Rue Chefchaouen, Derb 23رقم 31 .زنقة شفشاون, درب 23رقم 31 .زنقة شفشاون, درب 23",
+   "address": "31, Rue Chefchaouen, Derb 23رقم 31 .زنقة شفشاون, درب 23رقم 31 .زنقة شفشاون, درب 23رقم 31 .زنقة شفشاون, درب 23",
    "phone": "+212535548986",
    "lat": 33.9252622,
    "lng": -5.4938112,
@@ -89,7 +89,7 @@
   }
  ],
  "center": [
-  33.8906,
-  -5.5487
+  33.8882,
+  -5.5531
  ]
 }

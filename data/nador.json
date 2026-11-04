@@ -19,8 +19,8 @@
    "name": "PHARMACIE AFRA",
    "address": "96 av Mly. Rachid Jaadar · Jaadar Appeler 05 36 35 •• •• Itinéraire Carte Partager Voir la fiche",
    "phone": "+212536350808",
-   "lat": 35.1781403,
-   "lng": -2.9251391,
+   "lat": 35.1783432,
+   "lng": -2.9248347,
    "shift": "jour",
    "shift_label": ""
   },
@@ -44,7 +44,7 @@
   }
  ],
  "center": [
-  35.1716,
+  35.1717,
   -2.9421
  ]
 }

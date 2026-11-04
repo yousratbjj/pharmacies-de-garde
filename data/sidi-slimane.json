@@ -12,7 +12,7 @@
    "phone": "+212537502078",
    "lat": 34.2591665,
    "lng": -5.9295916,
-   "shift": "jour",
+   "shift": "nuit",
    "shift_label": ""
   },
   {
@@ -21,7 +21,7 @@
    "phone": "+212537505768",
    "lat": 34.259251,
    "lng": -5.931036,
-   "shift": "jour",
+   "shift": "nuit",
    "shift_label": ""
   },
   {
@@ -30,7 +30,7 @@
    "phone": "+212537502900",
    "lat": 34.2622961,
    "lng": -5.9239749,
-   "shift": "jour",
+   "shift": "nuit",
    "shift_label": ""
   },
   {
@@ -48,7 +48,7 @@
    "phone": "+212523298434",
    "lat": 34.251813,
    "lng": -5.927786,
-   "shift": "jour",
+   "shift": "nuit",
    "shift_label": ""
   },
   {
@@ -57,7 +57,7 @@
    "phone": "+212669554771",
    "lat": 34.259878,
    "lng": -5.927253,
-   "shift": "jour",
+   "shift": "nuit",
    "shift_label": ""
   },
   {
@@ -66,7 +66,7 @@
    "phone": "+212643633358",
    "lat": 34.259878,
    "lng": -5.927253,
-   "shift": "jour",
+   "shift": "nuit",
    "shift_label": ""
   },
   {
@@ -75,7 +75,7 @@
    "phone": "+212537505871",
    "lat": 34.2590735,
    "lng": -5.9350268,
-   "shift": "jour",
+   "shift": "nuit",
    "shift_label": ""
   },
   {
@@ -84,7 +84,7 @@
    "phone": "+212676306817",
    "lat": 34.268686,
    "lng": -5.933615,
-   "shift": "jour",
+   "shift": "nuit",
    "shift_label": ""
   }
  ],

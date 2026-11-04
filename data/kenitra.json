@@ -7,24 +7,6 @@
  "kind": "roster",
  "pharmacies": [
   {
-   "name": "PHARMACIE ALMAGHRIB DU MAROC",
-   "address": "24 hay Al Fath n°1 · Saknia Appeler 05 37 38 •• •• Itinéraire Carte Partager Voir la fiche",
-   "phone": "+212537381525",
-   "lat": 34.2540503,
-   "lng": -6.5890166,
-   "shift": "jour",
-   "shift_label": ""
-  },
-  {
-   "name": "PHARMACIE FARAZDAQ",
-   "address": "24 hay Ouled Oujih bloc I n°171 · Oulad Oujih Appeler 05 37 35 •• •• Itinéraire Carte Partager Voir la ficheرقم 171، بلوك 1 أولاد أوجيه، 14080",
-   "phone": "+212537351211",
-   "lat": 34.2566894,
-   "lng": -6.6222064,
-   "shift": "jour",
-   "shift_label": ""
-  },
-  {
    "name": "Pharmacie Hay Meriem",
    "address": "411 hay Lalla Meriem, Kénitra",
    "phone": "+212537392442",
@@ -41,10 +23,19 @@
    "lng": -6.615404,
    "shift": "jour",
    "shift_label": ""
+  },
+  {
+   "name": "PHARMACIE FARAZDAQ",
+   "address": "24 hay Ouled Oujih bloc I n°171 · Oulad Oujih Appeler 05 37 35 •• •• Itinéraire Carte Partager Voir la ficheرقم 171، بلوك 1 أولاد أوجيه، 14080",
+   "phone": "+212 5 37 35 12 11",
+   "lat": 34.256768,
+   "lng": -6.6221521,
+   "shift": "jour",
+   "shift_label": ""
   }
  ],
  "center": [
-  34.2598,
-  -6.5941
+  34.2617,
+  -6.5958
  ]
 }

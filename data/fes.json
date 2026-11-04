@@ -7,15 +7,6 @@
  "kind": "roster",
  "pharmacies": [
   {
-   "name": "Pharmacie Ahayan",
-   "address": "27 lot. les Jardins Oued Fès, Fès",
-   "phone": "+212535700013",
-   "lat": 34.052195,
-   "lng": -5.0252563,
-   "shift": "jour",
-   "shift_label": ""
-  },
-  {
    "name": "Pharmacie AlOumma",
    "address": "B hay Zouagha Oulia bloc D n°61 rte Bensouda, Fès",
    "phone": "+212535600426",
@@ -71,7 +62,7 @@
   }
  ],
  "center": [
-  34.0182,
-  -5.0118
+  34.0125,
+  -5.0096
  ]
 }

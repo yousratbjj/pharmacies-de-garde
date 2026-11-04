@@ -34,15 +34,6 @@
    "shift_label": ""
   },
   {
-   "name": "Pharmacie DES VILLAS",
-   "address": "Sala El Jadida, Salé",
-   "phone": "+212537531331",
-   "lat": 33.9971267,
-   "lng": -6.7300413,
-   "shift": "jour",
-   "shift_label": ""
-  },
-  {
    "name": "Pharmacie Ibn Yassine",
    "address": "hay Errahma sect. A n°468 rue Liberia, Salé",
    "phone": "+212537871380",
@@ -52,8 +43,8 @@
    "shift_label": ""
   },
   {
-   "name": "Pharmacie IKRAM",
-   "address": "Hay Essalam, Salé",
+   "name": "PHARMACIE IKRAM",
+   "address": "24 bloc 12, n°91 secteur 11 (prés redal hay es-salam) · Hay Essalam Appeler 05 37 81 •• •• Itinéraire Carte Partager Voir la fiche",
    "phone": "+212537811363",
    "lat": 34.044583,
    "lng": -6.782583,
@@ -98,7 +89,7 @@
   }
  ],
  "center": [
-  34.0468,
-  -6.7847
+  34.0523,
+  -6.7907
  ]
 }

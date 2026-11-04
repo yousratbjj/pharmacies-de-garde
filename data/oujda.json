@@ -34,20 +34,20 @@
    "shift_label": ""
   },
   {
-   "name": "Pharmacie Zaoui",
-   "address": "rte de Taza - Autre ville lotissement Al Aoudi, Oujda",
-   "phone": "+212530283565",
-   "lat": 34.6577959,
-   "lng": -1.895875,
-   "shift": "jour",
-   "shift_label": ""
-  },
-  {
    "name": "Pharmacie Zohir",
    "address": "rue d'Oran ang. rue d'Alger, Oujda",
    "phone": "+212536682725",
    "lat": 34.685783,
    "lng": -1.901133,
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie Zaoui",
+   "address": "rte de Taza - Autre ville lotissement Al Aoudi, Oujda",
+   "phone": "+212530283565",
+   "lat": 34.6577959,
+   "lng": -1.895875,
    "shift": "jour",
    "shift_label": ""
   }

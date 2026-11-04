@@ -7,17 +7,17 @@
  "kind": "roster",
  "pharmacies": [
   {
-   "name": "Pharmacie Omar",
-   "address": "hay Racha bd. 30 n°1174, Tiflet",
-   "phone": "+212537515723",
-   "lat": 33.89798,
-   "lng": -6.32742,
+   "name": "Pharmacie El Khayria",
+   "address": "13 rue de Fes, Tiflet",
+   "phone": "+212537513872",
+   "lat": 33.89567,
+   "lng": -6.31231,
    "shift": "nuit",
    "shift_label": ""
   }
  ],
  "center": [
-  33.898,
-  -6.3274
+  33.8957,
+  -6.3123
  ]
 }

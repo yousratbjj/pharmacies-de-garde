@@ -37,8 +37,8 @@
    "name": "Pharmacie Carrousel",
    "address": "avenue Yacoub El Mansour - Rabat, Rabat",
    "phone": "+212537799364",
-   "lat": 33.9827194,
-   "lng": -6.895597,
+   "lat": 34.0218454,
+   "lng": -6.8408929,
    "shift": "jour",
    "shift_label": ""
   },
@@ -80,7 +80,7 @@
   }
  ],
  "center": [
-  33.9902,
-  -6.8587
+  33.9951,
+  -6.8518
  ]
 }
