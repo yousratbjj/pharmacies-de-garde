@@ -1,32 +1,32 @@
 {
  "city": "guercif",
  "label": "Guercif",
- "date": "2026-11-04",
+ "date": "2026-11-05",
  "source": "sahha.ma",
  "source_url": "https://sahha.ma/pharmacie-de-garde/guercif",
  "kind": "roster",
  "pharmacies": [
   {
-   "name": "Pharmacie Abdelkarim Khattabi",
-   "address": "bd Abdelkrim Kattabi - Autre ville, Guercif",
-   "phone": "+212535676876",
-   "lat": 34.23277,
-   "lng": -3.35143,
+   "name": "Pharmacie Al Filali",
+   "address": "hay Ennajd, Guercif",
+   "phone": "+212535200958",
+   "lat": 34.23472,
+   "lng": -3.34811,
    "shift": "jour",
    "shift_label": ""
   },
   {
-   "name": "Pharmacie Idrissi",
-   "address": "Lotissement Omrane, Guercif",
-   "phone": "+212535202442",
-   "lat": 34.21662,
-   "lng": -3.35986,
+   "name": "Pharmacie Pôle Ghayta (Qotb)",
+   "address": "5 secteur 3, Guercif",
+   "phone": "+212707159000",
+   "lat": 34.214481,
+   "lng": -3.369208,
    "shift": "jour",
    "shift_label": ""
   }
  ],
  "center": [
-  34.2247,
-  -3.3556
+  34.2246,
+  -3.3587
  ]
 }

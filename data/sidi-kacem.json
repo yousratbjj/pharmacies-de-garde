@@ -1,23 +1,23 @@
 {
  "city": "sidi-kacem",
  "label": "Sidi Kacem",
- "date": "2026-11-04",
+ "date": "2026-11-05",
  "source": "sahha.ma",
  "source_url": "https://sahha.ma/pharmacie-de-garde/sidi-kacem",
  "kind": "roster",
  "pharmacies": [
   {
-   "name": "Pharmacie Jaouhara",
-   "address": "535 lotiss. Jaouhara, Sidi Kacem",
-   "phone": "+212537596928",
-   "lat": 34.233523,
-   "lng": -5.730717,
-   "shift": "nuit",
+   "name": "Pharmacie Al Missaha (clinique)",
+   "address": "32 hay Al Qods, Sidi Kacem",
+   "phone": "+212537596624",
+   "lat": 34.231249,
+   "lng": -5.722842,
+   "shift": "jour",
    "shift_label": ""
   }
  ],
  "center": [
-  34.2335,
-  -5.7307
+  34.2312,
+  -5.7228
  ]
 }

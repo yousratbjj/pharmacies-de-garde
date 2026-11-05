@@ -1,23 +1,23 @@
 {
  "city": "larache",
  "label": "Larache",
- "date": "2026-11-04",
+ "date": "2026-11-05",
  "source": "sahha.ma",
  "source_url": "https://sahha.ma/pharmacie-de-garde/larache",
  "kind": "roster",
  "pharmacies": [
   {
-   "name": "Pharmacie hay Nejma",
-   "address": "96 lotiss. Kenza - Autre ville q. Nejma, Larache",
-   "phone": "+212531020482",
-   "lat": 35.170957,
-   "lng": -6.152866,
+   "name": "Pharmacie Lalla Mennana",
+   "address": "52 bd Mohammed V, Larache",
+   "phone": "+212539916544",
+   "lat": 35.193283,
+   "lng": -6.149817,
    "shift": "jour",
    "shift_label": ""
   }
  ],
  "center": [
-  35.171,
-  -6.1529
+  35.1933,
+  -6.1498
  ]
 }

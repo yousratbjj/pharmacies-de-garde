@@ -1,20 +1,11 @@
 {
  "city": "meknes",
  "label": "Meknès",
- "date": "2026-11-04",
+ "date": "2026-11-05",
  "source": "sahha.ma",
  "source_url": "https://sahha.ma/pharmacie-de-garde/meknes",
  "kind": "roster",
  "pharmacies": [
-  {
-   "name": "Pharmacie Al Mansouri",
-   "address": "Lotiss. Al Mansour , imm. D34, n°1/2",
-   "phone": "+212535467579",
-   "lat": 33.877,
-   "lng": -5.587033,
-   "shift": "jour",
-   "shift_label": ""
-  },
   {
    "name": "Pharmacie Andalousie",
    "address": "4871, lot Erac Badr , Oujah Arouss",
@@ -25,20 +16,11 @@
    "shift_label": ""
   },
   {
-   "name": "Pharmacie Balsam",
-   "address": "Hay Al Amal , sidi Bouzekri rue 1",
-   "phone": "+212535450489",
-   "lat": 33.854517,
-   "lng": -5.527833,
-   "shift": "jour",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie Faris",
-   "address": "30, Lot. Faris , Sidi Said",
-   "phone": "+212535451168",
-   "lat": 33.893807,
-   "lng": -5.577896,
+   "name": "Pharmacie Chaouia",
+   "address": "av Chaoui , lot. Chaoui n°2 Zitoune",
+   "phone": "+212535452103",
+   "lat": 33.867367,
+   "lng": -5.555183,
    "shift": "jour",
    "shift_label": ""
   },
@@ -61,11 +43,20 @@
    "shift_label": ""
   },
   {
-   "name": "Pharmacie Masjid Al Anouar",
-   "address": "5 bd Khalid Bnou Loualid - Autre ville, Meknès",
-   "phone": "+212669038904",
-   "lat": 33.906827,
-   "lng": -5.548051,
+   "name": "Pharmacie Naim",
+   "address": "Meknès",
+   "phone": "+212661826866",
+   "lat": 33.877747,
+   "lng": -5.563843,
+   "shift": "24h",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie Narjiss Naim",
+   "address": "Meknès",
+   "phone": "+212535467812",
+   "lat": 33.851935,
+   "lng": -5.557667,
    "shift": "jour",
    "shift_label": ""
   },
@@ -77,10 +68,19 @@
    "lng": -5.5950056,
    "shift": "24h",
    "shift_label": ""
+  },
+  {
+   "name": "Pharmacie Place d'Armes",
+   "address": "25 bd Ibn Khaldoun, Meknès",
+   "phone": "+212535523095",
+   "lat": 33.893417,
+   "lng": -5.538817,
+   "shift": "24h",
+   "shift_label": ""
   }
  ],
  "center": [
-  33.8857,
-  -5.5656
+  33.8804,
+  -5.5625
  ]
 }

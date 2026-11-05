@@ -1,27 +1,27 @@
 {
  "city": "oujda",
  "label": "Oujda",
- "date": "2026-11-04",
+ "date": "2026-11-05",
  "source": "sahha.ma",
  "source_url": "https://sahha.ma/pharmacie-de-garde/oujda",
  "kind": "roster",
  "pharmacies": [
-  {
-   "name": "Pharmacie AlIrchad",
-   "address": "37 bd. Al Houria hay AlHikma, Oujda",
-   "phone": "+212536502459",
-   "lat": 34.65665,
-   "lng": -1.9037,
-   "shift": "nuit",
-   "shift_label": ""
-  },
   {
    "name": "Pharmacie AlKaoutar",
    "address": "Douar Drafif imm. Kaoutar n°296, Oujda",
    "phone": "+212536518984",
    "lat": 34.685916,
    "lng": -1.956153,
-   "shift": "nuit",
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie AlIrchad",
+   "address": "37 bd. Al Houria hay AlHikma, Oujda",
+   "phone": "+212536502459",
+   "lat": 34.65665,
+   "lng": -1.9037,
+   "shift": "jour",
    "shift_label": ""
   },
   {
@@ -30,7 +30,7 @@
    "phone": "+212536748986",
    "lat": 34.69115,
    "lng": -1.888,
-   "shift": "nuit",
+   "shift": "jour",
    "shift_label": ""
   },
   {
@@ -39,30 +39,12 @@
    "phone": "+212536682725",
    "lat": 34.685783,
    "lng": -1.901133,
-   "shift": "nuit",
-   "shift_label": ""
-  },
-  {
-   "name": "PHARMACIE AL IRCHAD",
-   "address": "Hay Al Hikma Bouarfa rue Abderahim Maarouf N°1حي الحكمة بوعرفة زنقة عبد الرحيم معروف رقم1",
-   "phone": "+212536502459",
-   "lat": 34.65665,
-   "lng": -1.9037,
-   "shift": "nuit",
-   "shift_label": ""
-  },
-  {
-   "name": "PHARMACIE AL KAWTAR",
-   "address": "N°296 Im Kaoutar douar Drafif comune Rural Isly [+]دوار الدرافيف عمارة كوثر رقم 296",
-   "phone": "+212536518984",
-   "lat": 34.685916,
-   "lng": -1.956153,
-   "shift": "nuit",
+   "shift": "jour",
    "shift_label": ""
   }
  ],
  "center": [
-  34.677,
-  -1.9181
+  34.6799,
+  -1.9122
  ]
 }

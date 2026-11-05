@@ -1,23 +1,23 @@
 {
  "city": "al-hoceima",
  "label": "Al Hoceïma",
- "date": "2026-11-04",
+ "date": "2026-11-05",
  "source": "sahha.ma",
  "source_url": "https://sahha.ma/pharmacie-de-garde/al-hoceima",
  "kind": "roster",
  "pharmacies": [
   {
-   "name": "Pharmacie Al Qods",
-   "address": "24 bd El Qods rte Sidi Mansour, Al Hoceima",
-   "phone": "+212539840669",
-   "lat": 35.237455,
-   "lng": -3.93936,
+   "name": "Pharmacie ElMoustachfa",
+   "address": "89 av. AlIskandaria, Al Hoceima",
+   "phone": "+212539981131",
+   "lat": 35.240833,
+   "lng": -3.9382,
    "shift": "jour",
    "shift_label": ""
   }
  ],
  "center": [
-  35.2375,
-  -3.9394
+  35.2408,
+  -3.9382
  ]
 }

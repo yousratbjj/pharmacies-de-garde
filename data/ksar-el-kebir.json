@@ -1,23 +1,23 @@
 {
  "city": "ksar-el-kebir",
  "label": "Ksar El Kebir",
- "date": "2026-11-04",
+ "date": "2026-11-05",
  "source": "sahha.ma",
  "source_url": "https://sahha.ma/pharmacie-de-garde/ksar-el-kebir",
  "kind": "roster",
  "pharmacies": [
   {
-   "name": "Pharmacie Al Fath",
-   "address": "Lotissement Hamza Dar Dokan, Ksar El Kébir",
-   "phone": "+212539905582",
-   "lat": 35.002165,
-   "lng": -5.903592,
+   "name": "Pharmacie Bismillah",
+   "address": "1 douar oulad Hmid grpe H rue 23 ksar Lekbir, Ksar El Kébir",
+   "phone": "+212539902231",
+   "lat": 35.0248,
+   "lng": -5.90875,
    "shift": "jour",
    "shift_label": ""
   }
  ],
  "center": [
-  35.0022,
-  -5.9036
+  35.0248,
+  -5.9088
  ]
 }

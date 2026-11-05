@@ -1,44 +1,53 @@
 {
  "city": "fes",
  "label": "Fès",
- "date": "2026-11-04",
+ "date": "2026-11-05",
  "source": "sahha.ma",
  "source_url": "https://sahha.ma/pharmacie-de-garde/fes",
  "kind": "roster",
  "pharmacies": [
   {
-   "name": "Pharmacie Azzouzi",
-   "address": "47 bd Al Wahda Narjiss B, Fès",
-   "phone": "+212535960428",
-   "lat": 34.01626,
-   "lng": -4.979803,
+   "name": "Pharmacie Ain Aamir",
+   "address": "37 hay Ain Chkef - Autre ville rue El Filaha hay Hassani, Fès",
+   "phone": "+212535968845",
+   "lat": 34.002644,
+   "lng": -5.004074,
    "shift": "jour",
    "shift_label": ""
   },
   {
-   "name": "Pharmacie Chraibi",
-   "address": "hay Hassani rue 5 n°28 Ben Debbab, Fès",
-   "phone": "+212655489570",
-   "lat": 34.070801,
-   "lng": -4.996714,
+   "name": "Pharmacie Ain Nokbi",
+   "address": "hay Ain Nokbi Jnane El Morj, Fès",
+   "phone": "+212535762266",
+   "lat": 34.061867,
+   "lng": -4.952867,
    "shift": "jour",
    "shift_label": ""
   },
   {
-   "name": "Pharmacie Jerondi",
-   "address": "Jenane Fes Ain Chkef, Fès",
-   "phone": "+212535691638",
-   "lat": 33.988472,
-   "lng": -4.985346,
+   "name": "Pharmacie Fahmi",
+   "address": "178 hay Griou Zouagha, Fès",
+   "phone": "+212535612087",
+   "lat": 34.017114,
+   "lng": -5.029719,
    "shift": "jour",
    "shift_label": ""
   },
   {
-   "name": "Pharmacie Yakout",
-   "address": "384 hay Ain Chkef - Autre ville lotiss.Aziza mag.1, Fès",
-   "phone": "+212532075708",
-   "lat": 33.995531,
-   "lng": -5.034684,
+   "name": "Pharmacie le Remède",
+   "address": "3 bd Hassan Ibn Noamane hay Taj, Fès",
+   "phone": "+212535755830",
+   "lat": 34.058909,
+   "lng": -5.0109,
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie Oum Al Mouminine",
+   "address": "11 lotiss. Jinane 1 Ain Chkef, Fès",
+   "phone": "+212535641277",
+   "lat": 34.040467,
+   "lng": -4.987113,
    "shift": "jour",
    "shift_label": ""
   },
@@ -52,26 +61,17 @@
    "shift_label": ""
   },
   {
-   "name": "Pharmacie Mly Idriss",
-   "address": "lotiss. Kenza av. Mly Kamel, Fès",
-   "phone": "+212535651050",
-   "lat": 34.033583,
-   "lng": -5.018967,
-   "shift": "jour",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie Tadamoune",
-   "address": "hay Sahrij Gnaoua bloc 30 B n°54 Elmenzeh, Fès",
-   "phone": "+212535649215",
-   "lat": 34.051869,
-   "lng": -4.954456,
+   "name": "Pharmacie Mourchid",
+   "address": "2 rue Tadhia Narjiss C rte de Sefrou, Fès",
+   "phone": "+212535614828",
+   "lat": 34.01335,
+   "lng": -4.978483,
    "shift": "jour",
    "shift_label": ""
   }
  ],
  "center": [
-  34.0277,
-  -5.0021
+  34.0331,
+  -5.0011
  ]
 }

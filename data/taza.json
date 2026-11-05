@@ -1,41 +1,32 @@
 {
  "city": "taza",
  "label": "Taza",
- "date": "2026-11-04",
+ "date": "2026-11-05",
  "source": "sahha.ma",
  "source_url": "https://sahha.ma/pharmacie-de-garde/taza",
  "kind": "roster",
  "pharmacies": [
   {
-   "name": "Pharmacie Al Malha",
-   "address": "17 derb Al Malha - Autre ville, Taza",
-   "phone": "+212535282293",
-   "lat": 34.238072,
-   "lng": -4.026507,
-   "shift": "nuit",
+   "name": "Pharmacie El Fath",
+   "address": "3 av. 11 Janvier hay Tennis, Taza",
+   "phone": "+212535672364",
+   "lat": 34.2308,
+   "lng": -4.01405,
+   "shift": "jour",
    "shift_label": ""
   },
   {
-   "name": "PHARMACIE BIN JRADI",
-   "address": "26 rue Hassan Ben Hamouch Zekriti Appeler 05 35 28 •• •• Itinéraire Carte Partager Voir la fiche",
-   "phone": "+212535281306",
-   "lat": 34.2284445,
-   "lng": -4.0083011,
-   "shift": "nuit",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie Ibn Haitem",
-   "address": "171 bd. Hassan II Bin Jradi, Taza",
-   "phone": "+212535672065",
-   "lat": 34.22815,
-   "lng": -4.005483,
-   "shift": "nuit",
+   "name": "Pharmacie Hind",
+   "address": "14 av. Mly Abdellah Bit Ghoulam, Taza",
+   "phone": "+212535285133",
+   "lat": 34.227817,
+   "lng": -4.000767,
+   "shift": "jour",
    "shift_label": ""
   }
  ],
  "center": [
-  34.2316,
-  -4.0134
+  34.2293,
+  -4.0074
  ]
 }

@@ -1,41 +1,32 @@
 {
  "city": "kenitra",
  "label": "Kénitra",
- "date": "2026-11-04",
+ "date": "2026-11-05",
  "source": "sahha.ma",
  "source_url": "https://sahha.ma/pharmacie-de-garde/kenitra",
  "kind": "roster",
  "pharmacies": [
   {
-   "name": "Pharmacie Ourida",
-   "address": "lotiss. Ourida lot n°91, Kénitra",
-   "phone": "+212537383467",
-   "lat": 34.260854,
-   "lng": -6.552252,
+   "name": "Pharmacie ElReda",
+   "address": "hay Chabab grp 96 n°2 Saknia, Kénitra",
+   "phone": "+212537392042",
+   "lat": 34.248357,
+   "lng": -6.547503,
    "shift": "jour",
    "shift_label": ""
   },
   {
-   "name": "Pharmacie Saoumaa",
-   "address": "5 hay Bir Rami Résidence hamza rue 2, Kénitra",
-   "phone": "+212 537 357540",
-   "lat": 34.250905,
-   "lng": -6.608948,
-   "shift": "jour",
-   "shift_label": ""
-  },
-  {
-   "name": "PHARMACIE SANAE",
-   "address": "24 hay El Haouzia lot 178 Bloc L · Oulad Oujih Appeler 05 37 35 •• •• Itinéraire Carte Partager Voir la fiche",
-   "phone": "+212537355655",
-   "lat": 34.2666669,
-   "lng": -6.6210188,
+   "name": "Pharmacie Mohammed",
+   "address": "2 rue Ibn Benna mosquée Lalla Khadija, Kénitra",
+   "phone": "+212537373573",
+   "lat": 34.254089,
+   "lng": -6.584132,
    "shift": "jour",
    "shift_label": ""
   }
  ],
  "center": [
-  34.2595,
-  -6.5941
+  34.2512,
+  -6.5658
  ]
 }

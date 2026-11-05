@@ -1,7 +1,7 @@
 {
  "city": "nador",
  "label": "Nador",
- "date": "2026-11-04",
+ "date": "2026-11-05",
  "source": "sahha.ma",
  "source_url": "https://sahha.ma/pharmacie-de-garde/nador",
  "kind": "roster",
@@ -16,35 +16,26 @@
    "shift_label": ""
   },
   {
-   "name": "Pharmacie Al Masjid",
-   "address": "bd Mohammed V, Nador",
-   "phone": "+212536350148",
-   "lat": 35.177383,
-   "lng": -2.925266,
+   "name": "Pharmacie Hamama",
+   "address": "K050 rte de Zghanghan km 5 Ehaddaden, Nador",
+   "phone": "+212536330425",
+   "lat": 35.161953,
+   "lng": -2.964738,
    "shift": "jour",
    "shift_label": ""
   },
   {
-   "name": "Pharmacie Mariam",
-   "address": "Ihaddaden, Nador",
-   "phone": "+212536351403",
-   "lat": 35.162974,
-   "lng": -2.975704,
-   "shift": "jour",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie Taha Houssein",
-   "address": "av Prince Héritier Sidi Mohamed, Nador",
-   "phone": "+212536350017",
-   "lat": 35.157033,
-   "lng": -2.985917,
+   "name": "Pharmacie Jaadar",
+   "address": "Rte de Zghanghan, Nador",
+   "phone": "+212536352755",
+   "lat": 35.154267,
+   "lng": -2.983483,
    "shift": "jour",
    "shift_label": ""
   }
  ],
  "center": [
-  35.1681,
-  -2.9523
+  35.1638,
+  -2.9569
  ]
 }

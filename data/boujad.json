@@ -1,23 +1,23 @@
 {
  "city": "boujad",
  "label": "Boujad",
- "date": "2026-11-04",
+ "date": "2026-11-05",
  "source": "sahha.ma",
  "source_url": "https://sahha.ma/pharmacie-de-garde/boujad",
  "kind": "roster",
  "pharmacies": [
   {
-   "name": "Pharmacie AlQods",
-   "address": "92 Av Ain Cheikh, Boujad",
-   "phone": "+212523413024",
-   "lat": 32.77018,
-   "lng": -6.395325,
+   "name": "Pharmacie Fallahi",
+   "address": "18 lotiss. Al Majd - Autre ville El Fath, Boujad",
+   "phone": "+212523412535",
+   "lat": 32.77164,
+   "lng": -6.37827,
    "shift": "jour",
    "shift_label": ""
   }
  ],
  "center": [
-  32.7702,
-  -6.3953
+  32.7716,
+  -6.3783
  ]
 }

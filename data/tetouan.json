@@ -1,27 +1,45 @@
 {
  "city": "tetouan",
  "label": "Tétouan",
- "date": "2026-11-04",
+ "date": "2026-11-05",
  "source": "sahha.ma",
  "source_url": "https://sahha.ma/pharmacie-de-garde/tetouan",
  "kind": "roster",
  "pharmacies": [
   {
-   "name": "Pharmacie Jamaa Afailal",
-   "address": "107 av Sidi Mohamed ElKharraz, Tétouan",
+   "name": "JAMAA AFAILAL",
+   "address": "107, Av Sidi Mohamed Elkharraz107 ،شارع محمد الخراز-الطويلع (أمام جامع أفيلال)",
    "phone": "+212539973704",
-   "lat": 35.578967,
-   "lng": -5.359933,
-   "shift": "nuit",
+   "lat": 35.5789557,
+   "lng": -5.3599015,
+   "shift": "jour",
    "shift_label": ""
   },
   {
-   "name": "Pharmacie Touebla",
-   "address": "10 Rue Nahr Souss Touebla, Tétouan",
+   "name": "PHARMACIE JAMAA AFAILAL",
+   "address": "107 av Sidi Mohamed ElKharraz Appeler 05 39 97 •• •• Itinéraire Carte Partager Voir la fiche107 ،شارع محمد الخراز-الطويلع (أمام جامع أفيلال)",
+   "phone": "+212539973704",
+   "lat": 35.5789557,
+   "lng": -5.3599015,
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
+   "name": "PHARMACIE TOUEBLA",
+   "address": "10 Rue Nahr Souss Touebla Appeler 05 39 71 •• •• Itinéraire Carte Partager Voir la ficheرقم 10 زنقة نهر سوس .طويبلة",
    "phone": "+212539712288",
-   "lat": 35.564883,
-   "lng": -5.398433,
-   "shift": "nuit",
+   "lat": 35.5648162,
+   "lng": -5.3985753,
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
+   "name": "TOUEBLA",
+   "address": "10 zankat nahr souss .touiblaرقم 10 زنقة نهر سوس .طويبلة",
+   "phone": "+212539712288",
+   "lat": 35.5648162,
+   "lng": -5.3985753,
+   "shift": "jour",
    "shift_label": ""
   }
  ],

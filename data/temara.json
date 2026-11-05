@@ -1,45 +1,72 @@
 {
  "city": "temara",
  "label": "Témara",
- "date": "2026-11-04",
+ "date": "2026-11-05",
  "source": "sahha.ma",
  "source_url": "https://sahha.ma/pharmacie-de-garde/temara",
  "kind": "roster",
  "pharmacies": [
   {
-   "name": "Pharmacie Al Ihssane",
-   "address": "1992 rue Al Imam Al Chattebi hay ElMassira I, Témara",
-   "phone": "+212537608599",
-   "lat": 33.930348,
-   "lng": -6.893321,
-   "shift": "nuit",
+   "name": "Pharmacie 11 Janvier",
+   "address": "9 lotiss. El Ghazali, Témara",
+   "phone": "+212537640919",
+   "lat": 33.917483,
+   "lng": -6.910517,
+   "shift": "jour",
    "shift_label": ""
   },
   {
-   "name": "Pharmacie Essaada",
-   "address": "lotiss. Laayoune C. Com.Avenue Mohamed VI, El Harhoura",
+   "name": "Pharmacie Ali",
+   "address": "hay Massira III Ouled Bennacer n°199, Témara",
+   "phone": "+212537600032",
+   "lat": 33.933926,
+   "lng": -6.906464,
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
+   "name": "PHARMACIE AL IHSSAN",
+   "address": "24 rue imame chettebi 1992 - massira i - · El Massira Appeler 05 37 60 •• •• Itinéraire Carte Partager Voir la fiche",
+   "phone": "+212537600032",
+   "lat": 33.9304272,
+   "lng": -6.8932263,
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
+   "name": "PHARMACIE AL ZAHRAWI",
+   "address": "avenue mohamed v · Tamesna Appeler 05 37 41 •• •• Itinéraire Carte Partager Voir la fiche",
+   "phone": "+212537415672",
+   "lat": 33.827578,
+   "lng": -6.935881,
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
+   "name": "PHARMACIE L OLIVIER",
+   "address": "lot. oulad mtaâ · Oulad Mtaa Appeler 05 37 60 •• •• Itinéraire Carte Partager Voir la fiche",
+   "phone": "+212537608801",
+   "lat": 33.940722,
+   "lng": -6.893167,
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
+   "name": "PHARMACIE RIM",
+   "address": "496 Guich Oudayas (En Face BIM et à 150M, de la mosquée belbachir et attijariwafa bank)",
+   "phone": "+212537561813",
+   "lat": 33.940889,
+   "lng": -6.888611,
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
+   "name": "PHARMACIE ESSAADA",
+   "address": "lot laayoune - harhoura - · Harhoura Appeler 05 37 64 •• •• Itinéraire Carte Partager Voir la fiche",
    "phone": "+212537640764",
-   "lat": 33.92819,
-   "lng": -6.939505,
-   "shift": "nuit",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie Mouram",
-   "address": "bd Tarik Bnou Ziad résid. Jennane Témara ilot 2 imm. 6 mag. 48, Témara",
-   "phone": "+212537408618",
-   "lat": 33.910946,
-   "lng": -6.905366,
-   "shift": "nuit",
-   "shift_label": ""
-  },
-  {
-   "name": "PHARMACIE FIDAA",
-   "address": "bd gaza. résidence riad ii · Al Wifaq Appeler 05 37 61 •• •• Itinéraire Carte Partager Voir la fiche",
-   "phone": "+212537610163",
-   "lat": 33.9269181,
-   "lng": -6.9373517,
-   "shift": "nuit",
+   "lat": 33.932167,
+   "lng": -6.937639,
+   "shift": "jour",
    "shift_label": ""
   },
   {
@@ -48,12 +75,30 @@
    "phone": "+212537622291",
    "lat": 33.895935,
    "lng": -6.935582,
-   "shift": "nuit",
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
+   "name": "PHARMACIE MOURAM",
+   "address": "24 av tarik ibn ziad, residence janane temarailot n°2 mag 48 - · Centre Appeler 05 37 40 •• •• Itinéraire Carte Partager Voir la fiche",
+   "phone": "+212537408618",
+   "lat": 33.910972,
+   "lng": -6.905389,
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie Sup'Herbes",
+   "address": "Rte El Fellah plage Sid El Abed, El Harhoura",
+   "phone": "+212673054609",
+   "lat": 33.90808,
+   "lng": -6.97001,
+   "shift": "jour",
    "shift_label": ""
   }
  ],
  "center": [
-  33.9185,
-  -6.9222
+  33.9138,
+  -6.9176
  ]
 }
