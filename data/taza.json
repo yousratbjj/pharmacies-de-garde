@@ -12,25 +12,16 @@
    "phone": "+212535282293",
    "lat": 34.238072,
    "lng": -4.026507,
-   "shift": "jour",
-   "shift_label": ""
-  },
-  {
-   "name": "PHARMACIE ANNAHDA",
-   "address": "bloc \"A\" n°5 Appeler 05 35 67 •• •• Itinéraire Carte Partager Voir la fiche",
-   "phone": "+212535673256",
-   "lat": 34.229733,
-   "lng": -4.02195,
-   "shift": "jour",
+   "shift": "nuit",
    "shift_label": ""
   },
   {
    "name": "PHARMACIE BIN JRADI",
    "address": "26 rue Hassan Ben Hamouch Zekriti Appeler 05 35 28 •• •• Itinéraire Carte Partager Voir la fiche",
    "phone": "+212535281306",
-   "lat": 34.225667,
-   "lng": -4.0111,
-   "shift": "jour",
+   "lat": 34.2284445,
+   "lng": -4.0083011,
+   "shift": "nuit",
    "shift_label": ""
   },
   {
@@ -39,12 +30,12 @@
    "phone": "+212535672065",
    "lat": 34.22815,
    "lng": -4.005483,
-   "shift": "jour",
+   "shift": "nuit",
    "shift_label": ""
   }
  ],
  "center": [
-  34.2304,
-  -4.0163
+  34.2316,
+  -4.0134
  ]
 }

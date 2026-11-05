@@ -7,17 +7,17 @@
  "kind": "roster",
  "pharmacies": [
   {
-   "name": "Pharmacie El Khayria",
-   "address": "13 rue de Fes, Tiflet",
-   "phone": "+212537513872",
-   "lat": 33.89567,
-   "lng": -6.31231,
+   "name": "Pharmacie Aniber",
+   "address": "hay Nahda 2, Tiflet",
+   "phone": "+212537512835",
+   "lat": 33.88936,
+   "lng": -6.31772,
    "shift": "nuit",
    "shift_label": ""
   }
  ],
  "center": [
-  33.8957,
-  -6.3123
+  33.8894,
+  -6.3177
  ]
 }

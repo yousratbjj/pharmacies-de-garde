@@ -14,19 +14,10 @@
    "lng": -6.152866,
    "shift": "jour",
    "shift_label": ""
-  },
-  {
-   "name": "PHARMACIE LIXUS",
-   "address": "112 bd. Hassan II Appeler 05 39 91 •• •• Itinéraire Carte Partager Voir la fiche",
-   "phone": "+212539914020",
-   "lat": 35.19275,
-   "lng": -6.151317,
-   "shift": "jour",
-   "shift_label": ""
   }
  ],
  "center": [
-  35.1819,
-  -6.1521
+  35.171,
+  -6.1529
  ]
 }

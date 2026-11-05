@@ -16,6 +16,15 @@
    "shift_label": ""
   },
   {
+   "name": "Pharmacie Andalousie",
+   "address": "4871, lot Erac Badr , Oujah Arouss",
+   "phone": "+212535557909",
+   "lat": 33.9039513,
+   "lng": -5.5738025,
+   "shift": "24h",
+   "shift_label": ""
+  },
+  {
    "name": "Pharmacie Balsam",
    "address": "Hay Al Amal , sidi Bouzekri rue 1",
    "phone": "+212535450489",
@@ -34,39 +43,21 @@
    "shift_label": ""
   },
   {
-   "name": "Pharmacie Centrale Toulal",
-   "address": "rte de Meknès - Autre ville, Meknès",
-   "phone": "+212535557576",
-   "lat": 33.8752581,
-   "lng": -5.606887,
-   "shift": "jour",
+   "name": "Pharmacie La Baraka",
+   "address": "188, Marjane 4 , sidi Bouzekri",
+   "phone": "+212535550907",
+   "lat": 33.857687,
+   "lng": -5.5355748,
+   "shift": "24h",
    "shift_label": ""
   },
   {
-   "name": "Pharmacie de la Santé",
-   "address": "60 bd Allal Ben Abdallah, Meknès",
-   "phone": "+212535521045",
-   "lat": 33.896683,
-   "lng": -5.54565,
-   "shift": "jour",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie In Yansorkom Allah",
-   "address": "35 lotiss. Al Bassatine, Meknès",
-   "phone": "+212535502246",
-   "lat": 33.893433,
-   "lng": -5.503917,
-   "shift": "jour",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie Jibraltar",
-   "address": "138 rue Casablanca hay Al Izdihar Ouislane, Meknès",
-   "phone": "+212535548697",
-   "lat": 33.909809,
-   "lng": -5.488329,
-   "shift": "jour",
+   "name": "Pharmacie Louali",
+   "address": "hay Essalam I",
+   "phone": "+212535535044",
+   "lat": 33.8932158,
+   "lng": -5.5799516,
+   "shift": "24h",
    "shift_label": ""
   },
   {
@@ -77,10 +68,19 @@
    "lng": -5.548051,
    "shift": "jour",
    "shift_label": ""
+  },
+  {
+   "name": "Pharmacie Pharmassal",
+   "address": "Meknès",
+   "phone": "+212535469668",
+   "lat": 33.898209,
+   "lng": -5.5950056,
+   "shift": "24h",
+   "shift_label": ""
   }
  ],
  "center": [
-  33.8884,
-  -5.5482
+  33.8857,
+  -5.5656
  ]
 }

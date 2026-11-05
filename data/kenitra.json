@@ -16,20 +16,20 @@
    "shift_label": ""
   },
   {
-   "name": "PHARMACIE SANAE",
-   "address": "24 hay El Haouzia lot 178 Bloc L · Oulad Oujih Appeler 05 37 35 •• •• Itinéraire Carte Partager Voir la fiche",
-   "phone": "+212537355655",
-   "lat": 34.2666685,
-   "lng": -6.6210258,
-   "shift": "jour",
-   "shift_label": ""
-  },
-  {
    "name": "Pharmacie Saoumaa",
    "address": "5 hay Bir Rami Résidence hamza rue 2, Kénitra",
    "phone": "+212 537 357540",
    "lat": 34.250905,
    "lng": -6.608948,
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
+   "name": "PHARMACIE SANAE",
+   "address": "24 hay El Haouzia lot 178 Bloc L · Oulad Oujih Appeler 05 37 35 •• •• Itinéraire Carte Partager Voir la fiche",
+   "phone": "+212537355655",
+   "lat": 34.2666669,
+   "lng": -6.6210188,
    "shift": "jour",
    "shift_label": ""
   }

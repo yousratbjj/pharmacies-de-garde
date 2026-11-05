@@ -7,26 +7,26 @@
  "kind": "roster",
  "pharmacies": [
   {
-   "name": "PHARMACIE BAB NOUADER",
-   "address": "13 av. laayoune Appeler 05 39 70 •• •• Itinéraire Carte Partager Voir la fiche",
-   "phone": "+212539700195",
-   "lat": 35.5730764,
-   "lng": -5.3749794,
-   "shift": "jour",
+   "name": "Pharmacie Jamaa Afailal",
+   "address": "107 av Sidi Mohamed ElKharraz, Tétouan",
+   "phone": "+212539973704",
+   "lat": 35.578967,
+   "lng": -5.359933,
+   "shift": "nuit",
    "shift_label": ""
   },
   {
-   "name": "PHARMACIE LAAMRANI",
-   "address": "bd Slimane Ben Mahran rte Tanger Appeler 05 39 96 •• •• Itinéraire Carte Partager Voir la fiche",
-   "phone": "+212539969058",
-   "lat": 35.5658737,
-   "lng": -5.4136724,
-   "shift": "jour",
+   "name": "Pharmacie Touebla",
+   "address": "10 Rue Nahr Souss Touebla, Tétouan",
+   "phone": "+212539712288",
+   "lat": 35.564883,
+   "lng": -5.398433,
+   "shift": "nuit",
    "shift_label": ""
   }
  ],
  "center": [
-  35.5695,
-  -5.3943
+  35.5719,
+  -5.3792
  ]
 }

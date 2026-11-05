@@ -7,44 +7,26 @@
  "kind": "roster",
  "pharmacies": [
   {
-   "name": "Pharmacie de Sefrou",
-   "address": "Boulevard Mohammed V, Séfrou",
-   "phone": "+212535660268",
-   "lat": 33.825817,
-   "lng": -4.838217,
-   "shift": "jour",
+   "name": "Pharmacie El Masjid",
+   "address": "lot Massay n°118, Séfrou",
+   "phone": "+212661355153",
+   "lat": 33.820266,
+   "lng": -4.831989,
+   "shift": "nuit",
    "shift_label": ""
   },
   {
-   "name": "Pharmacie Imane",
-   "address": "rte El Menzel n°82/1 lotiss. El Hachmia bloc 6, Séfrou",
-   "phone": "+212532021550",
-   "lat": 33.82543,
-   "lng": -4.818019,
-   "shift": "jour",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie Setti Massaouda",
-   "address": "134 bd Moulay Ismail, Séfrou",
-   "phone": "+212535660672",
-   "lat": 33.831279,
-   "lng": -4.834921,
-   "shift": "jour",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie Zine El Abidine",
-   "address": "lotiss. Atlas Ben Seffar, Séfrou",
-   "phone": "+212535969632",
-   "lat": 33.83405,
-   "lng": -4.81895,
-   "shift": "jour",
+   "name": "Pharmacie Route de Fès",
+   "address": "route de Fès, Séfrou",
+   "phone": "+212535969538",
+   "lat": 33.83395,
+   "lng": -4.84027,
+   "shift": "nuit",
    "shift_label": ""
   }
  ],
  "center": [
-  33.8291,
-  -4.8275
+  33.8271,
+  -4.8361
  ]
 }

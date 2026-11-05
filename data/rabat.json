@@ -12,7 +12,7 @@
    "phone": "+212537794344",
    "lat": 33.979113,
    "lng": -6.879453,
-   "shift": "jour",
+   "shift": "nuit",
    "shift_label": ""
   },
   {
@@ -21,7 +21,7 @@
    "phone": "+212537695243",
    "lat": 34.012138,
    "lng": -6.858053,
-   "shift": "jour",
+   "shift": "nuit",
    "shift_label": ""
   },
   {
@@ -30,16 +30,16 @@
    "phone": "+212537751565",
    "lat": 33.960183,
    "lng": -6.818721,
-   "shift": "jour",
+   "shift": "nuit",
    "shift_label": ""
   },
   {
    "name": "PHARMACIE HAY EL FATH",
    "address": "Yacoub El Mansour, Rabat",
    "phone": "+212703010203",
-   "lat": 33.964806,
-   "lng": -6.903833,
-   "shift": "jour",
+   "lat": 33.9647906,
+   "lng": -6.9037928,
+   "shift": "24h",
    "shift_label": ""
   },
   {
@@ -48,7 +48,7 @@
    "phone": "+212537231383",
    "lat": 34.012152,
    "lng": -6.862542,
-   "shift": "jour",
+   "shift": "nuit",
    "shift_label": ""
   },
   {
@@ -57,7 +57,7 @@
    "phone": "+212537759515",
    "lat": 33.970959,
    "lng": -6.841165,
-   "shift": "jour",
+   "shift": "nuit",
    "shift_label": ""
   },
   {
@@ -66,7 +66,7 @@
    "phone": "+212537722422",
    "lat": 34.026325,
    "lng": -6.840395,
-   "shift": "jour",
+   "shift": "nuit",
    "shift_label": ""
   },
   {
@@ -75,7 +75,7 @@
    "phone": "+212537673796",
    "lat": 33.995093,
    "lng": -6.850927,
-   "shift": "jour",
+   "shift": "nuit",
    "shift_label": ""
   },
   {
@@ -84,7 +84,7 @@
    "phone": "+212537799690",
    "lat": 33.968772,
    "lng": -6.893334,
-   "shift": "jour",
+   "shift": "nuit",
    "shift_label": ""
   }
  ],

@@ -12,16 +12,7 @@
    "phone": "+212537608599",
    "lat": 33.930348,
    "lng": -6.893321,
-   "shift": "jour",
-   "shift_label": ""
-  },
-  {
-   "name": "PHARMACIE AL ZAHRAWI",
-   "address": "avenue mohamed v · Tamesna Appeler 05 37 41 •• •• Itinéraire Carte Partager Voir la fiche",
-   "phone": "+212537415672",
-   "lat": 33.827578,
-   "lng": -6.935881,
-   "shift": "jour",
+   "shift": "nuit",
    "shift_label": ""
   },
   {
@@ -30,16 +21,7 @@
    "phone": "+212537640764",
    "lat": 33.92819,
    "lng": -6.939505,
-   "shift": "jour",
-   "shift_label": ""
-  },
-  {
-   "name": "PHARMACIE L OLIVIER",
-   "address": "lot. oulad mtaâ · Oulad Mtaa Appeler 05 37 60 •• •• Itinéraire Carte Partager Voir la fiche",
-   "phone": "+212537608801",
-   "lat": 33.940722,
-   "lng": -6.893167,
-   "shift": "jour",
+   "shift": "nuit",
    "shift_label": ""
   },
   {
@@ -48,16 +30,7 @@
    "phone": "+212537408618",
    "lat": 33.910946,
    "lng": -6.905366,
-   "shift": "jour",
-   "shift_label": ""
-  },
-  {
-   "name": "PHARMACIE RIM",
-   "address": "496 Guich Oudayas (En Face BIM et à 150M, de la mosquée belbachir et attijariwafa bank)",
-   "phone": "+212537561813",
-   "lat": 33.940889,
-   "lng": -6.888611,
-   "shift": "jour",
+   "shift": "nuit",
    "shift_label": ""
   },
   {
@@ -66,7 +39,7 @@
    "phone": "+212537610163",
    "lat": 33.9269181,
    "lng": -6.9373517,
-   "shift": "jour",
+   "shift": "nuit",
    "shift_label": ""
   },
   {
@@ -75,12 +48,12 @@
    "phone": "+212537622291",
    "lat": 33.895935,
    "lng": -6.935582,
-   "shift": "jour",
+   "shift": "nuit",
    "shift_label": ""
   }
  ],
  "center": [
-  33.9127,
-  -6.9161
+  33.9185,
+  -6.9222
  ]
 }

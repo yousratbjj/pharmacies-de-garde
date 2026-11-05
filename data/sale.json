@@ -12,7 +12,7 @@
    "phone": "+212537823186",
    "lat": 34.091204,
    "lng": -6.776712,
-   "shift": "jour",
+   "shift": "nuit",
    "shift_label": ""
   },
   {
@@ -21,7 +21,7 @@
    "phone": "+212537871715",
    "lat": 34.06555,
    "lng": -6.789345,
-   "shift": "jour",
+   "shift": "nuit",
    "shift_label": ""
   },
   {
@@ -30,7 +30,7 @@
    "phone": "+212537876356",
    "lat": 34.074492,
    "lng": -6.756878,
-   "shift": "jour",
+   "shift": "nuit",
    "shift_label": ""
   },
   {
@@ -39,7 +39,7 @@
    "phone": "+212537843798",
    "lat": 34.033035,
    "lng": -6.810081,
-   "shift": "jour",
+   "shift": "nuit",
    "shift_label": ""
   },
   {
@@ -48,7 +48,7 @@
    "phone": "+212537870303",
    "lat": 34.068939,
    "lng": -6.760507,
-   "shift": "jour",
+   "shift": "nuit",
    "shift_label": ""
   },
   {
@@ -57,7 +57,7 @@
    "phone": "+212537878087",
    "lat": 34.067722,
    "lng": -6.800028,
-   "shift": "jour",
+   "shift": "nuit",
    "shift_label": ""
   },
   {
@@ -66,7 +66,7 @@
    "phone": "+212537800517",
    "lat": 34.055086,
    "lng": -6.779145,
-   "shift": "jour",
+   "shift": "nuit",
    "shift_label": ""
   },
   {
@@ -75,16 +75,7 @@
    "phone": "+212537801750",
    "lat": 34.034639,
    "lng": -6.805139,
-   "shift": "jour",
-   "shift_label": ""
-  },
-  {
-   "name": "PHARMACIE BAASSINE",
-   "address": "lot zahrat attakwa gh4 imm3 · Al Mo Appeler 06 61 40 •• •• Itinéraire Carte Partager Voir la fiche",
-   "phone": "+212661406943",
-   "lat": 34.056108,
-   "lng": -6.77489,
-   "shift": "jour",
+   "shift": "nuit",
    "shift_label": ""
   },
   {
@@ -93,12 +84,12 @@
    "phone": "+212537851291",
    "lat": 34.048433,
    "lng": -6.805617,
-   "shift": "jour",
+   "shift": "nuit",
    "shift_label": ""
   }
  ],
  "center": [
-  34.0595,
-  -6.7858
+  34.0599,
+  -6.7871
  ]
 }
