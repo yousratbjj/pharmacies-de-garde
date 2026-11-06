@@ -1,20 +1,11 @@
 {
  "city": "beni-mellal",
  "label": "Béni Mellal",
- "date": "2026-11-05",
+ "date": "2026-11-06",
  "source": "sahha.ma",
  "source_url": "https://sahha.ma/pharmacie-de-garde/beni-mellal",
  "kind": "roster",
  "pharmacies": [
-  {
-   "name": "La Grande Pharmacie Riad El Manzah",
-   "address": "85 lotiss. Riad El Manzah, Beni Mellal",
-   "phone": "+212523480955",
-   "lat": 32.321623,
-   "lng": -6.378937,
-   "shift": "nuit",
-   "shift_label": ""
-  },
   {
    "name": "Pharmacie Beni Day",
    "address": "326 av. Hassan II, Beni Mellal",
@@ -53,7 +44,7 @@
   }
  ],
  "center": [
-  32.3359,
-  -6.364
+  32.3394,
+  -6.3602
  ]
 }

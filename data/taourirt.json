@@ -1,23 +1,23 @@
 {
  "city": "taourirt",
  "label": "Taourirt",
- "date": "2026-11-05",
+ "date": "2026-11-06",
  "source": "sahha.ma",
  "source_url": "https://sahha.ma/pharmacie-de-garde/taourirt",
  "kind": "roster",
  "pharmacies": [
   {
-   "name": "Pharmacie Ennour",
-   "address": "968 rue Ifrane hay Nahda, Taourirt",
-   "phone": "+212536679261",
-   "lat": 34.41132,
-   "lng": -2.88611,
-   "shift": "nuit",
+   "name": "Pharmacie Oued Za",
+   "address": "244 X av My Abdellah hay Takaddoum, Taourirt",
+   "phone": "+212536694659",
+   "lat": 34.399682,
+   "lng": -2.898925,
+   "shift": "jour",
    "shift_label": ""
   }
  ],
  "center": [
-  34.4113,
-  -2.8861
+  34.3997,
+  -2.8989
  ]
 }

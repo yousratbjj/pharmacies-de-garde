@@ -1,27 +1,27 @@
 {
  "city": "tetouan",
  "label": "Tétouan",
- "date": "2026-11-05",
+ "date": "2026-11-06",
  "source": "sahha.ma",
  "source_url": "https://sahha.ma/pharmacie-de-garde/tetouan",
  "kind": "roster",
  "pharmacies": [
   {
-   "name": "Pharmacie Bab El Okla",
-   "address": "av. M'fadel Afailal ang. av. Med Ameziane Bab Okla, Tétouan",
+   "name": "BAB OKLA",
+   "address": "Angle Avenues Mohamed Ameziane-Lamfadal Afilal، Avenue Mohamed Ameziane, TETOUN, Moroccoملتقى شارع أمفضل افيلال ومحمد امزيان - باب العقلة",
    "phone": "+212539972738",
    "lat": 35.5706,
-   "lng": -5.363333,
-   "shift": "nuit",
+   "lng": -5.3633333,
+   "shift": "jour",
    "shift_label": ""
   },
   {
-   "name": "Pharmacie Laamrani",
-   "address": "bd Slimane Ben Mahran rte Tanger, Tétouan",
+   "name": "LAAMRANI",
+   "address": "Av Soulaiman ben mahrane rte, Tangierشارع سليمان بن مهران طريق طنجة قرب القاعة المغطاة الطيب البقالي",
    "phone": "+212539969058",
    "lat": 35.562134,
    "lng": -5.54641,
-   "shift": "nuit",
+   "shift": "jour",
    "shift_label": ""
   }
  ],

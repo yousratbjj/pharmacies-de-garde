@@ -1,23 +1,41 @@
 {
  "city": "inezgane",
  "label": "Inezgane",
- "date": "2026-11-05",
+ "date": "2026-11-06",
  "source": "sahha.ma",
  "source_url": "https://sahha.ma/pharmacie-de-garde/inezgane",
  "kind": "roster",
  "pharmacies": [
   {
-   "name": "Pharmacie AlMassira",
-   "address": "95 av. Mohammed V, Inezgane",
-   "phone": "+212528834420",
-   "lat": 30.3551,
-   "lng": -9.533467,
-   "shift": "nuit",
+   "name": "Pharmacie 10 Ramadan",
+   "address": "rue 569 n°149 Tarrast, Inezgane",
+   "phone": "+212528833866",
+   "lat": 30.350883,
+   "lng": -9.54375,
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie AlAndalouss",
+   "address": "177 av Hassan II cité Hassani, Inezgane",
+   "phone": "+212528335295",
+   "lat": 30.418284,
+   "lng": -9.575647,
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie Souss Massa",
+   "address": "derb Ali Oulhaj rue 938 n°8 Tarraste, Inezgane",
+   "phone": "+212528834471",
+   "lat": 30.353187,
+   "lng": -9.54429,
+   "shift": "jour",
    "shift_label": ""
   }
  ],
  "center": [
-  30.3551,
-  -9.5335
+  30.3741,
+  -9.5546
  ]
 }

@@ -1,54 +1,72 @@
 {
  "city": "sale",
  "label": "Salé",
- "date": "2026-11-05",
+ "date": "2026-11-06",
  "source": "sahha.ma",
  "source_url": "https://sahha.ma/pharmacie-de-garde/sale",
  "kind": "roster",
  "pharmacies": [
   {
-   "name": "Pharmacie AlOmrane",
-   "address": "52 bd Mediouna Bettana, Salé",
-   "phone": "+212537780777",
-   "lat": 34.032448,
-   "lng": -6.803918,
-   "shift": "nuit",
+   "name": "Pharmacie Ahmed Hajji",
+   "address": "3 bd Hassan II imm. 6 lot Mouline Bettana, Salé",
+   "phone": "+212537803271",
+   "lat": 34.035123,
+   "lng": -6.808587,
+   "shift": "jour",
    "shift_label": ""
   },
   {
-   "name": "Pharmacie Bouchouk",
-   "address": "3 Lotiss Bouchouk 1 Rte Kénitra résid. Salah-Eddine imm.4, Salé",
-   "phone": "+212537846691",
-   "lat": 34.0543,
-   "lng": -6.79154,
-   "shift": "nuit",
+   "name": "Pharmacie AlAnwar",
+   "address": "215 rue Sidi Allal El Bahraoui Hay Inbiat, Salé",
+   "phone": "+212537803172",
+   "lat": 34.047541,
+   "lng": -6.77709,
+   "shift": "jour",
    "shift_label": ""
   },
   {
-   "name": "Pharmacie de l'Aube",
-   "address": "47 bd Abdelkhalek Torrès, Salé",
-   "phone": "+212537855600",
-   "lat": 34.042095,
-   "lng": -6.795778,
-   "shift": "nuit",
+   "name": "PHARMACIE AL HAYAT",
+   "address": "PHARMACIE LABORATOIRE, AL HAYAT, Av. De L'Atlas Al Kabir N°5 Imm. des enseignants",
+   "phone": "+212537808401",
+   "lat": 34.042556,
+   "lng": -6.790944,
+   "shift": "jour",
    "shift_label": ""
   },
   {
-   "name": "Pharmacie El Amrani",
-   "address": "132 rue Jamaat lamssid Sect al qods laayayda, Salé",
-   "phone": "+212530027782",
-   "lat": 34.065215,
-   "lng": -6.751493,
-   "shift": "nuit",
+   "name": "PHARMACIE IBN AL HAYTAM",
+   "address": "N° 186 Ang Avenue Med 5 et, Rue Al ayoubiyine (قرب السوبير)",
+   "phone": "+212537873017",
+   "lat": 34.067237,
+   "lng": -6.7782869,
+   "shift": "jour",
    "shift_label": ""
   },
   {
-   "name": "Pharmacie Al Ahd AlJadid",
-   "address": "7 Bled Salmi Iza hay Inbiat, Salé",
-   "phone": "+212537814139",
-   "lat": 34.049508,
-   "lng": -6.774912,
-   "shift": "nuit",
+   "name": "PHARMACIE L'OASIS",
+   "address": "Sect 7",
+   "phone": "+212537834144",
+   "lat": 34.0101104,
+   "lng": -6.8436866,
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie Sbihi",
+   "address": "rue Sidi Bel Abbes résid. AlKhouzama, Salé",
+   "phone": "+212537786858",
+   "lat": 34.060248,
+   "lng": -6.780172,
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie Al Baraka",
+   "address": "K020 rte de Kénitra \" km 2 Lot. AlBaraka n°3 imm. \"\"F1\"\"\", Salé",
+   "phone": "+212537845959",
+   "lat": 34.06097,
+   "lng": -6.801823,
+   "shift": "jour",
    "shift_label": ""
   },
   {
@@ -57,30 +75,12 @@
    "phone": "+212537851291",
    "lat": 34.048433,
    "lng": -6.805617,
-   "shift": "nuit",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie Ibn ElHaytam",
-   "address": "189 bd Mohammed V hay Oued Eddahab, Salé",
-   "phone": "+212537873017",
-   "lat": 34.067615,
-   "lng": -6.778142,
-   "shift": "nuit",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie Koutoubia",
-   "address": "41 rte de Mehdia lotiss. Koutoubia II n°1, Salé",
-   "phone": "+212537784633",
-   "lat": 34.062873,
-   "lng": -6.807902,
-   "shift": "nuit",
+   "shift": "jour",
    "shift_label": ""
   }
  ],
  "center": [
-  34.0528,
-  -6.7887
+  34.0465,
+  -6.7983
  ]
 }

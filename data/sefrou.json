@@ -1,32 +1,50 @@
 {
  "city": "sefrou",
  "label": "Sefrou",
- "date": "2026-11-05",
+ "date": "2026-11-06",
  "source": "sahha.ma",
  "source_url": "https://sahha.ma/pharmacie-de-garde/sefrou",
  "kind": "roster",
  "pharmacies": [
   {
-   "name": "Pharmacie la Famille",
-   "address": "lotissement Bir Anzarane Ben Seffar n°19, Séfrou",
-   "phone": "+212535662264",
-   "lat": 33.8333,
-   "lng": -4.828833,
-   "shift": "nuit",
+   "name": "Pharmacie de Sefrou",
+   "address": "Boulevard Mohammed V, Séfrou",
+   "phone": "+212535660268",
+   "lat": 33.825817,
+   "lng": -4.838217,
+   "shift": "jour",
    "shift_label": ""
   },
   {
-   "name": "Pharmacie les Cérises",
-   "address": "140 Ibnou Zaidoun Habouna, Séfrou",
-   "phone": "+212535683583",
-   "lat": 33.82639,
-   "lng": -4.83121,
-   "shift": "nuit",
+   "name": "Pharmacie Imane",
+   "address": "rte El Menzel n°82/1 lotiss. El Hachmia bloc 6, Séfrou",
+   "phone": "+212532021550",
+   "lat": 33.82543,
+   "lng": -4.818019,
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie Setti Massaouda",
+   "address": "134 bd Moulay Ismail, Séfrou",
+   "phone": "+212535660672",
+   "lat": 33.831279,
+   "lng": -4.834921,
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie Zine El Abidine",
+   "address": "lotiss. Atlas Ben Seffar, Séfrou",
+   "phone": "+212535969632",
+   "lat": 33.83405,
+   "lng": -4.81895,
+   "shift": "jour",
    "shift_label": ""
   }
  ],
  "center": [
-  33.8298,
-  -4.83
+  33.8291,
+  -4.8275
  ]
 }

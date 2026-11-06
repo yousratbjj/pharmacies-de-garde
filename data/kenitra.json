@@ -1,32 +1,68 @@
 {
  "city": "kenitra",
  "label": "Kénitra",
- "date": "2026-11-05",
+ "date": "2026-11-06",
  "source": "sahha.ma",
  "source_url": "https://sahha.ma/pharmacie-de-garde/kenitra",
  "kind": "roster",
  "pharmacies": [
   {
-   "name": "Pharmacie ElReda",
-   "address": "hay Chabab grp 96 n°2 Saknia, Kénitra",
-   "phone": "+212537392042",
-   "lat": 34.248357,
-   "lng": -6.547503,
+   "name": "Pharmacie Al Bahaa",
+   "address": "Av. Abi Chita El Jamaai, Kénitra",
+   "phone": "+212673581007",
+   "lat": 34.246018,
+   "lng": -6.60993,
    "shift": "jour",
    "shift_label": ""
   },
   {
-   "name": "Pharmacie Mohammed",
-   "address": "2 rue Ibn Benna mosquée Lalla Khadija, Kénitra",
+   "name": "Pharmacie de l'Ecole",
+   "address": "hay Ouled Oujih bloc A lot 172, Kénitra",
+   "phone": "+212537350276",
+   "lat": 34.262761,
+   "lng": -6.620962,
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie Elmassira",
+   "address": "hay Chabab grp. 90, Kénitra",
+   "phone": "+212537380627",
+   "lat": 34.252018,
+   "lng": -6.550299,
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie Ennasr",
+   "address": "hay Bab Fès lotiss. Haj Salah n°1, Kénitra",
+   "phone": "+212537387900",
+   "lat": 34.272106,
+   "lng": -6.557952,
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie Iskan Chaabi",
+   "address": "lotiss. Dar Salama bloc H n°32 mag 14000, Kénitra",
+   "phone": "+212537371583",
+   "lat": 34.273112,
+   "lng": -6.595644,
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
+   "name": "PHARMACIE MOHAMMED",
+   "address": "2 rue Ibn Benna mosquée Lalla Khadija · Ville Nouvelle Appeler 05 37 37 •• •• Itinéraire Carte Partager Voir la ficheشارع ابن البنا",
    "phone": "+212537373573",
-   "lat": 34.254089,
-   "lng": -6.584132,
+   "lat": 34.2541012,
+   "lng": -6.5840229,
    "shift": "jour",
    "shift_label": ""
   }
  ],
  "center": [
-  34.2512,
-  -6.5658
+  34.26,
+  -6.5865
  ]
 }

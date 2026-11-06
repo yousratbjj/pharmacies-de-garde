@@ -1,32 +1,32 @@
 {
  "city": "taza",
  "label": "Taza",
- "date": "2026-11-05",
+ "date": "2026-11-06",
  "source": "sahha.ma",
  "source_url": "https://sahha.ma/pharmacie-de-garde/taza",
  "kind": "roster",
  "pharmacies": [
   {
-   "name": "Pharmacie El Fath",
-   "address": "3 av. 11 Janvier hay Tennis, Taza",
-   "phone": "+212535672364",
-   "lat": 34.2308,
-   "lng": -4.01405,
-   "shift": "nuit",
+   "name": "Pharmacie Bab Rih",
+   "address": "50 rue Riad Aznak, Taza",
+   "phone": "+212535270188",
+   "lat": 34.211783,
+   "lng": -4.020317,
+   "shift": "jour",
    "shift_label": ""
   },
   {
-   "name": "Pharmacie Hind",
-   "address": "14 av. Mly Abdellah Bit Ghoulam, Taza",
-   "phone": "+212535285133",
-   "lat": 34.227817,
-   "lng": -4.000767,
-   "shift": "nuit",
+   "name": "Pharmacie Nassim",
+   "address": "244 lotiss. Nassim - Autre ville, Taza",
+   "phone": "+212535211476",
+   "lat": 34.22862,
+   "lng": -3.975991,
+   "shift": "jour",
    "shift_label": ""
   }
  ],
  "center": [
-  34.2293,
-  -4.0074
+  34.2202,
+  -3.9982
  ]
 }

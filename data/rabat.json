@@ -1,72 +1,45 @@
 {
  "city": "rabat",
  "label": "Rabat",
- "date": "2026-11-05",
+ "date": "2026-11-06",
  "source": "sahha.ma",
  "source_url": "https://sahha.ma/pharmacie-de-garde/rabat",
  "kind": "roster",
  "pharmacies": [
   {
-   "name": "Pharmacie Almassira",
-   "address": "1081 avenue Al Massira (C.y.m) Amal 5, Rabat",
-   "phone": "+212537795061",
-   "lat": 33.990251,
-   "lng": -6.874488,
-   "shift": "nuit",
+   "name": "PHARMACIE AL JAZAA",
+   "address": "75 -77 Avenue Mohammed V Al Jazaa, RABAT MEDINA",
+   "phone": "+212537721002",
+   "lat": 34.02629,
+   "lng": -6.840303,
+   "shift": "jour",
    "shift_label": ""
   },
   {
-   "name": "Pharmacie du Parc",
-   "address": "57 avenue John Kennedy, Rabat",
-   "phone": "+212537751497",
-   "lat": 33.981695,
-   "lng": -6.829393,
-   "shift": "nuit",
+   "name": "PHARMACIE AL MASBAH AL KABIR",
+   "address": "Avenue Chbanat 9 Rue Ibn Taimia, En Face De La Cimetiere C.Y.M",
+   "phone": "+212537290673",
+   "lat": 33.98625,
+   "lng": -6.887722,
+   "shift": "jour",
    "shift_label": ""
   },
   {
-   "name": "Pharmacie Ibn Rochd",
-   "address": "2 Avenue Essalam (c.y.m.), Rabat",
-   "phone": "+212537690119",
-   "lat": 34.003816,
-   "lng": -6.865651,
-   "shift": "nuit",
+   "name": "PHARMACIE ASSOUNAH",
+   "address": "497 Avenue Mohamed V",
+   "phone": "+212537765995",
+   "lat": 34.011194,
+   "lng": -6.829,
+   "shift": "jour",
    "shift_label": ""
   },
   {
-   "name": "Pharmacie Ibn Toumerte",
-   "address": "40 avenue Ibn Toumert, Rabat",
-   "phone": "+212537702095",
-   "lat": 34.016354,
-   "lng": -6.839146,
-   "shift": "nuit",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie l'Hôpital Militaire",
-   "address": "4 av Al Arz (h. Ryad) hay Ryad, Rabat",
-   "phone": "+212537565030",
-   "lat": 33.964397,
-   "lng": -6.871402,
-   "shift": "nuit",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie l'Oasis",
-   "address": "8 avenue Oqbah Agdal, Rabat",
-   "phone": "+212537682503",
-   "lat": 34.010211,
-   "lng": -6.843561,
-   "shift": "nuit",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie Marjane",
-   "address": "rue d' Azilal c.com. Marjane Bouregreg, Rabat",
-   "phone": "+212537701663",
-   "lat": 34.019047,
-   "lng": -6.816678,
-   "shift": "nuit",
+   "name": "PHARMACIE DU CROISSANT",
+   "address": "200 Avenue Mohamed Ben Abdellah - Akkari",
+   "phone": "+212537690423",
+   "lat": 34.0105454,
+   "lng": -6.8595631,
+   "shift": "jour",
    "shift_label": ""
   },
   {
@@ -79,17 +52,26 @@
    "shift_label": ""
   },
   {
-   "name": "Pharmacie Naim",
-   "address": "quartier Al Kouass bloc J3 n°80 bd Al Ijtihad, Rabat",
-   "phone": "+212534197823",
-   "lat": 33.988475,
-   "lng": -6.877732,
-   "shift": "nuit",
+   "name": "PHARMACIE IBN YASSINE",
+   "address": "شارع عقبة ساحة ابن ياسين بالقرب من القاعة المغطاة ابن ياسين ومقهى الوزاني",
+   "phone": "+212537772743",
+   "lat": 34.005083,
+   "lng": -6.847556,
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie l'enfant",
+   "address": "265 hay Nahda (Takadoum) grp. I complémentaire, Rabat",
+   "phone": "+212537654128",
+   "lat": 33.990054,
+   "lng": -6.817109,
+   "shift": "jour",
    "shift_label": ""
   }
  ],
  "center": [
-  33.9932,
-  -6.858
+  33.9992,
+  -6.855
  ]
 }

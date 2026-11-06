@@ -1,77 +1,104 @@
 {
  "city": "fes",
  "label": "Fès",
- "date": "2026-11-05",
+ "date": "2026-11-06",
  "source": "sahha.ma",
  "source_url": "https://sahha.ma/pharmacie-de-garde/fes",
  "kind": "roster",
  "pharmacies": [
   {
-   "name": "Pharmacie Ain Aamir",
-   "address": "37 hay Ain Chkef - Autre ville rue El Filaha hay Hassani, Fès",
-   "phone": "+212535968845",
-   "lat": 34.002644,
-   "lng": -5.004074,
+   "name": "Pharmacie Bahja",
+   "address": "bd Mohammed V ang. Mohamed ElHayani, Fès",
+   "phone": "+212535622441",
+   "lat": 34.03885,
+   "lng": -4.998467,
    "shift": "jour",
    "shift_label": ""
   },
   {
-   "name": "Pharmacie Ain Nokbi",
-   "address": "hay Ain Nokbi Jnane El Morj, Fès",
-   "phone": "+212535762266",
-   "lat": 34.061867,
-   "lng": -4.952867,
+   "name": "Pharmacie Bennani",
+   "address": "hay Tarik 1 rue 4 n°73, Fès",
+   "phone": "+212535608788",
+   "lat": 34.032517,
+   "lng": -5.024033,
    "shift": "jour",
    "shift_label": ""
   },
   {
-   "name": "Pharmacie Fahmi",
-   "address": "178 hay Griou Zouagha, Fès",
-   "phone": "+212535612087",
-   "lat": 34.017114,
-   "lng": -5.029719,
+   "name": "Pharmacie Bouzoubaâ",
+   "address": "86 hay Lalla Soukaina, Fès",
+   "phone": "+212535748170",
+   "lat": 34.020673,
+   "lng": -5.026822,
    "shift": "jour",
    "shift_label": ""
   },
   {
-   "name": "Pharmacie le Remède",
-   "address": "3 bd Hassan Ibn Noamane hay Taj, Fès",
-   "phone": "+212535755830",
-   "lat": 34.058909,
-   "lng": -5.0109,
+   "name": "Pharmacie El Mountazah",
+   "address": "137 lotiss. Al Mountazah 1 - Autre ville, Fès",
+   "phone": "+212535755102",
+   "lat": 34.055889,
+   "lng": -5.044965,
    "shift": "jour",
    "shift_label": ""
   },
   {
-   "name": "Pharmacie Oum Al Mouminine",
-   "address": "11 lotiss. Jinane 1 Ain Chkef, Fès",
-   "phone": "+212535641277",
-   "lat": 34.040467,
-   "lng": -4.987113,
+   "name": "Pharmacie Elomran",
+   "address": "hay Nassim bloc A5 n°2 Bensouda, Fès",
+   "phone": "+212535655571",
+   "lat": 33.99737,
+   "lng": -5.059599,
    "shift": "jour",
    "shift_label": ""
   },
   {
-   "name": "Pharmacie Azzaytoune",
-   "address": "K070 rte Ras El Ma Bensouda lotiss. Azzaytoune km. 7 n°8, Fès",
-   "phone": "+212535726898",
-   "lat": 34.037498,
-   "lng": -5.044407,
+   "name": "Pharmacie Errachidia",
+   "address": "38 hay Errachidia rte Ain Chkef, Fès",
+   "phone": "+212535602239",
+   "lat": 34.01525,
+   "lng": -5.013667,
    "shift": "jour",
    "shift_label": ""
   },
   {
-   "name": "Pharmacie Mourchid",
-   "address": "2 rue Tadhia Narjiss C rte de Sefrou, Fès",
-   "phone": "+212535614828",
-   "lat": 34.01335,
-   "lng": -4.978483,
+   "name": "Pharmacie Fatima Fihria",
+   "address": "167 derb Bouajjara bab Jdid, Fès",
+   "phone": "+212535741353",
+   "lat": 34.055976,
+   "lng": -4.98293,
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie L'iris",
+   "address": "19 rue Benzert, Fès",
+   "phone": "+212535748019",
+   "lat": 34.003292,
+   "lng": -4.987941,
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie Makro",
+   "address": "3 lotiss. Fadoua n°15 q. Bensouda, Fès",
+   "phone": "+212550037656",
+   "lat": 34.020115,
+   "lng": -5.053448,
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie Noureddine",
+   "address": "hay Aouinat Al Hajjaj bloc A4 n°707, Fès",
+   "phone": "+212535960444",
+   "lat": 34.020071,
+   "lng": -4.964182,
    "shift": "jour",
    "shift_label": ""
   }
  ],
  "center": [
-  34.0331,
-  -5.0011
+  34.026,
+  -5.0156
  ]
 }

@@ -1,7 +1,7 @@
 {
  "city": "oujda",
  "label": "Oujda",
- "date": "2026-11-05",
+ "date": "2026-11-06",
  "source": "sahha.ma",
  "source_url": "https://sahha.ma/pharmacie-de-garde/oujda",
  "kind": "roster",
@@ -12,7 +12,7 @@
    "phone": "+212536502459",
    "lat": 34.65665,
    "lng": -1.9037,
-   "shift": "nuit",
+   "shift": "jour",
    "shift_label": ""
   },
   {
@@ -21,7 +21,7 @@
    "phone": "+212536518984",
    "lat": 34.685916,
    "lng": -1.956153,
-   "shift": "nuit",
+   "shift": "jour",
    "shift_label": ""
   },
   {
@@ -30,7 +30,7 @@
    "phone": "+212536748986",
    "lat": 34.69115,
    "lng": -1.888,
-   "shift": "nuit",
+   "shift": "jour",
    "shift_label": ""
   },
   {
@@ -39,30 +39,57 @@
    "phone": "+212536682725",
    "lat": 34.685783,
    "lng": -1.901133,
-   "shift": "nuit",
+   "shift": "jour",
    "shift_label": ""
   },
   {
-   "name": "PHARMACIE AL IRCHAD",
-   "address": "Hay Al Hikma Bouarfa rue Abderahim Maarouf N°1حي الحكمة بوعرفة زنقة عبد الرحيم معروف رقم1",
-   "phone": "+212536502459",
-   "lat": 34.65665,
-   "lng": -1.9037,
-   "shift": "nuit",
+   "name": "Pharmacie Aynaou",
+   "address": "hay Essalam B1 n°3 rte Jerada, Oujda",
+   "phone": "+212536514751",
+   "lat": 34.67055,
+   "lng": -1.937333,
+   "shift": "jour",
    "shift_label": ""
   },
   {
-   "name": "PHARMACIE AL KAWTAR",
-   "address": "N°296 Im Kaoutar douar Drafif comune Rural Isly [+]دوار الدرافيف عمارة كوثر رقم 296",
-   "phone": "+212536518984",
-   "lat": 34.685916,
-   "lng": -1.956153,
-   "shift": "nuit",
+   "name": "Pharmacie Ista Lazaret",
+   "address": "144 bd Narjis lot Benomar Lamhalla, Oujda",
+   "phone": "+212538970925",
+   "lat": 34.67714,
+   "lng": -1.868,
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie Jellouli",
+   "address": "10 rue Ahmed Moukhtari hay ennajd rte sidi yahya, Oujda",
+   "phone": "+212536541010",
+   "lat": 34.666697,
+   "lng": -1.8769,
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie Jorf Lakhdar Rocade",
+   "address": "Jorf Lakhdar route Atacadao imm Biwi, Oujda",
+   "phone": "+212615568522",
+   "lat": 34.703729,
+   "lng": -1.9342,
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie la Clinique",
+   "address": "32 bd. Mohamed. Bellakhdar, Oujda",
+   "phone": "+212536704796",
+   "lat": 34.674317,
+   "lng": -1.920633,
+   "shift": "jour",
    "shift_label": ""
   }
  ],
  "center": [
-  34.677,
-  -1.9181
+  34.6791,
+  -1.9096
  ]
 }

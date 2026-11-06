@@ -1,23 +1,23 @@
 {
  "city": "souk-el-arba-du-gharb",
  "label": "Souk El Arba du Gharb",
- "date": "2026-11-05",
+ "date": "2026-11-06",
  "source": "sahha.ma",
  "source_url": "https://sahha.ma/pharmacie-de-garde/souk-el-arba-du-gharb",
  "kind": "roster",
  "pharmacies": [
   {
-   "name": "Pharmacie la Renaissance",
-   "address": "99 rue Tarik Bnou Ziad, Souk El Arba du Gharb",
-   "phone": "+212537900011",
-   "lat": 34.686627,
-   "lng": -6.001829,
-   "shift": "nuit",
+   "name": "Pharmacie Rida",
+   "address": "ouled ben Sbaa Laghzawna, Souk El Arba du Gharb",
+   "phone": "+212537901986",
+   "lat": 34.689154,
+   "lng": -5.988943,
+   "shift": "jour",
    "shift_label": ""
   }
  ],
  "center": [
-  34.6866,
-  -6.0018
+  34.6892,
+  -5.9889
  ]
 }

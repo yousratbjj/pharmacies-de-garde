@@ -1,23 +1,32 @@
 {
  "city": "larache",
  "label": "Larache",
- "date": "2026-11-05",
+ "date": "2026-11-06",
  "source": "sahha.ma",
  "source_url": "https://sahha.ma/pharmacie-de-garde/larache",
  "kind": "roster",
  "pharmacies": [
   {
-   "name": "Pharmacie Lalla Mennana",
-   "address": "52 bd Mohammed V, Larache",
-   "phone": "+212539916544",
-   "lat": 35.193283,
-   "lng": -6.149817,
+   "name": "Pharmacie Al Bayrouni",
+   "address": "171 bd Bahnini - Autre ville lot Al Wafae, Larache",
+   "phone": "+212809894629",
+   "lat": 35.172937,
+   "lng": -6.150521,
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie Gharnata",
+   "address": "19 bd. Hassan II, Larache",
+   "phone": "+212539912929",
+   "lat": 35.193936,
+   "lng": -6.151711,
    "shift": "jour",
    "shift_label": ""
   }
  ],
  "center": [
-  35.1933,
-  -6.1498
+  35.1834,
+  -6.1511
  ]
 }

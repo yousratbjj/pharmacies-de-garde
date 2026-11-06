@@ -1,53 +1,26 @@
 {
  "city": "meknes",
  "label": "Meknès",
- "date": "2026-11-05",
+ "date": "2026-11-06",
  "source": "sahha.ma",
  "source_url": "https://sahha.ma/pharmacie-de-garde/meknes",
  "kind": "roster",
  "pharmacies": [
-  {
-   "name": "Pharmacie Allal Ben Abdellah",
-   "address": "1439 bd Allal Ben Abdallah, Meknès",
-   "phone": "+212535549976",
-   "lat": 33.915033,
-   "lng": -5.491083,
-   "shift": "jour",
-   "shift_label": ""
-  },
   {
    "name": "Pharmacie Andalousie",
    "address": "4871, lot Erac Badr , Oujah Arouss",
    "phone": "+212535557909",
    "lat": 33.9039513,
    "lng": -5.5738025,
-   "shift": "24h",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie Asrar Assiha",
-   "address": "3 Riad Al Omrane resid Assafaa tranche 1 Ouislane, Meknès",
-   "phone": "+212700730720",
-   "lat": 33.904139,
-   "lng": -5.46983,
    "shift": "jour",
    "shift_label": ""
   },
   {
-   "name": "Pharmacie Chaouia",
-   "address": "av Chaoui , lot. Chaoui n°2 Zitoune",
-   "phone": "+212535452103",
-   "lat": 33.867367,
-   "lng": -5.555183,
-   "shift": "jour",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie Dyar Toulal",
-   "address": "10 rue Lakrai q. adm Toulal, Meknès",
-   "phone": "+212535433526",
-   "lat": 33.870724,
-   "lng": -5.524634,
+   "name": "Pharmacie de l'Atlas",
+   "address": "173, Avenue Abdelkrim El Khattabi 50000",
+   "phone": "+212535536322",
+   "lat": 33.8796088,
+   "lng": -5.5640693,
    "shift": "jour",
    "shift_label": ""
   },
@@ -57,7 +30,7 @@
    "phone": "+212535550907",
    "lat": 33.857687,
    "lng": -5.5355748,
-   "shift": "24h",
+   "shift": "jour",
    "shift_label": ""
   },
   {
@@ -66,24 +39,6 @@
    "phone": "+212535535044",
    "lat": 33.8932158,
    "lng": -5.5799516,
-   "shift": "24h",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie Mamounia",
-   "address": "26 rte de Fès résid. Fadwa, Meknès",
-   "phone": "+212535511617",
-   "lat": 33.898254,
-   "lng": -5.540018,
-   "shift": "jour",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie Mekka",
-   "address": "499 lotiss. Al Bassatine 6, Meknès",
-   "phone": "+212535501648",
-   "lat": 33.893945,
-   "lng": -5.506271,
    "shift": "jour",
    "shift_label": ""
   },
@@ -95,10 +50,46 @@
    "lng": -5.563843,
    "shift": "jour",
    "shift_label": ""
+  },
+  {
+   "name": "Pharmacie Pharmassal",
+   "address": "Meknès",
+   "phone": "+212535469668",
+   "lat": 33.898209,
+   "lng": -5.5950056,
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
+   "name": "PHARMACIE ABDELKARIM EL KHATTABI",
+   "address": "31, Rue Chefchaouen, Derb 23رقم 31 .زنقة شفشاون, درب 23رقم 31 .زنقة شفشاون, درب 23رقم 31 .زنقة شفشاون, درب 23رقم 31 .زنقة شفشاون, درب 23رقم 31 .زنقة شفشاون, درب 23",
+   "phone": "+212535548986",
+   "lat": 33.9252622,
+   "lng": -5.4938112,
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
+   "name": "PHARMACIE ABDERRAHMANE AL AWAL",
+   "address": "Tr 4, N 194, Riad Al Omrane, Meknèsرياض العمران شطر 4، رقم 194، ويسلانرياض العمران شطر 4، رقم 194، ويسلانرياض العمران شطر 4، رقم 194، ويسلان",
+   "phone": "+212535549734",
+   "lat": 33.909463,
+   "lng": -5.4675177,
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
+   "name": "PHARMACIE ACHOUHADA",
+   "address": "hay Al Bassatine 7 Tranche 3 rte Bougaraa, Meknèsحي البساتين 7, قطاع 3 طريق بوجراحي البساتين 7, قطاع 3 طريق بوجراحي البساتين 7, قطاع 3 طريق بوجراحي البساتين 7, قطاع 3 طريق بوجراحي البساتين 7, قطاع 3 طريق بوجراحي البساتين 7, قطاع 3 طريق بوجراحي البساتين 7, قطاع 3 طريق بوجراحي البساتين 7, قطاع 3 طريق بوجرا",
+   "phone": "+212535502972",
+   "lat": 33.8844602,
+   "lng": -5.5058506,
+   "shift": "jour",
+   "shift_label": ""
   }
  ],
  "center": [
-  33.8882,
-  -5.534
+  33.8922,
+  -5.5422
  ]
 }

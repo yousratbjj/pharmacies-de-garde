@@ -1,23 +1,23 @@
 {
  "city": "mechraa-bel-ksiri",
  "label": "Mechraâ Bel Ksiri",
- "date": "2026-11-05",
+ "date": "2026-11-06",
  "source": "sahha.ma",
  "source_url": "https://sahha.ma/pharmacie-de-garde/mechraa-bel-ksiri",
  "kind": "roster",
  "pharmacies": [
   {
-   "name": "Pharmacie Populaire",
-   "address": "av. Mohammed V, Mechraa Bel Ksiri",
-   "phone": "+212537905387",
-   "lat": 34.57541,
-   "lng": -5.955459,
+   "name": "Pharmacie Nouvelle",
+   "address": "225 Avenue Mohammed V, Mechraa Bel Ksiri",
+   "phone": "+212537906024",
+   "lat": 34.585434,
+   "lng": -5.957454,
    "shift": "jour",
    "shift_label": ""
   }
  ],
  "center": [
-  34.5754,
-  -5.9555
+  34.5854,
+  -5.9575
  ]
 }
