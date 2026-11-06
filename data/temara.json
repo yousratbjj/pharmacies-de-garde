@@ -12,7 +12,7 @@
    "phone": "+212537640919",
    "lat": 33.917483,
    "lng": -6.910517,
-   "shift": "jour",
+   "shift": "nuit",
    "shift_label": ""
   },
   {
@@ -21,43 +21,7 @@
    "phone": "+212537600032",
    "lat": 33.933926,
    "lng": -6.906464,
-   "shift": "jour",
-   "shift_label": ""
-  },
-  {
-   "name": "PHARMACIE AL IHSSAN",
-   "address": "24 rue imame chettebi 1992 - massira i - · El Massira Appeler 05 37 60 •• •• Itinéraire Carte Partager Voir la fiche",
-   "phone": "+212537600032",
-   "lat": 33.9304272,
-   "lng": -6.8932263,
-   "shift": "jour",
-   "shift_label": ""
-  },
-  {
-   "name": "PHARMACIE AL ZAHRAWI",
-   "address": "avenue mohamed v · Tamesna Appeler 05 37 41 •• •• Itinéraire Carte Partager Voir la fiche",
-   "phone": "+212537415672",
-   "lat": 33.827578,
-   "lng": -6.935881,
-   "shift": "jour",
-   "shift_label": ""
-  },
-  {
-   "name": "PHARMACIE L OLIVIER",
-   "address": "lot. oulad mtaâ · Oulad Mtaa Appeler 05 37 60 •• •• Itinéraire Carte Partager Voir la fiche",
-   "phone": "+212537608801",
-   "lat": 33.940722,
-   "lng": -6.893167,
-   "shift": "jour",
-   "shift_label": ""
-  },
-  {
-   "name": "PHARMACIE RIM",
-   "address": "496 Guich Oudayas (En Face BIM et à 150M, de la mosquée belbachir et attijariwafa bank)",
-   "phone": "+212537561813",
-   "lat": 33.940889,
-   "lng": -6.888611,
-   "shift": "jour",
+   "shift": "nuit",
    "shift_label": ""
   },
   {
@@ -66,7 +30,7 @@
    "phone": "+212537640764",
    "lat": 33.932167,
    "lng": -6.937639,
-   "shift": "jour",
+   "shift": "nuit",
    "shift_label": ""
   },
   {
@@ -75,7 +39,7 @@
    "phone": "+212537622291",
    "lat": 33.895935,
    "lng": -6.935582,
-   "shift": "jour",
+   "shift": "nuit",
    "shift_label": ""
   },
   {
@@ -84,7 +48,7 @@
    "phone": "+212537408618",
    "lat": 33.910972,
    "lng": -6.905389,
-   "shift": "jour",
+   "shift": "nuit",
    "shift_label": ""
   },
   {
@@ -93,12 +57,12 @@
    "phone": "+212673054609",
    "lat": 33.90808,
    "lng": -6.97001,
-   "shift": "jour",
+   "shift": "nuit",
    "shift_label": ""
   }
  ],
  "center": [
-  33.9138,
-  -6.9176
+  33.9164,
+  -6.9276
  ]
 }

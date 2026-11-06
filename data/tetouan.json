@@ -7,44 +7,26 @@
  "kind": "roster",
  "pharmacies": [
   {
-   "name": "JAMAA AFAILAL",
-   "address": "107, Av Sidi Mohamed Elkharraz107 ،شارع محمد الخراز-الطويلع (أمام جامع أفيلال)",
-   "phone": "+212539973704",
-   "lat": 35.5789557,
-   "lng": -5.3599015,
-   "shift": "jour",
+   "name": "Pharmacie Bab El Okla",
+   "address": "av. M'fadel Afailal ang. av. Med Ameziane Bab Okla, Tétouan",
+   "phone": "+212539972738",
+   "lat": 35.5706,
+   "lng": -5.363333,
+   "shift": "nuit",
    "shift_label": ""
   },
   {
-   "name": "PHARMACIE JAMAA AFAILAL",
-   "address": "107 av Sidi Mohamed ElKharraz Appeler 05 39 97 •• •• Itinéraire Carte Partager Voir la fiche107 ،شارع محمد الخراز-الطويلع (أمام جامع أفيلال)",
-   "phone": "+212539973704",
-   "lat": 35.5789557,
-   "lng": -5.3599015,
-   "shift": "jour",
-   "shift_label": ""
-  },
-  {
-   "name": "PHARMACIE TOUEBLA",
-   "address": "10 Rue Nahr Souss Touebla Appeler 05 39 71 •• •• Itinéraire Carte Partager Voir la ficheرقم 10 زنقة نهر سوس .طويبلة",
-   "phone": "+212539712288",
-   "lat": 35.5648162,
-   "lng": -5.3985753,
-   "shift": "jour",
-   "shift_label": ""
-  },
-  {
-   "name": "TOUEBLA",
-   "address": "10 zankat nahr souss .touiblaرقم 10 زنقة نهر سوس .طويبلة",
-   "phone": "+212539712288",
-   "lat": 35.5648162,
-   "lng": -5.3985753,
-   "shift": "jour",
+   "name": "Pharmacie Laamrani",
+   "address": "bd Slimane Ben Mahran rte Tanger, Tétouan",
+   "phone": "+212539969058",
+   "lat": 35.562134,
+   "lng": -5.54641,
+   "shift": "nuit",
    "shift_label": ""
   }
  ],
  "center": [
-  35.5719,
-  -5.3792
+  35.5664,
+  -5.4549
  ]
 }

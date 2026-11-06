@@ -7,6 +7,15 @@
  "kind": "roster",
  "pharmacies": [
   {
+   "name": "La Grande Pharmacie Riad El Manzah",
+   "address": "85 lotiss. Riad El Manzah, Beni Mellal",
+   "phone": "+212523480955",
+   "lat": 32.321623,
+   "lng": -6.378937,
+   "shift": "nuit",
+   "shift_label": ""
+  },
+  {
    "name": "Pharmacie Beni Day",
    "address": "326 av. Hassan II, Beni Mellal",
    "phone": "+212523420749",
@@ -44,7 +53,7 @@
   }
  ],
  "center": [
-  32.3394,
-  -6.3602
+  32.3359,
+  -6.364
  ]
 }

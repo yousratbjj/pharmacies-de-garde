@@ -12,16 +12,7 @@
    "phone": "+212537795061",
    "lat": 33.990251,
    "lng": -6.874488,
-   "shift": "jour",
-   "shift_label": ""
-  },
-  {
-   "name": "PHARMACIE BOUCHRA AL OUM",
-   "address": "Cité Chbanat, 502 C.Y.M",
-   "phone": "+212537291245",
-   "lat": 33.9839537,
-   "lng": -6.8885808,
-   "shift": "jour",
+   "shift": "nuit",
    "shift_label": ""
   },
   {
@@ -30,7 +21,7 @@
    "phone": "+212537751497",
    "lat": 33.981695,
    "lng": -6.829393,
-   "shift": "jour",
+   "shift": "nuit",
    "shift_label": ""
   },
   {
@@ -39,7 +30,7 @@
    "phone": "+212537690119",
    "lat": 34.003816,
    "lng": -6.865651,
-   "shift": "jour",
+   "shift": "nuit",
    "shift_label": ""
   },
   {
@@ -48,7 +39,7 @@
    "phone": "+212537702095",
    "lat": 34.016354,
    "lng": -6.839146,
-   "shift": "jour",
+   "shift": "nuit",
    "shift_label": ""
   },
   {
@@ -57,7 +48,7 @@
    "phone": "+212537565030",
    "lat": 33.964397,
    "lng": -6.871402,
-   "shift": "jour",
+   "shift": "nuit",
    "shift_label": ""
   },
   {
@@ -66,7 +57,7 @@
    "phone": "+212537682503",
    "lat": 34.010211,
    "lng": -6.843561,
-   "shift": "jour",
+   "shift": "nuit",
    "shift_label": ""
   },
   {
@@ -75,15 +66,15 @@
    "phone": "+212537701663",
    "lat": 34.019047,
    "lng": -6.816678,
-   "shift": "jour",
+   "shift": "nuit",
    "shift_label": ""
   },
   {
    "name": "PHARMACIE HAY EL FATH",
    "address": "Yacoub El Mansour, Rabat",
    "phone": "+212703010203",
-   "lat": 33.9647906,
-   "lng": -6.9037928,
+   "lat": 33.964806,
+   "lng": -6.903833,
    "shift": "24h",
    "shift_label": ""
   },
@@ -93,12 +84,12 @@
    "phone": "+212534197823",
    "lat": 33.988475,
    "lng": -6.877732,
-   "shift": "jour",
+   "shift": "nuit",
    "shift_label": ""
   }
  ],
  "center": [
-  33.9923,
-  -6.861
+  33.9932,
+  -6.858
  ]
 }

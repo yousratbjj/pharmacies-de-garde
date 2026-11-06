@@ -7,17 +7,17 @@
  "kind": "roster",
  "pharmacies": [
   {
-   "name": "Pharmacie Aniber",
-   "address": "hay Nahda 2, Tiflet",
-   "phone": "+212537512835",
-   "lat": 33.88936,
-   "lng": -6.31772,
+   "name": "Pharmacie Kotbiyine",
+   "address": "hay Rachad Sect. 2 n°561, Tiflet",
+   "phone": "+212537514678",
+   "lat": 33.89852,
+   "lng": -6.3293,
    "shift": "nuit",
    "shift_label": ""
   }
  ],
  "center": [
-  33.8894,
-  -6.3177
+  33.8985,
+  -6.3293
  ]
 }
