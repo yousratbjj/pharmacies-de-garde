@@ -1,50 +1,104 @@
 {
  "city": "temara",
  "label": "Témara",
- "date": "2026-11-06",
+ "date": "2026-11-07",
  "source": "sahha.ma",
  "source_url": "https://sahha.ma/pharmacie-de-garde/temara",
  "kind": "roster",
  "pharmacies": [
   {
-   "name": "Pharmacie Sijilmassa",
-   "address": "296 lotiss. Khiam 3, Témara",
+   "name": "Pharmacie AlAfaq",
+   "address": "222 hay Abbadi Brika, Témara",
+   "phone": "+212537587613",
+   "lat": 33.912067,
+   "lng": -6.919417,
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie Camelia",
+   "address": "rue Lybie lotiss. Alaoui n° 76, Témara",
+   "phone": "+212537640769",
+   "lat": 33.925133,
+   "lng": -6.920433,
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie de la famille",
+   "address": "16 av. Tarik Ibn Ziyad Massira II, Témara",
+   "phone": "+212537600690",
+   "lat": 33.9265,
+   "lng": -6.89365,
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
+   "name": "PHARMACIE DES CITES",
+   "address": "Lotissement Warda",
+   "phone": "+212537560335",
+   "lat": 33.937153,
+   "lng": -6.8935117,
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
+   "name": "PHARMACIE GRANADA",
+   "address": "Secteur 3, Lot 109, Oulad Mataâ",
+   "phone": "+212537601353",
+   "lat": 33.9385341,
+   "lng": -6.8952443,
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie Lamia",
+   "address": "19 lotiss. Hassania n°1 hay Mansour Eddahbi, Témara",
+   "phone": "+212537616478",
+   "lat": 33.905432,
+   "lng": -6.922992,
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie Noufa",
+   "address": "2041 lot. Wifak 1, Témara",
+   "phone": "+212537640424",
+   "lat": 33.918755,
+   "lng": -6.933817,
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
+   "name": "PHARMACIE SIJILMASSA",
+   "address": "Lot khiam 3 n°296",
    "phone": "+212537641004",
-   "lat": 33.907202,
-   "lng": -6.925658,
-   "shift": "nuit",
+   "lat": 33.9071462,
+   "lng": -6.9271558,
+   "shift": "jour",
    "shift_label": ""
   },
   {
-   "name": "Pharmacie Hind",
-   "address": "241 rue Othman Ibn Madhoun, Témara",
-   "phone": "+212537622291",
-   "lat": 33.895935,
-   "lng": -6.935582,
-   "shift": "nuit",
+   "name": "Pharmacie AlFirdaous",
+   "address": "369 hay El Firdaouss Massira I, Témara",
+   "phone": "+212537605047",
+   "lat": 33.923683,
+   "lng": -6.901017,
+   "shift": "jour",
    "shift_label": ""
   },
   {
-   "name": "Pharmacie Izdihar",
-   "address": "154 hay El Izdihar - Autre ville, El Harhoura",
-   "phone": "+212537626739",
-   "lat": 33.91168,
-   "lng": -6.96999,
-   "shift": "nuit",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie Macha Allah",
-   "address": "5 av. My Ali Cherif lotiss. 24 H.a. hay Massira 1, Témara",
-   "phone": "+212537607506",
-   "lat": 33.934183,
-   "lng": -6.909717,
-   "shift": "nuit",
+   "name": "Pharmacie Harhoura",
+   "address": "15 rue Dar Essalam, El Harhoura",
+   "phone": "+212537741250",
+   "lat": 33.941636,
+   "lng": -6.929386,
+   "shift": "jour",
    "shift_label": ""
   }
  ],
  "center": [
-  33.9123,
-  -6.9352
+  33.9236,
+  -6.9137
  ]
 }

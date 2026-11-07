@@ -1,23 +1,23 @@
 {
  "city": "tinghir",
  "label": "Tinghir",
- "date": "2026-11-06",
+ "date": "2026-11-07",
  "source": "sahha.ma",
  "source_url": "https://sahha.ma/pharmacie-de-garde/tinghir",
  "kind": "roster",
  "pharmacies": [
   {
-   "name": "Pharmacie Todgha",
-   "address": "1 bd Mohammed V, Tinghir",
-   "phone": "+212524834166",
-   "lat": 31.521967,
-   "lng": -5.530967,
-   "shift": "nuit",
+   "name": "Pharmacie Dinara",
+   "address": "10 bd Mohammed V - Autre ville, Tinghir",
+   "phone": "+212808694821",
+   "lat": 31.496499,
+   "lng": -5.544805,
+   "shift": "jour",
    "shift_label": ""
   }
  ],
  "center": [
-  31.522,
-  -5.531
+  31.4965,
+  -5.5448
  ]
 }

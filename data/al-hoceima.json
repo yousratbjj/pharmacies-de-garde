@@ -1,7 +1,7 @@
 {
  "city": "al-hoceima",
  "label": "Al Hoceïma",
- "date": "2026-11-06",
+ "date": "2026-11-07",
  "source": "sahha.ma",
  "source_url": "https://sahha.ma/pharmacie-de-garde/al-hoceima",
  "kind": "roster",
@@ -14,10 +14,19 @@
    "lng": -3.9382,
    "shift": "jour",
    "shift_label": ""
+  },
+  {
+   "name": "Pharmacie Granada",
+   "address": "12 av. Madagascar, Al Hoceima",
+   "phone": "+212539840204",
+   "lat": 35.243617,
+   "lng": -3.930517,
+   "shift": "jour",
+   "shift_label": ""
   }
  ],
  "center": [
-  35.2408,
-  -3.9382
+  35.2422,
+  -3.9344
  ]
 }

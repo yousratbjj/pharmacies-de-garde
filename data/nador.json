@@ -1,11 +1,29 @@
 {
  "city": "nador",
  "label": "Nador",
- "date": "2026-11-06",
+ "date": "2026-11-07",
  "source": "sahha.ma",
  "source_url": "https://sahha.ma/pharmacie-de-garde/nador",
  "kind": "roster",
  "pharmacies": [
+  {
+   "name": "Pharmacie Afra",
+   "address": "96 av Mly. Rachid Jaadar, Nador",
+   "phone": "+212536350808",
+   "lat": 35.178594,
+   "lng": -2.925437,
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie Alikhlass",
+   "address": "route Zghanghan Ihddaden, Nador",
+   "phone": "+212536330508",
+   "lat": 35.159633,
+   "lng": -2.969467,
+   "shift": "jour",
+   "shift_label": ""
+  },
   {
    "name": "Pharmacie AlMahatta",
    "address": "254 av Hassan II, Nador",
@@ -14,55 +32,10 @@
    "lng": -2.922383,
    "shift": "jour",
    "shift_label": ""
-  },
-  {
-   "name": "Pharmacie Al Majd",
-   "address": "hay Rouissi, Nador",
-   "phone": "+212536350706",
-   "lat": 35.178145,
-   "lng": -2.924224,
-   "shift": "jour",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie Bouyzarzar",
-   "address": "commune Ihaddaden, Nador",
-   "phone": "+212536601192",
-   "lat": 35.163787,
-   "lng": -2.920697,
-   "shift": "jour",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie ElOum",
-   "address": "bd. Mohammed V Jaadar, Nador",
-   "phone": "+212536353864",
-   "lat": 35.1538,
-   "lng": -2.98865,
-   "shift": "jour",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie Masjid Badr",
-   "address": "lotiss. Boulghoudan, Nador",
-   "phone": "+212536600832",
-   "lat": 35.152619,
-   "lng": -2.946634,
-   "shift": "jour",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie Nador",
-   "address": "12 quartier Laarassi, Nador",
-   "phone": "+212536330660",
-   "lat": 35.162417,
-   "lng": -2.923483,
-   "shift": "jour",
-   "shift_label": ""
   }
  ],
  "center": [
-  35.1643,
-  -2.9377
+  35.1711,
+  -2.9391
  ]
 }

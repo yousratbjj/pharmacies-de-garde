@@ -1,18 +1,18 @@
 {
  "city": "zagora",
  "label": "Zagora",
- "date": "2026-11-06",
+ "date": "2026-11-07",
  "source": "sahha.ma",
  "source_url": "https://sahha.ma/pharmacie-de-garde/zagora",
  "kind": "roster",
  "pharmacies": [
   {
-   "name": "Pharmacie Zagora",
-   "address": "bd Mohammed V, Zagora",
+   "name": "PHARMACIE ZAGORA",
+   "address": "bd Mohammed V",
    "phone": "+212524847195",
-   "lat": 30.327867,
+   "lat": 30.3278667,
    "lng": -5.83855,
-   "shift": "nuit",
+   "shift": "jour",
    "shift_label": ""
   }
  ],

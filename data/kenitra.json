@@ -1,59 +1,68 @@
 {
  "city": "kenitra",
  "label": "Kénitra",
- "date": "2026-11-06",
+ "date": "2026-11-07",
  "source": "sahha.ma",
  "source_url": "https://sahha.ma/pharmacie-de-garde/kenitra",
  "kind": "roster",
  "pharmacies": [
   {
-   "name": "Pharmacie Al Bahaa",
-   "address": "Av. Abi Chita El Jamaai, Kénitra",
-   "phone": "+212673581007",
-   "lat": 34.246018,
-   "lng": -6.60993,
+   "name": "DE L’ÉCOLE",
+   "address": "GPE A N 172 OULED OUIJIHالمجموعة أ رقم 172 اولاد أوجيه",
+   "phone": "",
+   "lat": 34.2627422,
+   "lng": -6.6209624,
    "shift": "jour",
    "shift_label": ""
   },
   {
-   "name": "Pharmacie de l'Ecole",
-   "address": "hay Ouled Oujih bloc A lot 172, Kénitra",
-   "phone": "+212537350276",
-   "lat": 34.262761,
-   "lng": -6.620962,
+   "name": "ISKAN CHAABI",
+   "address": "Lotissement Dar Salama, Bloc H n 32, Magasin 14000, Kénitraتجزئة دار السلام، بلوك ح رقم 32، متجر 14000، القنيطرة،.",
+   "phone": "",
+   "lat": 34.273153,
+   "lng": -6.5951511,
    "shift": "jour",
    "shift_label": ""
   },
   {
-   "name": "Pharmacie Elmassira",
-   "address": "hay Chabab grp. 90, Kénitra",
-   "phone": "+212537380627",
-   "lat": 34.252018,
-   "lng": -6.550299,
+   "name": "Pharmacie Amine",
+   "address": "hay Al Maghrib Al Arabi A2 n°414 Bir Rami, Kénitra",
+   "phone": "",
+   "lat": 34.243229,
+   "lng": -6.61317,
    "shift": "jour",
    "shift_label": ""
   },
   {
-   "name": "Pharmacie Ennasr",
-   "address": "hay Bab Fès lotiss. Haj Salah n°1, Kénitra",
-   "phone": "+212537387900",
-   "lat": 34.272106,
-   "lng": -6.557952,
+   "name": "Pharmacie de la Renaissance",
+   "address": "169 bd Bacha Abdelhamid El Alaoui, Kénitra",
+   "phone": "+212537382069",
+   "lat": 34.265691,
+   "lng": -6.559279,
    "shift": "jour",
    "shift_label": ""
   },
   {
-   "name": "Pharmacie Iskan Chaabi",
-   "address": "lotiss. Dar Salama bloc H n°32 mag 14000, Kénitra",
-   "phone": "+212537371583",
-   "lat": 34.273112,
-   "lng": -6.595644,
+   "name": "Pharmacie Granada",
+   "address": "hay Al Maghrib Al Arabi n°74, Kénitra",
+   "phone": "+212537372606",
+   "lat": 34.250842,
+   "lng": -6.612333,
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie Laila Chiadmi",
+   "address": "lotiss. Al Amal 2 o/Arfa n°2475, Kénitra",
+   "phone": "+212537392283",
+   "lat": 34.256311,
+   "lng": -6.58753,
    "shift": "jour",
    "shift_label": ""
   }
  ],
  "center": [
-  34.2612,
-  -6.587
+  34.2587,
+  -6.5981
  ]
 }

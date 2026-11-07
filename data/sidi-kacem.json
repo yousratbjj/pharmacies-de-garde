@@ -1,23 +1,23 @@
 {
  "city": "sidi-kacem",
  "label": "Sidi Kacem",
- "date": "2026-11-06",
+ "date": "2026-11-07",
  "source": "sahha.ma",
  "source_url": "https://sahha.ma/pharmacie-de-garde/sidi-kacem",
  "kind": "roster",
  "pharmacies": [
   {
-   "name": "Pharmacie A'Ryad",
-   "address": "446 hay Riad, Sidi Kacem",
-   "phone": "+212537590158",
-   "lat": 34.236511,
-   "lng": -5.728589,
+   "name": "Pharmacie Saad",
+   "address": "route Haj Larbi, Sidi Kacem",
+   "phone": "+212537592620",
+   "lat": 34.233005,
+   "lng": -5.706447,
    "shift": "jour",
    "shift_label": ""
   }
  ],
  "center": [
-  34.2365,
-  -5.7286
+  34.233,
+  -5.7064
  ]
 }

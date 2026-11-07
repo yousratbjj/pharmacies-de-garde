@@ -1,50 +1,86 @@
 {
  "city": "meknes",
  "label": "Meknès",
- "date": "2026-11-06",
+ "date": "2026-11-07",
  "source": "sahha.ma",
  "source_url": "https://sahha.ma/pharmacie-de-garde/meknes",
  "kind": "roster",
  "pharmacies": [
   {
+   "name": "Pharmacie Asswar Meknes",
+   "address": "Meknès",
+   "phone": "+212535546355",
+   "lat": 33.8782026,
+   "lng": -5.5700455,
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie Conseil",
+   "address": "584, Douar Kdim , sidi Baba",
+   "phone": "+212535554339",
+   "lat": 33.9004099,
+   "lng": -5.5485418,
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie Kortoba",
+   "address": "lot Kortoba , sect.2 n°72",
+   "phone": "+212535537082",
+   "lat": 33.86207,
+   "lng": -5.545512,
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
    "name": "Pharmacie La Baraka",
    "address": "188, Marjane 4 , sidi Bouzekri",
    "phone": "+212535550907",
-   "lat": 33.857687,
-   "lng": -5.5355748,
+   "lat": 33.8576687,
+   "lng": -5.5355493,
    "shift": "jour",
    "shift_label": ""
   },
   {
-   "name": "PHARMACIE ADDOHA DKHISSA",
-   "address": "28 douar Zoualeth Dkhissa Meknesرقم 28، برنامج ويسلان الاقتصادي عمارات الضحى",
-   "phone": "+212550041410",
-   "lat": 33.8983391,
-   "lng": -5.4739111,
+   "name": "Pharmacie Louali",
+   "address": "hay Essalam I",
+   "phone": "+212535535044",
+   "lat": 33.897093,
+   "lng": -5.584377,
    "shift": "jour",
    "shift_label": ""
   },
   {
-   "name": "PHARMACIE ASRAR ASSIHA",
-   "address": "3 Riad Al Omrane resid Assafaa tranche 1 Ouislane Meknes",
-   "phone": "+212700730720",
-   "lat": 33.9035319,
-   "lng": -5.4701466,
+   "name": "Pharmacie Mausolée",
+   "address": "5, derb Filala , Mly Ismail",
+   "phone": "+212535555347",
+   "lat": 33.891083,
+   "lng": -5.563583,
    "shift": "jour",
    "shift_label": ""
   },
   {
-   "name": "PHARMACIE DYAR TOULAL",
-   "address": "10 rue Lakrai q. adm Toulal Meknès",
-   "phone": "+212535433526",
-   "lat": 33.8859027,
-   "lng": -5.5976791,
+   "name": "Pharmacie Pharmassal",
+   "address": "Meknès",
+   "phone": "+212535469668",
+   "lat": 33.870267,
+   "lng": -5.58005,
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie Saramito",
+   "address": "35, Saramito 5 Touarga",
+   "phone": "+212535536581",
+   "lat": 33.875401,
+   "lng": -5.566089,
    "shift": "jour",
    "shift_label": ""
   }
  ],
  "center": [
-  33.8864,
-  -5.5193
+  33.879,
+  -5.5617
  ]
 }

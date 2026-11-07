@@ -1,104 +1,104 @@
 {
  "city": "marrakech",
  "label": "Marrakech",
- "date": "2026-11-06",
+ "date": "2026-11-07",
  "source": "sahha.ma",
  "source_url": "https://sahha.ma/pharmacie-de-garde/marrakech",
  "kind": "roster",
  "pharmacies": [
   {
-   "name": "Pharmacie Al Boustane",
-   "address": "bd Allal El Fassi opération Boustane II imm. B n°10, Marrakech",
-   "phone": "+212524304004",
-   "lat": 31.662483,
-   "lng": -8.007717,
-   "shift": "nuit",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie Al Manal",
-   "address": "877 lotiss. Zerktouni (bouakkaz) M'hamid, Marrakech",
-   "phone": "+212524372708",
-   "lat": 31.5975,
-   "lng": -8.0208,
+   "name": "Pharmacie AIN ITTI",
+   "address": "8, Qt. Ain Itti Jnanat V, prés de la poste et du Centre de Santé Ain Itti, Marrakech AÏN ITTI",
+   "phone": "+212524329798",
+   "lat": 31.648475,
+   "lng": -7.98298,
    "shift": "jour",
    "shift_label": ""
   },
   {
-   "name": "Pharmacie Al Marifa",
-   "address": "bd Prince Moulay Abdallah, Marrakech",
-   "phone": "+212524447697",
-   "lat": 31.647483,
-   "lng": -8.012517,
-   "shift": "nuit",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie AL WED",
-   "address": "5, Im. B2 Résidence Assafa, Bd. Al Mouqawama , Marrakech GRAND GUELIZ",
-   "phone": "+212524432433",
-   "lat": 31.630349,
-   "lng": -8.0265595,
+   "name": "Pharmacie AKIOUD",
+   "address": "Av. Abdelkrim Khattabi, devant Siège Principal Banque Populaire Hay Koudia , Marrakech GRAND GUELIZ",
+   "phone": "+212524420355",
+   "lat": 31.652978,
+   "lng": -8.025866,
    "shift": "jour",
    "shift_label": ""
   },
   {
-   "name": "Pharmacie AlWifak",
-   "address": "43 bd Errazi lotiss. AlBaraka, Marrakech",
-   "phone": "+212524303522",
-   "lat": 31.669626,
-   "lng": -8.006907,
+   "name": "Pharmacie AL AMANA",
+   "address": "78, Douar Ouled El Garne Rte Ait Ourir Marrakech, Marrakech NAKHIL SUD",
+   "phone": "+212524328328",
+   "lat": 31.6343658,
+   "lng": -7.9205577,
    "shift": "jour",
    "shift_label": ""
   },
   {
-   "name": "Pharmacie AL WIFAK",
-   "address": "43, Lakssour Lot. El Baraka Av. Razi près de la mosquée Lakssour, Rte de Casa, Marrakech DAOUDIAT",
-   "phone": "+212524303522",
-   "lat": 31.669611,
-   "lng": -8.006769,
+   "name": "Pharmacie AL ATLAS",
+   "address": "30, Im. Cortoba Angle Rue Sourya et Loubnane derrière Carré Eden , Marrakech GRAND GUELIZ",
+   "phone": "+212524449800",
+   "lat": 31.635081,
+   "lng": -8.009761,
    "shift": "jour",
    "shift_label": ""
   },
   {
-   "name": "Pharmacie Assounna",
-   "address": "384 Hay M'hamid, Marrakech",
-   "phone": "+212524361622",
-   "lat": 31.592383,
-   "lng": -8.034717,
+   "name": "Pharmacie AL FAJR",
+   "address": "Magasin n°8 Résidence Bab Tansift tranche 1 en face de la Mosquée Al Amira et à côté du jardin public, Marrakech SIDI GHANEM AZZOUZIA",
+   "phone": "+212680185282",
+   "lat": 31.689726,
+   "lng": -8.071031,
    "shift": "jour",
    "shift_label": ""
   },
   {
-   "name": "Pharmacie Bab Asfi",
-   "address": "488 lotiss. Bab Asfi Al Azzouzia Sidi Ghanem, Marrakech",
-   "phone": "+212524356635",
-   "lat": 31.685659,
-   "lng": -8.069606,
-   "shift": "nuit",
+   "name": "Pharmacie AL KASBAH",
+   "address": "Ksibt Nhass, 33-34 Trik Sahrij Gnawa Kasbah, Marrakech MEDINA",
+   "phone": "+212524376778",
+   "lat": 31.615569,
+   "lng": -7.987049,
+   "shift": "jour",
    "shift_label": ""
   },
   {
-   "name": "Pharmacie Belmejdoub",
-   "address": "lotiss. Oasis hay Izdihar rte de Safi, Marrakech",
-   "phone": "+212524336677",
-   "lat": 31.66439,
-   "lng": -8.02609,
-   "shift": "nuit",
+   "name": "Pharmacie AL KHAWARIZMI",
+   "address": "609, Azli Al Janoubi à côté du Lycée Al Khawarizmi, Marrakech HAY HASSANI",
+   "phone": "0525-08-49-75/76",
+   "lat": 31.616017,
+   "lng": -8.051132,
+   "shift": "jour",
    "shift_label": ""
   },
   {
-   "name": "Pharmacie Borj Targa",
-   "address": "rte de Souihla Targa, Marrakech",
-   "phone": "+212524343460",
-   "lat": 31.652067,
-   "lng": -8.061817,
+   "name": "Pharmacie AL MOUNIR",
+   "address": "633 A, M'hamid I, en face Hammam douche Douar Chaouf, en face de l’ecole Al Adarissa, Marrakech LAMHAMID",
+   "phone": "+212524360636",
+   "lat": 31.596994,
+   "lng": -8.031277,
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie ARRAHA CHKILI",
+   "address": "Résidence Erraha 12-2, Av. Guemassa près de l'école CHKILI, Marrakech LAMHAMID",
+   "phone": "+212524363349",
+   "lat": 31.5842935,
+   "lng": -8.0489874,
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie DU COMPLEXE",
+   "address": "S.Y.B.A, Qt. Industriel derrière complexe sportif, en face de la 6ème Centrale Sûreté Nationale , Marrakech SIDI YOUSSEF",
+   "phone": "+212524406467",
+   "lat": 31.607381,
+   "lng": -7.96948,
    "shift": "jour",
    "shift_label": ""
   }
  ],
  "center": [
-  31.6472,
-  -8.0273
+  31.6281,
+  -8.0098
  ]
 }

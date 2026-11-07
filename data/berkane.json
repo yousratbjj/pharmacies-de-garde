@@ -1,7 +1,7 @@
 {
  "city": "berkane",
  "label": "Berkane",
- "date": "2026-11-06",
+ "date": "2026-11-07",
  "source": "sahha.ma",
  "source_url": "https://sahha.ma/pharmacie-de-garde/berkane",
  "kind": "roster",
@@ -32,10 +32,19 @@
    "lng": -2.338933,
    "shift": "jour",
    "shift_label": ""
+  },
+  {
+   "name": "Pharmacie Ibn Lbaytar",
+   "address": "21 rue Ibn Arabi hay Eryad, Berkane",
+   "phone": "+212536615406",
+   "lat": 34.923883,
+   "lng": -2.305833,
+   "shift": "jour",
+   "shift_label": ""
   }
  ],
  "center": [
-  34.9259,
-  -2.3283
+  34.9254,
+  -2.3227
  ]
 }

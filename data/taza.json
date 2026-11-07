@@ -1,32 +1,41 @@
 {
  "city": "taza",
  "label": "Taza",
- "date": "2026-11-06",
+ "date": "2026-11-07",
  "source": "sahha.ma",
  "source_url": "https://sahha.ma/pharmacie-de-garde/taza",
  "kind": "roster",
  "pharmacies": [
-  {
-   "name": "Pharmacie Bab Rih",
-   "address": "50 rue Riad Aznak, Taza",
-   "phone": "+212535270188",
-   "lat": 34.211783,
-   "lng": -4.020317,
-   "shift": "nuit",
-   "shift_label": ""
-  },
   {
    "name": "Pharmacie Nassim",
    "address": "244 lotiss. Nassim - Autre ville, Taza",
    "phone": "+212535211476",
    "lat": 34.22862,
    "lng": -3.975991,
-   "shift": "nuit",
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
+   "name": "PHARMACIE BAB RIH",
+   "address": "50 rue Riad Aznak Appeler 05 35 27 •• •• Itinéraire Carte Partager Voir la fiche",
+   "phone": "+212535270188",
+   "lat": 34.2118863,
+   "lng": -4.0199448,
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie Palestine",
+   "address": "1193 lotiss. Al Amal, Taza",
+   "phone": "+212535285351",
+   "lat": 34.22853,
+   "lng": -4.02534,
+   "shift": "jour",
    "shift_label": ""
   }
  ],
  "center": [
-  34.2202,
-  -3.9982
+  34.223,
+  -4.0071
  ]
 }

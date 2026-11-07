@@ -1,23 +1,23 @@
 {
  "city": "mechraa-bel-ksiri",
  "label": "Mechraâ Bel Ksiri",
- "date": "2026-11-06",
+ "date": "2026-11-07",
  "source": "sahha.ma",
  "source_url": "https://sahha.ma/pharmacie-de-garde/mechraa-bel-ksiri",
  "kind": "roster",
  "pharmacies": [
   {
-   "name": "Pharmacie Nouvelle",
-   "address": "225 Avenue Mohammed V, Mechraa Bel Ksiri",
-   "phone": "+212537906024",
-   "lat": 34.585434,
-   "lng": -5.957454,
+   "name": "Pharmacie Zhiri",
+   "address": "164 bd Moulay Driss, Mechraa Bel Ksiri",
+   "phone": "+212537438122",
+   "lat": 34.577645,
+   "lng": -5.949896,
    "shift": "jour",
    "shift_label": ""
   }
  ],
  "center": [
-  34.5854,
-  -5.9575
+  34.5776,
+  -5.9499
  ]
 }

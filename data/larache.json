@@ -1,14 +1,14 @@
 {
  "city": "larache",
  "label": "Larache",
- "date": "2026-11-06",
+ "date": "2026-11-07",
  "source": "sahha.ma",
  "source_url": "https://sahha.ma/pharmacie-de-garde/larache",
  "kind": "roster",
  "pharmacies": [
   {
-   "name": "Pharmacie Al Bayrouni",
-   "address": "171 bd Bahnini - Autre ville lot Al Wafae, Larache",
+   "name": "PHARMACIE AL BAYROUNI",
+   "address": "Pharmacie Al Bayrouni, 171 bd Bahnini - Autre ville lot Al Wafae",
    "phone": "+212809894629",
    "lat": 35.172937,
    "lng": -6.150521,
@@ -16,17 +16,35 @@
    "shift_label": ""
   },
   {
-   "name": "Pharmacie Gharnata",
-   "address": "19 bd. Hassan II, Larache",
+   "name": "Pharmacie du Nord",
+   "address": "33 bd Omar Ibn Abdelaziz, Larache",
+   "phone": "+212539501886",
+   "lat": 35.17805,
+   "lng": -6.14505,
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
+   "name": "PHARMACIE GHARNATA",
+   "address": "19 bd. Hassan IIشارع الحسن الثاني",
    "phone": "+212539912929",
    "lat": 35.193936,
-   "lng": -6.151711,
+   "lng": -6.1517113,
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie Jaoui",
+   "address": "av Ali Abi Taleb résid. AlFath M4/A, Larache",
+   "phone": "+212539910044",
+   "lat": 35.19205,
+   "lng": -6.147783,
    "shift": "jour",
    "shift_label": ""
   }
  ],
  "center": [
-  35.1834,
-  -6.1511
+  35.1842,
+  -6.1488
  ]
 }

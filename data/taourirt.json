@@ -1,23 +1,41 @@
 {
  "city": "taourirt",
  "label": "Taourirt",
- "date": "2026-11-06",
+ "date": "2026-11-07",
  "source": "sahha.ma",
  "source_url": "https://sahha.ma/pharmacie-de-garde/taourirt",
  "kind": "roster",
  "pharmacies": [
   {
-   "name": "Pharmacie Oued Za",
-   "address": "244 X av My Abdellah hay Takaddoum, Taourirt",
+   "name": "PHARMACIE BOUBKER",
+   "address": "222 rue Lafkih ben Saleh hay Salam",
+   "phone": "+212536679504",
+   "lat": 34.413438,
+   "lng": -2.893825,
+   "shift": "24h",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie Gharnata",
+   "address": "15 hay Mokhtar Soussi, Taourirt",
+   "phone": "+212536695308",
+   "lat": 34.394658,
+   "lng": -2.886356,
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
+   "name": "PHARMACIE OUED ZA",
+   "address": "av My Abdellah hay Takaddoum Appeler 05 36 69 •• •• Itinéraire Carte Partager Voir la fiche",
    "phone": "+212536694659",
-   "lat": 34.399682,
-   "lng": -2.898925,
-   "shift": "nuit",
+   "lat": 34.4008955,
+   "lng": -2.8982261,
+   "shift": "jour",
    "shift_label": ""
   }
  ],
  "center": [
-  34.3997,
-  -2.8989
+  34.403,
+  -2.8928
  ]
 }

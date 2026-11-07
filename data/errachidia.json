@@ -1,32 +1,32 @@
 {
  "city": "errachidia",
  "label": "Errachidia",
- "date": "2026-11-06",
+ "date": "2026-11-07",
  "source": "sahha.ma",
  "source_url": "https://sahha.ma/pharmacie-de-garde/errachidia",
  "kind": "roster",
  "pharmacies": [
   {
-   "name": "Pharmacie La Cité Universitaire",
-   "address": "535 lot Mly Ali Chérif, Errachidia",
-   "phone": "+212535572057",
-   "lat": 31.937651,
-   "lng": -4.452787,
-   "shift": "nuit",
+   "name": "Pharmacie AlMoustakbal",
+   "address": "1 X lot Municipalité, Errachidia",
+   "phone": "+212535570195",
+   "lat": 31.91823,
+   "lng": -4.42926,
+   "shift": "jour",
    "shift_label": ""
   },
   {
-   "name": "Pharmacie L'habitat",
-   "address": "rue Abdelkrim Khattabi N.H, Errachidia",
-   "phone": "+212535574285",
-   "lat": 31.928726,
-   "lng": -4.421084,
-   "shift": "nuit",
+   "name": "Pharmacie Azemmour",
+   "address": "Azemmour El Jadid rue 2 n°16, Errachidia",
+   "phone": "+212535573269",
+   "lat": 31.936016,
+   "lng": -4.44768,
+   "shift": "jour",
    "shift_label": ""
   }
  ],
  "center": [
-  31.9332,
-  -4.4369
+  31.9271,
+  -4.4385
  ]
 }

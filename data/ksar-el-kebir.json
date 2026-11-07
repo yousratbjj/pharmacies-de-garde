@@ -1,23 +1,32 @@
 {
  "city": "ksar-el-kebir",
  "label": "Ksar El Kebir",
- "date": "2026-11-06",
+ "date": "2026-11-07",
  "source": "sahha.ma",
  "source_url": "https://sahha.ma/pharmacie-de-garde/ksar-el-kebir",
  "kind": "roster",
  "pharmacies": [
   {
-   "name": "Pharmacie Bismillah",
-   "address": "1 douar oulad Hmid grpe H rue 23 ksar Lekbir, Ksar El Kébir",
-   "phone": "+212539902231",
-   "lat": 35.0248,
-   "lng": -5.90875,
-   "shift": "nuit",
+   "name": "Pharmacie Al Yaqtine",
+   "address": "hay Ouled Hmayde, Ksar El Kébir",
+   "phone": "+212539907734",
+   "lat": 34.998872,
+   "lng": -5.908089,
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie Arrahma",
+   "address": "hay Assalame rue 32 grp Z n°5 bis, Ksar El Kébir",
+   "phone": "+212539918810",
+   "lat": 35.01189,
+   "lng": -5.90594,
+   "shift": "jour",
    "shift_label": ""
   }
  ],
  "center": [
-  35.0248,
-  -5.9088
+  35.0054,
+  -5.907
  ]
 }

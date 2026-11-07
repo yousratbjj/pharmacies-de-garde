@@ -1,32 +1,104 @@
 {
  "city": "tetouan",
  "label": "Tétouan",
- "date": "2026-11-06",
+ "date": "2026-11-07",
  "source": "sahha.ma",
  "source_url": "https://sahha.ma/pharmacie-de-garde/tetouan",
  "kind": "roster",
  "pharmacies": [
   {
-   "name": "Pharmacie Haoumat Issaoua",
-   "address": "84 av. Otman Ibn Affan, Tétouan",
-   "phone": "+212539713355",
-   "lat": 35.5779,
-   "lng": -5.37715,
-   "shift": "nuit",
+   "name": "HAOUMAT ISSAOUA",
+   "address": "84 av. Otman Ibn Affanرقم84 شارع عثمان إبن عفان",
+   "phone": "",
+   "lat": 35.5790332,
+   "lng": -5.3880374,
+   "shift": "jour",
    "shift_label": ""
   },
   {
-   "name": "Pharmacie Sidi ElMandri",
-   "address": "6 rue Mohamed Daoud, Tétouan",
+   "name": "Pharmacie Al Qods",
+   "address": "1 rue Moritania, Tétouan",
+   "phone": "+212539700309",
+   "lat": 35.57295,
+   "lng": -5.379367,
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie Avenue des F.a.r",
+   "address": "bd des F.a.r. rue J n°29 imm Rzini, Tétouan",
+   "phone": "+212539996611",
+   "lat": 35.573908,
+   "lng": -5.360544,
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie Ben Abduluahab",
+   "address": "209 Bd Jabal hayane, Tétouan",
+   "phone": "+212539992884",
+   "lat": 35.572145,
+   "lng": -5.37556,
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie Derdabi",
+   "address": "7 Sakia Elfoukia Fendak, Tétouan",
+   "phone": "+212539991109",
+   "lat": 35.5708,
+   "lng": -5.366317,
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie El Amraoui",
+   "address": "84 rue Walili lotis. Mounia, Tétouan",
+   "phone": "+212539715561",
+   "lat": 35.562968,
+   "lng": -5.357695,
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
+   "name": "PHARMACIE HAOUMAT ISSAOUA",
+   "address": "84 av. Otman Ibn Affanرقم84 شارع عثمان إبن عفان",
+   "phone": "+212539713355",
+   "lat": 35.5790332,
+   "lng": -5.3880374,
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie Omar Ibn Abdelaziz",
+   "address": "218 av Haj Mohamed Benouna, Tétouan",
+   "phone": "+212539993715",
+   "lat": 35.589617,
+   "lng": -5.3549,
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie Sabri",
+   "address": "145 Mohammed Daoud, Tétouan",
+   "phone": "+212539973907",
+   "lat": 35.579533,
+   "lng": -5.344733,
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
+   "name": "PHARMACIE SIDI ELMANDRI",
+   "address": "6 rue mohamed daoud",
    "phone": "+212539974454",
-   "lat": 35.575717,
-   "lng": -5.3428,
-   "shift": "nuit",
+   "lat": 35.5758068,
+   "lng": -5.3427604,
+   "shift": "jour",
    "shift_label": ""
   }
  ],
  "center": [
-  35.5768,
-  -5.36
+  35.5756,
+  -5.3658
  ]
 }

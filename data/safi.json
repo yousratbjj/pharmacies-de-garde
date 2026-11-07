@@ -1,7 +1,7 @@
 {
  "city": "safi",
  "label": "Safi",
- "date": "2026-11-06",
+ "date": "2026-11-07",
  "source": "sahha.ma",
  "source_url": "https://sahha.ma/pharmacie-de-garde/safi",
  "kind": "roster",
@@ -12,7 +12,7 @@
    "phone": "+212524650858",
    "lat": 32.280667,
    "lng": -9.244983,
-   "shift": "nuit",
+   "shift": "jour",
    "shift_label": ""
   },
   {
@@ -21,7 +21,7 @@
    "phone": "+212524628868",
    "lat": 32.29916,
    "lng": -9.2331,
-   "shift": "nuit",
+   "shift": "jour",
    "shift_label": ""
   },
   {
@@ -30,12 +30,30 @@
    "phone": "+212524666028",
    "lat": 32.321533,
    "lng": -9.253033,
-   "shift": "nuit",
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie Arrahma",
+   "address": "Quartier Aviation Bloc 13 n°38, Safi",
+   "phone": "+212524650609",
+   "lat": 32.269517,
+   "lng": -9.235933,
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie ElHouda",
+   "address": "2 rue Bordeaux quartier l'hopital, Safi",
+   "phone": "+212524622317",
+   "lat": 32.287033,
+   "lng": -9.235767,
+   "shift": "jour",
    "shift_label": ""
   }
  ],
  "center": [
-  32.3005,
-  -9.2437
+  32.2916,
+  -9.2406
  ]
 }

@@ -1,65 +1,11 @@
 {
  "city": "oujda",
  "label": "Oujda",
- "date": "2026-11-06",
+ "date": "2026-11-07",
  "source": "sahha.ma",
  "source_url": "https://sahha.ma/pharmacie-de-garde/oujda",
  "kind": "roster",
  "pharmacies": [
-  {
-   "name": "Pharmacie AlIrchad",
-   "address": "37 bd. Al Houria hay AlHikma, Oujda",
-   "phone": "+212536502459",
-   "lat": 34.65665,
-   "lng": -1.9037,
-   "shift": "jour",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie AlKaoutar",
-   "address": "Douar Drafif imm. Kaoutar n°296, Oujda",
-   "phone": "+212536518984",
-   "lat": 34.685916,
-   "lng": -1.956153,
-   "shift": "jour",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie Ouasrhir",
-   "address": "98 rue Alaounia lotiss. Msaad et Laamri, Oujda",
-   "phone": "+212536748986",
-   "lat": 34.69115,
-   "lng": -1.888,
-   "shift": "jour",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie Zohir",
-   "address": "rue d'Oran ang. rue d'Alger, Oujda",
-   "phone": "+212536682725",
-   "lat": 34.685783,
-   "lng": -1.901133,
-   "shift": "jour",
-   "shift_label": ""
-  },
-  {
-   "name": "PHARMACIE AL IRCHAD",
-   "address": "Hay Al Hikma Bouarfa rue Abderahim Maarouf N°1حي الحكمة بوعرفة زنقة عبد الرحيم معروف رقم1",
-   "phone": "+212536502459",
-   "lat": 34.65665,
-   "lng": -1.9037,
-   "shift": "nuit",
-   "shift_label": ""
-  },
-  {
-   "name": "PHARMACIE AL KAWTAR",
-   "address": "N°296 Im Kaoutar douar Drafif comune Rural Isly [+]دوار الدرافيف عمارة كوثر رقم 296",
-   "phone": "+212536518984",
-   "lat": 34.685916,
-   "lng": -1.956153,
-   "shift": "nuit",
-   "shift_label": ""
-  },
   {
    "name": "Pharmacie Aynaou",
    "address": "hay Essalam B1 n°3 rte Jerada, Oujda",
@@ -95,10 +41,19 @@
    "lng": -1.9342,
    "shift": "jour",
    "shift_label": ""
+  },
+  {
+   "name": "Pharmacie la Clinique",
+   "address": "32 bd. Mohamed. Bellakhdar, Oujda",
+   "phone": "+212536704796",
+   "lat": 34.674317,
+   "lng": -1.920633,
+   "shift": "jour",
+   "shift_label": ""
   }
  ],
  "center": [
-  34.678,
-  -1.9125
+  34.6785,
+  -1.9074
  ]
 }

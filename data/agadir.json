@@ -1,7 +1,7 @@
 {
  "city": "agadir",
  "label": "Agadir",
- "date": "2026-11-06",
+ "date": "2026-11-07",
  "source": "sahha.ma",
  "source_url": "https://sahha.ma/pharmacie-de-garde/agadir",
  "kind": "roster",
@@ -16,11 +16,29 @@
    "shift_label": ""
   },
   {
+   "name": "Pharmacie Al Andalous",
+   "address": "2 bd Moukaouama imm. Asma, Agadir",
+   "phone": "+212528217759",
+   "lat": 30.418283,
+   "lng": -9.57595,
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
    "name": "Pharmacie Al Imam AlKastalani",
    "address": "bd Abdallah Ben Yacine bloc 13 n° 17 cité Sidi Mohamed, Agadir",
    "phone": "+212528224258",
    "lat": 30.426283,
    "lng": -9.580233,
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie Amara",
+   "address": "14 cité Adrar Résid. Fadlallah Gh2 M1, Agadir",
+   "phone": "+212528218192",
+   "lat": 30.389356,
+   "lng": -9.504175,
    "shift": "jour",
    "shift_label": ""
   },
@@ -61,44 +79,26 @@
    "shift_label": ""
   },
   {
-   "name": "Pharmacie El Qods",
-   "address": "69 rue Imam Chafii bloc A5, Agadir",
-   "phone": "+212540011928",
-   "lat": 30.414,
-   "lng": -9.555283,
+   "name": "Pharmacie Ben Rahal El batoire",
+   "address": "rue Fès bloc 6 les Abattoires, Agadir",
+   "phone": "+212528230890",
+   "lat": 30.40885,
+   "lng": -9.58765,
    "shift": "jour",
    "shift_label": ""
   },
   {
-   "name": "Pharmacie Europa",
-   "address": "bd Vignt Août Hôtel Kenzi Europa, Agadir",
-   "phone": "+212528824946",
-   "lat": 30.417115,
-   "lng": -9.602875,
-   "shift": "jour",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie Jet Sakane",
-   "address": "Hay Bensergao Jet Sakane M1 imm. n°42 Salam Houda, Agadir",
-   "phone": "+212528322064",
-   "lat": 30.399139,
-   "lng": -9.552138,
-   "shift": "jour",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie Kettane",
-   "address": "hay Mohammadi résid. Assabah, Agadir",
-   "phone": "+212528230381",
-   "lat": 30.435615,
-   "lng": -9.565831,
+   "name": "Pharmacie Dahabia",
+   "address": "535 sect K ElHouda, Agadir",
+   "phone": "+212528321426",
+   "lat": 30.39565,
+   "lng": -9.5417,
    "shift": "jour",
    "shift_label": ""
   }
  ],
  "center": [
-  30.4237,
-  -9.5835
+  30.4183,
+  -9.5768
  ]
 }

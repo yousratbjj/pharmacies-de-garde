@@ -1,32 +1,41 @@
 {
  "city": "khemisset",
  "label": "Khémisset",
- "date": "2026-11-06",
+ "date": "2026-11-07",
  "source": "sahha.ma",
  "source_url": "https://sahha.ma/pharmacie-de-garde/khemisset",
  "kind": "roster",
  "pharmacies": [
   {
-   "name": "Pharmacie des Zemmours",
-   "address": "274 bd Mohammed V, Khémisset",
+   "name": "PHARMACIE DES ZEMMOURS",
+   "address": "274 bd Mohammed V",
    "phone": "+212537552794",
    "lat": 33.826,
-   "lng": -6.071533,
+   "lng": -6.0715333,
    "shift": "jour",
    "shift_label": ""
   },
   {
-   "name": "Pharmacie Hôpital",
-   "address": "av. Ibn Sina, Khémisset",
-   "phone": "+212537552003",
-   "lat": 33.83277,
-   "lng": -6.066047,
+   "name": "Pharmacie Conseil",
+   "address": "210 Amicale Essalam, Khémisset",
+   "phone": "+212537559627",
+   "lat": 33.841109,
+   "lng": -6.073935,
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie Naji",
+   "address": "645 Amicale El Farah 2, Khémisset",
+   "phone": "+212537559453",
+   "lat": 33.840372,
+   "lng": -6.072216,
    "shift": "jour",
    "shift_label": ""
   }
  ],
  "center": [
-  33.8294,
-  -6.0688
+  33.8358,
+  -6.0726
  ]
 }
