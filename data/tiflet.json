@@ -7,17 +7,17 @@
  "kind": "roster",
  "pharmacies": [
   {
-   "name": "Pharmacie Kotbiyine",
-   "address": "hay Rachad Sect. 2 n°561, Tiflet",
-   "phone": "+212537514678",
-   "lat": 33.89852,
-   "lng": -6.3293,
+   "name": "Pharmacie Hicham",
+   "address": "hay Rachid Sect. n°11 n°113, Tiflet",
+   "phone": "+212537514174",
+   "lat": 33.89974,
+   "lng": -6.32908,
    "shift": "nuit",
    "shift_label": ""
   }
  ],
  "center": [
-  33.8985,
-  -6.3293
+  33.8997,
+  -6.3291
  ]
 }

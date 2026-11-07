@@ -7,17 +7,17 @@
  "kind": "roster",
  "pharmacies": [
   {
-   "name": "Pharmacie AlAndalous",
-   "address": "10 rue sidi Allal El Hadj, Chefchaouen",
-   "phone": "+212539883855",
-   "lat": 35.165566,
-   "lng": -5.265993,
-   "shift": "jour",
+   "name": "Pharmacie Utaa Hammam",
+   "address": "place Utaa Hammam Demnet ElMekhzen n°82, Chefchaouen",
+   "phone": "+212539989070",
+   "lat": 35.169067,
+   "lng": -5.2613,
+   "shift": "nuit",
    "shift_label": ""
   }
  ],
  "center": [
-  35.1656,
-  -5.266
+  35.1691,
+  -5.2613
  ]
 }

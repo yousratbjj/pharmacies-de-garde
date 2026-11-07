@@ -10,8 +10,8 @@
    "name": "PHARMACIE AL JAZAA",
    "address": "75 -77 Avenue Mohammed V Al Jazaa, RABAT MEDINA",
    "phone": "+212537721002",
-   "lat": 34.02629,
-   "lng": -6.840303,
+   "lat": 34.026735,
+   "lng": -6.8405101,
    "shift": "jour",
    "shift_label": ""
   },
@@ -19,8 +19,8 @@
    "name": "PHARMACIE AL MASBAH AL KABIR",
    "address": "Avenue Chbanat 9 Rue Ibn Taimia, En Face De La Cimetiere C.Y.M",
    "phone": "+212537290673",
-   "lat": 33.98625,
-   "lng": -6.887722,
+   "lat": 33.9862446,
+   "lng": -6.88759,
    "shift": "jour",
    "shift_label": ""
   },
@@ -28,8 +28,8 @@
    "name": "PHARMACIE ASSOUNAH",
    "address": "497 Avenue Mohamed V",
    "phone": "+212537765995",
-   "lat": 34.011194,
-   "lng": -6.829,
+   "lat": 34.0112734,
+   "lng": -6.8291119,
    "shift": "jour",
    "shift_label": ""
   },
@@ -37,8 +37,17 @@
    "name": "PHARMACIE DU CROISSANT",
    "address": "200 Avenue Mohamed Ben Abdellah - Akkari",
    "phone": "+212537690423",
-   "lat": 34.0105454,
-   "lng": -6.8595631,
+   "lat": 34.0106427,
+   "lng": -6.8595086,
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
+   "name": "PHARMACIE HAY CHABAB",
+   "address": "Bloc 18 appt 2 Hay Chabab Avenue Annour C.Y.M",
+   "phone": "+212537692902",
+   "lat": 33.9957197,
+   "lng": -6.8657472,
    "shift": "jour",
    "shift_label": ""
   },
@@ -46,17 +55,26 @@
    "name": "PHARMACIE HAY EL FATH",
    "address": "Yacoub El Mansour, Rabat",
    "phone": "+212703010203",
-   "lat": 33.964806,
-   "lng": -6.903833,
+   "lat": 33.9647906,
+   "lng": -6.9037928,
    "shift": "24h",
+   "shift_label": ""
+  },
+  {
+   "name": "PHARMACIE IBN NAFIS",
+   "address": "12 Rue Jazirat Al Arabe, Sous le réstaurant Dar Naji Bab El Had",
+   "phone": "+212537720657",
+   "lat": 34.0227013,
+   "lng": -6.8424702,
+   "shift": "jour",
    "shift_label": ""
   },
   {
    "name": "PHARMACIE IBN YASSINE",
    "address": "شارع عقبة ساحة ابن ياسين بالقرب من القاعة المغطاة ابن ياسين ومقهى الوزاني",
    "phone": "+212537772743",
-   "lat": 34.005083,
-   "lng": -6.847556,
+   "lat": 34.0051128,
+   "lng": -6.8475799,
    "shift": "jour",
    "shift_label": ""
   },
@@ -68,10 +86,19 @@
    "lng": -6.817109,
    "shift": "jour",
    "shift_label": ""
+  },
+  {
+   "name": "Pharmacie PRESTIGIA",
+   "address": "Hay Riad, Rabat",
+   "phone": "+212537571584",
+   "lat": 33.9533105,
+   "lng": -6.8822135,
+   "shift": "jour",
+   "shift_label": ""
   }
  ],
  "center": [
-  33.9992,
-  -6.855
+  33.9967,
+  -6.8576
  ]
 }

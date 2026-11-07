@@ -43,6 +43,24 @@
    "shift_label": ""
   },
   {
+   "name": "PHARMACIE AL IRCHAD",
+   "address": "Hay Al Hikma Bouarfa rue Abderahim Maarouf N°1حي الحكمة بوعرفة زنقة عبد الرحيم معروف رقم1",
+   "phone": "+212536502459",
+   "lat": 34.65665,
+   "lng": -1.9037,
+   "shift": "nuit",
+   "shift_label": ""
+  },
+  {
+   "name": "PHARMACIE AL KAWTAR",
+   "address": "N°296 Im Kaoutar douar Drafif comune Rural Isly [+]دوار الدرافيف عمارة كوثر رقم 296",
+   "phone": "+212536518984",
+   "lat": 34.685916,
+   "lng": -1.956153,
+   "shift": "nuit",
+   "shift_label": ""
+  },
+  {
    "name": "Pharmacie Aynaou",
    "address": "hay Essalam B1 n°3 rte Jerada, Oujda",
    "phone": "+212536514751",
@@ -77,19 +95,10 @@
    "lng": -1.9342,
    "shift": "jour",
    "shift_label": ""
-  },
-  {
-   "name": "Pharmacie la Clinique",
-   "address": "32 bd. Mohamed. Bellakhdar, Oujda",
-   "phone": "+212536704796",
-   "lat": 34.674317,
-   "lng": -1.920633,
-   "shift": "jour",
-   "shift_label": ""
   }
  ],
  "center": [
-  34.6791,
-  -1.9096
+  34.678,
+  -1.9125
  ]
 }

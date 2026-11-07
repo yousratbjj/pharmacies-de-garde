@@ -7,21 +7,30 @@
  "kind": "roster",
  "pharmacies": [
   {
-   "name": "Pharmacie AL IRFANE",
-   "address": "40, Rouidate 3, derrière la Fac de la Langue Arabe, près de l'Institut Ibn Khaldoune et l'Ecole Al Irfane, Marrakech DAOUDIAT",
-   "phone": "+212524308286",
-   "lat": 31.64472,
-   "lng": -8.003268,
+   "name": "Pharmacie Al Boustane",
+   "address": "bd Allal El Fassi opération Boustane II imm. B n°10, Marrakech",
+   "phone": "+212524304004",
+   "lat": 31.662483,
+   "lng": -8.007717,
+   "shift": "nuit",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie Al Manal",
+   "address": "877 lotiss. Zerktouni (bouakkaz) M'hamid, Marrakech",
+   "phone": "+212524372708",
+   "lat": 31.5975,
+   "lng": -8.0208,
    "shift": "jour",
    "shift_label": ""
   },
   {
-   "name": "Pharmacie AL MANAL",
-   "address": "877, Bouakkaz derrière station Afriquia à côté de Boulangerie Ezzarktouni et près de l’Aéroport, Marrakech LAMHAMID",
-   "phone": "+212524372708",
-   "lat": 31.597509,
-   "lng": -8.020794,
-   "shift": "jour",
+   "name": "Pharmacie Al Marifa",
+   "address": "bd Prince Moulay Abdallah, Marrakech",
+   "phone": "+212524447697",
+   "lat": 31.647483,
+   "lng": -8.012517,
+   "shift": "nuit",
    "shift_label": ""
   },
   {
@@ -30,6 +39,15 @@
    "phone": "+212524432433",
    "lat": 31.630349,
    "lng": -8.0265595,
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie AlWifak",
+   "address": "43 bd Errazi lotiss. AlBaraka, Marrakech",
+   "phone": "+212524303522",
+   "lat": 31.669626,
+   "lng": -8.006907,
    "shift": "jour",
    "shift_label": ""
   },
@@ -43,62 +61,44 @@
    "shift_label": ""
   },
   {
-   "name": "Pharmacie ASSOUNNA",
-   "address": "384, M'hamid C, près du café Al Boughaz en face du collège Tarek Ibn Ziad, Marrakech LAMHAMID",
+   "name": "Pharmacie Assounna",
+   "address": "384 Hay M'hamid, Marrakech",
    "phone": "+212524361622",
-   "lat": 31.5924391,
-   "lng": -8.0347884,
+   "lat": 31.592383,
+   "lng": -8.034717,
    "shift": "jour",
    "shift_label": ""
   },
   {
-   "name": "Pharmacie BISMI ALLAH",
-   "address": "de Mc Do rte de Safi après le pont 2ème feu rouge à gauche tournez à droite à côté Arrond. Sidi Ghanem , Marrakech SIDI GHANEM AZZOUZIA",
-   "phone": "+212525035819",
-   "lat": 31.674437,
-   "lng": -8.046941,
-   "shift": "jour",
+   "name": "Pharmacie Bab Asfi",
+   "address": "488 lotiss. Bab Asfi Al Azzouzia Sidi Ghanem, Marrakech",
+   "phone": "+212524356635",
+   "lat": 31.685659,
+   "lng": -8.069606,
+   "shift": "nuit",
    "shift_label": ""
   },
   {
-   "name": "Pharmacie BORJ TARGA",
-   "address": "Route de Targa, Centre Commercial Borj Targa, en face de la Direction des Impôts Targa et en face de l’Établissement Excel Targa, Marrakech TARGA",
+   "name": "Pharmacie Belmejdoub",
+   "address": "lotiss. Oasis hay Izdihar rte de Safi, Marrakech",
+   "phone": "+212524336677",
+   "lat": 31.66439,
+   "lng": -8.02609,
+   "shift": "nuit",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie Borj Targa",
+   "address": "rte de Souihla Targa, Marrakech",
    "phone": "+212524343460",
-   "lat": 31.651993,
-   "lng": -8.061757,
-   "shift": "jour",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie DERB EL GABS",
-   "address": "394 Bis, au centre de Derb El Gabs à côté de Souk Boulerbah SYBA, Marrakech SIDI YOUSSEF",
-   "phone": "+212524401125",
-   "lat": 31.610239,
-   "lng": -7.963566,
-   "shift": "jour",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie DOUAE",
-   "address": "397, Lot. Azzouzia, l'entrée en face du marché à côté de la nouvelle Gare Routière, Route Agadir, Marrakech SIDI GHANEM AZZOUZIA",
-   "phone": "+212524356492",
-   "lat": 31.685872,
-   "lng": -8.073285,
-   "shift": "jour",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie DOUAR EL ASKAR",
-   "address": "943, Bloc 41 Hay Hassani, en face lycée Ibn Toumert et à côté de l'ancien 8ème Arrond., Marrakech HAY HASSANI",
-   "phone": "+212524340032",
-   "lat": 31.629736,
-   "lng": -8.048389,
+   "lat": 31.652067,
+   "lng": -8.061817,
    "shift": "jour",
    "shift_label": ""
   }
  ],
  "center": [
-  31.6387,
-  -8.0286
+  31.6472,
+  -8.0273
  ]
 }

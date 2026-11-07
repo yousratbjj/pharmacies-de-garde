@@ -26,7 +26,7 @@
   },
   {
    "name": "PHARMACIE AL HAYAT",
-   "address": "PHARMACIE LABORATOIRE, AL HAYAT, Av. De L'Atlas Al Kabir N°5 Imm. des enseignants",
+   "address": "Hayat Ouvert 24h/24 boulevard atlas lekbir. immeuble des enseignants · Hay Essalam Appeler 05 37 80 •• •• Itinéraire Carte Partager Voir la fiche",
    "phone": "+212537808401",
    "lat": 34.042556,
    "lng": -6.790944,
@@ -35,16 +35,16 @@
   },
   {
    "name": "PHARMACIE IBN AL HAYTAM",
-   "address": "N° 186 Ang Avenue Med 5 et, Rue Al ayoubiyine (قرب السوبير)",
+   "address": "Haytam Ouvert 24h/24 n° 186 ang avenue med 5 etrue al ayoubiyine (قرب السوبير) · Hay Arrahma Appeler 05 37 87 •• •• Itinéraire Carte Partager Voir la fiche",
    "phone": "+212537873017",
-   "lat": 34.067237,
-   "lng": -6.7782869,
+   "lat": 34.067,
+   "lng": -6.778361,
    "shift": "jour",
    "shift_label": ""
   },
   {
-   "name": "PHARMACIE L'OASIS",
-   "address": "Sect 7",
+   "name": "Pharmacie L'OASIS",
+   "address": "EL Karia & My Ismail, Salé",
    "phone": "+212537834144",
    "lat": 34.0101104,
    "lng": -6.8436866,

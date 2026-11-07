@@ -7,24 +7,6 @@
  "kind": "roster",
  "pharmacies": [
   {
-   "name": "Pharmacie Andalousie",
-   "address": "4871, lot Erac Badr , Oujah Arouss",
-   "phone": "+212535557909",
-   "lat": 33.9039513,
-   "lng": -5.5738025,
-   "shift": "jour",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie de l'Atlas",
-   "address": "173, Avenue Abdelkrim El Khattabi 50000",
-   "phone": "+212535536322",
-   "lat": 33.8796088,
-   "lng": -5.5640693,
-   "shift": "jour",
-   "shift_label": ""
-  },
-  {
    "name": "Pharmacie La Baraka",
    "address": "188, Marjane 4 , sidi Bouzekri",
    "phone": "+212535550907",
@@ -34,62 +16,35 @@
    "shift_label": ""
   },
   {
-   "name": "Pharmacie Louali",
-   "address": "hay Essalam I",
-   "phone": "+212535535044",
-   "lat": 33.8932158,
-   "lng": -5.5799516,
+   "name": "PHARMACIE ADDOHA DKHISSA",
+   "address": "28 douar Zoualeth Dkhissa Meknesرقم 28، برنامج ويسلان الاقتصادي عمارات الضحى",
+   "phone": "+212550041410",
+   "lat": 33.8983391,
+   "lng": -5.4739111,
    "shift": "jour",
    "shift_label": ""
   },
   {
-   "name": "Pharmacie Naim",
-   "address": "Meknès",
-   "phone": "+212661826866",
-   "lat": 33.877747,
-   "lng": -5.563843,
+   "name": "PHARMACIE ASRAR ASSIHA",
+   "address": "3 Riad Al Omrane resid Assafaa tranche 1 Ouislane Meknes",
+   "phone": "+212700730720",
+   "lat": 33.9035319,
+   "lng": -5.4701466,
    "shift": "jour",
    "shift_label": ""
   },
   {
-   "name": "Pharmacie Pharmassal",
-   "address": "Meknès",
-   "phone": "+212535469668",
-   "lat": 33.898209,
-   "lng": -5.5950056,
-   "shift": "jour",
-   "shift_label": ""
-  },
-  {
-   "name": "PHARMACIE ABDELKARIM EL KHATTABI",
-   "address": "31, Rue Chefchaouen, Derb 23رقم 31 .زنقة شفشاون, درب 23رقم 31 .زنقة شفشاون, درب 23رقم 31 .زنقة شفشاون, درب 23رقم 31 .زنقة شفشاون, درب 23رقم 31 .زنقة شفشاون, درب 23",
-   "phone": "+212535548986",
-   "lat": 33.9252622,
-   "lng": -5.4938112,
-   "shift": "jour",
-   "shift_label": ""
-  },
-  {
-   "name": "PHARMACIE ABDERRAHMANE AL AWAL",
-   "address": "Tr 4, N 194, Riad Al Omrane, Meknèsرياض العمران شطر 4، رقم 194، ويسلانرياض العمران شطر 4، رقم 194، ويسلانرياض العمران شطر 4، رقم 194، ويسلان",
-   "phone": "+212535549734",
-   "lat": 33.909463,
-   "lng": -5.4675177,
-   "shift": "jour",
-   "shift_label": ""
-  },
-  {
-   "name": "PHARMACIE ACHOUHADA",
-   "address": "hay Al Bassatine 7 Tranche 3 rte Bougaraa, Meknèsحي البساتين 7, قطاع 3 طريق بوجراحي البساتين 7, قطاع 3 طريق بوجراحي البساتين 7, قطاع 3 طريق بوجراحي البساتين 7, قطاع 3 طريق بوجراحي البساتين 7, قطاع 3 طريق بوجراحي البساتين 7, قطاع 3 طريق بوجراحي البساتين 7, قطاع 3 طريق بوجراحي البساتين 7, قطاع 3 طريق بوجرا",
-   "phone": "+212535502972",
-   "lat": 33.8844602,
-   "lng": -5.5058506,
+   "name": "PHARMACIE DYAR TOULAL",
+   "address": "10 rue Lakrai q. adm Toulal Meknès",
+   "phone": "+212535433526",
+   "lat": 33.8859027,
+   "lng": -5.5976791,
    "shift": "jour",
    "shift_label": ""
   }
  ],
  "center": [
-  33.8922,
-  -5.5422
+  33.8864,
+  -5.5193
  ]
 }

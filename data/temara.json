@@ -7,48 +7,12 @@
  "kind": "roster",
  "pharmacies": [
   {
-   "name": "Pharmacie AL ZAHRAWI",
-   "address": "Tamesna, Témara",
-   "phone": "+212537415672",
-   "lat": 33.827578,
-   "lng": -6.935881,
-   "shift": "jour",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie L`OLIVIER",
-   "address": "Oulad Mtaâ, Témara",
-   "phone": "+212537608801",
-   "lat": 33.940722,
-   "lng": -6.893167,
-   "shift": "jour",
-   "shift_label": ""
-  },
-  {
-   "name": "PHARMACIE MASJID ANNOUR",
-   "address": "39 Gr.6 résidence Annour 1 - Tamesna",
-   "phone": "+212537619778",
-   "lat": 33.8470047,
-   "lng": -6.9359075,
-   "shift": "jour",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie RIM",
-   "address": "El Guich Oudaya, Témara",
-   "phone": "+212537561813",
-   "lat": 33.940889,
-   "lng": -6.888611,
-   "shift": "jour",
-   "shift_label": ""
-  },
-  {
    "name": "Pharmacie Sijilmassa",
    "address": "296 lotiss. Khiam 3, Témara",
    "phone": "+212537641004",
    "lat": 33.907202,
    "lng": -6.925658,
-   "shift": "jour",
+   "shift": "nuit",
    "shift_label": ""
   },
   {
@@ -57,7 +21,7 @@
    "phone": "+212537622291",
    "lat": 33.895935,
    "lng": -6.935582,
-   "shift": "jour",
+   "shift": "nuit",
    "shift_label": ""
   },
   {
@@ -66,7 +30,7 @@
    "phone": "+212537626739",
    "lat": 33.91168,
    "lng": -6.96999,
-   "shift": "jour",
+   "shift": "nuit",
    "shift_label": ""
   },
   {
@@ -75,12 +39,12 @@
    "phone": "+212537607506",
    "lat": 33.934183,
    "lng": -6.909717,
-   "shift": "jour",
+   "shift": "nuit",
    "shift_label": ""
   }
  ],
  "center": [
-  33.9006,
-  -6.9243
+  33.9123,
+  -6.9352
  ]
 }

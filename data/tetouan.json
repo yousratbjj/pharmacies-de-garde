@@ -7,26 +7,26 @@
  "kind": "roster",
  "pharmacies": [
   {
-   "name": "BAB OKLA",
-   "address": "Angle Avenues Mohamed Ameziane-Lamfadal Afilal، Avenue Mohamed Ameziane, TETOUN, Moroccoملتقى شارع أمفضل افيلال ومحمد امزيان - باب العقلة",
-   "phone": "+212539972738",
-   "lat": 35.5706,
-   "lng": -5.3633333,
-   "shift": "jour",
+   "name": "Pharmacie Haoumat Issaoua",
+   "address": "84 av. Otman Ibn Affan, Tétouan",
+   "phone": "+212539713355",
+   "lat": 35.5779,
+   "lng": -5.37715,
+   "shift": "nuit",
    "shift_label": ""
   },
   {
-   "name": "LAAMRANI",
-   "address": "Av Soulaiman ben mahrane rte, Tangierشارع سليمان بن مهران طريق طنجة قرب القاعة المغطاة الطيب البقالي",
-   "phone": "+212539969058",
-   "lat": 35.562134,
-   "lng": -5.54641,
-   "shift": "jour",
+   "name": "Pharmacie Sidi ElMandri",
+   "address": "6 rue Mohamed Daoud, Tétouan",
+   "phone": "+212539974454",
+   "lat": 35.575717,
+   "lng": -5.3428,
+   "shift": "nuit",
    "shift_label": ""
   }
  ],
  "center": [
-  35.5664,
-  -5.4549
+  35.5768,
+  -5.36
  ]
 }

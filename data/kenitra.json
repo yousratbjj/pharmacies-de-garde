@@ -50,19 +50,10 @@
    "lng": -6.595644,
    "shift": "jour",
    "shift_label": ""
-  },
-  {
-   "name": "PHARMACIE MOHAMMED",
-   "address": "2 rue Ibn Benna mosquée Lalla Khadija · Ville Nouvelle Appeler 05 37 37 •• •• Itinéraire Carte Partager Voir la ficheشارع ابن البنا",
-   "phone": "+212537373573",
-   "lat": 34.2541012,
-   "lng": -6.5840229,
-   "shift": "jour",
-   "shift_label": ""
   }
  ],
  "center": [
-  34.26,
-  -6.5865
+  34.2612,
+  -6.587
  ]
 }
