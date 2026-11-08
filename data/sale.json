@@ -7,17 +7,8 @@
  "kind": "roster",
  "pharmacies": [
   {
-   "name": "Pharmacie AL AMAL",
-   "address": "Salé Médina, Salé",
-   "phone": "+212537781877",
-   "lat": 34.034861,
-   "lng": -6.82175,
-   "shift": "jour",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie ANNAIM",
-   "address": "Tabriquet, Salé",
+   "name": "PHARMACIE ANNAIM",
+   "address": "29 lotiss. annaim mag. n°2 tabriquet · Tabriquet Appeler 05 37 78 •• •• Itinéraire Carte Partager Voir la fiche",
    "phone": "+212537786313",
    "lat": 34.039833,
    "lng": -6.800056,
@@ -39,15 +30,6 @@
    "phone": "+212537823186",
    "lat": 34.091204,
    "lng": -6.776712,
-   "shift": "jour",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie BETTANA",
-   "address": "Bettana, Salé",
-   "phone": "+212537800556",
-   "lat": 34.029528,
-   "lng": -6.804,
    "shift": "jour",
    "shift_label": ""
   },
@@ -79,26 +61,35 @@
    "shift_label": ""
   },
   {
-   "name": "Pharmacie LA NOUVELLE CITÉ Ex: CITE ROYALE",
-   "address": "Sala El Jadida, Salé",
-   "phone": "+212537532696",
-   "lat": 33.991972,
-   "lng": -6.740361,
+   "name": "Pharmacie Sabi",
+   "address": "144 lotiss. Sabi sect. Nahda Laayayda, Salé",
+   "phone": "+212537876356",
+   "lat": 34.074492,
+   "lng": -6.756878,
    "shift": "jour",
    "shift_label": ""
   },
   {
-   "name": "Pharmacie LYAZID",
-   "address": "My Ismail, Salé",
-   "phone": "+212537808201",
-   "lat": 34.0285,
-   "lng": -6.782778,
+   "name": "Pharmacie Salaheddine",
+   "address": "468 rue Ait Sghir hay Inbiaat, Salé",
+   "phone": "+212537810403",
+   "lat": 34.049078,
+   "lng": -6.78064,
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
+   "name": "PHARMACIE WAHIBA",
+   "address": "bd moulay rachid, sala aljadida · Sala El Jadida Appeler 05 37 53 •• •• Itinéraire Carte Partager Voir la fiche",
+   "phone": "+212537532424",
+   "lat": 34.0019759,
+   "lng": -6.7404392,
    "shift": "jour",
    "shift_label": ""
   }
  ],
  "center": [
-  34.0476,
-  -6.7841
+  34.0574,
+  -6.7744
  ]
 }

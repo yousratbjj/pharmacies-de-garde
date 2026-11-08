@@ -12,7 +12,7 @@
    "phone": "+212537587613",
    "lat": 33.912067,
    "lng": -6.919417,
-   "shift": "jour",
+   "shift": "nuit",
    "shift_label": ""
   },
   {
@@ -21,7 +21,7 @@
    "phone": "+212537640769",
    "lat": 33.925133,
    "lng": -6.920433,
-   "shift": "jour",
+   "shift": "nuit",
    "shift_label": ""
   },
   {
@@ -30,25 +30,7 @@
    "phone": "+212537600690",
    "lat": 33.9265,
    "lng": -6.89365,
-   "shift": "jour",
-   "shift_label": ""
-  },
-  {
-   "name": "PHARMACIE DES CITES",
-   "address": "Lotissement Warda",
-   "phone": "+212537560335",
-   "lat": 33.937153,
-   "lng": -6.8935117,
-   "shift": "jour",
-   "shift_label": ""
-  },
-  {
-   "name": "PHARMACIE GRANADA",
-   "address": "Secteur 3, Lot 109, Oulad Mataâ",
-   "phone": "+212537601353",
-   "lat": 33.9385341,
-   "lng": -6.8952443,
-   "shift": "jour",
+   "shift": "nuit",
    "shift_label": ""
   },
   {
@@ -57,7 +39,7 @@
    "phone": "+212537616478",
    "lat": 33.905432,
    "lng": -6.922992,
-   "shift": "jour",
+   "shift": "nuit",
    "shift_label": ""
   },
   {
@@ -66,16 +48,7 @@
    "phone": "+212537640424",
    "lat": 33.918755,
    "lng": -6.933817,
-   "shift": "jour",
-   "shift_label": ""
-  },
-  {
-   "name": "PHARMACIE SIJILMASSA",
-   "address": "Lot khiam 3 n°296",
-   "phone": "+212537641004",
-   "lat": 33.9071462,
-   "lng": -6.9271558,
-   "shift": "jour",
+   "shift": "nuit",
    "shift_label": ""
   },
   {
@@ -84,7 +57,7 @@
    "phone": "+212537605047",
    "lat": 33.923683,
    "lng": -6.901017,
-   "shift": "jour",
+   "shift": "nuit",
    "shift_label": ""
   },
   {
@@ -93,12 +66,21 @@
    "phone": "+212537741250",
    "lat": 33.941636,
    "lng": -6.929386,
-   "shift": "jour",
+   "shift": "nuit",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie Hind",
+   "address": "241 rue Othman Ibn Madhoun, Témara",
+   "phone": "+212537622291",
+   "lat": 33.895935,
+   "lng": -6.935582,
+   "shift": "nuit",
    "shift_label": ""
   }
  ],
  "center": [
-  33.9236,
-  -6.9137
+  33.9186,
+  -6.9195
  ]
 }

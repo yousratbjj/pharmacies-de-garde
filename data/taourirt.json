@@ -7,21 +7,21 @@
  "kind": "roster",
  "pharmacies": [
   {
-   "name": "PHARMACIE BOUBKER",
-   "address": "222 rue Lafkih ben Saleh hay Salam",
-   "phone": "+212536679504",
-   "lat": 34.413438,
-   "lng": -2.893825,
-   "shift": "24h",
-   "shift_label": ""
-  },
-  {
    "name": "Pharmacie Gharnata",
    "address": "15 hay Mokhtar Soussi, Taourirt",
    "phone": "+212536695308",
    "lat": 34.394658,
    "lng": -2.886356,
    "shift": "jour",
+   "shift_label": ""
+  },
+  {
+   "name": "PHARMACIE BOUBKER",
+   "address": "222 rue Lafkih ben Saleh hay Salam",
+   "phone": "+212536679504",
+   "lat": 34.413438,
+   "lng": -2.893825,
+   "shift": "24h",
    "shift_label": ""
   },
   {

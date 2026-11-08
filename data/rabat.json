@@ -19,8 +19,8 @@
    "name": "PHARMACIE AL MOUNTALAK",
    "address": "23, Hay Al Mountalak - Hay Al Fath - C.Y.M",
    "phone": "+212537294480",
-   "lat": 33.9696951,
-   "lng": -6.9008125,
+   "lat": 33.9696412,
+   "lng": -6.900706,
    "shift": "jour",
    "shift_label": ""
   },
@@ -30,15 +30,6 @@
    "phone": "+212537724395",
    "lat": 34.030926,
    "lng": -6.820642,
-   "shift": "jour",
-   "shift_label": ""
-  },
-  {
-   "name": "PHARMACIE CHERQI",
-   "address": "100-100 BIS avenue Laalou Medina",
-   "phone": "+212537207474",
-   "lat": 34.0223999,
-   "lng": -6.8345399,
    "shift": "jour",
    "shift_label": ""
   },
@@ -82,8 +73,8 @@
    "name": "PHARMACIE RABAT CORNICHE",
    "address": "Rue 13, N°2, Hay Al Ahbass Route Côtière - C.Y.M",
    "phone": "+212537698488",
-   "lat": 34.002528,
-   "lng": -6.872306,
+   "lat": 34.0030443,
+   "lng": -6.8719498,
    "shift": "jour",
    "shift_label": ""
   },
@@ -95,10 +86,19 @@
    "lng": -6.865688,
    "shift": "jour",
    "shift_label": ""
+  },
+  {
+   "name": "Pharmacie ElInbiat",
+   "address": "hay El Inbiate n°72 B3, Rabat",
+   "phone": "+212537630315",
+   "lat": 33.992788,
+   "lng": -6.809456,
+   "shift": "jour",
+   "shift_label": ""
   }
  ],
  "center": [
-  33.9968,
-  -6.8545
+  33.9939,
+  -6.852
  ]
 }

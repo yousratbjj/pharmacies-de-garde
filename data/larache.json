@@ -7,29 +7,11 @@
  "kind": "roster",
  "pharmacies": [
   {
-   "name": "PHARMACIE AL BAYROUNI",
-   "address": "Pharmacie Al Bayrouni, 171 bd Bahnini - Autre ville lot Al Wafae",
-   "phone": "+212809894629",
-   "lat": 35.172937,
-   "lng": -6.150521,
-   "shift": "jour",
-   "shift_label": ""
-  },
-  {
    "name": "Pharmacie du Nord",
    "address": "33 bd Omar Ibn Abdelaziz, Larache",
    "phone": "+212539501886",
    "lat": 35.17805,
    "lng": -6.14505,
-   "shift": "jour",
-   "shift_label": ""
-  },
-  {
-   "name": "PHARMACIE GHARNATA",
-   "address": "19 bd. Hassan IIشارع الحسن الثاني",
-   "phone": "+212539912929",
-   "lat": 35.193936,
-   "lng": -6.1517113,
    "shift": "jour",
    "shift_label": ""
   },
@@ -44,7 +26,7 @@
   }
  ],
  "center": [
-  35.1842,
-  -6.1488
+  35.1851,
+  -6.1464
  ]
 }

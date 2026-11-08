@@ -7,17 +7,17 @@
  "kind": "roster",
  "pharmacies": [
   {
-   "name": "PHARMACIE ZAGORA",
-   "address": "bd Mohammed V",
-   "phone": "+212524847195",
-   "lat": 30.3278667,
-   "lng": -5.83855,
-   "shift": "jour",
+   "name": "Pharmacie Amzrou",
+   "address": "hay Amezrou, Zagora",
+   "phone": "+212524847490",
+   "lat": 30.324989,
+   "lng": -5.840628,
+   "shift": "nuit",
    "shift_label": ""
   }
  ],
  "center": [
-  30.3279,
-  -5.8385
+  30.325,
+  -5.8406
  ]
 }

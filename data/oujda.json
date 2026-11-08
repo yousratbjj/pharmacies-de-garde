@@ -50,10 +50,46 @@
    "lng": -1.920633,
    "shift": "jour",
    "shift_label": ""
+  },
+  {
+   "name": "PHARMACIE AL IRCHAD",
+   "address": "Hay Al Hikma Bouarfa rue Abderahim Maarouf N°1حي الحكمة بوعرفة زنقة عبد الرحيم معروف رقم1",
+   "phone": "+212536502459",
+   "lat": 34.65665,
+   "lng": -1.9037,
+   "shift": "nuit",
+   "shift_label": ""
+  },
+  {
+   "name": "PHARMACIE AL KAWTAR",
+   "address": "N°296 Im Kaoutar douar Drafif comune Rural Isly [+]دوار الدرافيف عمارة كوثر رقم 296",
+   "phone": "+212536518984",
+   "lat": 34.685916,
+   "lng": -1.956153,
+   "shift": "nuit",
+   "shift_label": ""
+  },
+  {
+   "name": "PHARMACIE I.S.T.A LAZARET",
+   "address": "Bd Narjis Dhar lamhalla lot Benomar N°144 [+]",
+   "phone": "+212536544975",
+   "lat": 34.67714,
+   "lng": -1.868,
+   "shift": "nuit",
+   "shift_label": ""
+  },
+  {
+   "name": "PHARMACIE OUASRHIR",
+   "address": "98 rue Al Aounia lot Msaad et Laamriرقم 98 زنقة العونية تجزئة مساعد ايت لعاميري",
+   "phone": "+212536748986",
+   "lat": 34.6906676,
+   "lng": -1.8894269,
+   "shift": "nuit",
+   "shift_label": ""
   }
  ],
  "center": [
-  34.6785,
-  -1.9074
+  34.6781,
+  -1.906
  ]
 }

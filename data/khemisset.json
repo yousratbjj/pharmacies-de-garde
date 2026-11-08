@@ -7,15 +7,6 @@
  "kind": "roster",
  "pharmacies": [
   {
-   "name": "PHARMACIE DES ZEMMOURS",
-   "address": "274 bd Mohammed V",
-   "phone": "+212537552794",
-   "lat": 33.826,
-   "lng": -6.0715333,
-   "shift": "jour",
-   "shift_label": ""
-  },
-  {
    "name": "Pharmacie Conseil",
    "address": "210 Amicale Essalam, Khémisset",
    "phone": "+212537559627",
@@ -35,7 +26,7 @@
   }
  ],
  "center": [
-  33.8358,
-  -6.0726
+  33.8407,
+  -6.0731
  ]
 }

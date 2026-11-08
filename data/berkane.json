@@ -16,6 +16,15 @@
    "shift_label": ""
   },
   {
+   "name": "Pharmacie Ibn Lbaytar",
+   "address": "21 rue Ibn Arabi hay Eryad, Berkane",
+   "phone": "+212536615406",
+   "lat": 34.923883,
+   "lng": -2.305833,
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
    "name": "Pharmacie la Victoire",
    "address": "7 bd. AlWifak hay Salem, Berkane",
    "phone": "+212536616162",
@@ -30,15 +39,6 @@
    "phone": "+212536231667",
    "lat": 34.928583,
    "lng": -2.338933,
-   "shift": "jour",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie Ibn Lbaytar",
-   "address": "21 rue Ibn Arabi hay Eryad, Berkane",
-   "phone": "+212536615406",
-   "lat": 34.923883,
-   "lng": -2.305833,
    "shift": "jour",
    "shift_label": ""
   }
