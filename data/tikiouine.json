@@ -1,32 +1,23 @@
 {
  "city": "tikiouine",
  "label": "Tikiouine",
- "date": "2026-11-07",
+ "date": "2026-11-08",
  "source": "sahha.ma",
  "source_url": "https://sahha.ma/pharmacie-de-garde/tikiouine",
  "kind": "roster",
  "pharmacies": [
-  {
-   "name": "Pharmacie Nait El Kadi",
-   "address": "Av. 14 bloc 7 rue 10, Tikiouine",
-   "phone": "+212667183097",
-   "lat": 30.37296,
-   "lng": -9.49635,
-   "shift": "nuit",
-   "shift_label": ""
-  },
   {
    "name": "Pharmacie Sidi Hssain",
    "address": "quartier Assaka bloc C n° 87, Tikiouine",
    "phone": "+212669478339",
    "lat": 30.377459,
    "lng": -9.51589,
-   "shift": "nuit",
+   "shift": "jour",
    "shift_label": ""
   }
  ],
  "center": [
-  30.3752,
-  -9.5061
+  30.3775,
+  -9.5159
  ]
 }

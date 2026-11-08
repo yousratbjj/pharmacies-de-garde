@@ -1,26 +1,26 @@
 {
  "city": "meknes",
  "label": "Meknès",
- "date": "2026-11-07",
+ "date": "2026-11-08",
  "source": "sahha.ma",
  "source_url": "https://sahha.ma/pharmacie-de-garde/meknes",
  "kind": "roster",
  "pharmacies": [
   {
-   "name": "Pharmacie Asswar Meknes",
-   "address": "Meknès",
-   "phone": "+212535546355",
-   "lat": 33.8782026,
-   "lng": -5.5700455,
+   "name": "Pharmacie Acima",
+   "address": "1, hay Zitoune , résid. Al Ghorfa",
+   "phone": "+212535466049",
+   "lat": 33.860767,
+   "lng": -5.548633,
    "shift": "jour",
    "shift_label": ""
   },
   {
-   "name": "Pharmacie Aswar",
-   "address": "112 projet Aswar Meknés, Meknès",
-   "phone": "+212532038734",
-   "lat": 33.854412,
-   "lng": -5.567936,
+   "name": "Pharmacie Andalousie",
+   "address": "4871, lot Erac Badr , Oujah Arouss",
+   "phone": "+212535557909",
+   "lat": 33.9039513,
+   "lng": -5.5738025,
    "shift": "jour",
    "shift_label": ""
   },
@@ -34,29 +34,11 @@
    "shift_label": ""
   },
   {
-   "name": "Pharmacie de la Santé",
-   "address": "60 bd Allal Ben Abdallah, Meknès",
-   "phone": "+212535521045",
-   "lat": 33.896683,
-   "lng": -5.54565,
-   "shift": "jour",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie El Ghazi Assafae",
-   "address": "11 lotiss. Riad Al Omrane tranche 5, Meknès",
-   "phone": "+212532148018",
-   "lat": 33.90781,
-   "lng": -5.460576,
-   "shift": "jour",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie Ibn Nafis",
-   "address": "hay Al Bassatine 7 El Hafra, Meknès",
-   "phone": "+212535501140",
-   "lat": 33.892767,
-   "lng": -5.505417,
+   "name": "Pharmacie de l'Atlas",
+   "address": "173, Avenue Abdelkrim El Khattabi 50000",
+   "phone": "+212535536322",
+   "lat": 33.920816,
+   "lng": -5.488178,
    "shift": "jour",
    "shift_label": ""
   },
@@ -66,7 +48,7 @@
    "phone": "+212535516383",
    "lat": 33.91012,
    "lng": -5.540191,
-   "shift": "jour",
+   "shift": "24h",
    "shift_label": ""
   },
   {
@@ -79,26 +61,35 @@
    "shift_label": ""
   },
   {
-   "name": "Pharmacie Kortoba",
-   "address": "lot Kortoba , sect.2 n°72",
-   "phone": "+212535537082",
-   "lat": 33.86207,
-   "lng": -5.545512,
-   "shift": "jour",
+   "name": "Pharmacie Jawharat Toulal",
+   "address": "57 lotiss. Al Massira - Autre ville, Meknès",
+   "phone": "+212669749098",
+   "lat": 33.880779,
+   "lng": -5.607692,
+   "shift": "24h",
    "shift_label": ""
   },
   {
    "name": "Pharmacie La Baraka",
    "address": "188, Marjane 4 , sidi Bouzekri",
    "phone": "+212535550907",
-   "lat": 33.8576687,
-   "lng": -5.5355493,
+   "lat": 33.857687,
+   "lng": -5.5355748,
    "shift": "jour",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie Radi",
+   "address": "Meknès",
+   "phone": "+212535538499",
+   "lat": 33.881677,
+   "lng": -5.584677,
+   "shift": "24h",
    "shift_label": ""
   }
  ],
  "center": [
-  33.8847,
-  -5.5357
+  33.8893,
+  -5.5517
  ]
 }

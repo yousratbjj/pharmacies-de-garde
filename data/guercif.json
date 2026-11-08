@@ -1,32 +1,32 @@
 {
  "city": "guercif",
  "label": "Guercif",
- "date": "2026-11-07",
+ "date": "2026-11-08",
  "source": "sahha.ma",
  "source_url": "https://sahha.ma/pharmacie-de-garde/guercif",
  "kind": "roster",
  "pharmacies": [
   {
-   "name": "Pharmacie Ennour",
-   "address": "lotiss. Malouiya, Guercif",
-   "phone": "+212535202133",
-   "lat": 34.21345,
-   "lng": -3.358969,
+   "name": "Pharmacie Ibn Al Haytam",
+   "address": "rue Ibn Al Haytam, Guercif",
+   "phone": "+212535675438",
+   "lat": 34.22657,
+   "lng": -3.340847,
    "shift": "jour",
    "shift_label": ""
   },
   {
-   "name": "Pharmacie Harchat Gambir",
-   "address": "hay Al Arass, Guercif",
-   "phone": "+212535200293",
-   "lat": 34.25236,
-   "lng": -3.34633,
+   "name": "Pharmacie Labiad",
+   "address": "85 bd Abdelkrim Khattabi - Autre ville hay Annajd, Guercif",
+   "phone": "+212535203897",
+   "lat": 34.234,
+   "lng": -3.35017,
    "shift": "jour",
    "shift_label": ""
   }
  ],
  "center": [
-  34.2329,
-  -3.3526
+  34.2303,
+  -3.3455
  ]
 }

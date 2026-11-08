@@ -1,7 +1,7 @@
 {
  "city": "agadir",
  "label": "Agadir",
- "date": "2026-11-07",
+ "date": "2026-11-08",
  "source": "sahha.ma",
  "source_url": "https://sahha.ma/pharmacie-de-garde/agadir",
  "kind": "roster",
@@ -16,20 +16,20 @@
    "shift_label": ""
   },
   {
-   "name": "Pharmacie Amara",
-   "address": "14 cité Adrar Résid. Fadlallah Gh2 M1, Agadir",
-   "phone": "+212528218192",
-   "lat": 30.389356,
-   "lng": -9.504175,
+   "name": "PHARMACIE AL IMAM ALKASTALANI",
+   "address": "Bd abdallah ben yacine, bloc 13 n° 17 cité sidi mohamed",
+   "phone": "+212528224258",
+   "lat": 30.4244592,
+   "lng": -9.5847352,
    "shift": "jour",
    "shift_label": ""
   },
   {
-   "name": "Pharmacie Ben Rahal El batoire",
-   "address": "rue Fès bloc 6 les Abattoires, Agadir",
-   "phone": "+212528230890",
-   "lat": 30.40885,
-   "lng": -9.58765,
+   "name": "PHARMACIE AV. ALLAL FASSI",
+   "address": "23, bd allal el fassi, erac bouargane, près de lycée zerktouni",
+   "phone": "+212528229245",
+   "lat": 30.4224835,
+   "lng": -9.565393,
    "shift": "jour",
    "shift_label": ""
   },
@@ -61,6 +61,15 @@
    "shift_label": ""
   },
   {
+   "name": "PHARMACIE EUROPA",
+   "address": "Bd vingt août, hôtel kenzi europa",
+   "phone": "+212528824946",
+   "lat": 30.4168534,
+   "lng": -9.6028665,
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
    "name": "Pharmacie Faicel",
    "address": "1042 Extension Dakhla, Agadir",
    "phone": "+212528238383",
@@ -79,26 +88,17 @@
    "shift_label": ""
   },
   {
-   "name": "Pharmacie les Jardins d'Agadir",
-   "address": "2 hay Al Massira - Autre ville resid Kettani GH 3, Agadir",
-   "phone": "+212528222224",
-   "lat": 30.40652,
-   "lng": -9.59759,
-   "shift": "jour",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie Salam",
-   "address": "bd ElHaj Massoud ElWakfaoui Hay Salam, Agadir",
-   "phone": "+212528235636",
-   "lat": 30.402183,
-   "lng": -9.54915,
+   "name": "PHARMACIE JET SAKANE",
+   "address": "Hay bensergao, jet sakane, m1 imm. n°42 salam houda",
+   "phone": "+212528322064",
+   "lat": 30.399925,
+   "lng": -9.552342,
    "shift": "jour",
    "shift_label": ""
   }
  ],
  "center": [
-  30.4088,
-  -9.5659
+  30.4145,
+  -9.5726
  ]
 }

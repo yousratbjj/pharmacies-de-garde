@@ -1,27 +1,27 @@
 {
  "city": "youssoufia",
  "label": "Youssoufia",
- "date": "2026-11-07",
+ "date": "2026-11-08",
  "source": "sahha.ma",
  "source_url": "https://sahha.ma/pharmacie-de-garde/youssoufia",
  "kind": "roster",
  "pharmacies": [
-  {
-   "name": "Pharmacie de l'Hôpital",
-   "address": "25 q. Manar rue n°9, Youssoufia",
-   "phone": "+212524646108",
-   "lat": 32.23918,
-   "lng": -8.519199,
-   "shift": "nuit",
-   "shift_label": ""
-  },
   {
    "name": "Pharmacie Erreteb",
    "address": "hay Nahda - Autre ville rue 7 n°3, Youssoufia",
    "phone": "+212617564964",
    "lat": 32.24316,
    "lng": -8.54634,
-   "shift": "nuit",
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie de l'Hôpital",
+   "address": "25 q. Manar rue n°9, Youssoufia",
+   "phone": "+212524646108",
+   "lat": 32.23918,
+   "lng": -8.519199,
+   "shift": "jour",
    "shift_label": ""
   }
  ],

@@ -1,7 +1,7 @@
 {
  "city": "oued-zem",
  "label": "Oued Zem",
- "date": "2026-11-07",
+ "date": "2026-11-08",
  "source": "sahha.ma",
  "source_url": "https://sahha.ma/pharmacie-de-garde/oued-zem",
  "kind": "roster",
@@ -12,7 +12,16 @@
    "phone": "+212523521533",
    "lat": 32.875246,
    "lng": -6.57017,
-   "shift": "jour",
+   "shift": "24h",
+   "shift_label": ""
+  },
+  {
+   "name": "MEKKA",
+   "address": "N 7 Rue 3 Dar Daouرقم 7 زنقة رقم 3 دار داو",
+   "phone": "+212523521533",
+   "lat": 32.8752462,
+   "lng": -6.5701701,
+   "shift": "24h",
    "shift_label": ""
   }
  ],

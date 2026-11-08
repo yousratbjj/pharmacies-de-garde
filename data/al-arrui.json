@@ -1,23 +1,23 @@
 {
  "city": "al-arrui",
  "label": "Al Arrui",
- "date": "2026-11-07",
+ "date": "2026-11-08",
  "source": "sahha.ma",
  "source_url": "https://sahha.ma/pharmacie-de-garde/al-arrui",
  "kind": "roster",
  "pharmacies": [
   {
-   "name": "Pharmacie Rahmani",
-   "address": "160 bd Al Massira Al Khadra, Al Arrui",
-   "phone": "+212536361359",
-   "lat": 35.011733,
-   "lng": -2.999083,
+   "name": "Pharmacie Al Qods Arruit",
+   "address": "159 bd Annakhil, Al Arrui",
+   "phone": "+212536362474",
+   "lat": 35.0173,
+   "lng": -3.00352,
    "shift": "jour",
    "shift_label": ""
   }
  ],
  "center": [
-  35.0117,
-  -2.9991
+  35.0173,
+  -3.0035
  ]
 }

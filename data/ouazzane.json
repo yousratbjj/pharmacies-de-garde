@@ -1,7 +1,7 @@
 {
  "city": "ouazzane",
  "label": "Ouezzane",
- "date": "2026-11-07",
+ "date": "2026-11-08",
  "source": "sahha.ma",
  "source_url": "https://sahha.ma/pharmacie-de-garde/ouazzane",
  "kind": "roster",
@@ -14,19 +14,10 @@
    "lng": -5.5886,
    "shift": "jour",
    "shift_label": ""
-  },
-  {
-   "name": "Pharmacie Pasteur",
-   "address": "place de l'indépendance, Ouazzane",
-   "phone": "+212633094141",
-   "lat": 34.80564,
-   "lng": -5.57136,
-   "shift": "jour",
-   "shift_label": ""
   }
  ],
  "center": [
-  34.8021,
-  -5.58
+  34.7985,
+  -5.5886
  ]
 }

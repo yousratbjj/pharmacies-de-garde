@@ -1,7 +1,7 @@
 {
  "city": "temara",
  "label": "Témara",
- "date": "2026-11-07",
+ "date": "2026-11-08",
  "source": "sahha.ma",
  "source_url": "https://sahha.ma/pharmacie-de-garde/temara",
  "kind": "roster",
@@ -12,7 +12,7 @@
    "phone": "+212537587613",
    "lat": 33.912067,
    "lng": -6.919417,
-   "shift": "nuit",
+   "shift": "jour",
    "shift_label": ""
   },
   {
@@ -21,7 +21,7 @@
    "phone": "+212537640769",
    "lat": 33.925133,
    "lng": -6.920433,
-   "shift": "nuit",
+   "shift": "jour",
    "shift_label": ""
   },
   {
@@ -30,7 +30,25 @@
    "phone": "+212537600690",
    "lat": 33.9265,
    "lng": -6.89365,
-   "shift": "nuit",
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
+   "name": "PHARMACIE DES CITES",
+   "address": "lotissement warda · El Guic Appeler 05 37 56 •• •• Itinéraire Carte Partager Voir la fiche",
+   "phone": "+212537560335",
+   "lat": 33.937153,
+   "lng": -6.893545,
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
+   "name": "PHARMACIE GRANADA",
+   "address": "lot 109, oulad mataâ   · Oulad Mtaa Appeler 05 37 60 •• •• Itinéraire Carte Partager Voir la fiche",
+   "phone": "+212537601353",
+   "lat": 33.9385341,
+   "lng": -6.8952443,
+   "shift": "jour",
    "shift_label": ""
   },
   {
@@ -39,7 +57,7 @@
    "phone": "+212537616478",
    "lat": 33.905432,
    "lng": -6.922992,
-   "shift": "nuit",
+   "shift": "jour",
    "shift_label": ""
   },
   {
@@ -48,7 +66,7 @@
    "phone": "+212537640424",
    "lat": 33.918755,
    "lng": -6.933817,
-   "shift": "nuit",
+   "shift": "jour",
    "shift_label": ""
   },
   {
@@ -57,7 +75,7 @@
    "phone": "+212537605047",
    "lat": 33.923683,
    "lng": -6.901017,
-   "shift": "nuit",
+   "shift": "jour",
    "shift_label": ""
   },
   {
@@ -66,7 +84,7 @@
    "phone": "+212537741250",
    "lat": 33.941636,
    "lng": -6.929386,
-   "shift": "nuit",
+   "shift": "jour",
    "shift_label": ""
   },
   {
@@ -75,12 +93,12 @@
    "phone": "+212537622291",
    "lat": 33.895935,
    "lng": -6.935582,
-   "shift": "nuit",
+   "shift": "jour",
    "shift_label": ""
   }
  ],
  "center": [
-  33.9186,
-  -6.9195
+  33.9225,
+  -6.9145
  ]
 }

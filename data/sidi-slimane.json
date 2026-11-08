@@ -1,7 +1,7 @@
 {
  "city": "sidi-slimane",
  "label": "Sidi Slimane",
- "date": "2026-11-07",
+ "date": "2026-11-08",
  "source": "sahha.ma",
  "source_url": "https://sahha.ma/pharmacie-de-garde/sidi-slimane",
  "kind": "roster",
@@ -23,82 +23,10 @@
    "lng": -5.91935,
    "shift": "jour",
    "shift_label": ""
-  },
-  {
-   "name": "PHARMACIE ALLEMAGNA",
-   "address": "lot. Marjane n°1003, Sidi Slimane",
-   "phone": "+212707203837",
-   "lat": 34.259878,
-   "lng": -5.927253,
-   "shift": "jour",
-   "shift_label": ""
-  },
-  {
-   "name": "PHARMACIE AL MASJID",
-   "address": "hay Salam bloc 17 n°23, Sidi Slimane",
-   "phone": "+212537502513",
-   "lat": 34.2543743,
-   "lng": -5.9239537,
-   "shift": "jour",
-   "shift_label": ""
-  },
-  {
-   "name": "PHARMACIE AL MASSIRA",
-   "address": "hay Essalam bloc 5 n°10, Sidi Slimane",
-   "phone": "+212537503542",
-   "lat": 34.228695,
-   "lng": -6.054667,
-   "shift": "jour",
-   "shift_label": ""
-  },
-  {
-   "name": "PHARMACIE AMINE",
-   "address": "12 Av. Mohammed V rte Dar Belamri, Sidi Slimane",
-   "phone": "+212537502078",
-   "lat": 34.2591665,
-   "lng": -5.9295916,
-   "shift": "jour",
-   "shift_label": ""
-  },
-  {
-   "name": "PHARMACIE ARRAHMA",
-   "address": "hay Ouled El Ghazi rue 10 n°244, Sidi Slimane",
-   "phone": "+212537505768",
-   "lat": 34.259251,
-   "lng": -5.931036,
-   "shift": "jour",
-   "shift_label": ""
-  },
-  {
-   "name": "PHARMACIE BIR ANZARANE",
-   "address": "63 bd. Bir Anzarane, Sidi Slimane",
-   "phone": "+212537502900",
-   "lat": 34.2622961,
-   "lng": -5.9239749,
-   "shift": "jour",
-   "shift_label": ""
-  },
-  {
-   "name": "PHARMACIE BISMILLAH",
-   "address": "3 lotiss. Agdal SIDI SLIMANE",
-   "phone": "+212537500688",
-   "lat": 34.2601287,
-   "lng": -5.9146206,
-   "shift": "jour",
-   "shift_label": ""
-  },
-  {
-   "name": "PHARMACIE CHIFAA",
-   "address": "hay Laymoune bloc 27 n°7 SIDI SLIMANE",
-   "phone": "+212523298434",
-   "lat": 34.251813,
-   "lng": -5.927786,
-   "shift": "jour",
-   "shift_label": ""
   }
  ],
  "center": [
-  34.256,
-  -5.9374
+  34.262,
+  -5.9206
  ]
 }

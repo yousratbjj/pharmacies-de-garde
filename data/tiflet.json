@@ -1,7 +1,7 @@
 {
  "city": "tiflet",
  "label": "Tiflet",
- "date": "2026-11-07",
+ "date": "2026-11-08",
  "source": "sahha.ma",
  "source_url": "https://sahha.ma/pharmacie-de-garde/tiflet",
  "kind": "roster",
@@ -12,7 +12,7 @@
    "phone": "+212537515723",
    "lat": 33.89798,
    "lng": -6.32742,
-   "shift": "nuit",
+   "shift": "jour",
    "shift_label": ""
   }
  ],

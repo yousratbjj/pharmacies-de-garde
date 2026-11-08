@@ -1,7 +1,7 @@
 {
  "city": "el-jadida",
  "label": "El Jadida",
- "date": "2026-11-07",
+ "date": "2026-11-08",
  "source": "sahha.ma",
  "source_url": "https://sahha.ma/pharmacie-de-garde/el-jadida",
  "kind": "roster",
@@ -12,7 +12,7 @@
    "phone": "+212523350272",
    "lat": 33.237317,
    "lng": -8.523733,
-   "shift": "nuit",
+   "shift": "jour",
    "shift_label": ""
   },
   {
@@ -21,12 +21,84 @@
    "phone": "+212523355396",
    "lat": 33.25851,
    "lng": -8.51376,
-   "shift": "nuit",
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie Al Wahat",
+   "address": "lotiss. Al Irfane n°3, El Jadida",
+   "phone": "+212523371171",
+   "lat": 33.232794,
+   "lng": -8.481823,
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie Amwaj",
+   "address": "53 lot Oussama 1 El Harraz, El Jadida",
+   "phone": "+212523800493",
+   "lat": 33.246642,
+   "lng": -8.534099,
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie Assaad",
+   "address": "1 hay Al Matar - Autre ville résid. Assad, El Jadida",
+   "phone": "+212521038542",
+   "lat": 33.232158,
+   "lng": -8.522027,
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie Commerciale",
+   "address": "lotiss. Ennajd I imm. E n°4 bd de la Gare, El Jadida",
+   "phone": "+212523370825",
+   "lat": 33.228717,
+   "lng": -8.50735,
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie Jnane Al Matar",
+   "address": "14 bd Khalil Jabrane - Autre ville lotiss. Jinane El MATAR, El Jadida",
+   "phone": "+212521010136",
+   "lat": 33.228372,
+   "lng": -8.516478,
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie les Fleurs",
+   "address": "7 rue Zohour Alwifaq, El Jadida",
+   "phone": "+212523370777",
+   "lat": 33.239801,
+   "lng": -8.536567,
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie Moderne",
+   "address": "102 bd Moulay Ismail, El Jadida",
+   "phone": "+212523351930",
+   "lat": 33.2559,
+   "lng": -8.51455,
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie Principale",
+   "address": "3 bd Mohammed V, El Jadida",
+   "phone": "+212523373032",
+   "lat": 33.251517,
+   "lng": -8.502517,
+   "shift": "jour",
    "shift_label": ""
   }
  ],
  "center": [
-  33.2479,
-  -8.5187
+  33.2412,
+  -8.5153
  ]
 }

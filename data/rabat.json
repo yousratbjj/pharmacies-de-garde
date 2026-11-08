@@ -1,7 +1,7 @@
 {
  "city": "rabat",
  "label": "Rabat",
- "date": "2026-11-07",
+ "date": "2026-11-08",
  "source": "sahha.ma",
  "source_url": "https://sahha.ma/pharmacie-de-garde/rabat",
  "kind": "roster",
@@ -34,6 +34,15 @@
    "shift_label": ""
   },
   {
+   "name": "PHARMACIE CHERQI",
+   "address": "100-100 BIS avenue Laalou Medina",
+   "phone": "+212537207474",
+   "lat": 34.0223999,
+   "lng": -6.8345399,
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
    "name": "PHARMACIE CHIFAE",
    "address": "1 Avenue Al Fadila Quartier industriel C.Y.M",
    "phone": "+212537795344",
@@ -48,7 +57,7 @@
    "phone": "+212537671090",
    "lat": 33.991025,
    "lng": -6.846809,
-   "shift": "jour",
+   "shift": "24h",
    "shift_label": ""
   },
   {
@@ -66,7 +75,7 @@
    "phone": "+212537750641",
    "lat": 33.980521,
    "lng": -6.824798,
-   "shift": "jour",
+   "shift": "24h",
    "shift_label": ""
   },
   {
@@ -84,21 +93,12 @@
    "phone": "+212537713443",
    "lat": 33.954928,
    "lng": -6.865688,
-   "shift": "jour",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie ElInbiat",
-   "address": "hay El Inbiate n°72 B3, Rabat",
-   "phone": "+212537630315",
-   "lat": 33.992788,
-   "lng": -6.809456,
-   "shift": "jour",
+   "shift": "24h",
    "shift_label": ""
   }
  ],
  "center": [
-  33.9939,
-  -6.852
+  33.9969,
+  -6.8545
  ]
 }
