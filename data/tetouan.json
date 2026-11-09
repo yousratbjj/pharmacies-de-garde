@@ -7,98 +7,26 @@
  "kind": "roster",
  "pharmacies": [
   {
-   "name": "Pharmacie Al Qods",
-   "address": "1 rue Moritania, Tétouan",
-   "phone": "+212539700309",
-   "lat": 35.57295,
-   "lng": -5.379367,
-   "shift": "jour",
+   "name": "Pharmacie Tamouda",
+   "address": "rte Chefchaouen 26 B hay Tamouda, Tétouan",
+   "phone": "+212539969533",
+   "lat": 35.571098,
+   "lng": -5.375053,
+   "shift": "nuit",
    "shift_label": ""
   },
   {
-   "name": "Pharmacie Avenue des F.a.r",
-   "address": "bd des F.a.r. rue J n°29 imm Rzini, Tétouan",
-   "phone": "+212539996611",
-   "lat": 35.573908,
-   "lng": -5.360544,
-   "shift": "jour",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie Ben Abduluahab",
-   "address": "209 Bd Jabal hayane, Tétouan",
-   "phone": "+212539992884",
-   "lat": 35.572145,
-   "lng": -5.37556,
-   "shift": "jour",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie Derdabi",
-   "address": "7 Sakia Elfoukia Fendak, Tétouan",
-   "phone": "+212539991109",
-   "lat": 35.5708,
-   "lng": -5.366317,
-   "shift": "jour",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie El Amraoui",
-   "address": "84 rue Walili lotis. Mounia, Tétouan",
-   "phone": "+212539715561",
-   "lat": 35.562968,
-   "lng": -5.357695,
-   "shift": "jour",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie Omar Ibn Abdelaziz",
-   "address": "218 av Haj Mohamed Benouna, Tétouan",
-   "phone": "+212539993715",
-   "lat": 35.589617,
-   "lng": -5.3549,
-   "shift": "jour",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie Sabri",
-   "address": "145 Mohammed Daoud, Tétouan",
-   "phone": "+212539973907",
-   "lat": 35.579533,
-   "lng": -5.344733,
-   "shift": "jour",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie Zoubairi",
-   "address": "255 rue Billal Ben Rabbah, Tétouan",
-   "phone": "+212539710788",
-   "lat": 35.576639,
-   "lng": -5.389722,
-   "shift": "jour",
-   "shift_label": ""
-  },
-  {
-   "name": "PHARMACIE BIROUNI",
-   "address": "102 Rue Abdelkhalek Torres Appeler 05 39 97 •• •• Itinéraire Carte Partager Voir la ficheشارع عبدالحق الطريس",
-   "phone": "+212539973010",
-   "lat": 35.572067,
-   "lng": -5.356183,
-   "shift": "jour",
-   "shift_label": ""
-  },
-  {
-   "name": "PHARMACIE BOUSSAFOU",
-   "address": "150 av Haj Mohamed Benouna Touila Appeler 05 39 97 •• •• Itinéraire Carte Partager Voir la ficheرقم 150.شارع الحاج محمد بنونة بوسافو -بوجراح",
-   "phone": "+212539973232",
-   "lat": 35.5942929,
-   "lng": -5.3484436,
-   "shift": "jour",
+   "name": "Pharmacie Ziana",
+   "address": "254 rue Mohamed Ameziane, Tétouan",
+   "phone": "+212539990190",
+   "lat": 35.57545,
+   "lng": -5.3633,
+   "shift": "nuit",
    "shift_label": ""
   }
  ],
  "center": [
-  35.5765,
-  -5.3633
+  35.5733,
+  -5.3692
  ]
 }

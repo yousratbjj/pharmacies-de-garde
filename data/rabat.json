@@ -34,15 +34,6 @@
    "shift_label": ""
   },
   {
-   "name": "PHARMACIE CHERQI",
-   "address": "100-100 BIS avenue Laalou Medina",
-   "phone": "+212537207474",
-   "lat": 34.0223999,
-   "lng": -6.8345399,
-   "shift": "jour",
-   "shift_label": ""
-  },
-  {
    "name": "PHARMACIE CHIFAE",
    "address": "1 Avenue Al Fadila Quartier industriel C.Y.M",
    "phone": "+212537795344",
@@ -95,10 +86,19 @@
    "lng": -6.865688,
    "shift": "24h",
    "shift_label": ""
+  },
+  {
+   "name": "Pharmacie ElInbiat",
+   "address": "hay El Inbiate n°72 B3, Rabat",
+   "phone": "+212537630315",
+   "lat": 33.992788,
+   "lng": -6.809456,
+   "shift": "jour",
+   "shift_label": ""
   }
  ],
  "center": [
-  33.9969,
-  -6.8545
+  33.9939,
+  -6.852
  ]
 }

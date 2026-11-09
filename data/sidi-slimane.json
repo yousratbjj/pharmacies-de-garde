@@ -21,12 +21,57 @@
    "phone": "+212537503690",
    "lat": 34.26755,
    "lng": -5.91935,
-   "shift": "jour",
+   "shift": "nuit",
+   "shift_label": ""
+  },
+  {
+   "name": "PHARMACIE ALLEMAGNA",
+   "address": "lot. Marjane n°1003, Sidi Slimane",
+   "phone": "+212707203837",
+   "lat": 34.259878,
+   "lng": -5.927253,
+   "shift": "nuit",
+   "shift_label": ""
+  },
+  {
+   "name": "PHARMACIE AL MASJID",
+   "address": "hay Salam bloc 17 n°23, Sidi Slimane",
+   "phone": "+212537502513",
+   "lat": 34.2543606,
+   "lng": -5.9239494,
+   "shift": "nuit",
+   "shift_label": ""
+  },
+  {
+   "name": "PHARMACIE AMINE",
+   "address": "12 Av. Mohammed V rte Dar Belamri, Sidi Slimane",
+   "phone": "+212537502078",
+   "lat": 34.2591665,
+   "lng": -5.9295916,
+   "shift": "nuit",
+   "shift_label": ""
+  },
+  {
+   "name": "PHARMACIE ARRAHMA",
+   "address": "hay Ouled El Ghazi rue 10 n°244, Sidi Slimane",
+   "phone": "+212537505768",
+   "lat": 34.2592509,
+   "lng": -5.9310357,
+   "shift": "nuit",
+   "shift_label": ""
+  },
+  {
+   "name": "PHARMACIE CHIFAA",
+   "address": "hay Laymoune bloc 27 n°7 SIDI SLIMANE",
+   "phone": "+212537503034",
+   "lat": 34.251813,
+   "lng": -5.927786,
+   "shift": "nuit",
    "shift_label": ""
   }
  ],
  "center": [
-  34.262,
-  -5.9206
+  34.2584,
+  -5.9258
  ]
 }

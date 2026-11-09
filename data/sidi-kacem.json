@@ -14,19 +14,10 @@
    "lng": -5.726314,
    "shift": "jour",
    "shift_label": ""
-  },
-  {
-   "name": "PHARMACIE SAAD",
-   "address": "route Haj Larbi",
-   "phone": "+212537592620",
-   "lat": 34.233005,
-   "lng": -5.706447,
-   "shift": "jour",
-   "shift_label": ""
   }
  ],
  "center": [
-  34.2335,
-  -5.7164
+  34.2341,
+  -5.7263
  ]
 }

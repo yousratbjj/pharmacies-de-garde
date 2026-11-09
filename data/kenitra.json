@@ -7,6 +7,15 @@
  "kind": "roster",
  "pharmacies": [
   {
+   "name": "Pharmacie Amine",
+   "address": "hay Al Maghrib Al Arabi A2 n°414 Bir Rami, Kénitra",
+   "phone": "",
+   "lat": 34.243229,
+   "lng": -6.61317,
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
    "name": "Pharmacie de la Renaissance",
    "address": "169 bd Bacha Abdelhamid El Alaoui, Kénitra",
    "phone": "+212537382069",
@@ -39,15 +48,6 @@
    "phone": "+212537316763",
    "lat": 34.262049,
    "lng": -6.602197,
-   "shift": "jour",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie Amine",
-   "address": "hay Al Maghrib Al Arabi A2 n°414 Bir Rami, Kénitra",
-   "phone": "",
-   "lat": 34.243229,
-   "lng": -6.61317,
    "shift": "jour",
    "shift_label": ""
   }

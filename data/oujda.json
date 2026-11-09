@@ -50,10 +50,28 @@
    "lng": -1.920633,
    "shift": "jour",
    "shift_label": ""
+  },
+  {
+   "name": "PHARMACIE I.S.T.A LAZARET",
+   "address": "Bd Narjis Dhar lamhalla lot Benomar N°144 [+]",
+   "phone": "+212536544975",
+   "lat": 34.67714,
+   "lng": -1.868,
+   "shift": "nuit",
+   "shift_label": ""
+  },
+  {
+   "name": "PHARMACIE LA CLYNIQUE",
+   "address": "12 Bd Mohamed Bellakhdar, Entre Clinique ACHARK et Clinique OUJDA ,En face Café BLANKOK [+]رقم 32 شارع بلخضر",
+   "phone": "+212536704796",
+   "lat": 34.6744455,
+   "lng": -1.9205025,
+   "shift": "nuit",
+   "shift_label": ""
   }
  ],
  "center": [
-  34.6785,
-  -1.9074
+  34.6777,
+  -1.9037
  ]
 }

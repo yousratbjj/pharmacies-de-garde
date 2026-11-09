@@ -16,20 +16,20 @@
    "shift_label": ""
   },
   {
-   "name": "Pharmacie AlMahatta",
-   "address": "254 av Hassan II, Nador",
-   "phone": "+212536604408",
-   "lat": 35.1751,
-   "lng": -2.922383,
-   "shift": "jour",
-   "shift_label": ""
-  },
-  {
    "name": "PHARMACIE ALIKHLASS",
    "address": "Route zghanghan ihddaden",
    "phone": "+212536330508",
    "lat": 35.1597275,
    "lng": -2.9695992,
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie AlMahatta",
+   "address": "254 av Hassan II, Nador",
+   "phone": "+212536604408",
+   "lat": 35.1751,
+   "lng": -2.922383,
    "shift": "jour",
    "shift_label": ""
   },

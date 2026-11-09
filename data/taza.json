@@ -7,21 +7,12 @@
  "kind": "roster",
  "pharmacies": [
   {
-   "name": "PHARMACIE BAB RIH",
-   "address": "50 rue Riad Aznak",
-   "phone": "+212535270188",
-   "lat": 34.2118863,
-   "lng": -4.0199448,
-   "shift": "jour",
-   "shift_label": ""
-  },
-  {
    "name": "Pharmacie Nassim",
    "address": "244 lotiss. Nassim - Autre ville, Taza",
    "phone": "+212535211476",
    "lat": 34.22862,
    "lng": -3.975991,
-   "shift": "jour",
+   "shift": "nuit",
    "shift_label": ""
   },
   {
@@ -30,12 +21,12 @@
    "phone": "+212535285351",
    "lat": 34.22853,
    "lng": -4.02534,
-   "shift": "jour",
+   "shift": "nuit",
    "shift_label": ""
   }
  ],
  "center": [
-  34.223,
-  -4.0071
+  34.2286,
+  -4.0007
  ]
 }

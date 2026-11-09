@@ -7,24 +7,6 @@
  "kind": "roster",
  "pharmacies": [
   {
-   "name": "Pharmacie ElMoustachfa",
-   "address": "89 av. AlIskandaria, Al Hoceima",
-   "phone": "+212539981131",
-   "lat": 35.240833,
-   "lng": -3.9382,
-   "shift": "jour",
-   "shift_label": ""
-  },
-  {
-   "name": "PHARMACIE GRANADA",
-   "address": "12, av. Madagascarشارع مدغشقر",
-   "phone": "+212539840204",
-   "lat": 35.2484746,
-   "lng": -3.9348541,
-   "shift": "jour",
-   "shift_label": ""
-  },
-  {
    "name": "Pharmacie Al Manzah",
    "address": "20 rue Med Hassan El Ouazzani, Al Hoceima",
    "phone": "+212539840282",
@@ -32,10 +14,19 @@
    "lng": -3.917067,
    "shift": "jour",
    "shift_label": ""
+  },
+  {
+   "name": "Pharmacie ElMoustachfa",
+   "address": "89 av. AlIskandaria, Al Hoceima",
+   "phone": "+212539981131",
+   "lat": 35.240833,
+   "lng": -3.9382,
+   "shift": "jour",
+   "shift_label": ""
   }
  ],
  "center": [
-  35.2447,
-  -3.93
+  35.2429,
+  -3.9276
  ]
 }

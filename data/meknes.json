@@ -43,30 +43,12 @@
    "shift_label": ""
   },
   {
-   "name": "Pharmacie Ibnou Bajaa",
-   "address": "lotiss. Al Manar - Autre ville reisd Ibnou Rochd, Meknès",
-   "phone": "+212535516383",
-   "lat": 33.91012,
-   "lng": -5.540191,
-   "shift": "24h",
-   "shift_label": ""
-  },
-  {
    "name": "Pharmacie Ikamat Lamsala",
    "address": "Meknès",
    "phone": "",
    "lat": 33.88727,
    "lng": -5.537849,
    "shift": "jour",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie Jawharat Toulal",
-   "address": "57 lotiss. Al Massira - Autre ville, Meknès",
-   "phone": "+212669749098",
-   "lat": 33.880779,
-   "lng": -5.607692,
-   "shift": "24h",
    "shift_label": ""
   },
   {
@@ -84,12 +66,30 @@
    "phone": "+212535538499",
    "lat": 33.881677,
    "lng": -5.584677,
-   "shift": "24h",
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie Saada",
+   "address": "78, Bd Abdelkrim Khattabi - Sbata 50000",
+   "phone": "+212535537717",
+   "lat": 33.881783,
+   "lng": -5.568183,
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
+   "name": "PHARMACIE ADDOHA DKHISSA",
+   "address": "28 douar Zoualeth Dkhissa Meknesرقم 28، برنامج ويسلان الاقتصادي عمارات الضحىرقم 28، برنامج ويسلان الاقتصادي عمارات الضحىرقم 28، برنامج ويسلان الاقتصادي عمارات الضحىرقم 28، برنامج ويسلان الاقتصادي عمارات الضحىرقم 28، برنامج ويسلان الاقتصادي عمارات الضحى",
+   "phone": "+212535433959",
+   "lat": 33.936894,
+   "lng": -5.465416,
+   "shift": "jour",
    "shift_label": ""
   }
  ],
  "center": [
-  33.8893,
-  -5.5517
+  33.8924,
+  -5.539
  ]
 }
