@@ -1,23 +1,23 @@
 {
  "city": "zeghanghane",
  "label": "Zeghanghane",
- "date": "2026-11-06",
+ "date": "2026-11-09",
  "source": "sahha.ma",
  "source_url": "https://sahha.ma/pharmacie-de-garde/zeghanghane",
  "kind": "roster",
  "pharmacies": [
   {
-   "name": "Pharmacie Nia",
-   "address": "bd Al Wahda - Autre ville q. Imachroubane, Zghanghan",
-   "phone": "+212536352475",
-   "lat": 35.165936,
-   "lng": -2.657074,
-   "shift": "",
+   "name": "Pharmacie Essalam",
+   "address": "313 bd Mohammed V, Zghanghan",
+   "phone": "+212536350190",
+   "lat": 35.153,
+   "lng": -3.005967,
+   "shift": "jour",
    "shift_label": ""
   }
  ],
  "center": [
-  35.1659,
-  -2.6571
+  35.153,
+  -3.006
  ]
 }

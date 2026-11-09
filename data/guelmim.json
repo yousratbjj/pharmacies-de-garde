@@ -1,41 +1,50 @@
 {
  "city": "guelmim",
  "label": "Guelmim",
- "date": "2026-11-08",
+ "date": "2026-11-09",
  "source": "sahha.ma",
  "source_url": "https://sahha.ma/pharmacie-de-garde/guelmim",
  "kind": "roster",
  "pharmacies": [
   {
-   "name": "Pharmacie Amhirich",
-   "address": "av 3 Mars rte de Tan Tan, Guelmim",
-   "phone": "+212528773284",
-   "lat": 28.982519,
-   "lng": -10.072577,
+   "name": "PHARMACIE EL HODA",
+   "address": "bd Amane Ouchen",
+   "phone": "+212528770303",
+   "lat": 28.9863852,
+   "lng": -10.0574351,
    "shift": "jour",
    "shift_label": ""
   },
   {
-   "name": "Pharmacie Mouqaouama (Résistance)",
-   "address": "30 av. Mouqaouama, Guelmim",
-   "phone": "+212528770354",
-   "lat": 28.998571,
-   "lng": -10.059381,
+   "name": "Pharmacie Dakhla - Hay Miri",
+   "address": "av Ibnou Toumert (jdid) hay Miri, Guelmim",
+   "phone": "+212528871888",
+   "lat": 28.977151,
+   "lng": -10.048651,
    "shift": "jour",
    "shift_label": ""
   },
   {
-   "name": "Pharmacie Nouvelle",
-   "address": "162 av. Mehdi Ben Toumert, Guelmim",
-   "phone": "+212528770488",
-   "lat": 28.985383,
-   "lng": -10.050367,
+   "name": "Pharmacie Ibn Sina",
+   "address": "av Ibn Sina q. Tayert, Guelmim",
+   "phone": "+212528870771",
+   "lat": 28.986458,
+   "lng": -10.041125,
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie Saraya",
+   "address": "146 bd Al Aqsa hay Qods, Guelmim",
+   "phone": "+212528772836",
+   "lat": 29.00239,
+   "lng": -10.05624,
    "shift": "jour",
    "shift_label": ""
   }
  ],
  "center": [
-  28.9888,
-  -10.0608
+  28.9881,
+  -10.0509
  ]
 }
