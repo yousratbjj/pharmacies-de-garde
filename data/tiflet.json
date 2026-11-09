@@ -1,23 +1,23 @@
 {
  "city": "tiflet",
  "label": "Tiflet",
- "date": "2026-11-08",
+ "date": "2026-11-09",
  "source": "sahha.ma",
  "source_url": "https://sahha.ma/pharmacie-de-garde/tiflet",
  "kind": "roster",
  "pharmacies": [
   {
-   "name": "Pharmacie Omar",
-   "address": "hay Racha bd. 30 n°1174, Tiflet",
-   "phone": "+212537515723",
-   "lat": 33.89798,
-   "lng": -6.32742,
+   "name": "Pharmacie de Tiflet",
+   "address": "av. Mohammed V, Tiflet",
+   "phone": "+212537512207",
+   "lat": 33.89349,
+   "lng": -6.31284,
    "shift": "nuit",
    "shift_label": ""
   }
  ],
  "center": [
-  33.898,
-  -6.3274
+  33.8935,
+  -6.3128
  ]
 }
