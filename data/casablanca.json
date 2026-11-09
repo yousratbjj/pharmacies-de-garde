@@ -1,50 +1,59 @@
 {
  "city": "casablanca",
  "label": "Casablanca",
- "date": "2026-11-08",
+ "date": "2026-11-09",
  "source": "sahha.ma",
  "source_url": "https://sahha.ma/pharmacie-de-garde/casablanca",
  "kind": "roster",
  "pharmacies": [
   {
+   "name": "Pharmacie Hay Hakam",
+   "address": "QUARTIER HAKAM I, RUE 21 N° 40 - HAY MOHAMMADI",
+   "phone": "+212522624648",
+   "lat": 33.5809842,
+   "lng": -7.5868971,
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
+   "name": "PHARMACIE ABDESSAMAD",
+   "address": "HAY AL AZHAR, ZONE I4, BLOC 12 N° 4 ET 5 (COMMUNE AHL LOGHLAM) - SIDI BERNOUSSI",
+   "phone": "+212522767686",
+   "lat": 33.5576503,
+   "lng": -7.6449408,
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
    "name": "Pharmacie Achourouk",
-   "address": "quartier Beausite 06 n°1 EQ8 Addoha I El Gantour, Casablanca",
+   "address": "quartier Beausite 06 n°1 EQ8 Addoha I El Gantour",
    "phone": "+212522673667",
-   "lat": 33.593517,
-   "lng": -7.533762,
+   "lat": 33.5935173,
+   "lng": -7.5337622,
    "shift": "jour",
    "shift_label": ""
   },
   {
    "name": "Pharmacie Ahmed Rayan",
-   "address": "hay El Oulfa résid. cité Essalam Gh9 imm. 77 n°1, Casablanca",
+   "address": "hay El Oulfa résid. cité Essalam Gh9 imm. 77 n°1",
    "phone": "+212522898334",
-   "lat": 33.551382,
-   "lng": -7.691222,
-   "shift": "jour",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie Alabe",
-   "address": "48 lotiss. Salama rte de Makro Sidi Maârouf, Casablanca",
-   "phone": "+212522974065",
-   "lat": 33.533599,
-   "lng": -7.649783,
+   "lat": 33.5483214,
+   "lng": -7.6925077,
    "shift": "jour",
    "shift_label": ""
   },
   {
    "name": "Pharmacie Alaoui Jabri",
-   "address": "hay Sidi Moumen lot El Falah tranche 1 lot 223 local n°2, Casablanca",
+   "address": "hay Sidi Moumen lot El Falah tranche 1 lot 223 local n°2",
    "phone": "+212522022006",
-   "lat": 33.599145,
-   "lng": -7.587445,
+   "lat": 33.5705473,
+   "lng": -7.5050464,
    "shift": "jour",
    "shift_label": ""
   },
   {
    "name": "Pharmacie Al Arsat Bernoussi",
-   "address": "10 Rte Nationale de Rabat mag. 207, Casablanca",
+   "address": "10 Rte Nationale de Rabat mag. 207",
    "phone": "+212520587059",
    "lat": 33.62652,
    "lng": -7.48192,
@@ -53,52 +62,16 @@
   },
   {
    "name": "Pharmacie Alouati",
-   "address": "bd du Fouarat lot.16 Capeluto rue 1, Casablanca",
+   "address": "bd du Fouarat lot.16 Capeluto rue 1",
    "phone": "+212522601675",
-   "lat": 33.580792,
-   "lng": -7.556754,
-   "shift": "jour",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie Annahda",
-   "address": "hay Sidi Moumen lotiss. Annahda1 Gh 6 imm. 34 n°1, Casablanca",
-   "phone": "+212522751234",
-   "lat": 33.590919,
-   "lng": -7.502112,
-   "shift": "jour",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie Annajat",
-   "address": "bd de Meknès imm. J n°21 hay Inara I, Casablanca",
-   "phone": "+212522527399",
-   "lat": 33.538573,
-   "lng": -7.594602,
-   "shift": "jour",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie Arraefa",
-   "address": "66 X allée des Casuarinas El Gantour, Casablanca",
-   "phone": "+212522352740",
-   "lat": 33.614026,
-   "lng": -7.544319,
-   "shift": "jour",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie Bd Alhoussine Essoussi",
-   "address": "6 rue Lhoussine Assoussi (Sidi Moumen) résid. des jardins de Mimosas, Casablanca",
-   "phone": "+212522725959",
-   "lat": 33.5816,
-   "lng": -7.53573,
+   "lat": 33.5807924,
+   "lng": -7.5567538,
    "shift": "jour",
    "shift_label": ""
   }
  ],
  "center": [
-  33.581,
-  -7.5678
+  33.5798,
+  -7.5717
  ]
 }

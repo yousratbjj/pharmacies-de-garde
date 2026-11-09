@@ -1,23 +1,23 @@
 {
  "city": "tahla",
  "label": "Tahla",
- "date": "2026-11-08",
+ "date": "2026-11-09",
  "source": "sahha.ma",
  "source_url": "https://sahha.ma/pharmacie-de-garde/tahla",
  "kind": "roster",
  "pharmacies": [
   {
-   "name": "Pharmacie Bnisraj",
-   "address": "av La Résistance, Tahla",
-   "phone": "+212535678833",
-   "lat": 34.050103,
-   "lng": -4.420028,
-   "shift": "nuit",
+   "name": "Pharmacie AlWarda",
+   "address": "av. Atlas, Tahla",
+   "phone": "+212535678860",
+   "lat": 34.049849,
+   "lng": -4.42553,
+   "shift": "jour",
    "shift_label": ""
   }
  ],
  "center": [
-  34.0501,
-  -4.42
+  34.0498,
+  -4.4255
  ]
 }

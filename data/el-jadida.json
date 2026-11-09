@@ -1,32 +1,32 @@
 {
  "city": "el-jadida",
  "label": "El Jadida",
- "date": "2026-11-08",
+ "date": "2026-11-09",
  "source": "sahha.ma",
  "source_url": "https://sahha.ma/pharmacie-de-garde/el-jadida",
  "kind": "roster",
  "pharmacies": [
   {
-   "name": "Pharmacie El Khansaa",
-   "address": "14 bd Allal El Fassi lotiss. Amal, El Jadida",
+   "name": "PHARMACIE EL KHANSAA",
+   "address": "14 bd Allal El Fassi lotiss. Amal",
    "phone": "+212523350272",
-   "lat": 33.237317,
-   "lng": -8.523733,
-   "shift": "nuit",
+   "lat": 33.2375386,
+   "lng": -8.5238977,
+   "shift": "jour",
    "shift_label": ""
   },
   {
-   "name": "Pharmacie Rabie",
-   "address": "33 bd Al Maghrib Al Arabi lotiss. Haraz, El Jadida",
-   "phone": "+212523355396",
-   "lat": 33.25851,
-   "lng": -8.51376,
-   "shift": "nuit",
+   "name": "PHARMACIE RABIE",
+   "address": "46, lotiss. el harraz",
+   "phone": "+212529818104",
+   "lat": 33.2582958,
+   "lng": -8.5142688,
+   "shift": "jour",
    "shift_label": ""
   }
  ],
  "center": [
   33.2479,
-  -8.5187
+  -8.5191
  ]
 }

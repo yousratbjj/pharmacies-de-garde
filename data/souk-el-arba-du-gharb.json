@@ -1,23 +1,23 @@
 {
  "city": "souk-el-arba-du-gharb",
  "label": "Souk El Arba du Gharb",
- "date": "2026-11-08",
+ "date": "2026-11-09",
  "source": "sahha.ma",
  "source_url": "https://sahha.ma/pharmacie-de-garde/souk-el-arba-du-gharb",
  "kind": "roster",
  "pharmacies": [
   {
-   "name": "Pharmacie Ibn Sina",
-   "address": "6 av de la Résistance, Souk El Arba du Gharb",
-   "phone": "+212537901481",
-   "lat": 34.689512,
-   "lng": -6.00357,
-   "shift": "nuit",
+   "name": "Pharmacie Meriem",
+   "address": "155 Derb Ouled Ben Sebaa hay Krayz Ghzaouna, Souk El Arba du Gharb",
+   "phone": "+212537902864",
+   "lat": 34.687295,
+   "lng": -5.975393,
+   "shift": "jour",
    "shift_label": ""
   }
  ],
  "center": [
-  34.6895,
-  -6.0036
+  34.6873,
+  -5.9754
  ]
 }

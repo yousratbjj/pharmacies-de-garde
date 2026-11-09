@@ -1,27 +1,27 @@
 {
  "city": "tetouan",
  "label": "Tétouan",
- "date": "2026-11-08",
+ "date": "2026-11-09",
  "source": "sahha.ma",
  "source_url": "https://sahha.ma/pharmacie-de-garde/tetouan",
  "kind": "roster",
  "pharmacies": [
   {
-   "name": "Pharmacie Tamouda",
-   "address": "rte Chefchaouen 26 B hay Tamouda, Tétouan",
+   "name": "PHARMACIE TAMOUDA",
+   "address": "rte Chefchaouen 26 B hay Tamoudaرقم 26 حي تمودة طريق شفشاون",
    "phone": "+212539969533",
-   "lat": 35.571098,
+   "lat": 35.5710982,
    "lng": -5.375053,
-   "shift": "nuit",
+   "shift": "jour",
    "shift_label": ""
   },
   {
-   "name": "Pharmacie Ziana",
-   "address": "254 rue Mohamed Ameziane, Tétouan",
+   "name": "PHARMACIE ZIANA",
+   "address": "254 rue Mohamed Ameziane",
    "phone": "+212539990190",
    "lat": 35.57545,
    "lng": -5.3633,
-   "shift": "nuit",
+   "shift": "jour",
    "shift_label": ""
   }
  ],

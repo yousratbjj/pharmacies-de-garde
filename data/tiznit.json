@@ -1,23 +1,32 @@
 {
  "city": "tiznit",
  "label": "Tiznit",
- "date": "2026-11-08",
+ "date": "2026-11-09",
  "source": "sahha.ma",
  "source_url": "https://sahha.ma/pharmacie-de-garde/tiznit",
  "kind": "roster",
  "pharmacies": [
   {
-   "name": "Pharmacie Des Amicales",
-   "address": "Amicale des fonctionnaires Bloc C n°142, Tiznit",
-   "phone": "+212528861550",
-   "lat": 29.697383,
-   "lng": -9.734783,
-   "shift": "nuit",
+   "name": "Pharmacie AlAmal",
+   "address": "71 av Mly. ElHassan Ben Youssef Afrag, Tiznit",
+   "phone": "+212528861729",
+   "lat": 29.687433,
+   "lng": -9.7355,
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie Route Goulmim",
+   "address": "bd bir Anzarane Rte Goulmim, Tiznit",
+   "phone": "+212528866778",
+   "lat": 29.69055,
+   "lng": -9.724533,
+   "shift": "jour",
    "shift_label": ""
   }
  ],
  "center": [
-  29.6974,
-  -9.7348
+  29.689,
+  -9.73
  ]
 }

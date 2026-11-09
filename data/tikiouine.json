@@ -1,7 +1,7 @@
 {
  "city": "tikiouine",
  "label": "Tikiouine",
- "date": "2026-11-08",
+ "date": "2026-11-09",
  "source": "sahha.ma",
  "source_url": "https://sahha.ma/pharmacie-de-garde/tikiouine",
  "kind": "roster",
@@ -12,7 +12,7 @@
    "phone": "+212669478339",
    "lat": 30.377459,
    "lng": -9.51589,
-   "shift": "nuit",
+   "shift": "jour",
    "shift_label": ""
   }
  ],

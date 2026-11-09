@@ -1,104 +1,86 @@
 {
  "city": "rabat",
  "label": "Rabat",
- "date": "2026-11-08",
+ "date": "2026-11-09",
  "source": "sahha.ma",
  "source_url": "https://sahha.ma/pharmacie-de-garde/rabat",
  "kind": "roster",
  "pharmacies": [
   {
-   "name": "Pharmacie Almaghreb Alarabi",
-   "address": "25 avenue Maghrib Al Arabi, Rabat",
-   "phone": "+212537732637",
-   "lat": 34.021034,
-   "lng": -6.84181,
+   "name": "PHARMACIE ABTAL",
+   "address": "53 Groupe Zouhour (En Face Dar Chabab) [+]",
+   "phone": "+212537653710",
+   "lat": 33.9829909,
+   "lng": -6.8240507,
    "shift": "jour",
    "shift_label": ""
   },
   {
-   "name": "PHARMACIE AL MOUNTALAK",
-   "address": "23, Hay Al Mountalak - Hay Al Fath - C.Y.M",
-   "phone": "+212537294480",
-   "lat": 33.9696412,
-   "lng": -6.900706,
+   "name": "Pharmacie Alkifah",
+   "address": "avenue Kifah (c.y.m.) bloc \"DA\" n°26, Rabat",
+   "phone": "+212537796856",
+   "lat": 33.990909,
+   "lng": -6.872155,
    "shift": "jour",
    "shift_label": ""
   },
   {
-   "name": "Pharmacie Centrale",
-   "address": "113 avenue Hassan II, Rabat",
-   "phone": "+212537724395",
-   "lat": 34.030926,
-   "lng": -6.820642,
+   "name": "Pharmacie Chenier",
+   "address": "27 rue de Tunis Hassan, Rabat",
+   "phone": "+212537201539",
+   "lat": 34.018512,
+   "lng": -6.823041,
    "shift": "jour",
    "shift_label": ""
   },
   {
-   "name": "PHARMACIE CHIFAE",
-   "address": "1 Avenue Al Fadila Quartier industriel C.Y.M",
-   "phone": "+212537795344",
-   "lat": 33.984081,
-   "lng": -6.8731444,
+   "name": "Pharmacie ElManzeh",
+   "address": "964 avenue Al Massira (C.y.m) hay ELManzeh, Rabat",
+   "phone": "+212537281122",
+   "lat": 33.990251,
+   "lng": -6.874488,
    "shift": "jour",
    "shift_label": ""
   },
   {
-   "name": "Pharmacie des Cartes",
-   "address": "64 avenue Al Oumam AlMouttahida-ex N.Unies, Rabat",
-   "phone": "+212537671090",
-   "lat": 33.991025,
-   "lng": -6.846809,
-   "shift": "24h",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie Ksar Bhar",
-   "address": "quartier Akkari marché Ksar ElBhar bloc \"B\" n°6, Rabat",
-   "phone": "+212537297208",
-   "lat": 34.010906,
-   "lng": -6.864804,
+   "name": "Pharmacie Ibn Sina",
+   "address": "78 av Al Amir Fal Ould Oumeir Agdal, Rabat",
+   "phone": "+212537672016",
+   "lat": 33.996406,
+   "lng": -6.848159,
    "shift": "jour",
    "shift_label": ""
   },
   {
-   "name": "Pharmacie Nahda",
-   "address": "27 bd Houmane Al Fétouaki Grp. ElWard, Rabat",
-   "phone": "+212537750641",
-   "lat": 33.980521,
-   "lng": -6.824798,
-   "shift": "24h",
-   "shift_label": ""
-  },
-  {
-   "name": "PHARMACIE RABAT CORNICHE",
-   "address": "Rue 13, N°2, Hay Al Ahbass Route Côtière - C.Y.M",
-   "phone": "+212537698488",
-   "lat": 34.0030443,
-   "lng": -6.8719498,
+   "name": "Pharmacie Mecca",
+   "address": "avenue Ailanthus hay Ryad sec. 23 résid. les Cênes, Rabat",
+   "phone": "+212537565875",
+   "lat": 33.94452,
+   "lng": -6.869219,
    "shift": "jour",
    "shift_label": ""
   },
   {
-   "name": "Pharmacie Safiya",
-   "address": "av. Annakhil sect.8 hay Riad, Rabat",
-   "phone": "+212537713443",
-   "lat": 33.954928,
-   "lng": -6.865688,
-   "shift": "24h",
+   "name": "Pharmacie Mourad",
+   "address": "douar Rjafellah bloc TZ n°1 Cym, Rabat",
+   "phone": "+212537695390",
+   "lat": 34.001866,
+   "lng": -6.861918,
+   "shift": "jour",
    "shift_label": ""
   },
   {
-   "name": "Pharmacie ElInbiat",
-   "address": "hay El Inbiate n°72 B3, Rabat",
-   "phone": "+212537630315",
-   "lat": 33.992788,
-   "lng": -6.809456,
+   "name": "Pharmacie Napoli",
+   "address": "94 rue de Napoli Océan, Rabat",
+   "phone": "+212537720859",
+   "lat": 34.02599,
+   "lng": -6.84802,
    "shift": "jour",
    "shift_label": ""
   }
  ],
  "center": [
   33.9939,
-  -6.852
+  -6.8526
  ]
 }

@@ -1,32 +1,50 @@
 {
  "city": "khemisset",
  "label": "Khémisset",
- "date": "2026-11-08",
+ "date": "2026-11-09",
  "source": "sahha.ma",
  "source_url": "https://sahha.ma/pharmacie-de-garde/khemisset",
  "kind": "roster",
  "pharmacies": [
   {
-   "name": "Pharmacie Conseil",
-   "address": "210 Amicale Essalam, Khémisset",
+   "name": "PHARMACIE CONSEIL",
+   "address": "210 Amicale Essalam",
    "phone": "+212537559627",
-   "lat": 33.841109,
-   "lng": -6.073935,
+   "lat": 33.8411095,
+   "lng": -6.0739346,
    "shift": "jour",
    "shift_label": ""
   },
   {
-   "name": "Pharmacie Naji",
-   "address": "645 Amicale El Farah 2, Khémisset",
+   "name": "PHARMACIE NAJI",
+   "address": "645 Amicale El Farah 2",
    "phone": "+212537559453",
-   "lat": 33.840372,
-   "lng": -6.072216,
+   "lat": 33.8403721,
+   "lng": -6.0722165,
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie Arrahma",
+   "address": "77 X rue Oued Tensift Zahrra, Khémisset",
+   "phone": "+212537558816",
+   "lat": 33.812591,
+   "lng": -6.071699,
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie Le Chateau",
+   "address": "393 av Mohamed Zerktouni hay ElFarah I, Khémisset",
+   "phone": "+212537559290",
+   "lat": 33.837883,
+   "lng": -6.07965,
    "shift": "jour",
    "shift_label": ""
   }
  ],
  "center": [
-  33.8407,
-  -6.0731
+  33.833,
+  -6.0744
  ]
 }

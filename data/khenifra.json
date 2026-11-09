@@ -1,32 +1,50 @@
 {
  "city": "khenifra",
  "label": "Khénifra",
- "date": "2026-11-08",
+ "date": "2026-11-09",
  "source": "sahha.ma",
  "source_url": "https://sahha.ma/pharmacie-de-garde/khenifra",
  "kind": "roster",
  "pharmacies": [
   {
-   "name": "Pharmacie Jabbour",
-   "address": "17 bd Massira Khadra, Khénifra",
+   "name": "PHARMACIE JABBOUR",
+   "address": "17 bd Massira Khadra",
    "phone": "+212535588847",
-   "lat": 32.937983,
-   "lng": -5.6634,
+   "lat": 32.9378771,
+   "lng": -5.6633224,
    "shift": "jour",
    "shift_label": ""
   },
   {
-   "name": "Pharmacie Touhami",
-   "address": "33 quartier Ikhamen, Khénifra",
+   "name": "PHARMACIE TOUHAMI",
+   "address": "33 quartier Ikhamen",
    "phone": "+212535587800",
-   "lat": 32.948617,
-   "lng": -5.665033,
+   "lat": 32.9486167,
+   "lng": -5.6650333,
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie Amalou",
+   "address": "87 bd Massira hay Amalou Ighriben, Khénifra",
+   "phone": "+212535587344",
+   "lat": 32.9398,
+   "lng": -5.64985,
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie Najah",
+   "address": "hay Najah rue 3 n°2, Khénifra",
+   "phone": "+212535384545",
+   "lat": 32.933717,
+   "lng": -5.6692,
    "shift": "jour",
    "shift_label": ""
   }
  ],
  "center": [
-  32.9433,
-  -5.6642
+  32.94,
+  -5.6619
  ]
 }

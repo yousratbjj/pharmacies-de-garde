@@ -1,17 +1,17 @@
 {
  "city": "al-hoceima",
  "label": "Al Hoceïma",
- "date": "2026-11-08",
+ "date": "2026-11-09",
  "source": "sahha.ma",
  "source_url": "https://sahha.ma/pharmacie-de-garde/al-hoceima",
  "kind": "roster",
  "pharmacies": [
   {
-   "name": "Pharmacie Al Manzah",
-   "address": "20 rue Med Hassan El Ouazzani, Al Hoceima",
+   "name": "PHARMACIE AL MANZAH",
+   "address": "20 rue Med Hassan El Ouazzaniشارع محمد حسن الوزاني",
    "phone": "+212539840282",
    "lat": 35.2449,
-   "lng": -3.917067,
+   "lng": -3.9170667,
    "shift": "jour",
    "shift_label": ""
   },
@@ -23,10 +23,19 @@
    "lng": -3.9382,
    "shift": "jour",
    "shift_label": ""
+  },
+  {
+   "name": "Pharmacie Noumidia",
+   "address": "57 rue Abdellah BenYacine, Al Hoceima",
+   "phone": "+212539980645",
+   "lat": 35.238983,
+   "lng": -3.9274,
+   "shift": "jour",
+   "shift_label": ""
   }
  ],
  "center": [
-  35.2429,
+  35.2416,
   -3.9276
  ]
 }

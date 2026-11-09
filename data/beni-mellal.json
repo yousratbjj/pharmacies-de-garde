@@ -1,50 +1,86 @@
 {
  "city": "beni-mellal",
  "label": "Béni Mellal",
- "date": "2026-11-08",
+ "date": "2026-11-09",
  "source": "sahha.ma",
  "source_url": "https://sahha.ma/pharmacie-de-garde/beni-mellal",
  "kind": "roster",
  "pharmacies": [
   {
-   "name": "Pharmacie Beni Day",
-   "address": "326 av. Hassan II, Beni Mellal",
+   "name": "Pharmacie Al Adarissa",
+   "address": "30 bd. El Farabi q. Al Adarissa, Beni Mellal",
+   "phone": "+212523487828",
+   "lat": 32.333333,
+   "lng": -6.36715,
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie AlMasjid",
+   "address": "6 hay El Hassani El Amria, Beni Mellal",
+   "phone": "+212523488392",
+   "lat": 32.33262,
+   "lng": -6.35225,
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
+   "name": "PHARMACIE BENI DAY",
+   "address": "326 av. hassan ii",
    "phone": "+212523420749",
-   "lat": 32.337583,
-   "lng": -6.366467,
+   "lat": 32.342443,
+   "lng": -6.375799,
    "shift": "jour",
    "shift_label": ""
   },
   {
-   "name": "Pharmacie Ghanem",
-   "address": "av. Baghdad Kasr Ghozafat N°468 470, Beni Mellal",
+   "name": "PHARMACIE GHANEM",
+   "address": "Av. baghdad , kasr ghozafat, n°468,470شارع 1 رقم 95، قصر غزافات",
    "phone": "+212523489604",
-   "lat": 32.349048,
-   "lng": -6.355128,
+   "lat": 32.3487674,
+   "lng": -6.3550514,
    "shift": "jour",
    "shift_label": ""
   },
   {
-   "name": "Pharmacie Rachdaoui",
-   "address": "quartier Al Atlas, Beni Mellal",
+   "name": "Pharmacie Principale",
+   "address": "bd Vingt Août Fadila 9 n°13 cplxe Oumnia, Beni Mellal",
+   "phone": "+212523423059",
+   "lat": 32.3485,
+   "lng": -6.365483,
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
+   "name": "PHARMACIE RACHDAOUI",
+   "address": "Quartier al atlasبلوك 3 - رقم 5-6 - رياض الأطلس",
    "phone": "+212523489915",
-   "lat": 32.347776,
-   "lng": -6.34795,
+   "lat": 32.3477764,
+   "lng": -6.3479504,
    "shift": "jour",
    "shift_label": ""
   },
   {
-   "name": "Pharmacie Tahri",
-   "address": "61 lotiss. Lakbir lot Erraed, Beni Mellal",
+   "name": "PHARMACIE TAHRI",
+   "address": "61 lotiss. lakbir lot erraedرقم 61، تجزئة الكبير الثاني",
    "phone": "+212523427729",
-   "lat": 32.32322,
-   "lng": -6.37128,
+   "lat": 32.3230752,
+   "lng": -6.3718094,
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie Zitoune",
+   "address": "17 av. AlQods q. ElFadel II, Beni Mellal",
+   "phone": "+212523486849",
+   "lat": 32.32715,
+   "lng": -6.36955,
    "shift": "jour",
    "shift_label": ""
   }
  ],
  "center": [
-  32.3394,
-  -6.3602
+  32.338,
+  -6.3631
  ]
 }

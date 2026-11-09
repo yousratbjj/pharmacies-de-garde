@@ -1,14 +1,23 @@
 {
  "city": "ksar-el-kebir",
  "label": "Ksar El Kebir",
- "date": "2026-11-08",
+ "date": "2026-11-09",
  "source": "sahha.ma",
  "source_url": "https://sahha.ma/pharmacie-de-garde/ksar-el-kebir",
  "kind": "roster",
  "pharmacies": [
   {
-   "name": "Pharmacie Al Yaqtine",
-   "address": "hay Ouled Hmayde, Ksar El Kébir",
+   "name": "Pharmacie Aloroba",
+   "address": "hay Aloroba grp. B rue 8 n°11, Ksar El Kébir",
+   "phone": "+212539906737",
+   "lat": 35.001617,
+   "lng": -5.895817,
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
+   "name": "PHARMACIE AL YAQTINE",
+   "address": "hay Ouled Hmayde",
    "phone": "+212539907734",
    "lat": 34.998872,
    "lng": -5.908089,
@@ -16,8 +25,8 @@
    "shift_label": ""
   },
   {
-   "name": "Pharmacie Arrahma",
-   "address": "hay Assalame rue 32 grp Z n°5 bis, Ksar El Kébir",
+   "name": "PHARMACIE ARRAHMA",
+   "address": "hay Assalame rue 32 grp Z n°5 bis",
    "phone": "+212539918810",
    "lat": 35.01189,
    "lng": -5.90594,
@@ -26,7 +35,7 @@
   }
  ],
  "center": [
-  35.0054,
-  -5.907
+  35.0041,
+  -5.9033
  ]
 }

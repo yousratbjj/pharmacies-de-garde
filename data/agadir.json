@@ -1,7 +1,7 @@
 {
  "city": "agadir",
  "label": "Agadir",
- "date": "2026-11-08",
+ "date": "2026-11-09",
  "source": "sahha.ma",
  "source_url": "https://sahha.ma/pharmacie-de-garde/agadir",
  "kind": "roster",
@@ -16,29 +16,11 @@
    "shift_label": ""
   },
   {
-   "name": "Pharmacie Amara",
-   "address": "14 cité Adrar Résid. Fadlallah Gh2 M1, Agadir",
-   "phone": "+212528218192",
-   "lat": 30.389356,
-   "lng": -9.504175,
-   "shift": "jour",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie Amine",
-   "address": "489 Hay Taddart - Autre ville Anza, Agadir",
-   "phone": "+212528204920",
-   "lat": 30.447836,
-   "lng": -9.656279,
-   "shift": "jour",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie Assoul",
-   "address": "128 lot El Hassania bloc A Anza, Agadir",
+   "name": "PHARMACIE ASSOUL",
+   "address": "Pharmacie Assoul, n°128 bloc a. lotissement el hassania anza. a coté de mosquée hassania",
    "phone": "+212528214671",
-   "lat": 30.458221,
-   "lng": -9.659932,
+   "lat": 30.4600898,
+   "lng": -9.6608129,
    "shift": "jour",
    "shift_label": ""
   },
@@ -95,10 +77,28 @@
    "lng": -9.5899,
    "shift": "jour",
    "shift_label": ""
+  },
+  {
+   "name": "Pharmacie les Jardins d'Agadir",
+   "address": "2 hay Al Massira - Autre ville resid Kettani GH 3, Agadir",
+   "phone": "+212528222224",
+   "lat": 30.40652,
+   "lng": -9.59759,
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie Salam",
+   "address": "bd ElHaj Massoud ElWakfaoui Hay Salam, Agadir",
+   "phone": "+212528235636",
+   "lat": 30.402183,
+   "lng": -9.54915,
+   "shift": "jour",
+   "shift_label": ""
   }
  ],
  "center": [
-  30.4186,
-  -9.5829
+  30.4159,
+  -9.5816
  ]
 }

@@ -1,32 +1,68 @@
 {
  "city": "khouribga",
  "label": "Khouribga",
- "date": "2026-11-08",
+ "date": "2026-11-09",
  "source": "sahha.ma",
  "source_url": "https://sahha.ma/pharmacie-de-garde/khouribga",
  "kind": "roster",
  "pharmacies": [
   {
-   "name": "Pharmacie AlInbiaat",
-   "address": "241 bd. Ibn Ghazi Lot. El Haoud hay Riad, Khouribga",
-   "phone": "+212523490777",
-   "lat": 32.874549,
-   "lng": -6.92774,
-   "shift": "nuit",
+   "name": "PHARMACIE MAKKA",
+   "address": "154 hay Zitouna secteur 7",
+   "phone": "+212523493434",
+   "lat": 32.8631628,
+   "lng": -6.903753,
+   "shift": "jour",
    "shift_label": ""
   },
   {
-   "name": "Pharmacie Makka",
-   "address": "154 hay Zitouna secteur 7, Khouribga",
-   "phone": "+212523493434",
-   "lat": 32.863163,
-   "lng": -6.903753,
-   "shift": "nuit",
+   "name": "Pharmacie Al Ahed",
+   "address": "164 rue Assaad Ibnou Al Yazid lotiss. Bad, Khouribga",
+   "phone": "+212523493313",
+   "lat": 32.871058,
+   "lng": -6.893128,
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie AlAkhaouine",
+   "address": "50 lotiss. El Farah hay Riad, Khouribga",
+   "phone": "+212523491616",
+   "lat": 32.875704,
+   "lng": -6.924407,
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie AlImam Malik",
+   "address": "26 bd Imam Malik, Khouribga",
+   "phone": "+212523561134",
+   "lat": 32.890497,
+   "lng": -6.917935,
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
+   "name": "PHARMACIE ALINBIAAT",
+   "address": "241 bd. ibn ghazi lot. el haoud hay riad",
+   "phone": "+212523490777",
+   "lat": 32.874549,
+   "lng": -6.92774,
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie Ibn Tofail",
+   "address": "19 rue Tinghir lot. Iqbal, Khouribga",
+   "phone": "+212523498242",
+   "lat": 32.886057,
+   "lng": -6.900784,
+   "shift": "jour",
    "shift_label": ""
   }
  ],
  "center": [
-  32.8689,
-  -6.9157
+  32.8768,
+  -6.9113
  ]
 }

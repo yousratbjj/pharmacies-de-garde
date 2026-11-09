@@ -1,32 +1,41 @@
 {
  "city": "larache",
  "label": "Larache",
- "date": "2026-11-08",
+ "date": "2026-11-09",
  "source": "sahha.ma",
  "source_url": "https://sahha.ma/pharmacie-de-garde/larache",
  "kind": "roster",
  "pharmacies": [
   {
-   "name": "Pharmacie du Nord",
-   "address": "33 bd Omar Ibn Abdelaziz, Larache",
+   "name": "PHARMACIE DU NORD",
+   "address": "33, bd Omar Ibn Abdelazizرقم 33، شارع عمر بن عبد العزيز، العرائش،",
    "phone": "+212539501886",
-   "lat": 35.17805,
-   "lng": -6.14505,
+   "lat": 35.1780125,
+   "lng": -6.1449697,
    "shift": "jour",
    "shift_label": ""
   },
   {
-   "name": "Pharmacie Jaoui",
-   "address": "av Ali Abi Taleb résid. AlFath M4/A, Larache",
+   "name": "PHARMACIE JAOUI",
+   "address": "av Ali Abi Taleb résid. AlFath M4/Aشارع علي بن أبي طالب",
    "phone": "+212539910044",
    "lat": 35.19205,
-   "lng": -6.147783,
+   "lng": -6.1477833,
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie Nassiha",
+   "address": "1 bd. Abdelmoumen Ben Ali, Larache",
+   "phone": "+212539912600",
+   "lat": 35.190283,
+   "lng": -6.156617,
    "shift": "jour",
    "shift_label": ""
   }
  ],
  "center": [
-  35.1851,
-  -6.1464
+  35.1868,
+  -6.1498
  ]
 }

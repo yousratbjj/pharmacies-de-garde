@@ -1,23 +1,23 @@
 {
  "city": "azrou",
  "label": "Azrou",
- "date": "2026-11-08",
+ "date": "2026-11-09",
  "source": "sahha.ma",
  "source_url": "https://sahha.ma/pharmacie-de-garde/azrou",
  "kind": "roster",
  "pharmacies": [
   {
-   "name": "Pharmacie Takouine",
-   "address": "Atlas II n°122 Ahadaf, Azrou",
-   "phone": "+212535564333",
-   "lat": 33.451833,
-   "lng": -5.229167,
+   "name": "Pharmacie Maria Azrou",
+   "address": "280 Nakhil III Ahadaf, Azrou",
+   "phone": "+212535560333",
+   "lat": 33.44995,
+   "lng": -5.222183,
    "shift": "jour",
    "shift_label": ""
   }
  ],
  "center": [
-  33.4518,
-  -5.2292
+  33.45,
+  -5.2222
  ]
 }

@@ -1,23 +1,23 @@
 {
  "city": "chefchaouen",
  "label": "Chefchaouen",
- "date": "2026-11-08",
+ "date": "2026-11-09",
  "source": "sahha.ma",
  "source_url": "https://sahha.ma/pharmacie-de-garde/chefchaouen",
  "kind": "roster",
  "pharmacies": [
   {
-   "name": "Pharmacie Utaa Hammam",
-   "address": "place Utaa Hammam Demnet ElMekhzen n°82, Chefchaouen",
-   "phone": "+212539989070",
-   "lat": 35.169067,
-   "lng": -5.2613,
-   "shift": "nuit",
+   "name": "Pharmacie Ibn Nafiss",
+   "address": "Unnamed Road, Chefchaouen",
+   "phone": "+212621009168",
+   "lat": 35.1686,
+   "lng": -5.262404,
+   "shift": "jour",
    "shift_label": ""
   }
  ],
  "center": [
-  35.1691,
-  -5.2613
+  35.1686,
+  -5.2624
  ]
 }

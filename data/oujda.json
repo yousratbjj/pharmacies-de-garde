@@ -1,17 +1,44 @@
 {
  "city": "oujda",
  "label": "Oujda",
- "date": "2026-11-08",
+ "date": "2026-11-09",
  "source": "sahha.ma",
  "source_url": "https://sahha.ma/pharmacie-de-garde/oujda",
  "kind": "roster",
  "pharmacies": [
+  {
+   "name": "Pharmacie 2020",
+   "address": "59 hay Ennahda 1 rue A15, Oujda",
+   "phone": "+212624367508",
+   "lat": 34.678021,
+   "lng": -1.953224,
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie Abdelmoumen",
+   "address": "100 rue Ras Asfour, Oujda",
+   "phone": "+212536702819",
+   "lat": 34.67465,
+   "lng": -1.909483,
+   "shift": "jour",
+   "shift_label": ""
+  },
   {
    "name": "Pharmacie Aynaou",
    "address": "hay Essalam B1 n°3 rte Jerada, Oujda",
    "phone": "+212536514751",
    "lat": 34.67055,
    "lng": -1.937333,
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie Hay Essalam",
+   "address": "hay Essalam rue A1/98 Ain Serrak, Oujda",
+   "phone": "+212536533537",
+   "lat": 34.661648,
+   "lng": -1.924823,
    "shift": "jour",
    "shift_label": ""
   },
@@ -52,26 +79,17 @@
    "shift_label": ""
   },
   {
-   "name": "PHARMACIE I.S.T.A LAZARET",
-   "address": "Bd Narjis Dhar lamhalla lot Benomar N°144 [+]",
-   "phone": "+212536544975",
-   "lat": 34.67714,
-   "lng": -1.868,
-   "shift": "nuit",
-   "shift_label": ""
-  },
-  {
-   "name": "PHARMACIE LA CLYNIQUE",
-   "address": "12 Bd Mohamed Bellakhdar, Entre Clinique ACHARK et Clinique OUJDA ,En face Café BLANKOK [+]رقم 32 شارع بلخضر",
-   "phone": "+212536704796",
-   "lat": 34.6744455,
-   "lng": -1.9205025,
-   "shift": "nuit",
+   "name": "Pharmacie Mansour Eddahbi",
+   "address": "39 bd Mansour Eddahbi - Autre ville hay Koulouch, Oujda",
+   "phone": "+212536521529",
+   "lat": 34.699106,
+   "lng": -1.913008,
+   "shift": "jour",
    "shift_label": ""
   }
  ],
  "center": [
-  34.6777,
-  -1.9037
+  34.6784,
+  -1.9153
  ]
 }

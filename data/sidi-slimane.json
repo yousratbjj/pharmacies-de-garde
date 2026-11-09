@@ -1,36 +1,18 @@
 {
  "city": "sidi-slimane",
  "label": "Sidi Slimane",
- "date": "2026-11-08",
+ "date": "2026-11-09",
  "source": "sahha.ma",
  "source_url": "https://sahha.ma/pharmacie-de-garde/sidi-slimane",
  "kind": "roster",
  "pharmacies": [
-  {
-   "name": "Pharmacie Al Houda",
-   "address": "av Al Hansali hay Essalam bloc 20 n°9, Sidi Slimane",
-   "phone": "+212537505669",
-   "lat": 34.25645,
-   "lng": -5.921817,
-   "shift": "jour",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie les Urgences",
-   "address": "av de la Résistance, Sidi Slimane",
-   "phone": "+212537503690",
-   "lat": 34.26755,
-   "lng": -5.91935,
-   "shift": "nuit",
-   "shift_label": ""
-  },
   {
    "name": "PHARMACIE ALLEMAGNA",
    "address": "lot. Marjane n°1003, Sidi Slimane",
    "phone": "+212707203837",
    "lat": 34.259878,
    "lng": -5.927253,
-   "shift": "nuit",
+   "shift": "jour",
    "shift_label": ""
   },
   {
@@ -39,7 +21,7 @@
    "phone": "+212537502513",
    "lat": 34.2543606,
    "lng": -5.9239494,
-   "shift": "nuit",
+   "shift": "jour",
    "shift_label": ""
   },
   {
@@ -48,7 +30,7 @@
    "phone": "+212537502078",
    "lat": 34.2591665,
    "lng": -5.9295916,
-   "shift": "nuit",
+   "shift": "jour",
    "shift_label": ""
   },
   {
@@ -57,7 +39,7 @@
    "phone": "+212537505768",
    "lat": 34.2592509,
    "lng": -5.9310357,
-   "shift": "nuit",
+   "shift": "jour",
    "shift_label": ""
   },
   {
@@ -66,12 +48,21 @@
    "phone": "+212537503034",
    "lat": 34.251813,
    "lng": -5.927786,
-   "shift": "nuit",
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
+   "name": "PHARMACIE NASSIM EL KHAIR",
+   "address": "bd Hassan II - Autre ville, Sidi Slimane",
+   "phone": "+212643633358",
+   "lat": 34.259878,
+   "lng": -5.927253,
+   "shift": "jour",
    "shift_label": ""
   }
  ],
  "center": [
-  34.2584,
-  -5.9258
+  34.2574,
+  -5.9278
  ]
 }

@@ -1,32 +1,23 @@
 {
  "city": "oued-zem",
  "label": "Oued Zem",
- "date": "2026-11-08",
+ "date": "2026-11-09",
  "source": "sahha.ma",
  "source_url": "https://sahha.ma/pharmacie-de-garde/oued-zem",
  "kind": "roster",
  "pharmacies": [
   {
-   "name": "Pharmacie Mekka",
-   "address": "7 Rue 3 Dar Daou, Oued Zem",
-   "phone": "+212523521533",
-   "lat": 32.875246,
-   "lng": -6.57017,
-   "shift": "24h",
-   "shift_label": ""
-  },
-  {
-   "name": "MEKKA",
-   "address": "N 7 Rue 3 Dar Daouرقم 7 زنقة رقم 3 دار داو",
-   "phone": "+212523521533",
-   "lat": 32.8752462,
-   "lng": -6.5701701,
-   "shift": "24h",
+   "name": "Pharmacie Al Balsam",
+   "address": "283 Pl. du Vingt Août 4°tranche hay Moukaouama, Oued Zem",
+   "phone": "+212523416725",
+   "lat": 32.846559,
+   "lng": -6.577259,
+   "shift": "jour",
    "shift_label": ""
   }
  ],
  "center": [
-  32.8752,
-  -6.5702
+  32.8466,
+  -6.5773
  ]
 }

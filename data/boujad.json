@@ -1,23 +1,23 @@
 {
  "city": "boujad",
  "label": "Boujad",
- "date": "2026-11-08",
+ "date": "2026-11-09",
  "source": "sahha.ma",
  "source_url": "https://sahha.ma/pharmacie-de-garde/boujad",
  "kind": "roster",
  "pharmacies": [
   {
-   "name": "Pharmacie Fallahi",
-   "address": "18 lotiss. Al Majd - Autre ville El Fath, Boujad",
-   "phone": "+212523412535",
-   "lat": 32.77164,
-   "lng": -6.37827,
+   "name": "Pharmacie Place Mohammed V",
+   "address": "3 place Mohammed V, Boujad",
+   "phone": "+212523414928",
+   "lat": 32.769058,
+   "lng": -6.39655,
    "shift": "jour",
    "shift_label": ""
   }
  ],
  "center": [
-  32.7716,
-  -6.3783
+  32.7691,
+  -6.3966
  ]
 }

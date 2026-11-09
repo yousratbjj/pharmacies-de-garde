@@ -1,23 +1,23 @@
 {
  "city": "mechraa-bel-ksiri",
  "label": "Mechraâ Bel Ksiri",
- "date": "2026-11-08",
+ "date": "2026-11-09",
  "source": "sahha.ma",
  "source_url": "https://sahha.ma/pharmacie-de-garde/mechraa-bel-ksiri",
  "kind": "roster",
  "pharmacies": [
   {
-   "name": "Pharmacie Zhiri",
-   "address": "164 bd Moulay Driss, Mechraa Bel Ksiri",
-   "phone": "+212537438122",
-   "lat": 34.577645,
-   "lng": -5.949896,
+   "name": "Pharmacie Orangers",
+   "address": "146 av des F.a.r. cité Pam, Mechraa Bel Ksiri",
+   "phone": "+212537906211",
+   "lat": 34.576655,
+   "lng": -5.967731,
    "shift": "jour",
    "shift_label": ""
   }
  ],
  "center": [
-  34.5776,
-  -5.9499
+  34.5767,
+  -5.9677
  ]
 }

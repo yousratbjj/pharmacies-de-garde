@@ -1,35 +1,26 @@
 {
  "city": "meknes",
  "label": "Meknès",
- "date": "2026-11-08",
+ "date": "2026-11-09",
  "source": "sahha.ma",
  "source_url": "https://sahha.ma/pharmacie-de-garde/meknes",
  "kind": "roster",
  "pharmacies": [
   {
+   "name": "Pharmacie Ach-Chifae",
+   "address": "12, bd. Limouri",
+   "phone": "+212535535212",
+   "lat": 33.89655,
+   "lng": -5.576183,
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
    "name": "Pharmacie Acima",
    "address": "1, hay Zitoune , résid. Al Ghorfa",
    "phone": "+212535466049",
-   "lat": 33.860767,
-   "lng": -5.548633,
-   "shift": "jour",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie Andalousie",
-   "address": "4871, lot Erac Badr , Oujah Arouss",
-   "phone": "+212535557909",
-   "lat": 33.9039513,
-   "lng": -5.5738025,
-   "shift": "jour",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie Conseil",
-   "address": "584, Douar Kdim , sidi Baba",
-   "phone": "+212535554339",
-   "lat": 33.9004099,
-   "lng": -5.5485418,
+   "lat": 33.8608109,
+   "lng": -5.5486465,
    "shift": "jour",
    "shift_label": ""
   },
@@ -37,17 +28,8 @@
    "name": "Pharmacie de l'Atlas",
    "address": "173, Avenue Abdelkrim El Khattabi 50000",
    "phone": "+212535536322",
-   "lat": 33.920816,
-   "lng": -5.488178,
-   "shift": "jour",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie Ikamat Lamsala",
-   "address": "Meknès",
-   "phone": "",
-   "lat": 33.88727,
-   "lng": -5.537849,
+   "lat": 33.9208218,
+   "lng": -5.4882235,
    "shift": "jour",
    "shift_label": ""
   },
@@ -55,41 +37,41 @@
    "name": "Pharmacie La Baraka",
    "address": "188, Marjane 4 , sidi Bouzekri",
    "phone": "+212535550907",
-   "lat": 33.857687,
-   "lng": -5.5355748,
-   "shift": "jour",
+   "lat": 33.857615,
+   "lng": -5.5357,
+   "shift": "24h",
    "shift_label": ""
   },
   {
-   "name": "Pharmacie Radi",
+   "name": "Pharmacie Marjane Soukna",
    "address": "Meknès",
-   "phone": "+212535538499",
-   "lat": 33.881677,
-   "lng": -5.584677,
+   "phone": "+212660027591",
+   "lat": 33.864813,
+   "lng": -5.567137,
    "shift": "jour",
    "shift_label": ""
   },
   {
-   "name": "Pharmacie Saada",
-   "address": "78, Bd Abdelkrim Khattabi - Sbata 50000",
-   "phone": "+212535537717",
-   "lat": 33.881783,
-   "lng": -5.568183,
+   "name": "Phafrmacie Al Osra",
+   "address": "368 rue Ifrane - Autre ville hay Riad, Meknès",
+   "phone": "+212535509598",
+   "lat": 33.918721,
+   "lng": -5.483639,
    "shift": "jour",
    "shift_label": ""
   },
   {
-   "name": "PHARMACIE ADDOHA DKHISSA",
-   "address": "28 douar Zoualeth Dkhissa Meknesرقم 28، برنامج ويسلان الاقتصادي عمارات الضحىرقم 28، برنامج ويسلان الاقتصادي عمارات الضحىرقم 28، برنامج ويسلان الاقتصادي عمارات الضحىرقم 28، برنامج ويسلان الاقتصادي عمارات الضحىرقم 28، برنامج ويسلان الاقتصادي عمارات الضحى",
-   "phone": "+212535433959",
-   "lat": 33.936894,
-   "lng": -5.465416,
+   "name": "Pharmacie Abderrahmane Ben Zaidane",
+   "address": "hay Sidi Baba douar Jdid n°1149, Meknès",
+   "phone": "+212535531638",
+   "lat": 33.9075,
+   "lng": -5.575317,
    "shift": "jour",
    "shift_label": ""
   }
  ],
  "center": [
-  33.8924,
-  -5.539
+  33.8895,
+  -5.5393
  ]
 }

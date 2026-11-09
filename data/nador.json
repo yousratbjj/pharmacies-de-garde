@@ -1,29 +1,11 @@
 {
  "city": "nador",
  "label": "Nador",
- "date": "2026-11-08",
+ "date": "2026-11-09",
  "source": "sahha.ma",
  "source_url": "https://sahha.ma/pharmacie-de-garde/nador",
  "kind": "roster",
  "pharmacies": [
-  {
-   "name": "Pharmacie Afra",
-   "address": "96 av Mly. Rachid Jaadar, Nador",
-   "phone": "+212536350808",
-   "lat": 35.178594,
-   "lng": -2.925437,
-   "shift": "jour",
-   "shift_label": ""
-  },
-  {
-   "name": "PHARMACIE ALIKHLASS",
-   "address": "Route zghanghan ihddaden",
-   "phone": "+212536330508",
-   "lat": 35.1597275,
-   "lng": -2.9695992,
-   "shift": "jour",
-   "shift_label": ""
-  },
   {
    "name": "Pharmacie AlMahatta",
    "address": "254 av Hassan II, Nador",
@@ -43,17 +25,44 @@
    "shift_label": ""
   },
   {
-   "name": "Pharmacie Mariam",
-   "address": "Ihaddaden, Nador",
+   "name": "PHARMACIE AFRA",
+   "address": "96 av Mly. Rachid Jaadar · Jaadar Appeler 05 36 35 •• •• Itinéraire Carte Partager Voir la fiche",
+   "phone": "+212536350808",
+   "lat": 35.1520228,
+   "lng": -2.9801603,
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie Al Hikma",
+   "address": "294 bd. Mohammed V Jaadar, Nador",
+   "phone": "+212536353338",
+   "lat": 35.15457,
+   "lng": -2.97977,
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie Alikhlass",
+   "address": "route Zghanghan Ihddaden, Nador",
+   "phone": "+212536330508",
+   "lat": 35.159633,
+   "lng": -2.969467,
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
+   "name": "PHARMACIE MARIAM",
+   "address": "Ihaddaden",
    "phone": "+212536351403",
-   "lat": 35.162974,
-   "lng": -2.975704,
+   "lat": 35.1618146,
+   "lng": -2.9621317,
    "shift": "jour",
    "shift_label": ""
   }
  ],
  "center": [
-  35.1645,
-  -2.9421
+  35.1582,
+  -2.9552
  ]
 }

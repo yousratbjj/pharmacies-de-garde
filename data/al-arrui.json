@@ -1,23 +1,23 @@
 {
  "city": "al-arrui",
  "label": "Al Arrui",
- "date": "2026-11-08",
+ "date": "2026-11-09",
  "source": "sahha.ma",
  "source_url": "https://sahha.ma/pharmacie-de-garde/al-arrui",
  "kind": "roster",
  "pharmacies": [
   {
-   "name": "Pharmacie Al Qods Arruit",
-   "address": "159 bd Annakhil, Al Arrui",
-   "phone": "+212536362474",
-   "lat": 35.0173,
-   "lng": -3.00352,
+   "name": "Pharmacie l'Hôpital",
+   "address": "bd Allal Ben Abdallah - Autre ville, Al Arrui",
+   "phone": "+212536362261",
+   "lat": 35.00375,
+   "lng": -3.00723,
    "shift": "jour",
    "shift_label": ""
   }
  ],
  "center": [
-  35.0173,
-  -3.0035
+  35.0037,
+  -3.0072
  ]
 }

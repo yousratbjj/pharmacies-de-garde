@@ -1,32 +1,32 @@
 {
  "city": "selouane",
  "label": "Selouane",
- "date": "2026-11-08",
+ "date": "2026-11-09",
  "source": "sahha.ma",
  "source_url": "https://sahha.ma/pharmacie-de-garde/selouane",
  "kind": "roster",
  "pharmacies": [
   {
-   "name": "Pharmacie Al Jamiaa",
-   "address": "lotiss. Al Omrane lot. n°3079, Selouane",
-   "phone": "+212536358625",
-   "lat": 35.064614,
-   "lng": -2.91082,
+   "name": "Pharmacie AlOsra",
+   "address": "Place AlMassira, Selouane",
+   "phone": "+212536609081",
+   "lat": 35.07103,
+   "lng": -2.94159,
    "shift": "jour",
    "shift_label": ""
   },
   {
-   "name": "Pharmacie Selouane",
-   "address": "bd. Mohammed V, Selouane",
-   "phone": "+212536358469",
-   "lat": 35.07085,
-   "lng": -2.94085,
+   "name": "Pharmacie Boukraa",
+   "address": "lot Al Omrane 4°tranche, Selouane",
+   "phone": "+212536358344",
+   "lat": 35.069139,
+   "lng": -2.918728,
    "shift": "jour",
    "shift_label": ""
   }
  ],
  "center": [
-  35.0677,
-  -2.9258
+  35.0701,
+  -2.9302
  ]
 }

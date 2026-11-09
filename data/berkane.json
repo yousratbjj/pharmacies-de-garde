@@ -1,50 +1,68 @@
 {
  "city": "berkane",
  "label": "Berkane",
- "date": "2026-11-08",
+ "date": "2026-11-09",
  "source": "sahha.ma",
  "source_url": "https://sahha.ma/pharmacie-de-garde/berkane",
  "kind": "roster",
  "pharmacies": [
   {
-   "name": "Pharmacie Ghazouani",
-   "address": "37 bd Hassan II douar Bouayad rte d'Alkim M'Gaad Ras, Berkane",
+   "name": "PHARMACIE GHAZOUANI",
+   "address": "37 bd Hassan II douar Bouayad rte d'Alkim M'Gaad Ras",
    "phone": "+212536256482",
-   "lat": 34.920469,
-   "lng": -2.327188,
+   "lat": 34.9204693,
+   "lng": -2.3271879,
    "shift": "jour",
    "shift_label": ""
   },
   {
-   "name": "Pharmacie Ibn Lbaytar",
-   "address": "21 rue Ibn Arabi hay Eryad, Berkane",
+   "name": "PHARMACIE IBN LBAYTAR",
+   "address": "21 rue Ibn Arabi hay Eryad",
    "phone": "+212536615406",
-   "lat": 34.923883,
-   "lng": -2.305833,
+   "lat": 34.9238833,
+   "lng": -2.3058333,
    "shift": "jour",
    "shift_label": ""
   },
   {
-   "name": "Pharmacie la Victoire",
-   "address": "7 bd. AlWifak hay Salem, Berkane",
+   "name": "PHARMACIE LA VICTOIRE",
+   "address": "7 bd. AlWifak hay Salem",
    "phone": "+212536616162",
-   "lat": 34.928633,
+   "lat": 34.9286333,
    "lng": -2.3188,
    "shift": "jour",
    "shift_label": ""
   },
   {
-   "name": "Pharmacie Moulouya",
-   "address": "13 rue El Atlas hay Saâda, Berkane",
+   "name": "PHARMACIE MOULOUYA",
+   "address": "13 rue El Atlas hay Saâda",
    "phone": "+212536231667",
-   "lat": 34.928583,
-   "lng": -2.338933,
+   "lat": 34.9285833,
+   "lng": -2.3389333,
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie El Majd",
+   "address": "57 lot El Majd Rte de Saidia, Berkane",
+   "phone": "+212536617118",
+   "lat": 34.935917,
+   "lng": -2.323367,
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie Populaire",
+   "address": "220 bd Hassan II, Berkane",
+   "phone": "+212536613638",
+   "lat": 34.920683,
+   "lng": -2.328183,
    "shift": "jour",
    "shift_label": ""
   }
  ],
  "center": [
-  34.9254,
-  -2.3227
+  34.9264,
+  -2.3237
  ]
 }

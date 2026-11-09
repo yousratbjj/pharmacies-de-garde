@@ -1,32 +1,50 @@
 {
  "city": "taza",
  "label": "Taza",
- "date": "2026-11-08",
+ "date": "2026-11-09",
  "source": "sahha.ma",
  "source_url": "https://sahha.ma/pharmacie-de-garde/taza",
  "kind": "roster",
  "pharmacies": [
   {
-   "name": "Pharmacie Nassim",
-   "address": "244 lotiss. Nassim - Autre ville, Taza",
+   "name": "PHARMACIE NASSIM",
+   "address": "244 lotiss. Nassim - Autre ville",
    "phone": "+212535211476",
    "lat": 34.22862,
    "lng": -3.975991,
-   "shift": "nuit",
+   "shift": "jour",
    "shift_label": ""
   },
   {
-   "name": "Pharmacie Palestine",
-   "address": "1193 lotiss. Al Amal, Taza",
+   "name": "PHARMACIE PALESTINE",
+   "address": "1193 lotiss. al amal",
    "phone": "+212535285351",
    "lat": 34.22853,
    "lng": -4.02534,
-   "shift": "nuit",
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
+   "name": "Nouvelle Pharmacie Taza",
+   "address": "36 rte de Fès - Autre ville, Taza",
+   "phone": "+212676892633",
+   "lat": 34.220862,
+   "lng": -4.090819,
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie Omar Khayam",
+   "address": "17 rte Oujda lotiss. Konouz, Taza",
+   "phone": "+212703050712",
+   "lat": 34.228204,
+   "lng": -3.989741,
+   "shift": "jour",
    "shift_label": ""
   }
  ],
  "center": [
-  34.2286,
-  -4.0007
+  34.2266,
+  -4.0205
  ]
 }

@@ -1,41 +1,32 @@
 {
  "city": "kenitra",
  "label": "Kénitra",
- "date": "2026-11-08",
+ "date": "2026-11-09",
  "source": "sahha.ma",
  "source_url": "https://sahha.ma/pharmacie-de-garde/kenitra",
  "kind": "roster",
  "pharmacies": [
   {
-   "name": "Pharmacie Amine",
-   "address": "hay Al Maghrib Al Arabi A2 n°414 Bir Rami, Kénitra",
-   "phone": "",
-   "lat": 34.243229,
-   "lng": -6.61317,
-   "shift": "jour",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie de la Renaissance",
-   "address": "169 bd Bacha Abdelhamid El Alaoui, Kénitra",
+   "name": "PHARMACIE DE LA RENAISSANCE",
+   "address": "169 bd Bacha Abdelhamid El Alaoui169، شارع الباشا عبد الحميد العلوي",
    "phone": "+212537382069",
-   "lat": 34.265691,
+   "lat": 34.2656911,
    "lng": -6.559279,
    "shift": "jour",
    "shift_label": ""
   },
   {
-   "name": "Pharmacie Granada",
-   "address": "hay Al Maghrib Al Arabi n°74, Kénitra",
+   "name": "PHARMACIE GRANADA",
+   "address": "hay Al Maghrib Al Arabi n°74رقم 192، بير رامي الغرب",
    "phone": "+212537372606",
-   "lat": 34.250842,
+   "lat": 34.2508425,
    "lng": -6.612333,
    "shift": "jour",
    "shift_label": ""
   },
   {
-   "name": "Pharmacie Laila Chiadmi",
-   "address": "lotiss. Al Amal 2 o/Arfa n°2475, Kénitra",
+   "name": "PHARMACIE LAILA CHIADMI",
+   "address": "24 lotiss. Al Amal 2 o/Arfa n°2475 · Saknia Appeler 05 37 39 •• •• Itinéraire Carte Partager Voir la ficheالامل 1 تجزئة رقم 2475",
    "phone": "+212537392283",
    "lat": 34.256311,
    "lng": -6.58753,
@@ -43,17 +34,35 @@
    "shift_label": ""
   },
   {
-   "name": "Pharmacie Tourabi",
-   "address": "713 lotiss. le Vallon - Autre ville, Kénitra",
+   "name": "PHARMACIE TOURABI",
+   "address": "713, lotiss. le vallonلو فالون، تجزئة رقم 713",
    "phone": "+212537316763",
-   "lat": 34.262049,
-   "lng": -6.602197,
+   "lat": 34.2623465,
+   "lng": -6.6020801,
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie Ait El Cadi",
+   "address": "hay Al Maghrib Al Arabi n°35, Kénitra",
+   "phone": "+212537373433",
+   "lat": 34.253126,
+   "lng": -6.614766,
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie Sophia",
+   "address": "1763 lotiss. El Wafa souk Sebt Saknia, Kénitra",
+   "phone": "+212537392003",
+   "lat": 34.233902,
+   "lng": -6.547268,
    "shift": "jour",
    "shift_label": ""
   }
  ],
  "center": [
-  34.2556,
-  -6.5949
+  34.2537,
+  -6.5872
  ]
 }
