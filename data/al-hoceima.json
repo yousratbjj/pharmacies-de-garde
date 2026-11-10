@@ -7,15 +7,6 @@
  "kind": "roster",
  "pharmacies": [
   {
-   "name": "PHARMACIE AL MANZAH",
-   "address": "20 rue Med Hassan El Ouazzaniشارع محمد حسن الوزاني",
-   "phone": "+212539840282",
-   "lat": 35.2449,
-   "lng": -3.9170667,
-   "shift": "jour",
-   "shift_label": ""
-  },
-  {
    "name": "Pharmacie ElMoustachfa",
    "address": "89 av. AlIskandaria, Al Hoceima",
    "phone": "+212539981131",
@@ -35,7 +26,7 @@
   }
  ],
  "center": [
-  35.2416,
-  -3.9276
+  35.2399,
+  -3.9328
  ]
 }

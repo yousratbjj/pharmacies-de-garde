@@ -7,26 +7,8 @@
  "kind": "roster",
  "pharmacies": [
   {
-   "name": "Pharmacie AlMahatta",
-   "address": "254 av Hassan II, Nador",
-   "phone": "+212536604408",
-   "lat": 35.1751,
-   "lng": -2.922383,
-   "shift": "jour",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie El Bachiri",
-   "address": "hay Al Matar, Nador",
-   "phone": "+212534550377",
-   "lat": 35.146265,
-   "lng": -2.917533,
-   "shift": "jour",
-   "shift_label": ""
-  },
-  {
    "name": "PHARMACIE AFRA",
-   "address": "96 av Mly. Rachid Jaadar · Jaadar Appeler 05 36 35 •• •• Itinéraire Carte Partager Voir la fiche",
+   "address": "96 av Mly. Rachid Jaadar",
    "phone": "+212536350808",
    "lat": 35.1520228,
    "lng": -2.9801603,
@@ -48,6 +30,24 @@
    "phone": "+212536330508",
    "lat": 35.159633,
    "lng": -2.969467,
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie AlMahatta",
+   "address": "254 av Hassan II, Nador",
+   "phone": "+212536604408",
+   "lat": 35.1751,
+   "lng": -2.922383,
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie El Bachiri",
+   "address": "hay Al Matar, Nador",
+   "phone": "+212534550377",
+   "lat": 35.146265,
+   "lng": -2.917533,
    "shift": "jour",
    "shift_label": ""
   },

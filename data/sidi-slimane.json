@@ -7,6 +7,15 @@
  "kind": "roster",
  "pharmacies": [
   {
+   "name": "PHARMACIE AL HOUDA",
+   "address": "av Al Hansali hay Essalam bloc 20 n°9, Sidi Slimane",
+   "phone": "+212537505669",
+   "lat": 34.25645,
+   "lng": -5.9218167,
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
    "name": "PHARMACIE ALLEMAGNA",
    "address": "lot. Marjane n°1003, Sidi Slimane",
    "phone": "+212707203837",
@@ -21,6 +30,15 @@
    "phone": "+212537502513",
    "lat": 34.2543606,
    "lng": -5.9239494,
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
+   "name": "PHARMACIE AL MASSIRA",
+   "address": "hay Essalam bloc 5 n°10, Sidi Slimane",
+   "phone": "+212537503542",
+   "lat": 34.228695,
+   "lng": -6.054667,
    "shift": "jour",
    "shift_label": ""
   },
@@ -43,26 +61,35 @@
    "shift_label": ""
   },
   {
+   "name": "PHARMACIE BIR ANZARANE",
+   "address": "63 bd. Bir Anzarane, Sidi Slimane",
+   "phone": "+212537502900",
+   "lat": 34.2622961,
+   "lng": -5.9239749,
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
    "name": "PHARMACIE CHIFAA",
    "address": "hay Laymoune bloc 27 n°7 SIDI SLIMANE",
    "phone": "+212537503034",
    "lat": 34.251813,
    "lng": -5.927786,
-   "shift": "jour",
+   "shift": "nuit",
    "shift_label": ""
   },
   {
-   "name": "PHARMACIE NASSIM EL KHAIR",
-   "address": "bd Hassan II - Autre ville, Sidi Slimane",
-   "phone": "+212643633358",
-   "lat": 34.259878,
-   "lng": -5.927253,
-   "shift": "jour",
+   "name": "PHARMACIE DEBBARH",
+   "address": "hay Agdal n° 3, Sidi Slimane",
+   "phone": "+212661491076",
+   "lat": 34.257403,
+   "lng": -5.910089,
+   "shift": "nuit",
    "shift_label": ""
   }
  ],
  "center": [
-  34.2574,
-  -5.9278
+  34.2544,
+  -5.9389
  ]
 }

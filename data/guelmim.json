@@ -7,44 +7,17 @@
  "kind": "roster",
  "pharmacies": [
   {
-   "name": "PHARMACIE EL HODA",
-   "address": "bd Amane Ouchen",
-   "phone": "+212528770303",
-   "lat": 28.9863852,
-   "lng": -10.0574351,
-   "shift": "jour",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie Dakhla - Hay Miri",
-   "address": "av Ibnou Toumert (jdid) hay Miri, Guelmim",
-   "phone": "+212528871888",
-   "lat": 28.977151,
-   "lng": -10.048651,
-   "shift": "jour",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie Ibn Sina",
-   "address": "av Ibn Sina q. Tayert, Guelmim",
-   "phone": "+212528870771",
-   "lat": 28.986458,
-   "lng": -10.041125,
-   "shift": "jour",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie Saraya",
-   "address": "146 bd Al Aqsa hay Qods, Guelmim",
-   "phone": "+212528772836",
-   "lat": 29.00239,
-   "lng": -10.05624,
-   "shift": "jour",
+   "name": "Pharmacie Bir Anzarane Ex- Guelmim",
+   "address": "212 place Bir Anzarane, Guelmim",
+   "phone": "+212528873055",
+   "lat": 28.986017,
+   "lng": -10.056933,
+   "shift": "nuit",
    "shift_label": ""
   }
  ],
  "center": [
-  28.9881,
-  -10.0509
+  28.986,
+  -10.0569
  ]
 }

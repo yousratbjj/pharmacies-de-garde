@@ -7,24 +7,6 @@
  "kind": "roster",
  "pharmacies": [
   {
-   "name": "PHARMACIE CONSEIL",
-   "address": "210 Amicale Essalam",
-   "phone": "+212537559627",
-   "lat": 33.8411095,
-   "lng": -6.0739346,
-   "shift": "jour",
-   "shift_label": ""
-  },
-  {
-   "name": "PHARMACIE NAJI",
-   "address": "645 Amicale El Farah 2",
-   "phone": "+212537559453",
-   "lat": 33.8403721,
-   "lng": -6.0722165,
-   "shift": "jour",
-   "shift_label": ""
-  },
-  {
    "name": "Pharmacie Arrahma",
    "address": "77 X rue Oued Tensift Zahrra, Khémisset",
    "phone": "+212537558816",
@@ -44,7 +26,7 @@
   }
  ],
  "center": [
-  33.833,
-  -6.0744
+  33.8252,
+  -6.0757
  ]
 }

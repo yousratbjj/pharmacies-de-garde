@@ -7,24 +7,6 @@
  "kind": "roster",
  "pharmacies": [
   {
-   "name": "PHARMACIE DU NORD",
-   "address": "33, bd Omar Ibn Abdelazizرقم 33، شارع عمر بن عبد العزيز، العرائش،",
-   "phone": "+212539501886",
-   "lat": 35.1780125,
-   "lng": -6.1449697,
-   "shift": "jour",
-   "shift_label": ""
-  },
-  {
-   "name": "PHARMACIE JAOUI",
-   "address": "av Ali Abi Taleb résid. AlFath M4/Aشارع علي بن أبي طالب",
-   "phone": "+212539910044",
-   "lat": 35.19205,
-   "lng": -6.1477833,
-   "shift": "jour",
-   "shift_label": ""
-  },
-  {
    "name": "Pharmacie Nassiha",
    "address": "1 bd. Abdelmoumen Ben Ali, Larache",
    "phone": "+212539912600",
@@ -35,7 +17,7 @@
   }
  ],
  "center": [
-  35.1868,
-  -6.1498
+  35.1903,
+  -6.1566
  ]
 }

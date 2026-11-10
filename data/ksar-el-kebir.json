@@ -14,28 +14,10 @@
    "lng": -5.895817,
    "shift": "jour",
    "shift_label": ""
-  },
-  {
-   "name": "PHARMACIE AL YAQTINE",
-   "address": "hay Ouled Hmayde",
-   "phone": "+212539907734",
-   "lat": 34.998872,
-   "lng": -5.908089,
-   "shift": "jour",
-   "shift_label": ""
-  },
-  {
-   "name": "PHARMACIE ARRAHMA",
-   "address": "hay Assalame rue 32 grp Z n°5 bis",
-   "phone": "+212539918810",
-   "lat": 35.01189,
-   "lng": -5.90594,
-   "shift": "jour",
-   "shift_label": ""
   }
  ],
  "center": [
-  35.0041,
-  -5.9033
+  35.0016,
+  -5.8958
  ]
 }

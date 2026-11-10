@@ -7,42 +7,6 @@
  "kind": "roster",
  "pharmacies": [
   {
-   "name": "PHARMACIE DE LA RENAISSANCE",
-   "address": "169 bd Bacha Abdelhamid El Alaoui169، شارع الباشا عبد الحميد العلوي",
-   "phone": "+212537382069",
-   "lat": 34.2656911,
-   "lng": -6.559279,
-   "shift": "jour",
-   "shift_label": ""
-  },
-  {
-   "name": "PHARMACIE GRANADA",
-   "address": "hay Al Maghrib Al Arabi n°74رقم 192، بير رامي الغرب",
-   "phone": "+212537372606",
-   "lat": 34.2508425,
-   "lng": -6.612333,
-   "shift": "jour",
-   "shift_label": ""
-  },
-  {
-   "name": "PHARMACIE LAILA CHIADMI",
-   "address": "24 lotiss. Al Amal 2 o/Arfa n°2475 · Saknia Appeler 05 37 39 •• •• Itinéraire Carte Partager Voir la ficheالامل 1 تجزئة رقم 2475",
-   "phone": "+212537392283",
-   "lat": 34.256311,
-   "lng": -6.58753,
-   "shift": "jour",
-   "shift_label": ""
-  },
-  {
-   "name": "PHARMACIE TOURABI",
-   "address": "713, lotiss. le vallonلو فالون، تجزئة رقم 713",
-   "phone": "+212537316763",
-   "lat": 34.2623465,
-   "lng": -6.6020801,
-   "shift": "jour",
-   "shift_label": ""
-  },
-  {
    "name": "Pharmacie Ait El Cadi",
    "address": "hay Al Maghrib Al Arabi n°35, Kénitra",
    "phone": "+212537373433",
@@ -62,7 +26,7 @@
   }
  ],
  "center": [
-  34.2537,
-  -6.5872
+  34.2435,
+  -6.581
  ]
 }

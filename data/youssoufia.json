@@ -7,21 +7,12 @@
  "kind": "roster",
  "pharmacies": [
   {
-   "name": "PHARMACIE ERRETEB",
-   "address": "Hay nahda - autre ville rue 7 n°3",
-   "phone": "+212617564964",
-   "lat": 32.24316,
-   "lng": -8.54634,
-   "shift": "jour",
-   "shift_label": ""
-  },
-  {
    "name": "Pharmacie Louis Gentil",
    "address": "14 X bd Sebta - Autre ville hay Mohammadi, Youssoufia",
    "phone": "+212524660950",
    "lat": 32.24642,
    "lng": -8.52828,
-   "shift": "jour",
+   "shift": "nuit",
    "shift_label": ""
   },
   {
@@ -30,12 +21,12 @@
    "phone": "+212524660704",
    "lat": 32.249,
    "lng": -8.539387,
-   "shift": "jour",
+   "shift": "nuit",
    "shift_label": ""
   }
  ],
  "center": [
-  32.2462,
-  -8.538
+  32.2477,
+  -8.5338
  ]
 }

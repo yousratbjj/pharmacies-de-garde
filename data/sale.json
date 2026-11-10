@@ -34,11 +34,38 @@
    "shift_label": ""
   },
   {
+   "name": "PHARMACIE BETTANA",
+   "address": "1, Avenue Wattassiyine Bettana",
+   "phone": "+212537800556",
+   "lat": 34.044899,
+   "lng": -6.8140202,
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
+   "name": "PHARMACIE KAMIL",
+   "address": "lot maamoura, hssain sala al jadida · Sala el jadida Appeler 05 37 82 •• •• Itinéraire Carte Partager Voir la fiche",
+   "phone": "+212537828056",
+   "lat": 34.017893,
+   "lng": -6.7409602,
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
    "name": "Pharmacie la Pépinière",
    "address": "128 quartier la Pépinière bloc L n°15, Salé",
    "phone": "+212537863720",
    "lat": 34.038443,
    "lng": -6.813242,
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
+   "name": "PHARMACIE LAZRAK",
+   "address": "24 hay Essalam. secteur 11 N°608 · Hay essalam Appeler 05 37 80 •• •• Itinéraire Carte Partager Voir la ficheحي السلام قطاع 11 رقم 608",
+   "phone": "+212537809747",
+   "lat": 34.0465846,
+   "lng": -6.7806738,
    "shift": "jour",
    "shift_label": ""
   },
@@ -50,19 +77,10 @@
    "lng": -6.800798,
    "shift": "jour",
    "shift_label": ""
-  },
-  {
-   "name": "Pharmacie Assanouber",
-   "address": "87 rue Toufah hay Oued Adahab, Salé",
-   "phone": "+212537874413",
-   "lat": 34.066531,
-   "lng": -6.766537,
-   "shift": "jour",
-   "shift_label": ""
   }
  ],
  "center": [
-  34.0536,
-  -6.7925
+  34.0456,
+  -6.7905
  ]
 }

@@ -7,26 +7,26 @@
  "kind": "roster",
  "pharmacies": [
   {
-   "name": "PHARMACIE TAMOUDA",
-   "address": "rte Chefchaouen 26 B hay Tamoudaرقم 26 حي تمودة طريق شفشاون",
-   "phone": "+212539969533",
-   "lat": 35.5710982,
-   "lng": -5.375053,
-   "shift": "jour",
+   "name": "Grande Pharmacie du Nord",
+   "address": "11 bd. Mohammed V, Tétouan",
+   "phone": "+212539962207",
+   "lat": 35.569983,
+   "lng": -5.371433,
+   "shift": "nuit",
    "shift_label": ""
   },
   {
-   "name": "PHARMACIE ZIANA",
-   "address": "254 rue Mohamed Ameziane",
-   "phone": "+212539990190",
-   "lat": 35.57545,
-   "lng": -5.3633,
-   "shift": "jour",
+   "name": "Pharmacie Fadil",
+   "address": "K050 rue de Sebta km 5 n°13 Mallalienne Hajrat Laâroussa, Tétouan",
+   "phone": "+212539994311",
+   "lat": 35.6049,
+   "lng": -5.3355,
+   "shift": "nuit",
    "shift_label": ""
   }
  ],
  "center": [
-  35.5733,
-  -5.3692
+  35.5874,
+  -5.3535
  ]
 }

@@ -7,17 +7,17 @@
  "kind": "roster",
  "pharmacies": [
   {
-   "name": "OASIS TAMESNA",
-   "address": "AV Mohamed V LOT Nassim Résidence Nakhil Mag N 5شارع محمد الخامس تجزئة النسيم إقامة النخيل محل رقم 5",
+   "name": "SOUSSAN",
+   "address": "Bd Abdallah Ben Yacine, Résid. Al Omran La Vigne, Tranche 3, Imm. 16 Mag. C1شارع عبد الله بن ياسين إقامة العمران فين شطر 3 عمارة 16 مكازة س1",
    "phone": "",
-   "lat": 33.8387873,
-   "lng": -6.9131293,
+   "lat": 33.8335635,
+   "lng": -6.9238843,
    "shift": "jour",
    "shift_label": ""
   }
  ],
  "center": [
-  33.8388,
-  -6.9131
+  33.8336,
+  -6.9239
  ]
 }

@@ -12,21 +12,12 @@
    "phone": "+212537597005",
    "lat": 34.235668,
    "lng": -5.732099,
-   "shift": "jour",
-   "shift_label": ""
-  },
-  {
-   "name": "PHARMACIE SARA",
-   "address": "977 Hay Riad lot Charaf",
-   "phone": "+212537555368",
-   "lat": 34.234065,
-   "lng": -5.726314,
-   "shift": "jour",
+   "shift": "nuit",
    "shift_label": ""
   }
  ],
  "center": [
-  34.2349,
-  -5.7292
+  34.2357,
+  -5.7321
  ]
 }

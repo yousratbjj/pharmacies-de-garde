@@ -7,24 +7,6 @@
  "kind": "roster",
  "pharmacies": [
   {
-   "name": "PHARMACIE JABBOUR",
-   "address": "17 bd Massira Khadra",
-   "phone": "+212535588847",
-   "lat": 32.9378771,
-   "lng": -5.6633224,
-   "shift": "jour",
-   "shift_label": ""
-  },
-  {
-   "name": "PHARMACIE TOUHAMI",
-   "address": "33 quartier Ikhamen",
-   "phone": "+212535587800",
-   "lat": 32.9486167,
-   "lng": -5.6650333,
-   "shift": "jour",
-   "shift_label": ""
-  },
-  {
    "name": "Pharmacie Amalou",
    "address": "87 bd Massira hay Amalou Ighriben, Khénifra",
    "phone": "+212535587344",
@@ -44,7 +26,7 @@
   }
  ],
  "center": [
-  32.94,
-  -5.6619
+  32.9368,
+  -5.6595
  ]
 }

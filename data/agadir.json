@@ -16,11 +16,11 @@
    "shift_label": ""
   },
   {
-   "name": "PHARMACIE ASSOUL",
-   "address": "Pharmacie Assoul, n°128 bloc a. lotissement el hassania anza. a coté de mosquée hassania",
-   "phone": "+212528214671",
-   "lat": 30.4600898,
-   "lng": -9.6608129,
+   "name": "Pharmacie Amara",
+   "address": "14 cité Adrar Résid. Fadlallah Gh2 M1, Agadir",
+   "phone": "+212528218192",
+   "lat": 30.389356,
+   "lng": -9.504175,
    "shift": "jour",
    "shift_label": ""
   },
@@ -98,7 +98,7 @@
   }
  ],
  "center": [
-  30.4159,
-  -9.5816
+  30.4088,
+  -9.5659
  ]
 }

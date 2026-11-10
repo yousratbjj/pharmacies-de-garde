@@ -7,62 +7,26 @@
  "kind": "roster",
  "pharmacies": [
   {
-   "name": "PHARMACIE MAKKA",
-   "address": "154 hay Zitouna secteur 7",
-   "phone": "+212523493434",
-   "lat": 32.8631628,
-   "lng": -6.903753,
-   "shift": "jour",
+   "name": "Pharmacie Citrwen",
+   "address": "lotiss. Ismailia - Autre ville // n°42, Khouribga",
+   "phone": "+212523585292",
+   "lat": 32.8856482,
+   "lng": -6.908798,
+   "shift": "nuit",
    "shift_label": ""
   },
   {
-   "name": "Pharmacie Al Ahed",
-   "address": "164 rue Assaad Ibnou Al Yazid lotiss. Bad, Khouribga",
-   "phone": "+212523493313",
-   "lat": 32.871058,
-   "lng": -6.893128,
-   "shift": "jour",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie AlAkhaouine",
-   "address": "50 lotiss. El Farah hay Riad, Khouribga",
-   "phone": "+212523491616",
-   "lat": 32.875704,
-   "lng": -6.924407,
-   "shift": "jour",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie AlImam Malik",
-   "address": "26 bd Imam Malik, Khouribga",
-   "phone": "+212523561134",
-   "lat": 32.890497,
-   "lng": -6.917935,
-   "shift": "jour",
-   "shift_label": ""
-  },
-  {
-   "name": "PHARMACIE ALINBIAAT",
-   "address": "241 bd. ibn ghazi lot. el haoud hay riad",
-   "phone": "+212523490777",
-   "lat": 32.874549,
-   "lng": -6.92774,
-   "shift": "jour",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie Ibn Tofail",
-   "address": "19 rue Tinghir lot. Iqbal, Khouribga",
-   "phone": "+212523498242",
-   "lat": 32.886057,
-   "lng": -6.900784,
-   "shift": "jour",
+   "name": "Pharmacie Narjis",
+   "address": "6 bd Annasr - Autre ville, Khouribga",
+   "phone": "+212656084151",
+   "lat": 32.87881,
+   "lng": -6.93717,
+   "shift": "nuit",
    "shift_label": ""
   }
  ],
  "center": [
-  32.8768,
-  -6.9113
+  32.8822,
+  -6.923
  ]
 }

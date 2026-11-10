@@ -7,6 +7,15 @@
  "kind": "roster",
  "pharmacies": [
   {
+   "name": "Pharmacie Abderrahmane Ben Zaidane",
+   "address": "hay Sidi Baba douar Jdid n°1149, Meknès",
+   "phone": "+212535531638",
+   "lat": 33.9075,
+   "lng": -5.575317,
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
    "name": "Pharmacie Ach-Chifae",
    "address": "12, bd. Limouri",
    "phone": "+212535535212",
@@ -39,7 +48,7 @@
    "phone": "+212535550907",
    "lat": 33.857615,
    "lng": -5.5357,
-   "shift": "24h",
+   "shift": "jour",
    "shift_label": ""
   },
   {
@@ -61,17 +70,17 @@
    "shift_label": ""
   },
   {
-   "name": "Pharmacie Abderrahmane Ben Zaidane",
-   "address": "hay Sidi Baba douar Jdid n°1149, Meknès",
-   "phone": "+212535531638",
-   "lat": 33.9075,
-   "lng": -5.575317,
+   "name": "Pharmacie Ain Slougui",
+   "address": "lotiss. Al Bassatine Alem Extention 5 n°16, Meknès",
+   "phone": "+212535501541",
+   "lat": 33.8934,
+   "lng": -5.503917,
    "shift": "jour",
    "shift_label": ""
   }
  ],
  "center": [
-  33.8895,
-  -5.5393
+  33.89,
+  -5.5348
  ]
 }

@@ -25,47 +25,11 @@
    "shift_label": ""
   },
   {
-   "name": "PHARMACIE BENI DAY",
-   "address": "326 av. hassan ii",
-   "phone": "+212523420749",
-   "lat": 32.342443,
-   "lng": -6.375799,
-   "shift": "jour",
-   "shift_label": ""
-  },
-  {
-   "name": "PHARMACIE GHANEM",
-   "address": "Av. baghdad , kasr ghozafat, n°468,470شارع 1 رقم 95، قصر غزافات",
-   "phone": "+212523489604",
-   "lat": 32.3487674,
-   "lng": -6.3550514,
-   "shift": "jour",
-   "shift_label": ""
-  },
-  {
    "name": "Pharmacie Principale",
    "address": "bd Vingt Août Fadila 9 n°13 cplxe Oumnia, Beni Mellal",
    "phone": "+212523423059",
    "lat": 32.3485,
    "lng": -6.365483,
-   "shift": "jour",
-   "shift_label": ""
-  },
-  {
-   "name": "PHARMACIE RACHDAOUI",
-   "address": "Quartier al atlasبلوك 3 - رقم 5-6 - رياض الأطلس",
-   "phone": "+212523489915",
-   "lat": 32.3477764,
-   "lng": -6.3479504,
-   "shift": "jour",
-   "shift_label": ""
-  },
-  {
-   "name": "PHARMACIE TAHRI",
-   "address": "61 lotiss. lakbir lot erraedرقم 61، تجزئة الكبير الثاني",
-   "phone": "+212523427729",
-   "lat": 32.3230752,
-   "lng": -6.3718094,
    "shift": "jour",
    "shift_label": ""
   },
@@ -80,7 +44,7 @@
   }
  ],
  "center": [
-  32.338,
-  -6.3631
+  32.3354,
+  -6.3636
  ]
 }

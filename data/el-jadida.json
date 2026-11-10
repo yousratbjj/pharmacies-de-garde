@@ -7,26 +7,26 @@
  "kind": "roster",
  "pharmacies": [
   {
-   "name": "PHARMACIE EL KHANSAA",
-   "address": "14 bd Allal El Fassi lotiss. Amal",
-   "phone": "+212523350272",
-   "lat": 33.2375386,
-   "lng": -8.5238977,
-   "shift": "jour",
+   "name": "Pharmacie derb ElHajjar",
+   "address": "140 derb El Hajjar, El Jadida",
+   "phone": "+212523340135",
+   "lat": 33.256273,
+   "lng": -8.505046,
+   "shift": "nuit",
    "shift_label": ""
   },
   {
-   "name": "PHARMACIE RABIE",
-   "address": "46, lotiss. el harraz",
-   "phone": "+212529818104",
-   "lat": 33.2582958,
-   "lng": -8.5142688,
-   "shift": "jour",
+   "name": "Pharmacie Nations Unies",
+   "address": "12 bd Allal Fassi hay Al Matar, El Jadida",
+   "phone": "+212808541448",
+   "lat": 33.239855,
+   "lng": -8.52397,
+   "shift": "nuit",
    "shift_label": ""
   }
  ],
  "center": [
-  33.2479,
-  -8.5191
+  33.2481,
+  -8.5145
  ]
 }

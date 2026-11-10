@@ -7,39 +7,30 @@
  "kind": "roster",
  "pharmacies": [
   {
+   "name": "PHARMACIE AL AFAQ",
+   "address": "N°222, avenue ahmed el hansali ,hay abbadi (à coté de masjid al fadila)",
+   "phone": "+212537587613",
+   "lat": 33.9117758,
+   "lng": -6.919619,
+   "shift": "nuit",
+   "shift_label": ""
+  },
+  {
    "name": "Pharmacie Al Hiba",
    "address": "Massira I Sect. 5 Lotiss. 24 HA lot.26, Témara",
    "phone": "+212537609970",
    "lat": 33.933699,
    "lng": -6.902253,
-   "shift": "jour",
+   "shift": "nuit",
    "shift_label": ""
   },
   {
-   "name": "PHARMACIE CAMELIA",
-   "address": "rue Lybie , lotiss. Alaoui, n° 76 · Temara centre Appeler 05 37 64 •• •• Itinéraire Carte Partager Voir la fiche",
-   "phone": "+212537640769",
-   "lat": 33.9250884,
-   "lng": -6.9205414,
-   "shift": "jour",
-   "shift_label": ""
-  },
-  {
-   "name": "PHARMACIE GRANADA",
-   "address": "lot 109, oulad mataâ   · Oulad Mtaa Appeler 05 37 60 •• •• Itinéraire Carte Partager Voir la fiche",
-   "phone": "+212537601353",
-   "lat": 33.9385341,
-   "lng": -6.8952443,
-   "shift": "jour",
-   "shift_label": ""
-  },
-  {
-   "name": "PHARMACIE NOUFA",
-   "address": "lot wifak 1, n°2041 · Centre Appeler 05 37 64 •• •• Itinéraire Carte Partager Voir la fiche",
-   "phone": "+212537640424",
-   "lat": 33.9187643,
-   "lng": -6.9338078,
-   "shift": "jour",
+   "name": "PHARMACIE LAMIA",
+   "address": "19 lot elhassania hay mansour edahbi (près collège nejaiet ecole itihad alarabi) -",
+   "phone": "+212537616478",
+   "lat": 33.9054179,
+   "lng": -6.9229995,
+   "shift": "nuit",
    "shift_label": ""
   },
   {
@@ -48,25 +39,16 @@
    "phone": "+212537642423",
    "lat": 33.90788,
    "lng": -6.90861,
-   "shift": "jour",
+   "shift": "nuit",
    "shift_label": ""
   },
   {
    "name": "PHARMACIE DE LA FAMILLE",
-   "address": "av. Tarik Ibn Ziyad , Massira II · Al Massira Appeler 05 37 60 •• •• Itinéraire Carte Partager Voir la fiche",
+   "address": "16, av. tarik ibn ziyad , massira ii",
    "phone": "+212537600690",
-   "lat": 33.9263524,
-   "lng": -6.8939364,
-   "shift": "jour",
-   "shift_label": ""
-  },
-  {
-   "name": "PHARMACIE DES CITES",
-   "address": "lotissement warda · El Guic Appeler 05 37 56 •• •• Itinéraire Carte Partager Voir la fiche",
-   "phone": "+212537560335",
-   "lat": 33.9371887,
-   "lng": -6.8933101,
-   "shift": "jour",
+   "lat": 33.9264648,
+   "lng": -6.893479,
+   "shift": "nuit",
    "shift_label": ""
   },
   {
@@ -75,21 +57,21 @@
    "phone": "+212537622291",
    "lat": 33.895935,
    "lng": -6.935582,
-   "shift": "jour",
+   "shift": "nuit",
    "shift_label": ""
   },
   {
-   "name": "PHARMACIE LAMIA",
-   "address": "19 lot elhassania hay mansour edahbi (près collège nejaiet ecole itihad alarabi) - · Centre Appeler 05 37 61 •• •• Itinéraire Carte Partager Voir la fiche",
-   "phone": "+212537616478",
-   "lat": 33.9054179,
-   "lng": -6.9229995,
-   "shift": "jour",
+   "name": "Pharmacie Val d'Or",
+   "address": "22 av Moulay Abdellah, El Harhoura",
+   "phone": "+212537749494",
+   "lat": 33.904887,
+   "lng": -6.989039,
+   "shift": "nuit",
    "shift_label": ""
   }
  ],
  "center": [
-  33.921,
-  -6.9118
+  33.9123,
+  -6.9245
  ]
 }

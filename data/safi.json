@@ -7,62 +7,26 @@
  "kind": "roster",
  "pharmacies": [
   {
-   "name": "PHARMACIE IBNOU ROCHD",
-   "address": "Lotiss. Damouh 3 Sidi Ouasselتجزئة طموح3 ،سيدي واصل",
-   "phone": "+212524650858",
-   "lat": 32.2806667,
-   "lng": -9.2449833,
-   "shift": "jour",
+   "name": "Pharmacie Ezohour",
+   "address": "17 rue Tahla Sidi Ouassel, Safi",
+   "phone": "+212524652075",
+   "lat": 32.258606,
+   "lng": -9.249528,
+   "shift": "nuit",
    "shift_label": ""
   },
   {
-   "name": "PHARMACIE MOULAY YOUSSEF",
-   "address": "139, bd Moulay Youssef139شارع مولاي يوسف",
-   "phone": "+212524628868",
-   "lat": 32.2999775,
-   "lng": -9.2253359,
-   "shift": "jour",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie Djerifat",
-   "address": "81 rue Sania Jerifat, Safi",
-   "phone": "+212524624973",
-   "lat": 32.284762,
-   "lng": -9.223174,
-   "shift": "jour",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie Galinos",
-   "address": "37 Quartier Aviation, Safi",
-   "phone": "+212524653213",
-   "lat": 32.281167,
-   "lng": -9.243317,
-   "shift": "jour",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie Route Marrakech",
-   "address": "rte de Marrakech lotiss. Al Kods n°3, Safi",
-   "phone": "+212524621038",
-   "lat": 32.298101,
-   "lng": -9.207045,
-   "shift": "jour",
-   "shift_label": ""
-  },
-  {
-   "name": "PHARMACIE SIDI BOUZID",
-   "address": "rte de Sidi Bouzidطريق سيدي بوزيد",
-   "phone": "+212524666028",
-   "lat": 32.3213451,
-   "lng": -9.252998,
-   "shift": "jour",
+   "name": "Pharmacie Mestari",
+   "address": "lotiss. Al Hana 2 rte Al Wahda bloc 8 kariate Chems, Safi",
+   "phone": "+212524625462",
+   "lat": 32.290131,
+   "lng": -9.201862,
+   "shift": "nuit",
    "shift_label": ""
   }
  ],
  "center": [
-  32.2943,
-  -9.2328
+  32.2744,
+  -9.2257
  ]
 }
