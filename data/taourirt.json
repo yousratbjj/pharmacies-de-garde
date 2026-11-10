@@ -1,32 +1,23 @@
 {
  "city": "taourirt",
  "label": "Taourirt",
- "date": "2026-11-08",
+ "date": "2026-11-10",
  "source": "sahha.ma",
  "source_url": "https://sahha.ma/pharmacie-de-garde/taourirt",
  "kind": "roster",
  "pharmacies": [
   {
-   "name": "Pharmacie Al Houria",
-   "address": "72 rue Midelt hay ElHouria, Taourirt",
+   "name": "PHARMACIE AL HOURIA",
+   "address": "72 rue Midelt hay ElHouria",
    "phone": "+212536695660",
-   "lat": 34.410001,
-   "lng": -2.89888,
-   "shift": "nuit",
-   "shift_label": ""
-  },
-  {
-   "name": "PHARMACIE BOUBKER",
-   "address": "222 rue Lafkih ben Saleh hay Salam",
-   "phone": "+212536679504",
-   "lat": 34.413438,
-   "lng": -2.893825,
+   "lat": 34.4100009,
+   "lng": -2.8988804,
    "shift": "nuit",
    "shift_label": ""
   }
  ],
  "center": [
-  34.4117,
-  -2.8964
+  34.41,
+  -2.8989
  ]
 }
