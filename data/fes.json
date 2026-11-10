@@ -1,68 +1,68 @@
 {
  "city": "fes",
  "label": "Fès",
- "date": "2026-11-09",
+ "date": "2026-11-10",
  "source": "sahha.ma",
  "source_url": "https://sahha.ma/pharmacie-de-garde/fes",
  "kind": "roster",
  "pharmacies": [
   {
-   "name": "Pharmacie Faculté de Médecine",
-   "address": "411 hay Al Amal rte de Sefrou, Fès",
-   "phone": "+212535619508",
-   "lat": 34.007233,
-   "lng": -4.96565,
+   "name": "Pharmacie Fatima Zahra",
+   "address": "2 lotiss. Tourya Anas 3, Fès",
+   "phone": "+212535604521",
+   "lat": 34.056119,
+   "lng": -4.974156,
    "shift": "jour",
    "shift_label": ""
   },
   {
-   "name": "Pharmacie Farah",
-   "address": "13 bd Ibn Atir hay Farah II lot. Saâda II, Fès",
-   "phone": "+212535600514",
-   "lat": 34.022083,
-   "lng": -5.012167,
+   "name": "Pharmacie Ouandou",
+   "address": "106 bd Youssef Ibn Tachfine, Fès",
+   "phone": "+212535648086",
+   "lat": 34.057037,
+   "lng": -5.032709,
    "shift": "jour",
    "shift_label": ""
   },
   {
-   "name": "Pharmacie Niama",
-   "address": "hay Al Amane AlMassira Bensouda, Fès",
-   "phone": "+212535729132",
-   "lat": 33.997717,
-   "lng": -5.048087,
+   "name": "Pharmacie Salah",
+   "address": "116 lotiss. Al Hadika q 4 Oued Fès, Fès",
+   "phone": "+212535756703",
+   "lat": 34.054933,
+   "lng": -5.0261,
    "shift": "jour",
    "shift_label": ""
   },
   {
-   "name": "Pharmacie Saida",
-   "address": "hay Saida résid. Saida n°96, Fès",
-   "phone": "+212535645807",
-   "lat": 34.065171,
-   "lng": -5.016395,
+   "name": "Pharmacie Skalli",
+   "address": "71 lotiss. Essalam rte de Sefrou, Fès",
+   "phone": "+212535768884",
+   "lat": 34.002995,
+   "lng": -4.975318,
    "shift": "jour",
    "shift_label": ""
   },
   {
-   "name": "Pharmacie Zahrat Al Jabal",
-   "address": "hay Ain Chkef - Autre ville douar Tlalsa Sejaa, Fès",
-   "phone": "+212535963492",
-   "lat": 33.957803,
-   "lng": -5.021556,
+   "name": "Pharmacie Bouslikhane",
+   "address": "160 hay Al Wifaq rte Ain Smen, Fès",
+   "phone": "+212535604525",
+   "lat": 34.009317,
+   "lng": -5.026083,
    "shift": "jour",
    "shift_label": ""
   },
   {
-   "name": "Pharmacie Jnane Kadiri",
-   "address": "Bab Al Khoukha Jnane Kadiri rue 45 n°25, Fès",
-   "phone": "+212535763664",
-   "lat": 34.066806,
-   "lng": -4.955593,
+   "name": "Pharmacie Fôret Ain Chkef",
+   "address": "rte Ain Chkef - Autre ville Mag. N°1. Mosquée Aïcha Oum Al Mouminine, Fès",
+   "phone": "+212535610586",
+   "lat": 33.990357,
+   "lng": -5.016597,
    "shift": "jour",
    "shift_label": ""
   }
  ],
  "center": [
-  34.0195,
-  -5.0032
+  34.0285,
+  -5.0085
  ]
 }

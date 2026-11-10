@@ -1,23 +1,23 @@
 {
  "city": "boujad",
  "label": "Boujad",
- "date": "2026-11-09",
+ "date": "2026-11-10",
  "source": "sahha.ma",
  "source_url": "https://sahha.ma/pharmacie-de-garde/boujad",
  "kind": "roster",
  "pharmacies": [
   {
-   "name": "Pharmacie Place Mohammed V",
-   "address": "3 place Mohammed V, Boujad",
-   "phone": "+212523414928",
-   "lat": 32.769058,
-   "lng": -6.39655,
+   "name": "Pharmacie 20 Août",
+   "address": "q. ben Aissa, Boujad",
+   "phone": "+212523525656",
+   "lat": 32.768892,
+   "lng": -6.392698,
    "shift": "jour",
    "shift_label": ""
   }
  ],
  "center": [
-  32.7691,
-  -6.3966
+  32.7689,
+  -6.3927
  ]
 }

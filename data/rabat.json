@@ -1,86 +1,104 @@
 {
  "city": "rabat",
  "label": "Rabat",
- "date": "2026-11-09",
+ "date": "2026-11-10",
  "source": "sahha.ma",
  "source_url": "https://sahha.ma/pharmacie-de-garde/rabat",
  "kind": "roster",
  "pharmacies": [
   {
-   "name": "PHARMACIE ABTAL",
-   "address": "53 Groupe Zouhour (En Face Dar Chabab)",
-   "phone": "+212537653710",
-   "lat": 33.9829909,
-   "lng": -6.8240507,
+   "name": "Pharmacie Al Fadila",
+   "address": "avenue Ennour bloc K n°9 c.y.m, Rabat",
+   "phone": "+212537690742",
+   "lat": 33.993385,
+   "lng": -6.866673,
    "shift": "jour",
    "shift_label": ""
   },
   {
-   "name": "Pharmacie Alkifah",
-   "address": "avenue Kifah (c.y.m.) bloc \"DA\" n°26, Rabat",
-   "phone": "+212537796856",
-   "lat": 33.990909,
-   "lng": -6.872155,
+   "name": "Pharmacie des Facultés",
+   "address": "52 avenue Omar Ibn Khattab, Rabat",
+   "phone": "+212537773440",
+   "lat": 33.99913,
+   "lng": -6.844419,
    "shift": "jour",
    "shift_label": ""
   },
   {
-   "name": "Pharmacie Chenier",
-   "address": "27 rue de Tunis Hassan, Rabat",
-   "phone": "+212537201539",
-   "lat": 34.018512,
-   "lng": -6.823041,
+   "name": "PHARMACIE EL OUMNIA",
+   "address": "81,Av Med VI (Entre Groupe Scolaire Ghosn, Et Azzaitoun et Restaurant Recto Verso)",
+   "phone": "+212645715550",
+   "lat": 33.994917,
+   "lng": -6.827139,
    "shift": "jour",
    "shift_label": ""
   },
   {
-   "name": "Pharmacie ElManzeh",
-   "address": "964 avenue Al Massira (C.y.m) hay ELManzeh, Rabat",
-   "phone": "+212537281122",
-   "lat": 33.990251,
-   "lng": -6.874488,
-   "shift": "jour",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie Ibn Sina",
-   "address": "78 av Al Amir Fal Ould Oumeir Agdal, Rabat",
-   "phone": "+212537672016",
-   "lat": 33.996406,
-   "lng": -6.848159,
-   "shift": "jour",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie Mecca",
-   "address": "avenue Ailanthus hay Ryad sec. 23 résid. les Cênes, Rabat",
-   "phone": "+212537565875",
-   "lat": 33.94452,
-   "lng": -6.869219,
-   "shift": "jour",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie Mourad",
-   "address": "douar Rjafellah bloc TZ n°1 Cym, Rabat",
-   "phone": "+212537695390",
-   "lat": 34.001866,
-   "lng": -6.861918,
-   "shift": "jour",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie Napoli",
-   "address": "94 rue de Napoli Océan, Rabat",
-   "phone": "+212537720859",
+   "name": "Pharmacie la Corniche",
+   "address": "4 rue d' Addis Abeba Océan, Rabat",
+   "phone": "+212537729744",
    "lat": 34.02599,
-   "lng": -6.84802,
+   "lng": -6.849319,
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie Lotus",
+   "address": "342 bd des Forces Armées Royales q. El Menzeh C.y.m., Rabat",
+   "phone": "+212537281883",
+   "lat": 33.979424,
+   "lng": -6.895427,
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie Prestigia",
+   "address": "bd Abderrahim Bouabid Ryad Al andalouss hay Ryad, Rabat",
+   "phone": "+212537571584",
+   "lat": 33.953291,
+   "lng": -6.882316,
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie Tarik El Mehdi",
+   "address": "avenue Al Massira (C.y.m) Amal 4 n°16, Rabat",
+   "phone": "+212537798347",
+   "lat": 33.978054,
+   "lng": -6.885423,
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie Universelle",
+   "address": "1 avenue Allal Ben Abdellah, Rabat",
+   "phone": "+212808508679",
+   "lat": 34.021741,
+   "lng": -6.836299,
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie Abtal",
+   "address": "quartier Takadoum 53 grp. Zouhour, Rabat",
+   "phone": "+212537653710",
+   "lat": 33.982925,
+   "lng": -6.824123,
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie AlBaraka",
+   "address": "26 X rue Oulad Hriz Aviation, Rabat",
+   "phone": "+212537636724",
+   "lat": 33.989546,
+   "lng": -6.822598,
    "shift": "jour",
    "shift_label": ""
   }
  ],
  "center": [
-  33.9939,
-  -6.8526
+  33.9918,
+  -6.8534
  ]
 }

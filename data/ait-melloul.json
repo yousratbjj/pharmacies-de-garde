@@ -1,23 +1,59 @@
 {
  "city": "ait-melloul",
  "label": "Aït Melloul",
- "date": "2026-11-09",
+ "date": "2026-11-10",
  "source": "sahha.ma",
  "source_url": "https://sahha.ma/pharmacie-de-garde/ait-melloul",
  "kind": "roster",
  "pharmacies": [
   {
-   "name": "Pharmacie Ait Oujrar (Al Amal)",
-   "address": "181 hay Al Amal Ait Oujrar, Aït Melloul",
-   "phone": "+212528244545",
-   "lat": 30.352463,
-   "lng": -9.491514,
-   "shift": "nuit",
+   "name": "Pharmacie Agdal",
+   "address": "335 Hay Agdal 1 rte Tiznit, Aït Melloul",
+   "phone": "+212528246754",
+   "lat": 30.33865,
+   "lng": -9.499917,
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie alhouda",
+   "address": "rte Lkhmaiss koleaa, Aït Melloul",
+   "phone": "+212528310361",
+   "lat": 30.296267,
+   "lng": -9.4676,
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie Av Hassan II",
+   "address": "rte de Tiznit, Aït Melloul",
+   "phone": "+212528245224",
+   "lat": 30.333883,
+   "lng": -9.503983,
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie Kolea",
+   "address": "21 X bd Mohamed VI bloc 2, Aït Melloul",
+   "phone": "+212528241312",
+   "lat": 30.346133,
+   "lng": -9.501117,
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie Semlali ( Usmam)",
+   "address": "3 av. AlMoukawama rte Admim cplxe.u.s.m.a.m, Aït Melloul",
+   "phone": "+212528248639",
+   "lat": 30.344133,
+   "lng": -9.492283,
+   "shift": "jour",
    "shift_label": ""
   }
  ],
  "center": [
-  30.3525,
-  -9.4915
+  30.3318,
+  -9.493
  ]
 }

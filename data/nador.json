@@ -1,35 +1,26 @@
 {
  "city": "nador",
  "label": "Nador",
- "date": "2026-11-09",
+ "date": "2026-11-10",
  "source": "sahha.ma",
  "source_url": "https://sahha.ma/pharmacie-de-garde/nador",
  "kind": "roster",
  "pharmacies": [
   {
-   "name": "PHARMACIE AFRA",
-   "address": "96 av Mly. Rachid Jaadar",
+   "name": "Pharmacie Afra",
+   "address": "96 av Mly. Rachid Jaadar, Nador",
    "phone": "+212536350808",
-   "lat": 35.1520228,
-   "lng": -2.9801603,
+   "lat": 35.178594,
+   "lng": -2.925437,
    "shift": "jour",
    "shift_label": ""
   },
   {
-   "name": "Pharmacie Al Hikma",
-   "address": "294 bd. Mohammed V Jaadar, Nador",
-   "phone": "+212536353338",
-   "lat": 35.15457,
-   "lng": -2.97977,
-   "shift": "jour",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie Alikhlass",
-   "address": "route Zghanghan Ihddaden, Nador",
-   "phone": "+212536330508",
-   "lat": 35.159633,
-   "lng": -2.969467,
+   "name": "Pharmacie Al Kadaoui",
+   "address": "K050 Rte de Zegangan km 5 Ihdadden, Nador",
+   "phone": "+212536351995",
+   "lat": 35.174677,
+   "lng": -2.923315,
    "shift": "jour",
    "shift_label": ""
   },
@@ -43,26 +34,17 @@
    "shift_label": ""
   },
   {
-   "name": "Pharmacie El Bachiri",
-   "address": "hay Al Matar, Nador",
-   "phone": "+212534550377",
-   "lat": 35.146265,
-   "lng": -2.917533,
-   "shift": "jour",
-   "shift_label": ""
-  },
-  {
-   "name": "PHARMACIE MARIAM",
-   "address": "Ihaddaden",
-   "phone": "+212536351403",
-   "lat": 35.1618146,
-   "lng": -2.9621317,
+   "name": "Pharmacie du Rif",
+   "address": "85 bd. Youssef Ben Tachfine, Nador",
+   "phone": "+212536337283",
+   "lat": 35.176883,
+   "lng": -2.927833,
    "shift": "jour",
    "shift_label": ""
   }
  ],
  "center": [
-  35.1582,
-  -2.9552
+  35.1763,
+  -2.9247
  ]
 }

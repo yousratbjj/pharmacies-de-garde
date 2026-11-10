@@ -1,23 +1,41 @@
 {
  "city": "inezgane",
  "label": "Inezgane",
- "date": "2026-11-09",
+ "date": "2026-11-10",
  "source": "sahha.ma",
  "source_url": "https://sahha.ma/pharmacie-de-garde/inezgane",
  "kind": "roster",
  "pharmacies": [
   {
-   "name": "Pharmacie Tarraste",
-   "address": "route Principale Tarraste, Inezgane",
-   "phone": "+212528833033",
-   "lat": 30.35225,
-   "lng": -9.547617,
-   "shift": "nuit",
+   "name": "Pharmacie Aabir",
+   "address": "62 X bd Hassan II - Autre ville hay hassani, Inezgane",
+   "phone": "+212528333728",
+   "lat": 30.360896,
+   "lng": -9.536822,
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie de la Grande Mosquée",
+   "address": "place de la grande mosquée q. Tarraste, Inezgane",
+   "phone": "+212528330767",
+   "lat": 30.265808,
+   "lng": -9.548936,
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie ElWalidaine",
+   "address": "2 X Timegrad Jorf rue 433, Inezgane",
+   "phone": "+212528330307",
+   "lat": 30.346583,
+   "lng": -9.538733,
+   "shift": "jour",
    "shift_label": ""
   }
  ],
  "center": [
-  30.3523,
-  -9.5476
+  30.3244,
+  -9.5415
  ]
 }

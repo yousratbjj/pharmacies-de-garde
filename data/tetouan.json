@@ -1,27 +1,27 @@
 {
  "city": "tetouan",
  "label": "Tétouan",
- "date": "2026-11-09",
+ "date": "2026-11-10",
  "source": "sahha.ma",
  "source_url": "https://sahha.ma/pharmacie-de-garde/tetouan",
  "kind": "roster",
  "pharmacies": [
   {
-   "name": "Grande Pharmacie du Nord",
-   "address": "11 bd. Mohammed V, Tétouan",
-   "phone": "+212539962207",
-   "lat": 35.569983,
-   "lng": -5.371433,
-   "shift": "nuit",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie Fadil",
-   "address": "K050 rue de Sebta km 5 n°13 Mallalienne Hajrat Laâroussa, Tétouan",
+   "name": "FADIL",
+   "address": "N13, Route sebta Km 5طريق سبتة كلم 5 رقم 13",
    "phone": "+212539994311",
    "lat": 35.6049,
    "lng": -5.3355,
-   "shift": "nuit",
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
+   "name": "GRANDE DU NORD",
+   "address": "Boulevard Mohammed V,شارع محمد الخامس",
+   "phone": "+212539962207",
+   "lat": 35.5699833,
+   "lng": -5.3714333,
+   "shift": "jour",
    "shift_label": ""
   }
  ],

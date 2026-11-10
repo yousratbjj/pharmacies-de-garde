@@ -1,7 +1,7 @@
 {
  "city": "selouane",
  "label": "Selouane",
- "date": "2026-11-09",
+ "date": "2026-11-10",
  "source": "sahha.ma",
  "source_url": "https://sahha.ma/pharmacie-de-garde/selouane",
  "kind": "roster",
@@ -16,17 +16,17 @@
    "shift_label": ""
   },
   {
-   "name": "Pharmacie Boukraa",
-   "address": "lot Al Omrane 4°tranche, Selouane",
-   "phone": "+212536358344",
-   "lat": 35.069139,
-   "lng": -2.918728,
+   "name": "Pharmacie des Bougies",
+   "address": "5 Route Zaio espace El Habib, Selouane",
+   "phone": "+212536358218",
+   "lat": 35.064487,
+   "lng": -2.962604,
    "shift": "jour",
    "shift_label": ""
   }
  ],
  "center": [
-  35.0701,
-  -2.9302
+  35.0678,
+  -2.9521
  ]
 }

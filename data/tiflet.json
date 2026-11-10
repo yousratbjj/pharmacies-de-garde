@@ -1,18 +1,18 @@
 {
  "city": "tiflet",
  "label": "Tiflet",
- "date": "2026-11-09",
+ "date": "2026-11-10",
  "source": "sahha.ma",
  "source_url": "https://sahha.ma/pharmacie-de-garde/tiflet",
  "kind": "roster",
  "pharmacies": [
   {
-   "name": "Pharmacie de Tiflet",
-   "address": "av. Mohammed V, Tiflet",
+   "name": "PHARMACIE DE TIFLET",
+   "address": "av. Mohammed V",
    "phone": "+212537512207",
-   "lat": 33.89349,
-   "lng": -6.31284,
-   "shift": "nuit",
+   "lat": 33.8934658,
+   "lng": -6.3128155,
+   "shift": "jour",
    "shift_label": ""
   }
  ],

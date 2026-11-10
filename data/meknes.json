@@ -1,7 +1,7 @@
 {
  "city": "meknes",
  "label": "Meknès",
- "date": "2026-11-09",
+ "date": "2026-11-10",
  "source": "sahha.ma",
  "source_url": "https://sahha.ma/pharmacie-de-garde/meknes",
  "kind": "roster",
@@ -28,8 +28,17 @@
    "name": "Pharmacie Acima",
    "address": "1, hay Zitoune , résid. Al Ghorfa",
    "phone": "+212535466049",
-   "lat": 33.8608109,
-   "lng": -5.5486465,
+   "lat": 33.860767,
+   "lng": -5.5488065,
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie Attadamoune",
+   "address": "Mansour",
+   "phone": "+212535489978",
+   "lat": 33.86395,
+   "lng": -5.579567,
    "shift": "jour",
    "shift_label": ""
   },
@@ -37,50 +46,50 @@
    "name": "Pharmacie de l'Atlas",
    "address": "173, Avenue Abdelkrim El Khattabi 50000",
    "phone": "+212535536322",
-   "lat": 33.9208218,
-   "lng": -5.4882235,
+   "lat": 33.9207849,
+   "lng": -5.4882135,
    "shift": "jour",
    "shift_label": ""
   },
   {
-   "name": "Pharmacie La Baraka",
-   "address": "188, Marjane 4 , sidi Bouzekri",
-   "phone": "+212535550907",
-   "lat": 33.857615,
-   "lng": -5.5357,
+   "name": "Pharmacie La Famille",
+   "address": "rue 3 n°17 Baramila , sidi Bouzekri",
+   "phone": "+212535450143",
+   "lat": 33.857499,
+   "lng": -5.543178,
    "shift": "jour",
    "shift_label": ""
   },
   {
-   "name": "Pharmacie Marjane Soukna",
-   "address": "Meknès",
-   "phone": "+212660027591",
-   "lat": 33.864813,
-   "lng": -5.567137,
+   "name": "Pharmacie Mechouar",
+   "address": "1, derb Sakka , kasbat Hadrache",
+   "phone": "+212535460391",
+   "lat": 33.882353,
+   "lng": -5.568911,
    "shift": "jour",
    "shift_label": ""
   },
   {
-   "name": "Phafrmacie Al Osra",
-   "address": "368 rue Ifrane - Autre ville hay Riad, Meknès",
-   "phone": "+212535509598",
-   "lat": 33.918721,
-   "lng": -5.483639,
+   "name": "Pharmacie Ryad",
+   "address": "180, av AlQods , Ryad Meknès",
+   "phone": "+212535538499",
+   "lat": 33.897029,
+   "lng": -5.597047,
    "shift": "jour",
    "shift_label": ""
   },
   {
-   "name": "Pharmacie Ain Slougui",
-   "address": "lotiss. Al Bassatine Alem Extention 5 n°16, Meknès",
-   "phone": "+212535501541",
-   "lat": 33.8934,
-   "lng": -5.503917,
+   "name": "PHARMACIE ABDERRAHMANE",
+   "address": "N° 117, Riad Ouislane 2 Route de Dkhissaرقم A41 عمارة المامونية ويسلان",
+   "phone": "+212535509101",
+   "lat": 33.9076165,
+   "lng": -5.4752522,
    "shift": "jour",
    "shift_label": ""
   }
  ],
  "center": [
-  33.89,
-  -5.5348
+  33.8882,
+  -5.5503
  ]
 }

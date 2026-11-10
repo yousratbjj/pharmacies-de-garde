@@ -1,23 +1,23 @@
 {
  "city": "mechraa-bel-ksiri",
  "label": "Mechraâ Bel Ksiri",
- "date": "2026-11-09",
+ "date": "2026-11-10",
  "source": "sahha.ma",
  "source_url": "https://sahha.ma/pharmacie-de-garde/mechraa-bel-ksiri",
  "kind": "roster",
  "pharmacies": [
   {
-   "name": "Pharmacie Orangers",
-   "address": "146 av des F.a.r. cité Pam, Mechraa Bel Ksiri",
-   "phone": "+212537906211",
-   "lat": 34.576655,
-   "lng": -5.967731,
+   "name": "Pharmacie Sebou",
+   "address": "av. Caïd El Mansour ang. Marche verte, Mechraa Bel Ksiri",
+   "phone": "+212675661955",
+   "lat": 34.5748,
+   "lng": -5.95451,
    "shift": "jour",
    "shift_label": ""
   }
  ],
  "center": [
-  34.5767,
-  -5.9677
+  34.5748,
+  -5.9545
  ]
 }

@@ -12,12 +12,21 @@
    "phone": "+212536695660",
    "lat": 34.4100009,
    "lng": -2.8988804,
-   "shift": "nuit",
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie Masjid Al Khalil",
+   "address": "6 bd Mly Abdellah hay Takaddoum, Taourirt",
+   "phone": "+212536695417",
+   "lat": 34.398467,
+   "lng": -2.900083,
+   "shift": "jour",
    "shift_label": ""
   }
  ],
  "center": [
-  34.41,
-  -2.8989
+  34.4042,
+  -2.8995
  ]
 }

@@ -1,86 +1,104 @@
 {
  "city": "sale",
  "label": "Salé",
- "date": "2026-11-09",
+ "date": "2026-11-10",
  "source": "sahha.ma",
  "source_url": "https://sahha.ma/pharmacie-de-garde/sale",
  "kind": "roster",
  "pharmacies": [
   {
-   "name": "Pharmacie Abid",
-   "address": "11 rue Oued Bouregrag sect. D hay Errahma, Salé",
-   "phone": "+212537871525",
-   "lat": 34.063301,
-   "lng": -6.794881,
+   "name": "PHARMACIE ASSABIL",
+   "address": "Villa 542, Lotissement des villas",
+   "phone": "+212530002434",
+   "lat": 34.0008065,
+   "lng": -6.729394,
    "shift": "jour",
    "shift_label": ""
   },
   {
-   "name": "Pharmacie AlHanane",
-   "address": "18 rue Abda résid. Idriss II Bettana, Salé",
-   "phone": "+212537801585",
-   "lat": 34.031466,
-   "lng": -6.799557,
-   "shift": "jour",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie Atrassi",
-   "address": "2553 lotiss. Sidi Abdallah - Autre ville El Mazza Laayayda n°2, Salé",
-   "phone": "+212530503909",
-   "lat": 34.07532,
-   "lng": -6.78021,
-   "shift": "jour",
-   "shift_label": ""
-  },
-  {
-   "name": "PHARMACIE BETTANA",
-   "address": "1, Avenue Wattassiyine Bettana",
+   "name": "Pharmacie Bettana",
+   "address": "1 bd Al Wattassiyine Kharrouba, Salé",
    "phone": "+212537800556",
-   "lat": 34.044899,
-   "lng": -6.8140202,
+   "lat": 34.029525,
+   "lng": -6.803929,
    "shift": "jour",
    "shift_label": ""
   },
   {
-   "name": "PHARMACIE KAMIL",
-   "address": "lot maamoura, hssain sala al jadida · Sala el jadida Appeler 05 37 82 •• •• Itinéraire Carte Partager Voir la fiche",
-   "phone": "+212537828056",
-   "lat": 34.017893,
-   "lng": -6.7409602,
+   "name": "PHARMACIE ELLIMOUNE HSSAIN",
+   "address": "Lotissement Rida N°4 Hssain, en Face Ecole Achbal Karaouiene",
+   "phone": "+212537830449",
+   "lat": 34.021525,
+   "lng": -6.752278,
    "shift": "jour",
    "shift_label": ""
   },
   {
-   "name": "Pharmacie la Pépinière",
-   "address": "128 quartier la Pépinière bloc L n°15, Salé",
-   "phone": "+212537863720",
-   "lat": 34.038443,
-   "lng": -6.813242,
+   "name": "PHARMACIE IFRIQUIA",
+   "address": "43 Avenue Ifriquia Hay saffa (Sect 3)",
+   "phone": "+212537833443",
+   "lat": 34.02502,
+   "lng": -6.7709628,
    "shift": "jour",
    "shift_label": ""
   },
   {
-   "name": "PHARMACIE LAZRAK",
-   "address": "24 hay Essalam. secteur 11 N°608 · Hay essalam Appeler 05 37 80 •• •• Itinéraire Carte Partager Voir la ficheحي السلام قطاع 11 رقم 608",
-   "phone": "+212537809747",
-   "lat": 34.0465846,
-   "lng": -6.7806738,
+   "name": "Pharmacie Koutoubia",
+   "address": "41 rte de Mehdia lotiss. Koutoubia II n°1, Salé",
+   "phone": "+212537784633",
+   "lat": 34.062873,
+   "lng": -6.807902,
    "shift": "jour",
    "shift_label": ""
   },
   {
-   "name": "Pharmacie Naciri",
-   "address": "bd Al Salwa sect.4B Tabriquet, Salé",
-   "phone": "+212537861818",
-   "lat": 34.046528,
-   "lng": -6.800798,
+   "name": "Pharmacie Sakani",
+   "address": "rte de Kénitra quartier Bouchouk résidence sakani 2, Salé",
+   "phone": "+212537846070",
+   "lat": 34.081509,
+   "lng": -6.78246,
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie Sidi Abdellah Ben Hassoun",
+   "address": "141 rue Imouzzer hay Inbiât, Salé",
+   "phone": "+212537800608",
+   "lat": 34.055728,
+   "lng": -6.778501,
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie Zohour",
+   "address": "hay Errahma sect. D n°284, Salé",
+   "phone": "+212537872535",
+   "lat": 34.061467,
+   "lng": -6.792933,
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie Al Amal",
+   "address": "24 X bd Ahmed Ben Aboud, Salé",
+   "phone": "+212537781877",
+   "lat": 34.034883,
+   "lng": -6.821717,
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie Badr",
+   "address": "2 X bd Ibn El Haytem cité Ouad Eddahab, Salé",
+   "phone": "+212537875112",
+   "lat": 34.061371,
+   "lng": -6.773234,
    "shift": "jour",
    "shift_label": ""
   }
  ],
  "center": [
-  34.0456,
-  -6.7905
+  34.0435,
+  -6.7813
  ]
 }

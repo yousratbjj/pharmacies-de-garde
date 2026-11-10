@@ -1,23 +1,32 @@
 {
  "city": "larache",
  "label": "Larache",
- "date": "2026-11-09",
+ "date": "2026-11-10",
  "source": "sahha.ma",
  "source_url": "https://sahha.ma/pharmacie-de-garde/larache",
  "kind": "roster",
  "pharmacies": [
   {
-   "name": "Pharmacie Nassiha",
-   "address": "1 bd. Abdelmoumen Ben Ali, Larache",
+   "name": "PHARMACIE NASSIHA",
+   "address": "1 bd. Abdelmoumen Ben Ali",
    "phone": "+212539912600",
-   "lat": 35.190283,
-   "lng": -6.156617,
+   "lat": 35.1902833,
+   "lng": -6.1566167,
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie Coliseo",
+   "address": "11 rue Caid Ahmed Riffi, Larache",
+   "phone": "+212539913143",
+   "lat": 35.194967,
+   "lng": -6.154217,
    "shift": "jour",
    "shift_label": ""
   }
  ],
  "center": [
-  35.1903,
-  -6.1566
+  35.1926,
+  -6.1554
  ]
 }

@@ -1,23 +1,32 @@
 {
  "city": "ksar-el-kebir",
  "label": "Ksar El Kebir",
- "date": "2026-11-09",
+ "date": "2026-11-10",
  "source": "sahha.ma",
  "source_url": "https://sahha.ma/pharmacie-de-garde/ksar-el-kebir",
  "kind": "roster",
  "pharmacies": [
   {
-   "name": "Pharmacie Aloroba",
-   "address": "hay Aloroba grp. B rue 8 n°11, Ksar El Kébir",
+   "name": "Pharmacie AlAmal",
+   "address": "Hay Ouelad Hmayd bd. Madrasat Tabari, Ksar El Kébir",
+   "phone": "+212539906246",
+   "lat": 35.02528,
+   "lng": -5.9111,
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
+   "name": "PHARMACIE ALOROBA",
+   "address": "hay Aloroba , grp. B rue 8 n°11",
    "phone": "+212539906737",
-   "lat": 35.001617,
-   "lng": -5.895817,
+   "lat": 35.0015923,
+   "lng": -5.8957035,
    "shift": "jour",
    "shift_label": ""
   }
  ],
  "center": [
-  35.0016,
-  -5.8958
+  35.0134,
+  -5.9034
  ]
 }

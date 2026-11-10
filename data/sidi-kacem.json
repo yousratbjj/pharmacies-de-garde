@@ -1,23 +1,23 @@
 {
  "city": "sidi-kacem",
  "label": "Sidi Kacem",
- "date": "2026-11-09",
+ "date": "2026-11-10",
  "source": "sahha.ma",
  "source_url": "https://sahha.ma/pharmacie-de-garde/sidi-kacem",
  "kind": "roster",
  "pharmacies": [
   {
-   "name": "Pharmacie Al Hakim",
-   "address": "11 q. Jawhara, Sidi Kacem",
-   "phone": "+212537597005",
-   "lat": 34.235668,
-   "lng": -5.732099,
-   "shift": "nuit",
+   "name": "Pharmacie El Manal",
+   "address": "300 rue Meknès - Autre ville Lotiss. Manal lot 2, Sidi Kacem",
+   "phone": "+212701375630",
+   "lat": 34.212144,
+   "lng": -5.707808,
+   "shift": "jour",
    "shift_label": ""
   }
  ],
  "center": [
-  34.2357,
-  -5.7321
+  34.2121,
+  -5.7078
  ]
 }

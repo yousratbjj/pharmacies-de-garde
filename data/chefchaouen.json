@@ -1,7 +1,7 @@
 {
  "city": "chefchaouen",
  "label": "Chefchaouen",
- "date": "2026-11-09",
+ "date": "2026-11-10",
  "source": "sahha.ma",
  "source_url": "https://sahha.ma/pharmacie-de-garde/chefchaouen",
  "kind": "roster",
@@ -12,12 +12,21 @@
    "phone": "+212539987720",
    "lat": 35.154123,
    "lng": -5.269391,
-   "shift": "nuit",
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie Ibn Nafiss",
+   "address": "Unnamed Road, Chefchaouen",
+   "phone": "+212621009168",
+   "lat": 35.1686,
+   "lng": -5.262404,
+   "shift": "jour",
    "shift_label": ""
   }
  ],
  "center": [
-  35.1541,
-  -5.2694
+  35.1614,
+  -5.2659
  ]
 }

@@ -1,7 +1,7 @@
 {
  "city": "oujda",
  "label": "Oujda",
- "date": "2026-11-09",
+ "date": "2026-11-10",
  "source": "sahha.ma",
  "source_url": "https://sahha.ma/pharmacie-de-garde/oujda",
  "kind": "roster",
@@ -25,56 +25,11 @@
    "shift_label": ""
   },
   {
-   "name": "Pharmacie Aynaou",
-   "address": "hay Essalam B1 n°3 rte Jerada, Oujda",
-   "phone": "+212536514751",
-   "lat": 34.67055,
-   "lng": -1.937333,
-   "shift": "jour",
-   "shift_label": ""
-  },
-  {
    "name": "Pharmacie Hay Essalam",
    "address": "hay Essalam rue A1/98 Ain Serrak, Oujda",
    "phone": "+212536533537",
    "lat": 34.661648,
    "lng": -1.924823,
-   "shift": "jour",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie Ista Lazaret",
-   "address": "144 bd Narjis lot Benomar Lamhalla, Oujda",
-   "phone": "+212538970925",
-   "lat": 34.67714,
-   "lng": -1.868,
-   "shift": "jour",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie Jellouli",
-   "address": "10 rue Ahmed Moukhtari hay ennajd rte sidi yahya, Oujda",
-   "phone": "+212536541010",
-   "lat": 34.666697,
-   "lng": -1.8769,
-   "shift": "jour",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie Jorf Lakhdar Rocade",
-   "address": "Jorf Lakhdar route Atacadao imm Biwi, Oujda",
-   "phone": "+212615568522",
-   "lat": 34.703729,
-   "lng": -1.9342,
-   "shift": "jour",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie la Clinique",
-   "address": "32 bd. Mohamed. Bellakhdar, Oujda",
-   "phone": "+212536704796",
-   "lat": 34.674317,
-   "lng": -1.920633,
    "shift": "jour",
    "shift_label": ""
   },
@@ -90,6 +45,6 @@
  ],
  "center": [
   34.6784,
-  -1.9153
+  -1.9251
  ]
 }

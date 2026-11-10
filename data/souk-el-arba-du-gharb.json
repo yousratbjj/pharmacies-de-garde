@@ -1,23 +1,23 @@
 {
  "city": "souk-el-arba-du-gharb",
  "label": "Souk El Arba du Gharb",
- "date": "2026-11-09",
+ "date": "2026-11-10",
  "source": "sahha.ma",
  "source_url": "https://sahha.ma/pharmacie-de-garde/souk-el-arba-du-gharb",
  "kind": "roster",
  "pharmacies": [
   {
-   "name": "Pharmacie Meriem",
-   "address": "155 Derb Ouled Ben Sebaa hay Krayz Ghzaouna, Souk El Arba du Gharb",
-   "phone": "+212537902864",
-   "lat": 34.687295,
-   "lng": -5.975393,
-   "shift": "nuit",
+   "name": "Pharmacie Chanafi",
+   "address": "86 lotiss. Adam Dhar Lahrech, Souk El Arba du Gharb",
+   "phone": "+212773690807",
+   "lat": 34.674745,
+   "lng": -6.003224,
+   "shift": "jour",
    "shift_label": ""
   }
  ],
  "center": [
-  34.6873,
-  -5.9754
+  34.6747,
+  -6.0032
  ]
 }
