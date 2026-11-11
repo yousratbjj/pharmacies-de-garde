@@ -1,44 +1,17 @@
 {
  "city": "meknes",
  "label": "Meknès",
- "date": "2026-11-10",
+ "date": "2026-11-11",
  "source": "sahha.ma",
  "source_url": "https://sahha.ma/pharmacie-de-garde/meknes",
  "kind": "roster",
  "pharmacies": [
   {
-   "name": "Pharmacie Attadamoune",
-   "address": "Mansour",
-   "phone": "+212535489978",
-   "lat": 33.86395,
-   "lng": -5.579567,
-   "shift": "jour",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie Chams",
-   "address": "rue Essaadiyine résid. Mabrouka imm. B ElBassatine, Meknès",
-   "phone": "+212535500881",
-   "lat": 33.8932,
-   "lng": -5.517817,
-   "shift": "jour",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie La Famille",
-   "address": "rue 3 n°17 Baramila , sidi Bouzekri",
-   "phone": "+212535450143",
-   "lat": 33.857499,
-   "lng": -5.543178,
-   "shift": "jour",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie L'Oum",
-   "address": "1 rue Ibn Zoubeir rte Mly Driss, Meknès",
-   "phone": "+212535403805",
-   "lat": 33.904267,
-   "lng": -5.55565,
+   "name": "Pharmacie Acima",
+   "address": "1, hay Zitoune , résid. Al Ghorfa",
+   "phone": "+212535466049",
+   "lat": 33.860767,
+   "lng": -5.548633,
    "shift": "jour",
    "shift_label": ""
   },
@@ -52,53 +25,35 @@
    "shift_label": ""
   },
   {
-   "name": "Pharmacie Millenaire",
-   "address": "hay Borj Moulay Omar anciens combatants imm. Zerhoune bloc D n°10, Meknès",
-   "phone": "+212535402094",
-   "lat": 33.902227,
-   "lng": -5.525464,
+   "name": "Pharmacie Riad Al Ismailia",
+   "address": "Meknès",
+   "phone": "+212667939013",
+   "lat": 33.85666,
+   "lng": -5.56668,
    "shift": "jour",
    "shift_label": ""
   },
   {
-   "name": "Pharmacie Roche Rouge",
-   "address": "18 bd Al Madarisse - Autre ville hay Al Nasr, Meknès",
-   "phone": "+212535410242",
-   "lat": 33.9147942,
-   "lng": -5.4785162,
+   "name": "Pharmacie Route Sefita",
+   "address": "Meknès",
+   "phone": "+212535469271",
+   "lat": 33.872279,
+   "lng": -5.575502,
    "shift": "jour",
    "shift_label": ""
   },
   {
-   "name": "Pharmacie Ryad",
-   "address": "180, av AlQods , Ryad Meknès",
-   "phone": "+212535538499",
-   "lat": 33.897029,
-   "lng": -5.597047,
-   "shift": "jour",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie Zerktouni",
-   "address": "108 bd Mohamed Zerktouni - Autre ville hay Nasr Ouislane, Meknès",
-   "phone": "+212535549044",
-   "lat": 33.910829,
-   "lng": -5.480058,
-   "shift": "jour",
-   "shift_label": ""
-  },
-  {
-   "name": "PHARMACIE ABDERRAHMANE",
-   "address": "N° 117, Riad Ouislane 2 Route de Dkhissaرقم A41 عمارة المامونية ويسلان",
-   "phone": "+212535509101",
-   "lat": 33.9076165,
-   "lng": -5.4752522,
+   "name": "PHARMACIE AIN SLOUGUI",
+   "address": "lotiss. Al Bassatine Alem Extention 5 n°16 Meknès",
+   "phone": "+212535501541",
+   "lat": 33.8917207,
+   "lng": -5.5061904,
    "shift": "jour",
    "shift_label": ""
   }
  ],
  "center": [
-  33.8934,
-  -5.5321
+  33.8728,
+  -5.5532
  ]
 }

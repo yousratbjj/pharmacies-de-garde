@@ -1,32 +1,32 @@
 {
  "city": "kenitra",
  "label": "Kénitra",
- "date": "2026-11-10",
+ "date": "2026-11-11",
  "source": "sahha.ma",
  "source_url": "https://sahha.ma/pharmacie-de-garde/kenitra",
  "kind": "roster",
  "pharmacies": [
   {
-   "name": "Pharmacie El Gueddari",
-   "address": "222 bd Bacha Abdelhamid El Alaoui rue 153, Kénitra",
-   "phone": "+212534197290",
-   "lat": 34.263763,
-   "lng": -6.559606,
+   "name": "Pharmacie Fadlallah",
+   "address": "Bouchtyne rue 41 n°314, Kénitra",
+   "phone": "+212537383328",
+   "lat": 34.267875,
+   "lng": -6.564079,
    "shift": "jour",
    "shift_label": ""
   },
   {
-   "name": "Pharmacie Tourabi",
-   "address": "713 lotiss. le Vallon - Autre ville, Kénitra",
-   "phone": "+212537316763",
-   "lat": 34.262049,
-   "lng": -6.602197,
+   "name": "TOURABI",
+   "address": "le vallon, Lot numéro 713 lotissementلو فالون، تجزئة رقم 713",
+   "phone": "",
+   "lat": 34.2621832,
+   "lng": -6.6020412,
    "shift": "jour",
    "shift_label": ""
   }
  ],
  "center": [
-  34.2629,
-  -6.5809
+  34.265,
+  -6.5831
  ]
 }

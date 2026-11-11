@@ -1,23 +1,23 @@
 {
  "city": "al-arrui",
  "label": "Al Arrui",
- "date": "2026-11-10",
+ "date": "2026-11-11",
  "source": "sahha.ma",
  "source_url": "https://sahha.ma/pharmacie-de-garde/al-arrui",
  "kind": "roster",
  "pharmacies": [
   {
-   "name": "Pharmacie Ayoub",
-   "address": "660 av Hassan II Aruit, Al Arrui",
-   "phone": "+212536361224",
-   "lat": 35.007583,
-   "lng": -3.01345,
+   "name": "Pharmacie Zaidi",
+   "address": "av. Hassan II hay ElFarah, Al Arrui",
+   "phone": "+212550091758",
+   "lat": 35.002375,
+   "lng": -3.033163,
    "shift": "jour",
    "shift_label": ""
   }
  ],
  "center": [
-  35.0076,
-  -3.0135
+  35.0024,
+  -3.0332
  ]
 }

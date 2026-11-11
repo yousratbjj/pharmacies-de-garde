@@ -1,23 +1,32 @@
 {
  "city": "ouarzazate",
  "label": "Ouarzazate",
- "date": "2026-11-10",
+ "date": "2026-11-11",
  "source": "sahha.ma",
  "source_url": "https://sahha.ma/pharmacie-de-garde/ouarzazate",
  "kind": "roster",
  "pharmacies": [
   {
-   "name": "Pharmacie la Résistance",
-   "address": "256 rue Moulay Tahar Ben Abdelkrim cité la Résistance, Ouarzazate",
-   "phone": "+212524884901",
-   "lat": 30.9238,
-   "lng": -6.923183,
-   "shift": "nuit",
+   "name": "Pharmacie Ibn Al Atik",
+   "address": "Av Moulay Abdellah Lot chems 2 n° 65, Ouarzazate",
+   "phone": "+212524884078",
+   "lat": 30.929031,
+   "lng": -6.923518,
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie Qods Al Maghreb",
+   "address": "67 hay Al Qods, Ouarzazate",
+   "phone": "+212524885669",
+   "lat": 30.92535,
+   "lng": -6.892351,
+   "shift": "jour",
    "shift_label": ""
   }
  ],
  "center": [
-  30.9238,
-  -6.9232
+  30.9272,
+  -6.9079
  ]
 }

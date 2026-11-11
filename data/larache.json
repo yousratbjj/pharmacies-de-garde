@@ -1,23 +1,23 @@
 {
  "city": "larache",
  "label": "Larache",
- "date": "2026-11-10",
+ "date": "2026-11-11",
  "source": "sahha.ma",
  "source_url": "https://sahha.ma/pharmacie-de-garde/larache",
  "kind": "roster",
  "pharmacies": [
   {
-   "name": "Pharmacie Coliseo",
-   "address": "11 rue Caid Ahmed Riffi, Larache",
-   "phone": "+212539913143",
-   "lat": 35.194967,
-   "lng": -6.154217,
+   "name": "Pharmacie Alkawtar",
+   "address": "56 av. Abderrahman ElGhafiki, Larache",
+   "phone": "+212539916006",
+   "lat": 35.185554,
+   "lng": -6.144939,
    "shift": "jour",
    "shift_label": ""
   }
  ],
  "center": [
-  35.195,
-  -6.1542
+  35.1856,
+  -6.1449
  ]
 }

@@ -1,23 +1,23 @@
 {
  "city": "taourirt",
  "label": "Taourirt",
- "date": "2026-11-10",
+ "date": "2026-11-11",
  "source": "sahha.ma",
  "source_url": "https://sahha.ma/pharmacie-de-garde/taourirt",
  "kind": "roster",
  "pharmacies": [
   {
-   "name": "Pharmacie Masjid Al Khalil",
-   "address": "6 bd Mly Abdellah hay Takaddoum, Taourirt",
-   "phone": "+212536695417",
-   "lat": 34.398467,
-   "lng": -2.900083,
-   "shift": "nuit",
+   "name": "Pharmacie Karama",
+   "address": "1644 rue Tendrara hay Takaddoum, Taourirt",
+   "phone": "+212536679278",
+   "lat": 34.398797,
+   "lng": -2.905219,
+   "shift": "jour",
    "shift_label": ""
   }
  ],
  "center": [
-  34.3985,
-  -2.9001
+  34.3988,
+  -2.9052
  ]
 }

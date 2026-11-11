@@ -1,104 +1,77 @@
 {
  "city": "rabat",
  "label": "Rabat",
- "date": "2026-11-10",
+ "date": "2026-11-11",
  "source": "sahha.ma",
  "source_url": "https://sahha.ma/pharmacie-de-garde/rabat",
  "kind": "roster",
  "pharmacies": [
   {
-   "name": "Pharmacie Al Fadila",
-   "address": "avenue Ennour bloc K n°9 c.y.m, Rabat",
-   "phone": "+212537690742",
-   "lat": 33.993385,
-   "lng": -6.866673,
+   "name": "Pharmacie AlFaraj",
+   "address": "21 X rue Balafrej, Rabat",
+   "phone": "+212537692746",
+   "lat": 33.986311,
+   "lng": -6.851606,
    "shift": "jour",
    "shift_label": ""
   },
   {
-   "name": "Pharmacie des Facultés",
-   "address": "52 avenue Omar Ibn Khattab, Rabat",
-   "phone": "+212537773440",
-   "lat": 33.99913,
-   "lng": -6.844419,
+   "name": "Pharmacie Al Kawthar",
+   "address": "quartier Bouitat rue Inbihat N°18 bloc 109, Rabat",
+   "phone": "+212537294769",
+   "lat": 34.066995,
+   "lng": -6.793969,
    "shift": "jour",
    "shift_label": ""
   },
   {
-   "name": "PHARMACIE EL OUMNIA",
-   "address": "81,Av Med VI (Entre Groupe Scolaire Ghosn, Et Azzaitoun et Restaurant Recto Verso)",
-   "phone": "+212645715550",
-   "lat": 33.9951815,
-   "lng": -6.827199,
+   "name": "Pharmacie Centrale",
+   "address": "113 avenue Hassan II, Rabat",
+   "phone": "+212537724395",
+   "lat": 34.030926,
+   "lng": -6.820642,
    "shift": "jour",
    "shift_label": ""
   },
   {
-   "name": "Pharmacie la Corniche",
-   "address": "4 rue d' Addis Abeba Océan, Rabat",
-   "phone": "+212537729744",
-   "lat": 34.02599,
-   "lng": -6.849319,
+   "name": "Pharmacie des Nations Unies",
+   "address": "19 X rue Jabal Al Ayachi Agdal, Rabat",
+   "phone": "+212537670719",
+   "lat": 33.995949,
+   "lng": -6.844999,
    "shift": "jour",
    "shift_label": ""
   },
   {
-   "name": "Pharmacie Lotus",
-   "address": "342 bd des Forces Armées Royales q. El Menzeh C.y.m., Rabat",
-   "phone": "+212537281883",
-   "lat": 33.979424,
-   "lng": -6.895427,
+   "name": "Pharmacie Mosquée O.l.m",
+   "address": "rue Hamza Ben Amr Souissi II, Rabat",
+   "phone": "+212537638119",
+   "lat": 33.991604,
+   "lng": -6.82865,
    "shift": "jour",
    "shift_label": ""
   },
   {
-   "name": "Pharmacie Prestigia",
-   "address": "bd Abderrahim Bouabid Ryad Al andalouss hay Ryad, Rabat",
-   "phone": "+212537571584",
-   "lat": 33.953291,
-   "lng": -6.882316,
+   "name": "Pharmacie Nakhil",
+   "address": "Hay Riyad sect. 9 résid. Zahrat Arryad, Rabat",
+   "phone": "+212537714747",
+   "lat": 33.959742,
+   "lng": -6.873719,
    "shift": "jour",
    "shift_label": ""
   },
   {
-   "name": "Pharmacie Tarik El Mehdi",
-   "address": "avenue Al Massira (C.y.m) Amal 4 n°16, Rabat",
-   "phone": "+212537798347",
-   "lat": 33.978054,
-   "lng": -6.885423,
-   "shift": "jour",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie Universelle",
-   "address": "1 avenue Allal Ben Abdellah, Rabat",
-   "phone": "+212808508679",
-   "lat": 34.021741,
-   "lng": -6.836299,
-   "shift": "jour",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie Abtal",
-   "address": "quartier Takadoum 53 grp. Zouhour, Rabat",
-   "phone": "+212537653710",
-   "lat": 33.982925,
-   "lng": -6.824123,
-   "shift": "jour",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie AlBaraka",
-   "address": "26 X rue Oulad Hriz Aviation, Rabat",
-   "phone": "+212537636724",
-   "lat": 33.989546,
-   "lng": -6.822598,
+   "name": "Pharmacie Sofia",
+   "address": "1205 X avenue Al Massira (C.y.m) hay Almanzah, Rabat",
+   "phone": "+212537282928",
+   "lat": 33.990251,
+   "lng": -6.874488,
    "shift": "jour",
    "shift_label": ""
   }
  ],
  "center": [
-  33.9919,
-  -6.8534
+  34.0031,
+  -6.8412
  ]
 }

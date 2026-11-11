@@ -1,32 +1,23 @@
 {
  "city": "taza",
  "label": "Taza",
- "date": "2026-11-10",
+ "date": "2026-11-11",
  "source": "sahha.ma",
  "source_url": "https://sahha.ma/pharmacie-de-garde/taza",
  "kind": "roster",
  "pharmacies": [
   {
-   "name": "Pharmacie Al Wahda",
-   "address": "av. Mohammed VI ang. rue de Marrakech, Taza",
-   "phone": "+212535671723",
-   "lat": 34.225383,
-   "lng": -4.011617,
-   "shift": "nuit",
-   "shift_label": ""
-  },
-  {
-   "name": "NOUVELLE PHARMACIE TAZA",
-   "address": "36 rte de fès - autre ville",
-   "phone": "+212676892633",
-   "lat": 34.2034344,
-   "lng": -4.0160268,
-   "shift": "nuit",
+   "name": "Pharmacie de la Victoire",
+   "address": "place Zerktouni, Taza",
+   "phone": "+212535673459",
+   "lat": 34.22095,
+   "lng": -4.006483,
+   "shift": "jour",
    "shift_label": ""
   }
  ],
  "center": [
-  34.2144,
-  -4.0138
+  34.221,
+  -4.0065
  ]
 }

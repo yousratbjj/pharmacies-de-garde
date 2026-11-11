@@ -1,32 +1,23 @@
 {
  "city": "guercif",
  "label": "Guercif",
- "date": "2026-11-10",
+ "date": "2026-11-11",
  "source": "sahha.ma",
  "source_url": "https://sahha.ma/pharmacie-de-garde/guercif",
  "kind": "roster",
  "pharmacies": [
   {
-   "name": "Pharmacie La Clinique",
-   "address": "3 X av. Abdelkrim El Khattabi hay Nougd, Guercif",
-   "phone": "+212535675144",
-   "lat": 34.236438,
-   "lng": -3.348546,
-   "shift": "jour",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie Othmane ben Affane",
-   "address": "lotiss. Najah - Autre ville, Guercif",
-   "phone": "+212538505196",
-   "lat": 34.230901,
-   "lng": -3.338924,
+   "name": "Pharmacie L'Oriental",
+   "address": "Rte Saka, Guercif",
+   "phone": "+212535676194",
+   "lat": 34.23785,
+   "lng": -3.34126,
    "shift": "jour",
    "shift_label": ""
   }
  ],
  "center": [
-  34.2337,
-  -3.3437
+  34.2379,
+  -3.3413
  ]
 }

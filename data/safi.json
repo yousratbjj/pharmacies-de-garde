@@ -1,7 +1,7 @@
 {
  "city": "safi",
  "label": "Safi",
- "date": "2026-11-10",
+ "date": "2026-11-11",
  "source": "sahha.ma",
  "source_url": "https://sahha.ma/pharmacie-de-garde/safi",
  "kind": "roster",
@@ -12,7 +12,7 @@
    "phone": "+212524652075",
    "lat": 32.258606,
    "lng": -9.249528,
-   "shift": "nuit",
+   "shift": "jour",
    "shift_label": ""
   },
   {
@@ -21,12 +21,48 @@
    "phone": "+212524625462",
    "lat": 32.290131,
    "lng": -9.201862,
-   "shift": "nuit",
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie AlJamiaa",
+   "address": "lotissement Ibn Rochd, Safi",
+   "phone": "+212526030507",
+   "lat": 32.3271893,
+   "lng": -9.2611128,
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie Djerifat",
+   "address": "81 rue Sania Jerifat, Safi",
+   "phone": "+212524624973",
+   "lat": 32.284762,
+   "lng": -9.223174,
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie Galinos",
+   "address": "37 Quartier Aviation, Safi",
+   "phone": "+212524653213",
+   "lat": 32.281167,
+   "lng": -9.243317,
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie Route Marrakech",
+   "address": "rte de Marrakech lotiss. Al Kods n°3, Safi",
+   "phone": "+212524621038",
+   "lat": 32.298101,
+   "lng": -9.207045,
+   "shift": "jour",
    "shift_label": ""
   }
  ],
  "center": [
-  32.2744,
-  -9.2257
+  32.29,
+  -9.231
  ]
 }

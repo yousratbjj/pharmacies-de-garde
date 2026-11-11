@@ -1,23 +1,23 @@
 {
  "city": "mechraa-bel-ksiri",
  "label": "Mechraâ Bel Ksiri",
- "date": "2026-11-10",
+ "date": "2026-11-11",
  "source": "sahha.ma",
  "source_url": "https://sahha.ma/pharmacie-de-garde/mechraa-bel-ksiri",
  "kind": "roster",
  "pharmacies": [
   {
-   "name": "Pharmacie Sebou",
-   "address": "av. Caïd El Mansour ang. Marche verte, Mechraa Bel Ksiri",
-   "phone": "+212675661955",
-   "lat": 34.5748,
-   "lng": -5.95451,
+   "name": "Pharmacie Agdal",
+   "address": "av Mohamed V, Mechraa Bel Ksiri",
+   "phone": "+212537906969",
+   "lat": 34.580531,
+   "lng": -5.955502,
    "shift": "jour",
    "shift_label": ""
   }
  ],
  "center": [
-  34.5748,
-  -5.9545
+  34.5805,
+  -5.9555
  ]
 }

@@ -1,27 +1,27 @@
 {
  "city": "tetouan",
  "label": "Tétouan",
- "date": "2026-11-10",
+ "date": "2026-11-11",
  "source": "sahha.ma",
  "source_url": "https://sahha.ma/pharmacie-de-garde/tetouan",
  "kind": "roster",
  "pharmacies": [
   {
-   "name": "Pharmacie Mestassi",
-   "address": "128 av. Sebta M'hannech II, Tétouan",
+   "name": "MESTASSI",
+   "address": "Rue Sebta, MHannech II, Tranche IIشارع سبتة رقم 128 المحنش الثاني أمام كلية العلوم",
    "phone": "+212539999149",
-   "lat": 35.562783,
-   "lng": -5.362217,
-   "shift": "nuit",
+   "lat": 35.5627833,
+   "lng": -5.3622167,
+   "shift": "jour",
    "shift_label": ""
   },
   {
-   "name": "Pharmacie Rif",
-   "address": "244 av. des f.a.r., Tétouan",
+   "name": "RIF",
+   "address": "244 avenue. des f.a.r près de clinique rifشارع الجيش الملكي. رقم 244 قرب مصحة الريف",
    "phone": "+212539993331",
-   "lat": 35.587017,
-   "lng": -5.346967,
-   "shift": "nuit",
+   "lat": 35.5870167,
+   "lng": -5.3469667,
+   "shift": "jour",
    "shift_label": ""
   }
  ],

@@ -1,32 +1,32 @@
 {
  "city": "selouane",
  "label": "Selouane",
- "date": "2026-11-10",
+ "date": "2026-11-11",
  "source": "sahha.ma",
  "source_url": "https://sahha.ma/pharmacie-de-garde/selouane",
  "kind": "roster",
  "pharmacies": [
   {
-   "name": "Pharmacie AlOsra",
-   "address": "Place AlMassira, Selouane",
-   "phone": "+212536609081",
-   "lat": 35.07103,
-   "lng": -2.94159,
+   "name": "Pharmacie Centrale la Perle",
+   "address": "2 Rte Nationale Al Omrane, Selouane",
+   "phone": "+212520715613",
+   "lat": 35.05945,
+   "lng": -2.91283,
    "shift": "jour",
    "shift_label": ""
   },
   {
-   "name": "Pharmacie des Bougies",
-   "address": "5 Route Zaio espace El Habib, Selouane",
-   "phone": "+212536358218",
-   "lat": 35.064487,
-   "lng": -2.962604,
+   "name": "Pharmacie Principale",
+   "address": "25 bd Mohammed V, Selouane",
+   "phone": "+212536609047",
+   "lat": 35.07494,
+   "lng": -2.939456,
    "shift": "jour",
    "shift_label": ""
   }
  ],
  "center": [
-  35.0678,
-  -2.9521
+  35.0672,
+  -2.9261
  ]
 }

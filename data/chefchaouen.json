@@ -1,23 +1,23 @@
 {
  "city": "chefchaouen",
  "label": "Chefchaouen",
- "date": "2026-11-10",
+ "date": "2026-11-11",
  "source": "sahha.ma",
  "source_url": "https://sahha.ma/pharmacie-de-garde/chefchaouen",
  "kind": "roster",
  "pharmacies": [
   {
-   "name": "Pharmacie Dhar ben Ayad",
-   "address": "5 rte Gharouzim, Chefchaouen",
-   "phone": "+212539987720",
-   "lat": 35.154123,
-   "lng": -5.269391,
-   "shift": "nuit",
+   "name": "Pharmacie Ibn Nafiss",
+   "address": "Unnamed Road, Chefchaouen",
+   "phone": "+212621009168",
+   "lat": 35.1686,
+   "lng": -5.262404,
+   "shift": "jour",
    "shift_label": ""
   }
  ],
  "center": [
-  35.1541,
-  -5.2694
+  35.1686,
+  -5.2624
  ]
 }

@@ -1,68 +1,68 @@
 {
  "city": "fes",
  "label": "Fès",
- "date": "2026-11-10",
+ "date": "2026-11-11",
  "source": "sahha.ma",
  "source_url": "https://sahha.ma/pharmacie-de-garde/fes",
  "kind": "roster",
  "pharmacies": [
   {
-   "name": "Pharmacie Fatima Zahra",
-   "address": "2 lotiss. Tourya Anas 3, Fès",
-   "phone": "+212535604521",
-   "lat": 34.056119,
-   "lng": -4.974156,
+   "name": "Pharmacie Ain Haroun",
+   "address": "hay Ain Haroun rue 202 n°287, Fès",
+   "phone": "+212535646444",
+   "lat": 34.0667,
+   "lng": -5.007433,
    "shift": "jour",
    "shift_label": ""
   },
   {
-   "name": "Pharmacie Ouandou",
-   "address": "106 bd Youssef Ibn Tachfine, Fès",
-   "phone": "+212535648086",
-   "lat": 34.057037,
-   "lng": -5.032709,
+   "name": "Pharmacie Aya Sofia",
+   "address": "X hay Sidi El Hadi rue 17 n°242, Fès",
+   "phone": "+212535603314",
+   "lat": 34.018417,
+   "lng": -5.04005,
    "shift": "jour",
    "shift_label": ""
   },
   {
-   "name": "Pharmacie Salah",
-   "address": "116 lotiss. Al Hadika q 4 Oued Fès, Fès",
-   "phone": "+212535756703",
-   "lat": 34.054933,
-   "lng": -5.0261,
+   "name": "Pharmacie Elmouahidine",
+   "address": "14 bd des Almohades, Fès",
+   "phone": "+212535621919",
+   "lat": 34.04265,
+   "lng": -5.012867,
    "shift": "jour",
    "shift_label": ""
   },
   {
-   "name": "Pharmacie Skalli",
-   "address": "71 lotiss. Essalam rte de Sefrou, Fès",
-   "phone": "+212535768884",
-   "lat": 34.002995,
-   "lng": -4.975318,
+   "name": "Pharmacie L'humanité",
+   "address": "2 route de California - Autre ville mosqueé Attadamoune, Fès",
+   "phone": "+212679475071",
+   "lat": 33.978081,
+   "lng": -5.026707,
    "shift": "jour",
    "shift_label": ""
   },
   {
-   "name": "Pharmacie Bouslikhane",
-   "address": "160 hay Al Wifaq rte Ain Smen, Fès",
-   "phone": "+212535604525",
-   "lat": 34.009317,
-   "lng": -5.026083,
+   "name": "Pharmacie Route de Sefrou",
+   "address": "6 lotiss. Mamounia rte de Sefrou, Fès",
+   "phone": "+212535733306",
+   "lat": 34.0213,
+   "lng": -4.987783,
    "shift": "jour",
    "shift_label": ""
   },
   {
-   "name": "Pharmacie Fôret Ain Chkef",
-   "address": "rte Ain Chkef - Autre ville Mag. N°1. Mosquée Aïcha Oum Al Mouminine, Fès",
-   "phone": "+212535610586",
-   "lat": 33.990357,
-   "lng": -5.016597,
+   "name": "Pharmacie Yakout",
+   "address": "384 hay Ain Chkef - Autre ville lotiss.Aziza mag.1, Fès",
+   "phone": "+212532075708",
+   "lat": 33.995531,
+   "lng": -5.034684,
    "shift": "jour",
    "shift_label": ""
   }
  ],
  "center": [
-  34.0285,
-  -5.0085
+  34.0204,
+  -5.0183
  ]
 }
