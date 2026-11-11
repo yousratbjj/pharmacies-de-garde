@@ -7,6 +7,51 @@
  "kind": "roster",
  "pharmacies": [
   {
+   "name": "PHARMACIE AL HOUDA",
+   "address": "av Al Hansali hay Essalam bloc 20 n°9, Sidi Slimane",
+   "phone": "+212537505669",
+   "lat": 34.25645,
+   "lng": -5.9218167,
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
+   "name": "PHARMACIE ALLEMAGNA",
+   "address": "lot. Marjane n°1003, Sidi Slimane",
+   "phone": "+212707203837",
+   "lat": 34.259878,
+   "lng": -5.927253,
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
+   "name": "PHARMACIE AL MASJID",
+   "address": "hay Salam bloc 17 n°23, Sidi Slimane",
+   "phone": "+212537502513",
+   "lat": 34.2543606,
+   "lng": -5.9239494,
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
+   "name": "PHARMACIE AMINE",
+   "address": "12 Av. Mohammed V rte Dar Belamri, Sidi Slimane",
+   "phone": "+212537502078",
+   "lat": 34.2591665,
+   "lng": -5.9295916,
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
+   "name": "PHARMACIE ARRAHMA",
+   "address": "hay Ouled El Ghazi rue 10 n°244, Sidi Slimane",
+   "phone": "+212537505768",
+   "lat": 34.2592509,
+   "lng": -5.9310357,
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
    "name": "PHARMACIE CHIFAA",
    "address": "hay Laymoune bloc 27 n°7 SIDI SLIMANE",
    "phone": "+212537503034",
@@ -14,64 +59,10 @@
    "lng": -5.927786,
    "shift": "jour",
    "shift_label": ""
-  },
-  {
-   "name": "PHARMACIE DEBBARH",
-   "address": "hay Agdal n° 3, Sidi Slimane",
-   "phone": "+212661491076",
-   "lat": 34.257403,
-   "lng": -5.910089,
-   "shift": "jour",
-   "shift_label": ""
-  },
-  {
-   "name": "PHARMACIE ELHAY ELJADID",
-   "address": "av Zerktouni hay ElJadid, Sidi Slimane",
-   "phone": "+212537500650",
-   "lat": 34.2622961,
-   "lng": -5.9239749,
-   "shift": "jour",
-   "shift_label": ""
-  },
-  {
-   "name": "PHARMACIE GHOUMARYENNE",
-   "address": "28 av. Mohammed V q. Ghoummaryenne n°177, Sidi Slimane",
-   "phone": "+212537502040",
-   "lat": 34.2561754,
-   "lng": -5.9325825,
-   "shift": "jour",
-   "shift_label": ""
-  },
-  {
-   "name": "PHARMACIE LAGHLALTA",
-   "address": "douar Lharati, Sidi Slimane",
-   "phone": "+212537504409",
-   "lat": 34.2501119,
-   "lng": -5.9444455,
-   "shift": "jour",
-   "shift_label": ""
-  },
-  {
-   "name": "PHARMACIE LA RÉSISTANCE",
-   "address": "2 av la Résistance, Sidi Slimane",
-   "phone": "+212537503558",
-   "lat": 34.2675,
-   "lng": -5.9199167,
-   "shift": "jour",
-   "shift_label": ""
-  },
-  {
-   "name": "PHARMACIE LES URGENCES",
-   "address": "av de la Résistance, Sidi Slimane",
-   "phone": "+212537503690",
-   "lat": 34.26755,
-   "lng": -5.91935,
-   "shift": "jour",
-   "shift_label": ""
   }
  ],
  "center": [
-  34.259,
-  -5.9254
+  34.2568,
+  -5.9269
  ]
 }

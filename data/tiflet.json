@@ -7,17 +7,17 @@
  "kind": "roster",
  "pharmacies": [
   {
-   "name": "PHARMACIE DE TIFLET",
-   "address": "av. Mohammed V",
-   "phone": "+212537512207",
-   "lat": 33.8934658,
-   "lng": -6.3128155,
-   "shift": "jour",
+   "name": "Pharmacie hay Al Amal",
+   "address": "9 rue Taza - Autre ville, Tiflet",
+   "phone": "+212537511311",
+   "lat": 33.89107,
+   "lng": -6.31057,
+   "shift": "nuit",
    "shift_label": ""
   }
  ],
  "center": [
-  33.8935,
-  -6.3128
+  33.8911,
+  -6.3106
  ]
 }

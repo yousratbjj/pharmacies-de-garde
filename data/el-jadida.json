@@ -7,98 +7,26 @@
  "kind": "roster",
  "pharmacies": [
   {
-   "name": "Pharmacie Afailal",
-   "address": "10 rue El Yassmine lotiss. Al Mostaqbal, El Jadida",
-   "phone": "+212523391327",
-   "lat": 33.2402,
-   "lng": -8.524833,
-   "shift": "jour",
+   "name": "Pharmacie derb ElHajjar",
+   "address": "140 derb El Hajjar, El Jadida",
+   "phone": "+212523340135",
+   "lat": 33.256273,
+   "lng": -8.505046,
+   "shift": "nuit",
    "shift_label": ""
   },
   {
-   "name": "Pharmacie AlMoukawama",
-   "address": "62 bd Moukaouama, El Jadida",
-   "phone": "+212523352255",
-   "lat": 33.2434,
-   "lng": -8.501667,
-   "shift": "jour",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie Elkawtar",
-   "address": "2 bd Abderrahmane Ben Touila, El Jadida",
-   "phone": "+212523372890",
-   "lat": 33.239017,
-   "lng": -8.526433,
-   "shift": "jour",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie Ilyase Salam",
-   "address": "85 hay Essalam 1 - Autre ville, El Jadida",
-   "phone": "+212523395293",
-   "lat": 33.22119,
-   "lng": -8.49957,
-   "shift": "jour",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie Khalil Jabrane",
-   "address": "108 lotiss. El Wafa imm. A q. Al Matar, El Jadida",
-   "phone": "+212523371757",
-   "lat": 33.228595,
-   "lng": -8.51984,
-   "shift": "jour",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie La Famille",
-   "address": "53 lotiss. Sidi Moussa, El Jadida",
-   "phone": "+212523352093",
-   "lat": 33.235683,
-   "lng": -8.490633,
-   "shift": "jour",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie la Polyclinique",
-   "address": "cité Bir Anzarane bloc 28 n° 274, El Jadida",
-   "phone": "+212523394031",
-   "lat": 33.246883,
-   "lng": -8.52015,
-   "shift": "jour",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie Nouvelle Florida",
-   "address": "lotissement Florida, El Jadida",
-   "phone": "+212523350204",
-   "lat": 33.2321053,
-   "lng": -8.4746692,
-   "shift": "jour",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie Portugaise",
-   "address": "84 rue Hachmi Bahbah cité portugaise, El Jadida",
-   "phone": "+212523342102",
-   "lat": 33.256412,
-   "lng": -8.502398,
-   "shift": "jour",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie Semlali",
-   "address": "138 bd Abi Chouaib Doukkali, El Jadida",
-   "phone": "+212523343742",
-   "lat": 33.250243,
-   "lng": -8.510289,
-   "shift": "jour",
+   "name": "Pharmacie Nations Unies",
+   "address": "12 bd Allal Fassi hay Al Matar, El Jadida",
+   "phone": "+212808541448",
+   "lat": 33.239855,
+   "lng": -8.52397,
+   "shift": "nuit",
    "shift_label": ""
   }
  ],
  "center": [
-  33.2394,
-  -8.507
+  33.2481,
+  -8.5145
  ]
 }

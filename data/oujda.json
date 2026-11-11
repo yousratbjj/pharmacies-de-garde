@@ -41,10 +41,64 @@
    "lng": -1.913008,
    "shift": "jour",
    "shift_label": ""
+  },
+  {
+   "name": "PHARMACIE AYNAOU",
+   "address": "Hay Essalam B1 N° 3 route Ain Beni Matharحي السلام B1 رقم 3 طريق جرادة",
+   "phone": "+212536514751",
+   "lat": 34.6703664,
+   "lng": -1.9379861,
+   "shift": "nuit",
+   "shift_label": ""
+  },
+  {
+   "name": "PHARMACIE HAY ZAITOUN",
+   "address": "Rte. Bouknadel , lot Amri, rue K 14, n° 1, Hay Zaitoun OUJDA [+]",
+   "phone": "+212536504504",
+   "lat": 34.6689301,
+   "lng": -1.8826542,
+   "shift": "nuit",
+   "shift_label": ""
+  },
+  {
+   "name": "PHARMACIE I.S.T.A LAZARET",
+   "address": "Bd Narjis Dhar lamhalla lot Benomar N°144 [+]",
+   "phone": "+212536544975",
+   "lat": 34.67714,
+   "lng": -1.868,
+   "shift": "nuit",
+   "shift_label": ""
+  },
+  {
+   "name": "PHARMACIE JELLOULI",
+   "address": "Rt sidi yahya Hay Ennajd rue Ahmed Moukhtari N°10رقم 10 زنقة احمد مختاري حي النجد طريق سيدي يحيى",
+   "phone": "+212536541010",
+   "lat": 34.666697,
+   "lng": -1.8769,
+   "shift": "nuit",
+   "shift_label": ""
+  },
+  {
+   "name": "PHARMACIE JORF LAKHDAR ROCADE",
+   "address": "Route Atacadao Jorf Lakhdar Imm BIWI [+]رقم5 حي المحمدي. الجرف الأخضر",
+   "phone": "+212615568522",
+   "lat": 34.7037809,
+   "lng": -1.9342782,
+   "shift": "nuit",
+   "shift_label": ""
+  },
+  {
+   "name": "PHARMACIE LA CLYNIQUE",
+   "address": "12 Bd Mohamed Bellakhdar, Entre Clinique ACHARK et Clinique OUJDA ,En face Café BLANKOK [+]رقم 32 شارع بلخضر",
+   "phone": "+212536704796",
+   "lat": 34.6744455,
+   "lng": -1.9205025,
+   "shift": "nuit",
+   "shift_label": ""
   }
  ],
  "center": [
-  34.6784,
-  -1.9251
+  34.6775,
+  -1.9121
  ]
 }

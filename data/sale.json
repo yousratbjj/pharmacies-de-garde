@@ -8,10 +8,10 @@
  "pharmacies": [
   {
    "name": "PHARMACIE ASSABIL",
-   "address": "Villa 542, Lotissement des villas",
+   "address": "lotissement des villas · Sala El Jadida Appeler 05 30 00 •• •• Itinéraire Carte Partager Voir la fiche",
    "phone": "+212530002434",
-   "lat": 34.0008065,
-   "lng": -6.729394,
+   "lat": 34.0007897,
+   "lng": -6.7294469,
    "shift": "jour",
    "shift_label": ""
   },
@@ -26,7 +26,7 @@
   },
   {
    "name": "PHARMACIE ELLIMOUNE HSSAIN",
-   "address": "Lotissement Rida N°4 Hssain, en Face Ecole Achbal Karaouiene",
+   "address": "24 lotissement rida n°4 hssainen face ecole achbal karaouiene · Sala El Jadida Appeler 05 37 83 •• •• Itinéraire Carte Partager Voir la fiche",
    "phone": "+212537830449",
    "lat": 34.021525,
    "lng": -6.752278,
@@ -35,7 +35,7 @@
   },
   {
    "name": "PHARMACIE IFRIQUIA",
-   "address": "43 Avenue Ifriquia Hay saffa (Sect 3)",
+   "address": "43 avenue ifriquia hay saffa (sect 3)  · El Karia Et My Ismail Appeler 05 37 83 •• •• Itinéraire Carte Partager Voir la fiche",
    "phone": "+212537833443",
    "lat": 34.02502,
    "lng": -6.7709628,
@@ -88,17 +88,17 @@
    "shift_label": ""
   },
   {
-   "name": "Pharmacie Badr",
-   "address": "2 X bd Ibn El Haytem cité Ouad Eddahab, Salé",
-   "phone": "+212537875112",
-   "lat": 34.061371,
-   "lng": -6.773234,
+   "name": "Pharmacie AMZAR",
+   "address": "Al Mohit Abouab Sala, Salé",
+   "phone": "+212537822542",
+   "lat": 34.0835776,
+   "lng": -6.7793434,
    "shift": "jour",
    "shift_label": ""
   }
  ],
  "center": [
-  34.0435,
-  -6.7813
+  34.0457,
+  -6.7819
  ]
 }

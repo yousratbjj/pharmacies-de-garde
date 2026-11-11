@@ -7,39 +7,30 @@
  "kind": "roster",
  "pharmacies": [
   {
-   "name": "PHARMACIE EL GUICH",
-   "address": "N°38 Centre Commercial El Guich Oudayas",
-   "phone": "+212537561821",
-   "lat": 33.9388631,
-   "lng": -6.886787,
-   "shift": "jour",
-   "shift_label": ""
-  },
-  {
    "name": "Pharmacie Ennassim",
    "address": "266 lotiss. 50 HA Hay AlMaghreb AlArabi sect. 6, Témara",
    "phone": "+212537609790",
    "lat": 33.92615,
    "lng": -6.886633,
-   "shift": "jour",
-   "shift_label": ""
-  },
-  {
-   "name": "PHARMACIE GRANADA",
-   "address": "Secteur 3, Lot 109, Oulad Mataâ",
-   "phone": "+212537601353",
-   "lat": 33.9385341,
-   "lng": -6.8952443,
-   "shift": "jour",
+   "shift": "nuit",
    "shift_label": ""
   },
   {
    "name": "PHARMACIE SOUSSAN",
-   "address": "Bd Abdallah Ben Yacine , résid. Al Omran la Vigne, tranche 3, imm. 16 mag. C1",
+   "address": "bd abdallah ben yacine , résid. al omran la vignetranche 3, imm. 16 mag. c1 · Tamesna Appeler 05 37 61 •• •• Itinéraire Carte Partager Voir la fiche",
    "phone": "+212537619055",
    "lat": 33.917166,
    "lng": -6.923804,
    "shift": "jour",
+   "shift_label": ""
+  },
+  {
+   "name": "PHARMACIE EL GUICH",
+   "address": "N°38 Centre Commercial El Guich Oudayas",
+   "phone": "+212537561821",
+   "lat": 33.9388631,
+   "lng": -6.886787,
+   "shift": "nuit",
    "shift_label": ""
   },
   {
@@ -48,16 +39,16 @@
    "phone": "+212537622291",
    "lat": 33.895935,
    "lng": -6.935582,
-   "shift": "jour",
+   "shift": "nuit",
    "shift_label": ""
   },
   {
    "name": "PHARMACIE KENZY",
-   "address": "4420, Lot Al Wifak - ERAC",
+   "address": "lot al wifak - erac - · Centre Appeler 05 37 64 •• •• Itinéraire Carte Partager Voir la fiche",
    "phone": "+212537645036",
    "lat": 33.924524,
    "lng": -6.931655,
-   "shift": "jour",
+   "shift": "nuit",
    "shift_label": ""
   },
   {
@@ -66,7 +57,7 @@
    "phone": "+212537744493",
    "lat": 33.924958,
    "lng": -6.958937,
-   "shift": "jour",
+   "shift": "nuit",
    "shift_label": ""
   },
   {
@@ -75,21 +66,12 @@
    "phone": "+212537749494",
    "lat": 33.904887,
    "lng": -6.989039,
-   "shift": "jour",
-   "shift_label": ""
-  },
-  {
-   "name": "PHARMACIE ZAHRAT AL AMAL",
-   "address": "Lot Zahrat Al Amal Imm 20 N°2 (Route Ain Hallouf)",
-   "phone": "+212537642423",
-   "lat": 33.9079077,
-   "lng": -6.9086815,
-   "shift": "jour",
+   "shift": "nuit",
    "shift_label": ""
   }
  ],
  "center": [
-  33.9199,
-  -6.924
+  33.9189,
+  -6.9303
  ]
 }

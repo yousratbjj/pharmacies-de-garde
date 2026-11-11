@@ -7,26 +7,17 @@
  "kind": "roster",
  "pharmacies": [
   {
-   "name": "PHARMACIE AL HOURIA",
-   "address": "72 rue Midelt hay ElHouria",
-   "phone": "+212536695660",
-   "lat": 34.4100009,
-   "lng": -2.8988804,
-   "shift": "jour",
-   "shift_label": ""
-  },
-  {
    "name": "Pharmacie Masjid Al Khalil",
    "address": "6 bd Mly Abdellah hay Takaddoum, Taourirt",
    "phone": "+212536695417",
    "lat": 34.398467,
    "lng": -2.900083,
-   "shift": "jour",
+   "shift": "nuit",
    "shift_label": ""
   }
  ],
  "center": [
-  34.4042,
-  -2.8995
+  34.3985,
+  -2.9001
  ]
 }

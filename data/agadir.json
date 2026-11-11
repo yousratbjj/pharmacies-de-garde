@@ -21,25 +21,7 @@
    "phone": "+212528218192",
    "lat": 30.389356,
    "lng": -9.504175,
-   "shift": "jour",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie Anza",
-   "address": "4 z.i Anza bloc C, Agadir",
-   "phone": "+212528204866",
-   "lat": 30.446817,
-   "lng": -9.658117,
-   "shift": "jour",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie Arrahma",
-   "address": "74 cité Taddart - Autre ville imm. Saada, Agadir",
-   "phone": "+212528205206",
-   "lat": 30.458228,
-   "lng": -9.64705,
-   "shift": "jour",
+   "shift": "24h",
    "shift_label": ""
   },
   {
@@ -57,7 +39,7 @@
    "phone": "+212528321426",
    "lat": 30.39565,
    "lng": -9.5417,
-   "shift": "jour",
+   "shift": "24h",
    "shift_label": ""
   },
   {
@@ -95,10 +77,28 @@
    "lng": -9.5899,
    "shift": "jour",
    "shift_label": ""
+  },
+  {
+   "name": "Pharmacie les Jardins d'Agadir",
+   "address": "2 hay Al Massira - Autre ville resid Kettani GH 3, Agadir",
+   "phone": "+212528222224",
+   "lat": 30.40652,
+   "lng": -9.59759,
+   "shift": "24h",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie Salam",
+   "address": "bd ElHaj Massoud ElWakfaoui Hay Salam, Agadir",
+   "phone": "+212528235636",
+   "lat": 30.402183,
+   "lng": -9.54915,
+   "shift": "jour",
+   "shift_label": ""
   }
  ],
  "center": [
-  30.4185,
-  -9.5818
+  30.4088,
+  -9.5659
  ]
 }

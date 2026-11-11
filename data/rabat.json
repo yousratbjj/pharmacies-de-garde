@@ -28,8 +28,8 @@
    "name": "PHARMACIE EL OUMNIA",
    "address": "81,Av Med VI (Entre Groupe Scolaire Ghosn, Et Azzaitoun et Restaurant Recto Verso)",
    "phone": "+212645715550",
-   "lat": 33.994917,
-   "lng": -6.827139,
+   "lat": 33.9951815,
+   "lng": -6.827199,
    "shift": "jour",
    "shift_label": ""
   },
@@ -98,7 +98,7 @@
   }
  ],
  "center": [
-  33.9918,
+  33.9919,
   -6.8534
  ]
 }

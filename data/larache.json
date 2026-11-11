@@ -7,15 +7,6 @@
  "kind": "roster",
  "pharmacies": [
   {
-   "name": "PHARMACIE NASSIHA",
-   "address": "1 bd. Abdelmoumen Ben Ali",
-   "phone": "+212539912600",
-   "lat": 35.1902833,
-   "lng": -6.1566167,
-   "shift": "jour",
-   "shift_label": ""
-  },
-  {
    "name": "Pharmacie Coliseo",
    "address": "11 rue Caid Ahmed Riffi, Larache",
    "phone": "+212539913143",
@@ -26,7 +17,7 @@
   }
  ],
  "center": [
-  35.1926,
-  -6.1554
+  35.195,
+  -6.1542
  ]
 }

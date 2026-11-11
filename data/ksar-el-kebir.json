@@ -14,19 +14,10 @@
    "lng": -5.9111,
    "shift": "jour",
    "shift_label": ""
-  },
-  {
-   "name": "PHARMACIE ALOROBA",
-   "address": "hay Aloroba , grp. B rue 8 n°11",
-   "phone": "+212539906737",
-   "lat": 35.0015923,
-   "lng": -5.8957035,
-   "shift": "jour",
-   "shift_label": ""
   }
  ],
  "center": [
-  35.0134,
-  -5.9034
+  35.0253,
+  -5.9111
  ]
 }

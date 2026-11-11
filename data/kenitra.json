@@ -7,15 +7,6 @@
  "kind": "roster",
  "pharmacies": [
   {
-   "name": "AIT EL CADI",
-   "address": "N 35, hay maghreb arabiرقم 35، حي المغرب العربي",
-   "phone": "+212 537 373433",
-   "lat": 34.2532438,
-   "lng": -6.6147881,
-   "shift": "jour",
-   "shift_label": ""
-  },
-  {
    "name": "Pharmacie El Gueddari",
    "address": "222 bd Bacha Abdelhamid El Alaoui rue 153, Kénitra",
    "phone": "+212534197290",
@@ -35,7 +26,7 @@
   }
  ],
  "center": [
-  34.2597,
-  -6.5922
+  34.2629,
+  -6.5809
  ]
 }

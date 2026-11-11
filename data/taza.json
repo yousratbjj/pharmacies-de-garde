@@ -12,12 +12,21 @@
    "phone": "+212535671723",
    "lat": 34.225383,
    "lng": -4.011617,
-   "shift": "jour",
+   "shift": "nuit",
+   "shift_label": ""
+  },
+  {
+   "name": "NOUVELLE PHARMACIE TAZA",
+   "address": "36 rte de fès - autre ville",
+   "phone": "+212676892633",
+   "lat": 34.2034344,
+   "lng": -4.0160268,
+   "shift": "nuit",
    "shift_label": ""
   }
  ],
  "center": [
-  34.2254,
-  -4.0116
+  34.2144,
+  -4.0138
  ]
 }
