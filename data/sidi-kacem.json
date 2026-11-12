@@ -1,23 +1,23 @@
 {
  "city": "sidi-kacem",
  "label": "Sidi Kacem",
- "date": "2026-11-10",
+ "date": "2026-11-12",
  "source": "sahha.ma",
  "source_url": "https://sahha.ma/pharmacie-de-garde/sidi-kacem",
  "kind": "roster",
  "pharmacies": [
   {
-   "name": "Pharmacie El Manal",
-   "address": "300 rue Meknès - Autre ville Lotiss. Manal lot 2, Sidi Kacem",
-   "phone": "+212701375630",
-   "lat": 34.212144,
-   "lng": -5.707808,
-   "shift": "jour",
+   "name": "PHARMACIE BEN JAMAL",
+   "address": "lotiss. Yassmine - Autre ville n°131",
+   "phone": "+212537594480",
+   "lat": 34.226412,
+   "lng": -5.711434,
+   "shift": "nuit",
    "shift_label": ""
   }
  ],
  "center": [
-  34.2121,
-  -5.7078
+  34.2264,
+  -5.7114
  ]
 }
