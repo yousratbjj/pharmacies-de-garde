@@ -1,50 +1,50 @@
 {
  "city": "oujda",
  "label": "Oujda",
- "date": "2026-11-11",
+ "date": "2026-11-12",
  "source": "sahha.ma",
  "source_url": "https://sahha.ma/pharmacie-de-garde/oujda",
  "kind": "roster",
  "pharmacies": [
-  {
-   "name": "Pharmacie 2020",
-   "address": "59 hay Ennahda 1 rue A15, Oujda",
-   "phone": "+212624367508",
-   "lat": 34.678021,
-   "lng": -1.953224,
-   "shift": "jour",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie Abdelmoumen",
-   "address": "100 rue Ras Asfour, Oujda",
-   "phone": "+212536702819",
-   "lat": 34.67465,
-   "lng": -1.909483,
-   "shift": "jour",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie Hay Essalam",
-   "address": "hay Essalam rue A1/98 Ain Serrak, Oujda",
-   "phone": "+212536533537",
-   "lat": 34.661648,
-   "lng": -1.924823,
-   "shift": "jour",
-   "shift_label": ""
-  },
   {
    "name": "Pharmacie Mansour Eddahbi",
    "address": "39 bd Mansour Eddahbi - Autre ville hay Koulouch, Oujda",
    "phone": "+212536521529",
    "lat": 34.699106,
    "lng": -1.913008,
-   "shift": "jour",
+   "shift": "nuit",
+   "shift_label": ""
+  },
+  {
+   "name": "PHARMACIE ABDELMOUMEN",
+   "address": "Rue ras Asfour N°100رقم 100 زنقة راس العصفور",
+   "phone": "+212 536702819",
+   "lat": 34.6746769,
+   "lng": -1.9093982,
+   "shift": "nuit",
+   "shift_label": ""
+  },
+  {
+   "name": "PHARMACIE HAY ZAITOUN",
+   "address": "Rte. Bouknadel , lot Amri, rue K 14, n° 1, Hay Zaitoun OUJDA [+]",
+   "phone": "+212536503545",
+   "lat": 34.6689301,
+   "lng": -1.8826542,
+   "shift": "nuit",
+   "shift_label": ""
+  },
+  {
+   "name": "PHARMACIE PHARMACIE 2020",
+   "address": "59 hay Ennahda 1 rue A15 Oujda [+]",
+   "phone": "+212624367508",
+   "lat": 34.6780619,
+   "lng": -1.9533092,
+   "shift": "nuit",
    "shift_label": ""
   }
  ],
  "center": [
-  34.6784,
-  -1.9251
+  34.6802,
+  -1.9146
  ]
 }

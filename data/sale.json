@@ -1,72 +1,27 @@
 {
  "city": "sale",
  "label": "Salé",
- "date": "2026-11-11",
+ "date": "2026-11-12",
  "source": "sahha.ma",
  "source_url": "https://sahha.ma/pharmacie-de-garde/sale",
  "kind": "roster",
  "pharmacies": [
-  {
-   "name": "PHARMACIE AL ABRIDI",
-   "address": "Rés. Dalal, Imb 4 Mag 12 Ouled Hlal Hssain",
-   "phone": "+212537831886",
-   "lat": 34.008778,
-   "lng": -6.741,
-   "shift": "jour",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie Amar",
-   "address": "Lot Nejjar, Tabriquet, Av. Mohamed V, Salé 11000",
-   "phone": "+212537862094",
-   "lat": 34.046308,
-   "lng": -6.804808,
-   "shift": "jour",
-   "shift_label": ""
-  },
-  {
-   "name": "PHARMACIE DU BOUREGREG",
-   "address": "Av Du Bouregreg Lot 1071 N°2 Zone Villa",
-   "phone": "+212537534524",
-   "lat": 33.9945484,
-   "lng": -6.7306209,
-   "shift": "jour",
-   "shift_label": ""
-  },
   {
    "name": "Pharmacie Ibn Al Baytar",
    "address": "128 lotiss. RIad Sala Sidi Brahim Boulaajoul, Salé",
    "phone": "+212641027703",
    "lat": 34.071336,
    "lng": -6.744381,
-   "shift": "jour",
+   "shift": "nuit",
    "shift_label": ""
   },
   {
-   "name": "PHARMACIE IBN SINA",
-   "address": "Av Sidi Mohamed Rue Ain Assaa N°1, Hay El Farah",
-   "phone": "+212537828223",
-   "lat": 34.022806,
-   "lng": -6.771694,
-   "shift": "jour",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie Ilham",
-   "address": "1789 rue Oued Eddahab sect.E hay Errahma, Salé",
-   "phone": "+212537873236",
-   "lat": 34.059358,
-   "lng": -6.79698,
-   "shift": "jour",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie Mrissa",
-   "address": "3 rue Bacha Sbihi q. R'mel, Salé",
-   "phone": "+212537845299",
-   "lat": 34.032714,
-   "lng": -6.824069,
-   "shift": "jour",
+   "name": "PHARMACIE AL ABRIDI",
+   "address": "Rés. Dalal, Imb 4 Mag 12 Ouled Hlal Hssain",
+   "phone": "+212537831886",
+   "lat": 34.0031947,
+   "lng": -6.7467236,
+   "shift": "nuit",
    "shift_label": ""
   },
   {
@@ -75,7 +30,7 @@
    "phone": "+212537875174",
    "lat": 34.068663,
    "lng": -6.763703,
-   "shift": "jour",
+   "shift": "nuit",
    "shift_label": ""
   },
   {
@@ -84,7 +39,7 @@
    "phone": "+212537802963",
    "lat": 34.053486,
    "lng": -6.773362,
-   "shift": "jour",
+   "shift": "nuit",
    "shift_label": ""
   },
   {
@@ -93,12 +48,48 @@
    "phone": "+212537800517",
    "lat": 34.055086,
    "lng": -6.779145,
-   "shift": "jour",
+   "shift": "nuit",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie Dahab",
+   "address": "47 bd Six Novembre hay Hourya Tabriquet, Salé",
+   "phone": "+212537851291",
+   "lat": 34.048433,
+   "lng": -6.805617,
+   "shift": "nuit",
+   "shift_label": ""
+  },
+  {
+   "name": "PHARMACIE IBN SINA",
+   "address": "24 av sidi mohamed rue ain assaa n°1hay el farah  · El Karia Et My Ismail Appeler 05 37 82 •• •• Itinéraire Carte Partager Voir la fiche",
+   "phone": "+212537828223",
+   "lat": 33.9962816,
+   "lng": -6.8481761,
+   "shift": "nuit",
+   "shift_label": ""
+  },
+  {
+   "name": "PHARMACIE ILHAM",
+   "address": "24 hay arrahma seteur e n°1789 (prés de la salle cheradi) · Hay Arrahma Appeler 05 37 87 •• •• Itinéraire Carte Partager Voir la fiche",
+   "phone": "+212537873236",
+   "lat": 34.071921,
+   "lng": -6.7856562,
+   "shift": "nuit",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie Koutoubia",
+   "address": "41 rte de Mehdia lotiss. Koutoubia II n°1, Salé",
+   "phone": "+212537784633",
+   "lat": 34.062873,
+   "lng": -6.807902,
+   "shift": "nuit",
    "shift_label": ""
   }
  ],
  "center": [
-  34.0413,
-  -6.773
+  34.0479,
+  -6.7839
  ]
 }

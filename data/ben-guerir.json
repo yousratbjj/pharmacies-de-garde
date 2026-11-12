@@ -1,41 +1,23 @@
 {
  "city": "ben-guerir",
  "label": "Ben Guérir",
- "date": "2026-11-11",
+ "date": "2026-11-12",
  "source": "sahha.ma",
  "source_url": "https://sahha.ma/pharmacie-de-garde/ben-guerir",
  "kind": "roster",
  "pharmacies": [
-  {
-   "name": "Grande Pharmacie (Al Koubra)",
-   "address": "38 Douar Jdid - Autre ville, Ben Guerir",
-   "phone": "+212524323613",
-   "lat": 32.246639,
-   "lng": -7.95491,
-   "shift": "jour",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie Annakhil",
-   "address": "80 rte de Kalâa Sraghna lotiss Annakhil, Ben Guerir",
-   "phone": "+212703184700",
-   "lat": 32.23699,
-   "lng": -7.89688,
-   "shift": "jour",
-   "shift_label": ""
-  },
   {
    "name": "Pharmacie Bab Ennakhil",
    "address": "33 lotiss. Annakhil - Autre ville, Ben Guerir",
    "phone": "+212709606220",
    "lat": 32.23346,
    "lng": -7.93557,
-   "shift": "jour",
+   "shift": "nuit",
    "shift_label": ""
   }
  ],
  "center": [
-  32.239,
-  -7.9291
+  32.2335,
+  -7.9356
  ]
 }

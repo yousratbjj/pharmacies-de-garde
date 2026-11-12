@@ -1,41 +1,23 @@
 {
  "city": "al-hoceima",
  "label": "Al Hoceïma",
- "date": "2026-11-11",
+ "date": "2026-11-12",
  "source": "sahha.ma",
  "source_url": "https://sahha.ma/pharmacie-de-garde/al-hoceima",
  "kind": "roster",
  "pharmacies": [
   {
-   "name": "PHARMACIE AL HILAL",
-   "address": "105 av Sidi Abidشارع سيدي عابد رقم105",
-   "phone": "+212539980033",
-   "lat": 35.2519833,
-   "lng": -3.9342,
-   "shift": "jour",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie Al Khair",
-   "address": "bd Abou Fariss Hamadani hay Mirador, Al Hoceima",
-   "phone": "+212539841846",
-   "lat": 35.249299,
-   "lng": -3.946529,
-   "shift": "jour",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie ElMoustachfa",
-   "address": "89 av. AlIskandaria, Al Hoceima",
+   "name": "PHARMACIE ELMOUSTACHFA",
+   "address": "89 av. AlIskandariaشارع الإسكندرية.حي مرموشة",
    "phone": "+212539981131",
-   "lat": 35.240833,
-   "lng": -3.9382,
-   "shift": "jour",
+   "lat": 35.2415712,
+   "lng": -3.9385967,
+   "shift": "nuit",
    "shift_label": ""
   }
  ],
  "center": [
-  35.2474,
-  -3.9396
+  35.2416,
+  -3.9386
  ]
 }
