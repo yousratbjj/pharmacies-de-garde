@@ -1,23 +1,32 @@
 {
  "city": "guercif",
  "label": "Guercif",
- "date": "2026-11-11",
+ "date": "2026-11-12",
  "source": "sahha.ma",
  "source_url": "https://sahha.ma/pharmacie-de-garde/guercif",
  "kind": "roster",
  "pharmacies": [
   {
-   "name": "Pharmacie L'Oriental",
-   "address": "Rte Saka, Guercif",
-   "phone": "+212535676194",
-   "lat": 34.23785,
-   "lng": -3.34126,
+   "name": "Pharmacie Aïn Zoura",
+   "address": "104 av Mly Youssef, Guercif",
+   "phone": "+212535675450",
+   "lat": 34.22945,
+   "lng": -3.343633,
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie Moderne",
+   "address": "lotissement laaricha, Guercif",
+   "phone": "+212535201321",
+   "lat": 34.2381,
+   "lng": -3.34483,
    "shift": "jour",
    "shift_label": ""
   }
  ],
  "center": [
-  34.2379,
-  -3.3413
+  34.2338,
+  -3.3442
  ]
 }

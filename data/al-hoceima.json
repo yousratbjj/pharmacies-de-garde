@@ -7,17 +7,26 @@
  "kind": "roster",
  "pharmacies": [
   {
+   "name": "PHARMACIE AL KHAIR",
+   "address": "bd Abou Fariss Hamadani hay Miradorشارع أبو فراس الحمداني حي ميرادور السفلى",
+   "phone": "+212539841846",
+   "lat": 35.2492991,
+   "lng": -3.9465295,
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
    "name": "PHARMACIE ELMOUSTACHFA",
    "address": "89 av. AlIskandariaشارع الإسكندرية.حي مرموشة",
    "phone": "+212539981131",
-   "lat": 35.2415712,
-   "lng": -3.9385967,
-   "shift": "nuit",
+   "lat": 35.2408333,
+   "lng": -3.9382,
+   "shift": "jour",
    "shift_label": ""
   }
  ],
  "center": [
-  35.2416,
-  -3.9386
+  35.2451,
+  -3.9424
  ]
 }

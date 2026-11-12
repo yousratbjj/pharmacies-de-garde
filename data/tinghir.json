@@ -1,7 +1,7 @@
 {
  "city": "tinghir",
  "label": "Tinghir",
- "date": "2026-11-11",
+ "date": "2026-11-12",
  "source": "sahha.ma",
  "source_url": "https://sahha.ma/pharmacie-de-garde/tinghir",
  "kind": "roster",
@@ -12,7 +12,7 @@
    "phone": "+212808694821",
    "lat": 31.496499,
    "lng": -5.544805,
-   "shift": "nuit",
+   "shift": "jour",
    "shift_label": ""
   }
  ],

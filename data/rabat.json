@@ -1,77 +1,86 @@
 {
  "city": "rabat",
  "label": "Rabat",
- "date": "2026-11-11",
+ "date": "2026-11-12",
  "source": "sahha.ma",
  "source_url": "https://sahha.ma/pharmacie-de-garde/rabat",
  "kind": "roster",
  "pharmacies": [
   {
-   "name": "Pharmacie AlFaraj",
-   "address": "21 X rue Balafrej, Rabat",
-   "phone": "+212537692746",
-   "lat": 33.986311,
-   "lng": -6.851606,
+   "name": "Pharmacie Ait Youssa",
+   "address": "hay Abi Raqraq rte. D1 n°6, Rabat",
+   "phone": "+212537659910",
+   "lat": 33.99387,
+   "lng": -6.812951,
    "shift": "jour",
    "shift_label": ""
   },
   {
-   "name": "Pharmacie Al Kawthar",
-   "address": "quartier Bouitat rue Inbihat N°18 bloc 109, Rabat",
-   "phone": "+212537294769",
-   "lat": 34.066995,
-   "lng": -6.793969,
+   "name": "Pharmacie Arrahman",
+   "address": "15 X quartier Bouitat grp. 20, Rabat",
+   "phone": "+212537282961",
+   "lat": 33.986133,
+   "lng": -6.882417,
    "shift": "jour",
    "shift_label": ""
   },
   {
-   "name": "Pharmacie Centrale",
-   "address": "113 avenue Hassan II, Rabat",
-   "phone": "+212537724395",
-   "lat": 34.030926,
-   "lng": -6.820642,
+   "name": "Pharmacie Bab Marrakech",
+   "address": "1 X rue Al Achaari Agdal, Rabat",
+   "phone": "+212537779500",
+   "lat": 34.015022,
+   "lng": -6.846199,
    "shift": "jour",
    "shift_label": ""
   },
   {
-   "name": "Pharmacie des Nations Unies",
-   "address": "19 X rue Jabal Al Ayachi Agdal, Rabat",
-   "phone": "+212537670719",
-   "lat": 33.995949,
-   "lng": -6.844999,
+   "name": "Pharmacie ElAmine",
+   "address": "281 avenue Hassan II, Rabat",
+   "phone": "+212537726932",
+   "lat": 34.017189,
+   "lng": -6.845041,
    "shift": "jour",
    "shift_label": ""
   },
   {
-   "name": "Pharmacie Mosquée O.l.m",
-   "address": "rue Hamza Ben Amr Souissi II, Rabat",
-   "phone": "+212537638119",
-   "lat": 33.991604,
-   "lng": -6.82865,
+   "name": "Pharmacie Moulay Ismail",
+   "address": "24 av. Moulay Ismaïl 4 bis Hassan, Rabat",
+   "phone": "+212537203781",
+   "lat": 34.022489,
+   "lng": -6.828646,
    "shift": "jour",
    "shift_label": ""
   },
   {
-   "name": "Pharmacie Nakhil",
-   "address": "Hay Riyad sect. 9 résid. Zahrat Arryad, Rabat",
-   "phone": "+212537714747",
-   "lat": 33.959742,
-   "lng": -6.873719,
+   "name": "Pharmacie Ryad",
+   "address": "8 av. Annakhil c. com. Ryad 1 sect. 21, Rabat",
+   "phone": "+212537710681",
+   "lat": 33.951879,
+   "lng": -6.862378,
    "shift": "jour",
    "shift_label": ""
   },
   {
-   "name": "Pharmacie Sofia",
-   "address": "1205 X avenue Al Massira (C.y.m) hay Almanzah, Rabat",
-   "phone": "+212537282928",
-   "lat": 33.990251,
-   "lng": -6.874488,
+   "name": "Pharmacie Attine",
+   "address": "830 bd Armées Royales, Rabat",
+   "phone": "+212537281284",
+   "lat": 33.977531,
+   "lng": -6.889314,
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie Ibn Tofail",
+   "address": "Avenue Essalam (c.y.m.), Rabat",
+   "phone": "+212537695685",
+   "lat": 33.99396,
+   "lng": -6.871985,
    "shift": "jour",
    "shift_label": ""
   }
  ],
  "center": [
-  34.0031,
-  -6.8412
+  33.9948,
+  -6.8549
  ]
 }

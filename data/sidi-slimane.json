@@ -1,23 +1,23 @@
 {
  "city": "sidi-slimane",
  "label": "Sidi Slimane",
- "date": "2026-11-11",
+ "date": "2026-11-12",
  "source": "sahha.ma",
  "source_url": "https://sahha.ma/pharmacie-de-garde/sidi-slimane",
  "kind": "roster",
  "pharmacies": [
   {
-   "name": "Pharmacie Essalam",
-   "address": "hay Essalam bloc 10 n°63, Sidi Slimane",
-   "phone": "+212537501418",
-   "lat": 34.25939,
-   "lng": -5.926443,
-   "shift": "nuit",
+   "name": "Pharmacie ElMerini",
+   "address": "6 av Hassan II, Sidi Slimane",
+   "phone": "+212537504925",
+   "lat": 34.259667,
+   "lng": -5.922367,
+   "shift": "jour",
    "shift_label": ""
   }
  ],
  "center": [
-  34.2594,
-  -5.9264
+  34.2597,
+  -5.9224
  ]
 }

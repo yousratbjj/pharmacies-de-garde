@@ -1,68 +1,59 @@
 {
  "city": "fes",
  "label": "Fès",
- "date": "2026-11-11",
+ "date": "2026-11-12",
  "source": "sahha.ma",
  "source_url": "https://sahha.ma/pharmacie-de-garde/fes",
  "kind": "roster",
  "pharmacies": [
   {
-   "name": "Pharmacie Ain Haroun",
-   "address": "hay Ain Haroun rue 202 n°287, Fès",
-   "phone": "+212535646444",
-   "lat": 34.0667,
-   "lng": -5.007433,
+   "name": "Pharmacie AlKaram",
+   "address": "lotiss. Najah rue 6 n°37 bis Dhar Lakhmis, Fès",
+   "phone": "+212535703368",
+   "lat": 34.069809,
+   "lng": -4.987186,
    "shift": "jour",
    "shift_label": ""
   },
   {
-   "name": "Pharmacie Aya Sofia",
-   "address": "X hay Sidi El Hadi rue 17 n°242, Fès",
-   "phone": "+212535603314",
-   "lat": 34.018417,
-   "lng": -5.04005,
+   "name": "Pharmacie Benmimoun",
+   "address": "60 rue Annasr rte Aïn Smen hay Riad, Fès",
+   "phone": "+212535610848",
+   "lat": 34.017699,
+   "lng": -4.971413,
    "shift": "jour",
    "shift_label": ""
   },
   {
-   "name": "Pharmacie Elmouahidine",
-   "address": "14 bd des Almohades, Fès",
-   "phone": "+212535621919",
-   "lat": 34.04265,
-   "lng": -5.012867,
+   "name": "Pharmacie Oulad Maaref",
+   "address": "douar Oulad Maaref Sejaa, Fès",
+   "phone": "+212535603262",
+   "lat": 33.963674,
+   "lng": -5.027707,
    "shift": "jour",
    "shift_label": ""
   },
   {
-   "name": "Pharmacie L'humanité",
-   "address": "2 route de California - Autre ville mosqueé Attadamoune, Fès",
-   "phone": "+212679475071",
-   "lat": 33.978081,
-   "lng": -5.026707,
+   "name": "Pharmacie Zahir",
+   "address": "1 hay Bensouda - Autre ville lotiss. Janat Zaitoun, Fès",
+   "phone": "+212535681174",
+   "lat": 34.021987,
+   "lng": -5.056195,
    "shift": "jour",
    "shift_label": ""
   },
   {
-   "name": "Pharmacie Route de Sefrou",
-   "address": "6 lotiss. Mamounia rte de Sefrou, Fès",
-   "phone": "+212535733306",
-   "lat": 34.0213,
-   "lng": -4.987783,
-   "shift": "jour",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie Yakout",
-   "address": "384 hay Ain Chkef - Autre ville lotiss.Aziza mag.1, Fès",
-   "phone": "+212532075708",
-   "lat": 33.995531,
-   "lng": -5.034684,
+   "name": "Pharmacie Zarrouk",
+   "address": "hay Sidi Boujida jnane El Ouad n°76, Fès",
+   "phone": "+212535762470",
+   "lat": 34.070823,
+   "lng": -4.969136,
    "shift": "jour",
    "shift_label": ""
   }
  ],
  "center": [
-  34.0204,
-  -5.0183
+  34.0288,
+  -5.0023
  ]
 }

@@ -1,7 +1,7 @@
 {
  "city": "nador",
  "label": "Nador",
- "date": "2026-11-11",
+ "date": "2026-11-12",
  "source": "sahha.ma",
  "source_url": "https://sahha.ma/pharmacie-de-garde/nador",
  "kind": "roster",
@@ -16,44 +16,80 @@
    "shift_label": ""
   },
   {
-   "name": "Pharmacie Dar El Makhzen",
-   "address": "Douar Bouyzarzaren, Nador",
+   "name": "PHARMACIE DAR EL MAKHZEN",
+   "address": "Non spécifiée",
    "phone": "+212536330361",
-   "lat": 35.162917,
-   "lng": -2.969766,
+   "lat": 35.162859,
+   "lng": -2.9697609,
    "shift": "jour",
    "shift_label": ""
   },
   {
-   "name": "Pharmacie Granada",
-   "address": "39 Rte Principale Taouima, Nador",
+   "name": "PHARMACIE GRANADA",
+   "address": "39 Rte Principale Taouima",
    "phone": "+212536606767",
-   "lat": 35.162967,
-   "lng": -2.931317,
+   "lat": 35.1629667,
+   "lng": -2.9313167,
    "shift": "jour",
    "shift_label": ""
   },
   {
-   "name": "Pharmacie Taha Houssein",
-   "address": "av Prince Héritier Sidi Mohamed, Nador",
+   "name": "PHARMACIE TAHA HOUSSEIN",
+   "address": "Non spécifiée",
    "phone": "+212536350017",
-   "lat": 35.157033,
-   "lng": -2.985917,
+   "lat": 35.1572037,
+   "lng": -2.9859846,
    "shift": "jour",
    "shift_label": ""
   },
   {
-   "name": "Pharmacie Zakaria",
-   "address": "Hay El Fettouaki, Nador",
+   "name": "PHARMACIE ZAKARIA",
+   "address": "Hay El Fettouaki",
    "phone": "+212536335821",
-   "lat": 35.168719,
-   "lng": -2.915759,
+   "lat": 35.1687193,
+   "lng": -2.9157592,
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie Amraoui",
+   "address": "258 rte de Taouima, Nador",
+   "phone": "+212536605736",
+   "lat": 35.15,
+   "lng": -2.929333,
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie Babel",
+   "address": "65 rue Taha Houcein, Nador",
+   "phone": "+212536605544",
+   "lat": 35.152833,
+   "lng": -2.923283,
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie Jaadar",
+   "address": "Rte de Zghanghan, Nador",
+   "phone": "+212536352755",
+   "lat": 35.154267,
+   "lng": -2.983483,
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie Mariam",
+   "address": "Ihaddaden, Nador",
+   "phone": "+212536351403",
+   "lat": 35.162974,
+   "lng": -2.975704,
    "shift": "jour",
    "shift_label": ""
   }
  ],
  "center": [
-  35.1653,
-  -2.945
+  35.1608,
+  -2.9486
  ]
 }

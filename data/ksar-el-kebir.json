@@ -1,23 +1,32 @@
 {
  "city": "ksar-el-kebir",
  "label": "Ksar El Kebir",
- "date": "2026-11-11",
+ "date": "2026-11-12",
  "source": "sahha.ma",
  "source_url": "https://sahha.ma/pharmacie-de-garde/ksar-el-kebir",
  "kind": "roster",
  "pharmacies": [
   {
-   "name": "Pharmacie Addoha",
-   "address": "160 bd 6 Novembre Hay Salam, Ksar El Kébir",
+   "name": "PHARMACIE ADDOHA",
+   "address": "160 bd 6 Novembre Hay Salam",
    "phone": "+212539902505",
    "lat": 34.993092,
    "lng": -5.897873,
    "shift": "jour",
    "shift_label": ""
+  },
+  {
+   "name": "Pharmacie Ibn Rochd",
+   "address": "20 av. des Briques, Ksar El Kébir",
+   "phone": "+212539918634",
+   "lat": 35.02212,
+   "lng": -5.91199,
+   "shift": "jour",
+   "shift_label": ""
   }
  ],
  "center": [
-  34.9931,
-  -5.8979
+  35.0076,
+  -5.9049
  ]
 }

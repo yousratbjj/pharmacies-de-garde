@@ -12,12 +12,21 @@
    "phone": "+212537594480",
    "lat": 34.226412,
    "lng": -5.711434,
-   "shift": "nuit",
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie du Gharb",
+   "address": "279 bd Mohammed V, Sidi Kacem",
+   "phone": "+212537593192",
+   "lat": 34.222517,
+   "lng": -5.706917,
+   "shift": "jour",
    "shift_label": ""
   }
  ],
  "center": [
-  34.2264,
-  -5.7114
+  34.2245,
+  -5.7092
  ]
 }

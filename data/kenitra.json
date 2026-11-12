@@ -1,23 +1,68 @@
 {
  "city": "kenitra",
  "label": "Kénitra",
- "date": "2026-11-11",
+ "date": "2026-11-12",
  "source": "sahha.ma",
  "source_url": "https://sahha.ma/pharmacie-de-garde/kenitra",
  "kind": "roster",
  "pharmacies": [
   {
-   "name": "Pharmacie Fadlallah",
-   "address": "Bouchtyne rue 41 n°314, Kénitra",
+   "name": "Pharmacie Assafae",
+   "address": "878 lotiss. Assafa T.a. Saknia, Kénitra",
+   "phone": "+212537391044",
+   "lat": 34.244266,
+   "lng": -6.545058,
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie Benhaddou",
+   "address": "rte de Mehdia, Kénitra",
+   "phone": "+212663344446",
+   "lat": 34.271349,
+   "lng": -6.629145,
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
+   "name": "PHARMACIE EL GUEDDARI",
+   "address": "222 bd Bacha Abdelhamid El Alaoui rue 153 Kenitra",
+   "phone": "+212534197290",
+   "lat": 34.272658,
+   "lng": -6.557961,
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
+   "name": "PHARMACIE FADLALLAH",
+   "address": "Bouchtyne rue 41 n°314 Kénitra",
    "phone": "+212537383328",
-   "lat": 34.267875,
-   "lng": -6.564079,
+   "lat": 34.2555044,
+   "lng": -6.5969761,
+   "shift": "24h",
+   "shift_label": ""
+  },
+  {
+   "name": "PHARMACIE JNANE",
+   "address": "301, Hay Bir Rami, Lotissement Jnane 2",
+   "phone": "+212707127044",
+   "lat": 34.2172317,
+   "lng": -6.6318731,
+   "shift": "24h",
+   "shift_label": ""
+  },
+  {
+   "name": "PHARMACIE TOURABI",
+   "address": "713, lotiss. le vallon Kenitraلو فالون، تجزئة رقم 713",
+   "phone": "+212537316763",
+   "lat": 34.2621832,
+   "lng": -6.6020412,
    "shift": "jour",
    "shift_label": ""
   }
  ],
  "center": [
-  34.2679,
-  -6.5641
+  34.2539,
+  -6.5938
  ]
 }

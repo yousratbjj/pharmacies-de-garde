@@ -1,77 +1,59 @@
 {
  "city": "meknes",
  "label": "Meknès",
- "date": "2026-11-11",
+ "date": "2026-11-12",
  "source": "sahha.ma",
  "source_url": "https://sahha.ma/pharmacie-de-garde/meknes",
  "kind": "roster",
  "pharmacies": [
   {
-   "name": "Pharmacie Acima",
-   "address": "1, hay Zitoune , résid. Al Ghorfa",
-   "phone": "+212535466049",
-   "lat": 33.860767,
-   "lng": -5.548633,
+   "name": "Pharmacie de l'Atlas",
+   "address": "173, Avenue Abdelkrim El Khattabi 50000",
+   "phone": "+212535536322",
+   "lat": 33.8796088,
+   "lng": -5.5640693,
    "shift": "jour",
    "shift_label": ""
   },
   {
-   "name": "Pharmacie AlMajd",
-   "address": "228 hay Ouislane lot AlYassmine 2, Meknès",
-   "phone": "+212535549469",
-   "lat": 33.91709,
-   "lng": -5.492845,
+   "name": "Pharmacie de l'Atlas",
+   "address": "173, Avenue Abdelkrim El Khattabi 50000",
+   "phone": "+212535536322",
+   "lat": 33.879683,
+   "lng": -5.563867,
    "shift": "jour",
    "shift_label": ""
   },
   {
-   "name": "pharmacie Essaadiyine",
-   "address": "12 bd Zitoune - Autre ville resid Bel Koura Nouria, Meknès",
-   "phone": "+212535505468",
-   "lat": 33.892328,
-   "lng": -5.53477,
+   "name": "Pharmacie Faculté de Droit",
+   "address": "23, Hay Takaddoum , Douar Jbala",
+   "phone": "+212535550646",
+   "lat": 33.885648,
+   "lng": -5.582255,
    "shift": "jour",
    "shift_label": ""
   },
   {
-   "name": "Pharmacie Hamria",
-   "address": "14 rue Ferhat Hachad, Meknès",
-   "phone": "+212535401608",
-   "lat": 33.90015,
-   "lng": -5.555517,
+   "name": "Pharmacie Addoha Dkhissa",
+   "address": "28 douar Zoualeth Dkhissa, Meknès",
+   "phone": "+212535433959",
+   "lat": 33.936894,
+   "lng": -5.465416,
    "shift": "jour",
    "shift_label": ""
   },
   {
-   "name": "Pharmacie Hôpital Mohammed V",
-   "address": "34 lotiss. Ismailia 8, Meknès",
-   "phone": "+212535524981",
-   "lat": 33.904364,
-   "lng": -5.541906,
-   "shift": "jour",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie Riad Ouislane",
-   "address": "5 hay Ouislane programme Jaber, Meknès",
-   "phone": "+212535549928",
-   "lat": 33.905201,
-   "lng": -5.480521,
-   "shift": "jour",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie Route Sefita",
-   "address": "Meknès",
-   "phone": "+212535469271",
-   "lat": 33.872279,
-   "lng": -5.575502,
+   "name": "Pharmacie Al Massira",
+   "address": "5 bd Khalid Bnou Loualid hay Al Massira, Meknès",
+   "phone": "+212535517474",
+   "lat": 33.900583,
+   "lng": -5.515317,
    "shift": "jour",
    "shift_label": ""
   }
  ],
  "center": [
-  33.8932,
-  -5.5328
+  33.8965,
+  -5.5382
  ]
 }

@@ -7,17 +7,26 @@
  "kind": "roster",
  "pharmacies": [
   {
-   "name": "Pharmacie Bab Ennakhil",
-   "address": "33 lotiss. Annakhil - Autre ville, Ben Guerir",
-   "phone": "+212709606220",
-   "lat": 32.23346,
-   "lng": -7.93557,
-   "shift": "nuit",
+   "name": "Grande Pharmacie (Al Koubra)",
+   "address": "38 Douar Jdid - Autre ville, Ben Guerir",
+   "phone": "+212524323613",
+   "lat": 32.246639,
+   "lng": -7.95491,
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie Annakhil",
+   "address": "80 rte de Kalâa Sraghna lotiss Annakhil, Ben Guerir",
+   "phone": "+212703184700",
+   "lat": 32.23699,
+   "lng": -7.89688,
+   "shift": "jour",
    "shift_label": ""
   }
  ],
  "center": [
-  32.2335,
-  -7.9356
+  32.2418,
+  -7.9259
  ]
 }

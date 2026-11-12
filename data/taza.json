@@ -1,23 +1,32 @@
 {
  "city": "taza",
  "label": "Taza",
- "date": "2026-11-11",
+ "date": "2026-11-12",
  "source": "sahha.ma",
  "source_url": "https://sahha.ma/pharmacie-de-garde/taza",
  "kind": "roster",
  "pharmacies": [
   {
-   "name": "Pharmacie de la Victoire",
-   "address": "place Zerktouni, Taza",
-   "phone": "+212535673459",
-   "lat": 34.22095,
-   "lng": -4.006483,
-   "shift": "nuit",
+   "name": "Pharmacie Bit Ghoulam",
+   "address": "12 bd Beni Merine Bit Ghoulam, Taza",
+   "phone": "+212535673128",
+   "lat": 34.224667,
+   "lng": -4.0023,
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie ElAlaouiyine",
+   "address": "hay ElAlaouiyine n°45, Taza",
+   "phone": "+212535282973",
+   "lat": 34.228817,
+   "lng": -4.013933,
+   "shift": "jour",
    "shift_label": ""
   }
  ],
  "center": [
-  34.221,
-  -4.0065
+  34.2267,
+  -4.0081
  ]
 }

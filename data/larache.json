@@ -1,23 +1,32 @@
 {
  "city": "larache",
  "label": "Larache",
- "date": "2026-11-11",
+ "date": "2026-11-12",
  "source": "sahha.ma",
  "source_url": "https://sahha.ma/pharmacie-de-garde/larache",
  "kind": "roster",
  "pharmacies": [
   {
-   "name": "Pharmacie Alkawtar",
-   "address": "56 av. Abderrahman ElGhafiki, Larache",
+   "name": "PHARMACIE ALKAWTAR",
+   "address": "56 av. Abderrahman ElGhafiki Appeler 05 39 91 •• •• Itinéraire Carte Partager Voir la fiche",
    "phone": "+212539916006",
-   "lat": 35.185554,
-   "lng": -6.144939,
+   "lat": 35.1855537,
+   "lng": -6.1449387,
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie Ibn Khaldoun",
+   "address": "49 bd Mohamed Ben Abdellah, Larache",
+   "phone": "+212539914531",
+   "lat": 35.191333,
+   "lng": -6.154283,
    "shift": "jour",
    "shift_label": ""
   }
  ],
  "center": [
-  35.1856,
-  -6.1449
+  35.1884,
+  -6.1496
  ]
 }

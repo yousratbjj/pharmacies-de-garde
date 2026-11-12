@@ -1,7 +1,7 @@
 {
  "city": "tahla",
  "label": "Tahla",
- "date": "2026-11-11",
+ "date": "2026-11-12",
  "source": "sahha.ma",
  "source_url": "https://sahha.ma/pharmacie-de-garde/tahla",
  "kind": "roster",
@@ -14,10 +14,55 @@
    "lng": -4.42553,
    "shift": "",
    "shift_label": ""
+  },
+  {
+   "name": "Pharmacie Bnisraj",
+   "address": "av La Résistance, Tahla",
+   "phone": "+212535678833",
+   "lat": 34.050103,
+   "lng": -4.420028,
+   "shift": "",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie Chifaa",
+   "address": "77 bd Annasr, Tahla",
+   "phone": "+212535679689",
+   "lat": 34.051102,
+   "lng": -4.424827,
+   "shift": "",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie Ennacer",
+   "address": "Pharmacie Ennacer, av Ennacer",
+   "phone": "+212535678951",
+   "lat": 34.0542897,
+   "lng": -4.4259259,
+   "shift": "",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie Idil",
+   "address": "Pharmacie Idil, 74, av. des Far",
+   "phone": "+212535679222",
+   "lat": 34.0461998,
+   "lng": -4.42379,
+   "shift": "",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie Zohra",
+   "address": "av Moukaouama, Tahla",
+   "phone": "+212535678088",
+   "lat": 34.041867,
+   "lng": -4.4168,
+   "shift": "",
+   "shift_label": ""
   }
  ],
  "center": [
-  34.0498,
-  -4.4255
+  34.0489,
+  -4.4228
  ]
 }

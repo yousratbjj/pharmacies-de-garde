@@ -1,23 +1,32 @@
 {
  "city": "taourirt",
  "label": "Taourirt",
- "date": "2026-11-11",
+ "date": "2026-11-12",
  "source": "sahha.ma",
  "source_url": "https://sahha.ma/pharmacie-de-garde/taourirt",
  "kind": "roster",
  "pharmacies": [
   {
-   "name": "Pharmacie Karama",
-   "address": "1644 rue Tendrara hay Takaddoum, Taourirt",
+   "name": "PHARMACIE KARAMA",
+   "address": "1644, rue Tendrara , hay Takaddoum",
    "phone": "+212536679278",
-   "lat": 34.398797,
-   "lng": -2.905219,
-   "shift": "nuit",
+   "lat": 34.4088996,
+   "lng": -2.8876547,
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie Saada",
+   "address": "420 rue sidi Ifni hay Takaddoum, Taourirt",
+   "phone": "+212536698781",
+   "lat": 34.402289,
+   "lng": -2.900938,
+   "shift": "jour",
    "shift_label": ""
   }
  ],
  "center": [
-  34.3988,
-  -2.9052
+  34.4056,
+  -2.8943
  ]
 }

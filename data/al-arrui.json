@@ -1,23 +1,23 @@
 {
  "city": "al-arrui",
  "label": "Al Arrui",
- "date": "2026-11-11",
+ "date": "2026-11-12",
  "source": "sahha.ma",
  "source_url": "https://sahha.ma/pharmacie-de-garde/al-arrui",
  "kind": "roster",
  "pharmacies": [
   {
-   "name": "Pharmacie Zaidi",
-   "address": "av. Hassan II hay ElFarah, Al Arrui",
-   "phone": "+212550091758",
-   "lat": 35.002375,
-   "lng": -3.033163,
+   "name": "Pharmacie ElKhamrichi",
+   "address": "bd Oued Eddahab, Al Arrui",
+   "phone": "+212536362737",
+   "lat": 35.012,
+   "lng": -3.01338,
    "shift": "jour",
    "shift_label": ""
   }
  ],
  "center": [
-  35.0024,
-  -3.0332
+  35.012,
+  -3.0134
  ]
 }

@@ -7,48 +7,66 @@
  "kind": "roster",
  "pharmacies": [
   {
-   "name": "Pharmacie Ibn Al Baytar",
-   "address": "128 lotiss. RIad Sala Sidi Brahim Boulaajoul, Salé",
-   "phone": "+212641027703",
-   "lat": 34.071336,
-   "lng": -6.744381,
-   "shift": "nuit",
+   "name": "Pharmacie AlAraf",
+   "address": "26 X rue El Fadl hay Chfaa, Salé",
+   "phone": "+212537808724",
+   "lat": 34.03664,
+   "lng": -6.797695,
+   "shift": "jour",
    "shift_label": ""
   },
   {
-   "name": "PHARMACIE AL ABRIDI",
-   "address": "Rés. Dalal, Imb 4 Mag 12 Ouled Hlal Hssain",
-   "phone": "+212537831886",
-   "lat": 34.0031947,
-   "lng": -6.7467236,
-   "shift": "nuit",
+   "name": "Pharmacie Bayt Al Mostakbal 2",
+   "address": "Projet Bayt Al Mostakbal 2 Imm. A5 mag. Douar Mika Tribu Ameur - Laayayda°1, Salé",
+   "phone": "+212537875287",
+   "lat": 34.084007,
+   "lng": -6.771265,
+   "shift": "jour",
    "shift_label": ""
   },
   {
-   "name": "Pharmacie AlIjtihad",
-   "address": "504 rue Al Ijtihad sect. Nahda Laayayda, Salé",
-   "phone": "+212537875174",
-   "lat": 34.068663,
-   "lng": -6.763703,
-   "shift": "nuit",
+   "name": "Pharmacie Dar Al Bahr",
+   "address": "bd Al Mouhit - Autre ville imm 2 mag. n:c11 résid. dar Al Bahr bloc H, Salé",
+   "phone": "+212537888782",
+   "lat": 34.087056,
+   "lng": -6.785639,
+   "shift": "jour",
    "shift_label": ""
   },
   {
-   "name": "Pharmacie AlManara",
-   "address": "501 bd de la Base Aérienne hay inbiaât, Salé",
-   "phone": "+212537802963",
-   "lat": 34.053486,
-   "lng": -6.773362,
-   "shift": "nuit",
+   "name": "Pharmacie ElMamounia",
+   "address": "11 hay Mamounia Tabriquet, Salé",
+   "phone": "+212537864757",
+   "lat": 34.049737,
+   "lng": -6.799299,
+   "shift": "jour",
    "shift_label": ""
   },
   {
-   "name": "Pharmacie Annour",
-   "address": "126 bd Ibn El Haytem hay Inbiât, Salé",
-   "phone": "+212537800517",
-   "lat": 34.055086,
-   "lng": -6.779145,
-   "shift": "nuit",
+   "name": "Pharmacie Hamza",
+   "address": "hay Errahma sect. E n°526, Salé",
+   "phone": "+212537873134",
+   "lat": 34.064686,
+   "lng": -6.783527,
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie AlHikma",
+   "address": "29 rue Ejjdiria hay Inbiat, Salé",
+   "phone": "+212537813287",
+   "lat": 34.049617,
+   "lng": -6.779552,
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie Arsat Salé",
+   "address": "471 Arsat Salé rte de Kénitra, Salé",
+   "phone": "+212537878829",
+   "lat": 34.07142,
+   "lng": -6.79773,
+   "shift": "jour",
    "shift_label": ""
   },
   {
@@ -57,39 +75,12 @@
    "phone": "+212537851291",
    "lat": 34.048433,
    "lng": -6.805617,
-   "shift": "nuit",
-   "shift_label": ""
-  },
-  {
-   "name": "PHARMACIE IBN SINA",
-   "address": "24 av sidi mohamed rue ain assaa n°1hay el farah  · El Karia Et My Ismail Appeler 05 37 82 •• •• Itinéraire Carte Partager Voir la fiche",
-   "phone": "+212537828223",
-   "lat": 33.9962816,
-   "lng": -6.8481761,
-   "shift": "nuit",
-   "shift_label": ""
-  },
-  {
-   "name": "PHARMACIE ILHAM",
-   "address": "24 hay arrahma seteur e n°1789 (prés de la salle cheradi) · Hay Arrahma Appeler 05 37 87 •• •• Itinéraire Carte Partager Voir la fiche",
-   "phone": "+212537873236",
-   "lat": 34.071921,
-   "lng": -6.7856562,
-   "shift": "nuit",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie Koutoubia",
-   "address": "41 rte de Mehdia lotiss. Koutoubia II n°1, Salé",
-   "phone": "+212537784633",
-   "lat": 34.062873,
-   "lng": -6.807902,
-   "shift": "nuit",
+   "shift": "jour",
    "shift_label": ""
   }
  ],
  "center": [
-  34.0479,
-  -6.7839
+  34.0614,
+  -6.79
  ]
 }
