@@ -14,19 +14,10 @@
    "lng": -6.564079,
    "shift": "jour",
    "shift_label": ""
-  },
-  {
-   "name": "TOURABI",
-   "address": "le vallon, Lot numéro 713 lotissementلو فالون، تجزئة رقم 713",
-   "phone": "",
-   "lat": 34.2621832,
-   "lng": -6.6020412,
-   "shift": "jour",
-   "shift_label": ""
   }
  ],
  "center": [
-  34.265,
-  -6.5831
+  34.2679,
+  -6.5641
  ]
 }

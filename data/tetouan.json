@@ -7,26 +7,26 @@
  "kind": "roster",
  "pharmacies": [
   {
-   "name": "MESTASSI",
-   "address": "Rue Sebta, MHannech II, Tranche IIشارع سبتة رقم 128 المحنش الثاني أمام كلية العلوم",
-   "phone": "+212539999149",
-   "lat": 35.5627833,
-   "lng": -5.3622167,
-   "shift": "jour",
+   "name": "Pharmacie Al Qods",
+   "address": "1 rue Moritania, Tétouan",
+   "phone": "+212539700309",
+   "lat": 35.57295,
+   "lng": -5.379367,
+   "shift": "nuit",
    "shift_label": ""
   },
   {
-   "name": "RIF",
-   "address": "244 avenue. des f.a.r près de clinique rifشارع الجيش الملكي. رقم 244 قرب مصحة الريف",
-   "phone": "+212539993331",
-   "lat": 35.5870167,
-   "lng": -5.3469667,
-   "shift": "jour",
+   "name": "Pharmacie River",
+   "address": "29 bd Neuf Avril - Autre ville, Tétouan",
+   "phone": "+212539725560",
+   "lat": 35.565591,
+   "lng": -5.351798,
+   "shift": "nuit",
    "shift_label": ""
   }
  ],
  "center": [
-  35.5749,
-  -5.3546
+  35.5693,
+  -5.3656
  ]
 }

@@ -7,35 +7,26 @@
  "kind": "roster",
  "pharmacies": [
   {
-   "name": "Pharmacie Mhirez",
-   "address": "lotiss. Essalam n°32 Mhirez, Séfrou",
-   "phone": "+212535682650",
-   "lat": 33.829498,
-   "lng": -4.836013,
-   "shift": "jour",
+   "name": "Pharmacie Boudarham 2",
+   "address": "Rte Al Manzel n°558 hay Boudarham, Séfrou",
+   "phone": "+212535682479",
+   "lat": 33.828299,
+   "lng": -4.83424,
+   "shift": "nuit",
    "shift_label": ""
   },
   {
-   "name": "Pharmacie Principale Ain Cheggag",
-   "address": "centre Ain Cheggag, Séfrou",
-   "phone": "+212535665118",
-   "lat": 33.884887,
-   "lng": -5.039679,
-   "shift": "jour",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie Zghari",
-   "address": "12 x bd Hassan II lot Karim hay Ennasr, Séfrou",
-   "phone": "+212659797970",
-   "lat": 33.820472,
-   "lng": -4.826171,
-   "shift": "jour",
+   "name": "Pharmacie Route de Boulmane",
+   "address": "72 lotiss. Moulay Ismail, Séfrou",
+   "phone": "+212611262805",
+   "lat": 33.807883,
+   "lng": -4.830683,
+   "shift": "nuit",
    "shift_label": ""
   }
  ],
  "center": [
-  33.845,
-  -4.9006
+  33.8181,
+  -4.8325
  ]
 }

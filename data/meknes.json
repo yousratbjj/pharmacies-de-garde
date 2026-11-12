@@ -16,20 +16,47 @@
    "shift_label": ""
   },
   {
-   "name": "Pharmacie Mechouar",
-   "address": "1, derb Sakka , kasbat Hadrache",
-   "phone": "+212535460391",
-   "lat": 33.882353,
-   "lng": -5.568911,
+   "name": "Pharmacie AlMajd",
+   "address": "228 hay Ouislane lot AlYassmine 2, Meknès",
+   "phone": "+212535549469",
+   "lat": 33.91709,
+   "lng": -5.492845,
    "shift": "jour",
    "shift_label": ""
   },
   {
-   "name": "Pharmacie Riad Al Ismailia",
-   "address": "Meknès",
-   "phone": "+212667939013",
-   "lat": 33.85666,
-   "lng": -5.56668,
+   "name": "pharmacie Essaadiyine",
+   "address": "12 bd Zitoune - Autre ville resid Bel Koura Nouria, Meknès",
+   "phone": "+212535505468",
+   "lat": 33.892328,
+   "lng": -5.53477,
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie Hamria",
+   "address": "14 rue Ferhat Hachad, Meknès",
+   "phone": "+212535401608",
+   "lat": 33.90015,
+   "lng": -5.555517,
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie Hôpital Mohammed V",
+   "address": "34 lotiss. Ismailia 8, Meknès",
+   "phone": "+212535524981",
+   "lat": 33.904364,
+   "lng": -5.541906,
+   "shift": "jour",
+   "shift_label": ""
+  },
+  {
+   "name": "Pharmacie Riad Ouislane",
+   "address": "5 hay Ouislane programme Jaber, Meknès",
+   "phone": "+212535549928",
+   "lat": 33.905201,
+   "lng": -5.480521,
    "shift": "jour",
    "shift_label": ""
   },
@@ -41,19 +68,10 @@
    "lng": -5.575502,
    "shift": "jour",
    "shift_label": ""
-  },
-  {
-   "name": "PHARMACIE AIN SLOUGUI",
-   "address": "lotiss. Al Bassatine Alem Extention 5 n°16 Meknès",
-   "phone": "+212535501541",
-   "lat": 33.8917207,
-   "lng": -5.5061904,
-   "shift": "jour",
-   "shift_label": ""
   }
  ],
  "center": [
-  33.8728,
-  -5.5532
+  33.8932,
+  -5.5328
  ]
 }

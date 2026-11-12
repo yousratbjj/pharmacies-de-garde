@@ -7,39 +7,39 @@
  "kind": "roster",
  "pharmacies": [
   {
-   "name": "Pharmacie de Palma",
-   "address": "1 av. Moulay Abdellah résid. Chems, El Harhoura",
-   "phone": "+212537747006",
-   "lat": 33.934388,
-   "lng": -6.943994,
-   "shift": "jour",
-   "shift_label": ""
-  },
-  {
-   "name": "PHARMACIE GRANADA",
-   "address": "Secteur 3, Lot 109, Oulad Mataâ",
-   "phone": "+212537601353",
-   "lat": 33.938591,
-   "lng": -6.8953261,
-   "shift": "jour",
-   "shift_label": ""
-  },
-  {
    "name": "Pharmacie Internationale",
    "address": "31 lotiss. Wifaq II, Témara",
    "phone": "+212716700989",
    "lat": 33.92195,
    "lng": -6.93915,
-   "shift": "jour",
+   "shift": "nuit",
    "shift_label": ""
   },
   {
-   "name": "PHARMACIE SOUSSAN",
-   "address": "Bd Abdallah Ben Yacine , résid. Al Omran la Vigne, tranche 3, imm. 16 mag. C1",
-   "phone": "+212537619055",
-   "lat": 33.8335635,
-   "lng": -6.9238843,
-   "shift": "jour",
+   "name": "Pharmacie Miramar",
+   "address": "257 X av. prince Mly Abdellah, El Harhoura",
+   "phone": "+212537747223",
+   "lat": 33.941636,
+   "lng": -6.929386,
+   "shift": "nuit",
+   "shift_label": ""
+  },
+  {
+   "name": "PHARMACIE DE PALMA",
+   "address": "Résidence Shem’s Av Prince Moulay Abdellah, En face de Chez Paul (Sur rond point des gendarmes)",
+   "phone": "+212537747006",
+   "lat": 33.9343249,
+   "lng": -6.9439729,
+   "shift": "nuit",
+   "shift_label": ""
+  },
+  {
+   "name": "PHARMACIE EL GUICH",
+   "address": "N°38 Centre Commercial El Guich Oudayas",
+   "phone": "+212537561821",
+   "lat": 33.9389333,
+   "lng": -6.8866628,
+   "shift": "nuit",
    "shift_label": ""
   },
   {
@@ -48,7 +48,7 @@
    "phone": "+212537600043",
    "lat": 33.927844,
    "lng": -6.903165,
-   "shift": "jour",
+   "shift": "nuit",
    "shift_label": ""
   },
   {
@@ -57,16 +57,7 @@
    "phone": "+212537622291",
    "lat": 33.895935,
    "lng": -6.935582,
-   "shift": "jour",
-   "shift_label": ""
-  },
-  {
-   "name": "Pharmacie MIRAMAR",
-   "address": "Harhoura, Témara",
-   "phone": "+212537744445",
-   "lat": 33.9436808,
-   "lng": -6.9340169,
-   "shift": "jour",
+   "shift": "nuit",
    "shift_label": ""
   },
   {
@@ -75,12 +66,12 @@
    "phone": "+212537749494",
    "lat": 33.904887,
    "lng": -6.989039,
-   "shift": "jour",
+   "shift": "nuit",
    "shift_label": ""
   }
  ],
  "center": [
-  33.9126,
-  -6.933
+  33.9236,
+  -6.9324
  ]
 }
